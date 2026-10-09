@@ -1,0 +1,1260 @@
+
+
+===== PAGE 1/22 =====
+
+ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (UE) 2026/1030
+z dnia 29 kwietnia 2026 r.
+w sprawie rozliczania emisji gazów cieplarnianych z usług transportowych
+(Tekst mający znaczenie dla EOG)
+PARLAMENT EUROPEJSKI I RADA UNII EUROPEJSKIEJ,
+uwzględniając Traktat o funkcjonowaniu Unii Europejskiej, w szczególności jego art. 91 ust. 1 i art. 100 ust. 2,
+uwzględniając wniosek Komisji Europejskiej,
+po przekazaniu projektu aktu ustawodawczego parlamentom narodowym,
+uwzględniając opinię Europejskiego Komitetu Ekonomiczno-Społecznego (1),
+uwzględniając opinię Komitetu Regionów (2),
+stanowiąc zgodnie ze zwykłą procedurą ustawodawczą (3),
+a także mając na uwadze, co następuje:
+(1)
+Wspieranie starań na rzecz większej zrównoważoności i efektywności unijnego systemu transportowego jest 
+warunkiem wstępnym utrzymania stabilnej ścieżki prowadzącej do osiągnięcia neutralności klimatycznej najpóźniej 
+do 2050 r., przy jednoczesnym należytym uwzględnianiu potrzeby zapewnienia sprawiedliwej i sprzyjającej 
+włączeniu społecznemu transformacji, utrzymania stałego wzrostu i poprawy konkurencyjności przemysłu 
+europejskiego.
+(2)
+Rozliczanie emisji gazów cieplarnianych jest stosowane w różnych sektorach gospodarki, w tym w transporcie, 
+w celu ilościowego określenia danych dotyczących emisji gazów cieplarnianych pochodzących z konkretnych 
+rodzajów działalności podmiotów publicznych, przedsiębiorstw i konsumentów. Lepsze informowanie na temat 
+wyników usług transportowych jest skutecznym narzędziem tworzenia odpowiednich zachęt dla użytkowników 
+transportu do dokonywania bardziej zrównoważonych wyborów, wpływania na decyzje biznesowe przewoźników, 
+organizatorów usług transportowych i operatorów węzłów transportowych, a także obniżenia emisji gazów 
+cieplarnianych przez podmioty realizujące umowy w sprawie zamówień publicznych. Porównywalne i wiarygodne 
+dane dotyczące emisji gazów cieplarnianych są podstawowym wymogiem tworzenia tych zachęt, a tym samym 
+zachęcania podmiotów publicznych, jak i przedsiębiorstw oraz konsumentów do zmiany zachowań, w celu 
+przyczyniania się do realizacji celów określonych w komunikacie Komisji z dnia 11 grudnia 2019 r. pt. „Europejski 
+Zielony Ład” w odniesieniu do transportu oraz w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 
+2021/1119 (4). Rozporządzenie to wpisuje się w działania podejmowane przez Unię na rzecz zielonej transformacji 
+wraz z innymi unijnymi aktami prawnymi lub inicjatywami, w tym dyrektywą Parlamentu Europejskiego i Rady (UE) 
+2024/825 (5).
+Dziennik Urzędowy 
+Unii Europejskiej
+PL 
+Seria L
+2026/1030
+12.5.2026
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+1/22
+(1)1)
+Dz.U. C, C/2024/890, 6.2.2024, ELI: http://data.europa.eu/eli/C/2024/890/oj.
+(2)2)
+Dz.U. C, C/2024/1982, 18.3.2024, ELI: http://data.europa.eu/eli/C/2024/1982/oj.
+(3)3)
+Stanowisko Parlamentu Europejskiego z dnia 10 kwietnia 2024 r. (Dz.U. C, C/2025/1313, 13.3.2025, ELI: http://data.europa.eu/eli/ 
+C/2025/1313/oj) oraz stanowisko Rady w pierwszym czytaniu z dnia 26 lutego 2026 r. (Dz.U. C, C/2026/2277, 17.4.2026, 
+ELI: http://data.europa.eu/eli/C/2026/2277/oj). Stanowisko Parlamentu Europejskiego z dnia 28 kwietnia 2026 r. (dotychczas 
+nieopublikowane w Dzienniku Urzędowym)].
+(4)4)
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/1119 z dnia 30 czerwca 2021 r. w sprawie ustanowienia ram na 
+potrzeby osiągnięcia neutralności klimatycznej i zmiany rozporządzeń (WE) nr 401/2009 i (UE) 2018/1999 (Europejskie prawo 
+o klimacie) (Dz.U. L 243 z 9.7.2021, s. 1, ELI: http://data.europa.eu/eli/reg/2021/1119/oj).
+(5)5)
+Dyrektywa Parlamentu Europejskiego i Rady (UE) 2024/825 z dnia 28 lutego 2024 r. w sprawie zmiany dyrektyw 2005/29/WE 
+i 2011/83/UE w odniesieniu do wzmocnienia pozycji konsumentów w procesie transformacji ekologicznej poprzez lepszą ochronę 
+przed nieuczciwymi praktykami oraz lepsze informowanie (Dz.U. L, 2024/825, 6.3.2024, ELI: http://data.europa.eu/eli/dir/2024/ 
+825/oj).
+
+
+===== PAGE 2/22 =====
+
+(3)
+Pomimo rosnącego zainteresowania stron z sektora transportowego ogólny poziom upowszechnienia rozliczania 
+emisji gazów cieplarnianych z usług transportowych jest nadal ograniczony. W większości przypadków 
+użytkownicy transportu nie uzyskują dokładnych informacji na temat wyników usług transportowych, 
+a przewoźnicy, organizatorzy usług transportowych i operatorzy węzłów transportowych nie obliczają i nie 
+ujawniają swoich emisji. Nieproporcjonalnie niskie stosowanie rozliczania emisji gazów cieplarnianych obserwuje 
+się szczególnie wśród mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw (MŚP), które stanowią 
+zdecydowaną większość przedsiębiorstw oferujących usługi transportowe na rynku wewnętrznym. W istocie MŚP 
+borykają się z nieproporcjonalnie większymi obciążeniami finansowymi i administracyjnymi, kiedy decydują się na 
+obliczanie emisji gazów cieplarnianych z oferowanych przez siebie usług transportowych.
+(4)
+W białej księdze z dnia 28 marca 2011 r. pt. „Plan utworzenia jednolitego europejskiego obszaru transportu – 
+dążenie do osiągnięcia konkurencyjnego i zasobooszczędnego systemu transportu” Komisja przedstawiła wizję 
+przyszłości systemu transportowego Unii i określiła program polityczny mający na celu sprostanie przyszłym 
+wyzwaniom w dziedzinie transportu, w szczególności potrzebie utrzymania i rozwoju mobilności oraz znacznego 
+zmniejszenia emisji gazów cieplarnianych z operacji transportowych i logistycznych.
+(5)
+W komunikacie z dnia 9 grudnia 2020 r. pt. „Strategia na rzecz zrównoważonej i inteligentnej mobilności – 
+europejski transport na drodze ku przyszłości” Komisja zwraca uwagę na zachęty do wyboru najbardziej 
+zrównoważonych możliwości transportu w obrębie poszczególnych rodzajów transportu i między nimi. Zachęty te 
+obejmują ustanowienie europejskich ram zharmonizowanych pomiarów emisji gazów cieplarnianych w transporcie 
+i logistyce, z uwzględnieniem uznanych na świecie norm, które można by następnie wykorzystać w celu 
+przedstawienia przedsiębiorstwom i użytkownikom końcowym szacunków dotyczących śladu węglowego 
+wynikającego z ich wyborów oraz zwiększenia popytu ze strony użytkowników końcowych i konsumentów na 
+bardziej zrównoważone rozwiązania w zakresie transportu i mobilności, przy jednoczesnym unikaniu 
+pseudoekologicznego marketingu.
+(6)
+Gazy cieplarniane związane z transportem i logistyką są emitowane podczas pracy pojazdu, funkcjonowania 
+węzłów transportowych i logistycznych, produkcji odpowiednich nośników energii, produkcji pojazdów 
+i zakończenia ich eksploatacji oraz budowy i utrzymania infrastruktury transportowej.
+(7)
+Właściwe jest zatem ustanowienie zharmonizowanych przepisów dotyczących rozliczania emisji gazów 
+cieplarnianych z usług transportu towarowego i pasażerskiego, aby uzyskać porównywalne dane dotyczące emisji 
+gazów cieplarnianych z usług transportowych oraz uniknąć wprowadzających w błąd informacji na temat wyników 
+tych usług, które to informacje byłyby efektem możliwości wyboru między różnymi metodami obliczania emisji 
+i danymi wejściowymi. Takie zharmonizowane przepisy powinny zapewniać równe warunki działania dla unijnych 
+podmiotów transportowych i podmiotów w węźle transportowym oraz takich podmiotów z państw trzecich, 
+i w odniesieniu do rodzajów transportu, segmentów transportu i krajowych sieci transportowych. Ustanowienie 
+zharmonizowanych przepisów, które zapewnią upowszechnienie i wykorzystywanie porównywalnych i wiarygod­
+nych danych dotyczących emisji gazów cieplarnianych z usług transportowych, powinno również pomóc tworzyć 
+zachęty dla organów publicznych, przedsiębiorstw i konsumentów do zmiany zachowań służącej ograniczeniu tych 
+emisji.
+(8)
+Niniejsze rozporządzenie powinno stanowić ramy odniesienia umożliwiające obliczanie i ujawnianie emisji gazów 
+cieplarnianych, na podstawie umowy lub dobrowolnie do celów komercyjnych, lub gdy takie obliczanie i ujawnianie 
+są wymagane zgodnie z mającym zastosowanie prawem unijnym lub krajowym. Ramy te powinny ułatwiać 
+stosowanie innych środków redukcji emisji, które mogą być dalej wprowadzane przez organy publiczne i przemysł, 
+w tym przykładowo ustanawiania w umowach przewozu klauzul przejrzystości dotyczących emisji gazów 
+cieplarnianych, dostarczania pasażerom lub klientom informacji na temat emisji gazów cieplarnianych z usług 
+transportowych lub ustalania związanych z klimatem kryteriów dotyczących zielonych zamówień publicznych.
+(9)
+Pomimo korzyści wynikających ze zwiększonej przejrzystości w zakresie wyników usług transportowych 
+obowiązkowe stosowanie niniejszego rozporządzenia wobec wszystkich podmiotów transportowych i podmiotów 
+w węźle transportowym oferujących usługi transportowe na rynku wewnętrznym byłoby nieproporcjonalne 
+i prowadziłoby do nadmiernych kosztów i obciążeń. W związku z tym niniejsze rozporządzenie powinno mieć 
+zastosowanie wyłącznie do tych podmiotów, które decydują się na obliczanie emisji gazów cieplarnianych z usług 
+transportu towarowego lub pasażerskiego rozpoczynających lub kończących się na terytorium Unii i na ujawnianie 
+informacji na temat tych emisji lub podmiotów, które są do tego zobowiązane na mocy innych odpowiednich 
+uregulowań ustawodawczych i nieustawodawczych. W konsekwencji obejmuje to usługi, których punkty 
+początkowe lub docelowe znajdują się w państwie trzecim. By zapewnić uwzględnienie wszystkich odpowiednich 
+usług transportowych oraz zagwarantować równe warunki działania dla unijnych podmiotów transportowych 
+i podmiotów w węźle transportowym oraz takich podmiotów z państw trzecich, niniejsze rozporządzenie powinno 
+mieć zastosowanie do usług transportowych rozpoczynających się i kończących się poza terytorium Unii, ale 
+obejmujących przystanek w Unii w celu zabrania lub wysadzenia pasażerów lub w celu załadunku lub rozładunku 
+towarów.
+PL
+Dz.U. L z 12.5.2026
+2/22
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+
+
+===== PAGE 3/22 =====
+
+(10)
+Niniejsze rozporządzenie powinno mieć zastosowanie do podmiotów obliczających i ujawniających emisje gazów 
+cieplarnianych z usług transportowych, w szczególności do przewoźników, organizatorów usług transportowych 
+i operatorów węzłów transportowych, a także do nadawców reprezentujących szczególną kategorię użytkowników 
+transportu, którzy zamawiają usługi transportowe w celu przemieszczenia ładunku do lub z wyznaczonej lokalizacji 
+i którzy w zależności od sytuacji mogą również pełnić rolę przewoźnika, organizatora usług transportowych lub 
+pośrednika w zakresie danych. Podmioty tworzące zewnętrzne narzędzia obliczeniowe, podmioty tworzące bazy 
+danych prowadzone przez podmioty trzecie oraz jednostki oceniające zgodność, które świadczą usługi wsparcia 
+w zakresie obliczania lub weryfikacji danych dotyczących emisji gazów cieplarnianych z usług transportowych, 
+powinny być związane szczegółowymi przepisami dotyczącymi – odpowiednio – certyfikacji zewnętrznych 
+narzędzi obliczeniowych, technicznej kontroli jakości standardowych wartości intensywności emisji gazów 
+cieplarnianych oraz działań weryfikacyjnych i procedur akredytacji. Niniejsze rozporządzenie powinno mieć 
+również zastosowanie do tych pośredników w zakresie danych, którzy obliczają emisje gazów cieplarnianych z usług 
+transportowych i ujawniają informacje na temat tych emisji. W przypadkach gdy pośrednicy w zakresie danych 
+jedynie uzyskują lub łączą dane wyjściowe dotyczące emisji gazów cieplarnianych, a następnie ujawniają takie dane 
+wyjściowe, powinny ich dotyczyć jedynie odpowiednie przepisy dotyczące komunikacji i przejrzystości w zakresie 
+ujawnianych danych dotyczących emisji gazów cieplarnianych, aby zapewnić porównywalność tych danych 
+wyjściowych na rynku.
+(11)
+Obliczanie i ujawnianie emisji gazów cieplarnianych na podstawie niniejszego rozporządzenia powinno odbywać się 
+w sposób zdezagregowany, na poziomie usług transportowych, zgodnie z metodyką obliczania emisji gazów 
+cieplarnianych z usług transportowych, o której mowa w niniejszym rozporządzeniu. Niniejsze rozporządzenie nie 
+powinno więc mieć zastosowania, w przypadku gdy obliczanie i ujawnianie emisji gazów cieplarnianych odbywa się 
+w formie zagregowanej. Obejmuje to sytuacje, w których obowiązkowe ujawnianie informacji związanych ze 
+środowiskiem na potrzeby sprawozdawczości w zakresie zrównoważonego rozwoju oraz ustanowienie rachunków 
+środowiska do celów statystycznych wynika z innych unijnych aktów prawnych, jak jest to przykładowo wymagane 
+na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 691/2011 (6) oraz dyrektywy Parlamentu 
+Europejskiego i Rady (UE) 2022/2464 (7). Możliwe powinno być natomiast wykorzystanie informacji uzyskanych na 
+podstawie niniejszego rozporządzenia do wnoszenia wkładu w opracowywanie skonsolidowanych sprawozdań na 
+temat emisji wymaganych na podstawie innych mających zastosowanie przepisów prawa Unii, pod warunkiem że 
+odnośne metodyki i gromadzone dane będą wystarczająco zgodne.
+(12)
+Właściwa metodyka obliczania emisji gazów cieplarnianych z usług transportowych jest jednym z kluczowych 
+aspektów zharmonizowanych ram unijnych określonych w niniejszym rozporządzeniu. Metodyka ta powinna 
+zapewniać, aby obliczenia emisji przeprowadzane w całym łańcuchu transportowym dostarczały porównywalnych 
+i dokładnych danych dotyczących emisji gazów cieplarnianych dzięki zastosowaniu pojedynczego zestawu etapów 
+metodologicznych. Powinna ona również odpowiednio uwzględniać potrzeby rynku transportowego, aby uniknąć 
+niepotrzebnej złożoności, nadmiernego obciążenia i kosztów, zwłaszcza dla MŚP, oraz powinna być możliwa do 
+stosowania w praktyce przez zainteresowane strony.
+(13)
+Wspólną metodyką obliczania emisji gazów cieplarnianych z usług transportowych na podstawie niniejszego 
+rozporządzenia powinna być norma EN ISO 14083:2023 – Gazy cieplarniane – Kwantyfikacja i raportowanie emisji 
+gazów cieplarnianych powstających w wyniku operacji w łańcuchach transportowych (zwana dalej „normą EN ISO”), 
+opublikowana przez Europejski Komitet Normalizacyjny w kwietniu 2023 r., dokonująca transpozycji normy EN 
+ISO. Promowanie jej stosowania w Unii sprzyja międzynarodowej zgodności rozliczania emisji gazów 
+cieplarnianych i ułatwia dalsze globalne zbliżanie stosowanej metodyki. Z analizy przeprowadzonej przez Komisję 
+wynika, że norma EN ISO jest najodpowiedniejszą i najbardziej proporcjonalną normą dla realizacji celów 
+niniejszego rozporządzenia, w tym większego upowszechnienia na rynku i porównywalności danych dotyczących 
+emisji gazów cieplarnianych. Obliczanie emisji gazów cieplarnianych przeprowadza się na zasadzie „od źródła 
+energii do koła pojazdu”, co obejmuje emisje gazów cieplarnianych wynikające z dostarczania energii i eksploatacji 
+pojazdów podczas operacji transportowych i operacji w węźle transportowym.
+(14)
+Komisja we współpracy z Europejskim Komitetem Normalizacyjnym oraz krajowymi jednostkami normalizacyj­
+nymi państw członkowskich jest zobowiązana do zapewnienia pełnego dostępu do niniejszego rozporządzenia.
+Dz.U. L z 12.5.2026
+PL
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+3/22
+(6)6)
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 691/2011 z dnia 6 lipca 2011 r. w sprawie europejskich rachunków 
+ekonomicznych środowiska (Dz.U. L 192 z 22.7.2011, s. 1, ELI: http://data.europa.eu/eli/reg/2011/691/oj).
+(7)7)
+Dyrektywa Parlamentu Europejskiego i Rady (UE) 2022/2464 z dnia 14 grudnia 2022 r. w sprawie zmiany rozporządzenia (UE) 
+nr 537/2014, dyrektywy 2004/109/WE, dyrektywy 2006/43/WE oraz dyrektywy 2013/34/UE w odniesieniu do sprawozdawczości 
+przedsiębiorstw w zakresie zrównoważonego rozwoju (Dz.U. L 322 z 16.12.2022, s. 15, ELI: http://data.europa.eu/eli/dir/2022/ 
+2464/oj).
+
+
+===== PAGE 4/22 =====
+
+(15)
+Ogólnie uznaje się, że emisje w całym cyklu życia obejmują emisje gazów cieplarnianych „od źródła energii do koła 
+pojazdu” oraz emisje związane z produkcją i konserwacją pojazdów oraz wycofywaniem ich z eksploatacji, 
+a w stosownych przypadkach także emisje związane z infrastrukturą transportową, jak określono w zaleceniu 
+Komisji (UE) 2021/2279 (8). Ocena cyklu życia może jednak prowadzić do wysokich kosztów wdrożenia 
+i konfrontować podmioty transportowe i podmioty w węźle transportowym z problemem złożoności rozliczania, 
+zwłaszcza w odniesieniu do emisji związanych z infrastrukturą transportową. Ze względu na proporcjonalność 
+i zakres stosowania niniejsze rozporządzenie nie powinno wymagać stosowania oceny cyklu życia bez 
+przeprowadzenia oceny przez Komisję. Ponadto, aby utrzymać na potrzeby niniejszego rozporządzenia odniesienia 
+do uznanych na świecie norm, w ocenie tej należy – w ramach prowadzonej przez Komisję oceny niniejszego 
+rozporządzenia – przedstawić sprawozdanie z postępów poczynionych na forum Międzynarodowej Organizacji 
+Normalizacyjnej.
+(16)
+Należy zwrócić uwagę na to, by nie odchodzić od wyborów metodologicznych dokonanych w normie EN ISO, tak 
+aby uniknąć niespójności w obliczaniu emisji gazów cieplarnianych z usług transportowych na rynku, zwłaszcza 
+w kontekście międzynarodowych łańcuchów transportowych. Właściwe jest jednak, aby Komisja oceniła potrzebę 
+ewentualnego dostosowania normy EN ISO z perspektywy unijnych polityk, w tym przyszłych przepisów. Jeśli 
+z oceny Komisji będzie wynikało, że zmiana normy lub jej elementu stwarza wyraźne ryzyko niezgodności z celami 
+niniejszego rozporządzenia lub innymi mającymi zastosowanie przepisami prawa unijnego, w szczególności 
+z rozporządzeniem (UE) 2021/1119, Komisja powinna przyjmować niezbędne akty delegowane w celu zakazania 
+stosowania danej zmiany. Jeżeli ta ocena wskazuje na istnienie ryzyka, że zmiana normy lub jej elementu może 
+tworzyć niepotrzebną nierównowagę w obliczaniu emisji gazów cieplarnianych z usług transportowych 
+w określonych segmentach rynku lub prowadzić do rozbieżności między tą normą a celami niniejszego 
+rozporządzenia lub celami innych mających zastosowanie przepisów prawa unijnego, Komisja powinna móc 
+przyjmować niezbędne akty wykonawcze, aby wystąpić do Europejskiego Komitetu Normalizacyjnego o dokonanie 
+odpowiedniego przeglądu danej normy.
+(17)
+Aby uniknąć obiegu niedokładnych informacji na rynku, konieczne może być doprecyzowanie wspólnej metodyki 
+w odniesieniu do parametrów istotnych pod względem emisji gazów cieplarnianych oraz uściślenie założeń 
+stosowanych do obliczania emisji gazów cieplarnianych przed wykonaniem usługi. To samo dotyczy innych 
+istotnych parametrów technicznych związanych z przydziałem emisji gazów cieplarnianych lub agregacją 
+elementów danych, w przypadku gdy stosowanie tych parametrów nie jest jednoznacznie wyjaśnione w tej 
+wspólnej metodyce.
+(18)
+Do obliczania emisji gazów cieplarnianych z usług transportowych można wykorzystywać różne rodzaje danych 
+wejściowych, w tym dane pierwotne i wtórne. Wykorzystanie danych pierwotnych prowadzi do najbardziej 
+wiarygodnych i dokładnych wyników, a zatem powinno być traktowane priorytetowo, aby doprowadzić do 
+stopniowego upowszechnienia stosowania tych danych pierwotnych w procesach obliczania emisji gazów 
+cieplarnianych. Dane pierwotne mogą być jednak nieosiągalne lub zbyt kosztowne dla niektórych zainteresowanych 
+stron, zwłaszcza MŚP. W związku z tym należy zezwolić, na jasnych warunkach, na wykorzystywanie danych 
+wtórnych. Aby jednak osiągnąć dokładniejsze rozliczanie emisji gazów cieplarnianych, państwo członkowskie 
+powinno mieć możliwość zdecydowania, że wykorzystanie danych pierwotnych będzie obowiązkowe w przypadku 
+operacji transportowych na jego terytorium realizowanych przez podmioty transportowe i podmioty w węźle 
+transportowym, których liczba pracowników przekracza określony próg ustanowiony w prawie krajowym, jeśli 
+usługa transportowa rozpoczyna się i kończy na jego terytorium. Aby nie utrudniać międzynarodowych usług 
+transportowych ani rozwoju MŚP, państwa członkowskie nie powinny stosować takiego wymogu do trans­
+granicznych operacji transportowych, w tym operacji transportowych z tranzytem przez ich terytorium, ani do MŚP.
+(19)
+Państwa członkowskie powinny mieć możliwość wprowadzania, bez uszczerbku dla zasad pomocy państwa, zachęt 
+o charakterze administracyjnym, finansowym lub operacyjnym w celu stymulowania wykorzystywania danych 
+pierwotnych.
+PL
+Dz.U. L z 12.5.2026
+4/22
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+(8)8)
+Zalecenie Komisji (UE) 2021/2279 z dnia 15 grudnia 2021 r. w sprawie stosowania metod oznaczania śladu środowiskowego do 
+pomiaru efektywności środowiskowej w cyklu życia produktów i organizacji oraz informowania o niej (Dz.U. L 471 z 30.12.2021, 
+s. 1, ELI: http://data.europa.eu/eli/reco/2021/2279/oj).
+
+
+===== PAGE 5/22 =====
+
+(20)
+Jeżeli chodzi o dane wtórne, emisje gazów cieplarnianych z usługi transportowej można obliczać przy użyciu 
+wartości standardowych lub danych modelowanych. Należy ustalić wartości standardowe, a dane modelowane 
+należy opracowywać i aktualizować w sposób neutralny i obiektywny, w oparciu o wiarygodne źródła i odpowiednie 
+parametry. Bazy danych nie powinny zawierać wartości standardowych, które prowadzą do strukturalnego 
+zaniżania powstałych emisji gazów cieplarnianych w porównaniu ze znanymi wartościami rzeczywistymi 
+porównywalnych usług. W takich przypadkach bazy danych prowadzone przez podmioty trzecie nie powinny 
+otrzymywać pozytywnej oceny w wyniku technicznej kontroli jakości.
+(21)
+Aby zwiększyć porównywalność uzyskanych w ramach stosowania niniejszego rozporządzenia danych dotyczących 
+emisji gazów cieplarnianych, należy ustanowić podstawową unijną bazę danych zawierającą standardowe wartości 
+intensywności emisji gazów cieplarnianych (zwaną dalej „podstawową unijną bazą danych”). Podstawowa unijna 
+baza danych powinna zapewniać wystarczającą szczegółowość i odzwierciedlać specyfikę sektorową, regionalną 
+i krajową w całej Unii oraz powinna zawierać oddzielne tabele dla każdego rodzaju transportu. Komisja powinna 
+zapewnić regularną aktualizację podstawowej unijnej bazy danych i co najmniej co roku oceniać potrzebę jej 
+aktualizacji. Dane dotyczące żeglugi morskiej powinny być pozyskiwane z bazy danych „THETIS-MRV” 
+i uzupełniane, w stosownych przypadkach, innymi źródłami informacji, takimi jak baza danych FuelEU. Z uwagi 
+na sektorową, regionalną i krajową specyfikę tych wartości standardowych w całej Unii należy jednak zezwolić na 
+stosowanie innych odpowiednich baz danych i zbiorów danych prowadzonych przez podmioty trzecie, pod 
+warunkiem że zostaną one poddane technicznej kontroli jakości na poziomie Unii.
+(22)
+Do ustalenia intensywności emisji gazów cieplarnianych z usługi transportowej potrzebne są współczynniki emisji 
+gazów cieplarnianych dla nośników energii w transporcie, które pozwolą uzyskać szacunkowe wartości emisji 
+gazów cieplarnianych odzwierciedlające ilość energii zużytej w perspektywie „od źródła energii do koła pojazdu”. 
+W związku z tym, aby zagwarantować porównywalność i jakość danych wejściowych, należy ustanowić centralną 
+unijną bazę danych zawierającą standardowe wartości współczynników emisji gazów cieplarnianych (zwaną dalej 
+„centralną unijną bazą danych”) dla nośników energii w transporcie.
+(23)
+Przy ilościowym określaniu emisji związanych z wykorzystaniem energii elektrycznej należy zachęcać do stosowania 
+podejścia opartego na lokalizacji, pod warunkiem że dla różnych państw członkowskich zapewniony jest zestaw 
+aktualnych i dokładnych wartości intensywności. W stosownych przypadkach można zastosować podejście 
+rynkowe, o ile jest ono wystarczająco rozwinięte i spełnione są warunki określone w załączniku J do normy EN ISO.
+(24)
+Podstawowa unijna baza danych i centralna unijna baza danych powinny, w miarę dostępności i w stosownych 
+przypadkach, obejmować wartości standardowe uzgodnione przez Unię lub w interesie Unii na poziomie 
+międzynarodowym. Biorąc pod uwagę specyfikę sektorową, regionalną i krajową w całej Unii, w podstawowej 
+unijnej bazie danych i centralnej unijnej bazie danych odzwierciedlone powinny być typy pojazdów i nośniki energii 
+w transporcie zazwyczaj wykorzystywane w Unii, w niektórych lub we wszystkich państwach członkowskich. 
+Podstawowa unijna baza danych i centralna unijna baza danych powinny również uwzględniać unikalne cechy 
+poszczególnych państw członkowskich.
+(25)
+Utworzeniem i utrzymywaniem podstawowej unijnej bazy danych i centralnej unijnej bazy danych, a także 
+techniczną kontrolą jakości baz danych i zbiorów danych prowadzonych przez podmioty trzecie powinien 
+zajmować się neutralny i właściwy organ działający na poziomie Unii. Ze względu na swoje kompetencje Europejska 
+Agencja Środowiska jest najlepiej przygotowana do udzielenia niezbędnej pomocy technicznej w celu właściwego 
+wdrożenia odpowiednich przepisów niniejszego rozporządzenia. W razie potrzeby prace te powinny opierać się na 
+wkładach innych sektorowych organów Unii i być przez nie wspierane zgodnie z przepisami prawa Unii. W razie 
+potrzeby państwa członkowskie powinny mieć możliwość przekazywania Komisji dodatkowych i dobrowolnych 
+informacji.
+(26)
+Wykorzystywanie danych modelowanych powinno być możliwe, jeżeli opierają się one na modelu ustanowionym 
+zgodnie ze wspólną metodyką oraz, w stosownych przypadkach, z innymi określonymi w niniejszym 
+rozporządzeniu przepisami dotyczącymi wykorzystania danych wtórnych i narzędzi obliczeniowych.
+Dz.U. L z 12.5.2026
+PL
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+5/22
+
+
+===== PAGE 6/22 =====
+
+(27)
+W rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2015/757 (9) i dyrektywie 2003/87/WE Parlamentu 
+Europejskiego i Rady (10) ustanowiono wymóg gromadzenia, mierzenia, obliczania i corocznego raportowania emisji 
+gazów cieplarnianych odpowiednio ze statków i statków powietrznych. Rozporządzenie (UE) 2015/757 i dyrektywa 
+2003/87/WE w pewnej mierze uzupełniają niniejsze rozporządzenie, w szczególności pod względem generowania 
+danych dotyczących zużycia paliwa jako danych wejściowych do ilościowego określenia emisji z usług 
+transportowych, w odniesieniu do przebytej odległości lub ilości przewożonego ładunku. Powinna też istnieć 
+możliwość, by do ustalania emisji gazów cieplarnianych z usług transportowych, wykorzystywać dane wejściowe 
+uzyskiwane w wyniku wdrażania innych ram legislacyjnych, takich jak rozporządzenie Parlamentu Europejskiego 
+i Rady (UE) 2019/631 (11), (UE) 2019/1242 (12), (UE) 2023/1805 (13) lub (UE) 2023/2405 (14). Biorąc pod uwagę, że 
+właściwe jest, aby we wszystkich odpowiednich aktach prawnych Unii w dziedzinie transportu stosować odniesienie 
+do wspólnej normy, Komisja powinna dążyć do zapewnienia zgodności i spójności niniejszego rozporządzenia 
+z obowiązującymi aktami prawnymi Unii oraz z przyszłymi inicjatywami. W szczególności Komisja powinna dążyć 
+w przyszłych inicjatywach i we wszelkich aktach prawa wtórnego do wprowadzenia wymogu, aby wszelkie 
+rozliczanie emisji gazów cieplarnianych z usług transportowych w sposób zdezagregowany opierało się na wspólnej 
+metodyce, o której mowa w niniejszym rozporządzeniu.
+(28)
+Aby ułatwić gromadzenie dokładnych danych, późniejsze obliczenia i wykorzystywanie danych pierwotnych przez 
+MŚP, należy rozważyć zapewnienie dostępu do danych pokładowych w kontekście wszelkich przyszłych wniosków 
+ustawodawczych dotyczących dostępu do danych dotyczących pojazdów.
+(29)
+Aby ułatwić wykonywanie niniejszego rozporządzenia i ograniczyć złożoność obliczeń przy jednoczesnym 
+zmniejszeniu obciążeń administracyjnych i finansowych, Komisja powinna zapewnić uproszczone, bezpłatne, 
+publicznie dostępne i łatwe w użyciu internetowe narzędzie obliczeniowe zaprojektowane specjalnie dla mikro- oraz 
+małych i średnich przewoźników. To narzędzie obliczeniowe należy opracować zgodnie ze wspólną metodyką 
+określoną w niniejszym rozporządzeniu, tak aby jego stosowanie zapewniało poprawność dokonanych obliczeń. 
+Powinno ono ułatwiać obliczenia oparte na danych pierwotnych i umożliwiać wykorzystywanie odpowiednich 
+danych wtórnych, w tym współczynników emisji gazów cieplarnianych oraz, jeżeli są dostępne, standardowych 
+wartości intensywności emisji gazów cieplarnianych pochodzących z baz danych uznanych na podstawie niniejszego 
+rozporządzenia. Narzędziu powinien towarzyszyć podręcznik, który pomoże w wykonywaniu niniejszego 
+rozporządzenia i wyjaśni sposób funkcjonowania narzędzia obliczeniowego. To narzędzie obliczeniowe powinno 
+być okresowo aktualizowane. Powinno ono wyeliminować lukę w danych w łańcuchu informacyjnym, promować 
+jednolite rozliczanie emisji gazów cieplarnianych w odniesieniu do najbardziej typowych usług transportowych, 
+zwiększyć przejrzystość i porównywalność danych oraz przyczynić się do szerzenia wiedzy na temat obliczania 
+emisji gazów cieplarnianych zgodnie z niniejszym rozporządzeniem i zachęcać do stosowania takich obliczeń.
+(30)
+Należy określić wspólne wskaźniki służące do wyrażania danych wyjściowych dotyczących emisji gazów 
+cieplarnianych i umożliwiające porównywanie tych danych oraz sporządzenie skutecznej analizy porównawczej 
+różnych usług transportowych. Wspólne wskaźniki powinny również umożliwiać jasną komunikację ze strony 
+dostawcy danych i właściwe zrozumienie tej komunikacji przez odbiorcę danych.
+PL
+Dz.U. L z 12.5.2026
+6/22
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+(9)9)
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2015/757 z dnia 29 kwietnia 2015 r. w sprawie monitorowania, 
+raportowania i weryfikacji emisji gazów cieplarnianych z transportu morskiego oraz zmiany dyrektywy 2009/16/WE (Dz.U. L 123 
+z 19.5.2015, s. 55, ELI: http://data.europa.eu/eli/reg/2015/757/oj).
+(10)10)
+Dyrektywa 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiająca system handlu 
+przydziałami emisji gazów cieplarnianych w Unii oraz zmieniająca dyrektywę Rady 96/61/WE (Dz.U. L 275 z 25.10.2003, s. 32, 
+ELI: http://data.europa.eu/eli/dir/2003/87/oj).
+(11)11)
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/631 z dnia 17 kwietnia 2019 r. określające normy emisji CO2 dla 
+nowych samochodów osobowych i dla nowych lekkich pojazdów użytkowych oraz uchylające rozporządzenia (WE) nr 443/2009 
+i (UE) nr 510/2011 (Dz.U. L 111 z 25.4.2019, s. 13, ELI: http://data.europa.eu/eli/reg/2019/631/oj).
+(12)12)
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1242 z dnia 20 czerwca 2019 r. określające normy emisji CO2 dla 
+nowych pojazdów ciężkich oraz zmieniające rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 595/2009 i (UE) 2018/956 
+oraz dyrektywę Rady 96/53/WE (Dz.U. L 198 z 25.7.2019, s. 202, ELI: http://data.europa.eu/eli/reg/2019/1242/oj).
+(13)13)
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/1805 z dnia 13 września 2023 r. w sprawie stosowania paliw 
+odnawialnych i niskoemisyjnych w transporcie morskim oraz zmiany dyrektywy 2009/16/WE (Dz.U. L 234 z 22.9.2023, s. 48, ELI: 
+http://data.europa.eu/eli/reg/2023/1805/oj).
+(14)14)
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2405 z dnia 18 października 2023 r. w sprawie zapewnienia równych 
+warunków działania dla zrównoważonego transportu lotniczego (ReFuelEU Aviation) (Dz.U. L, 2023/2405, 31.10.2023, ELI: http:// 
+data.europa.eu/eli/reg/2023/2405/oj).
+
+
+===== PAGE 7/22 =====
+
+(31)
+Wszelkie zdezagregowane informacje na temat emisji gazów cieplarnianych z usługi transportowej, które są 
+ujawniane podmiotowi trzeciemu w celach komercyjnych lub regulacyjnych zgodnie z niniejszym rozporządzeniem, 
+powinny obowiązkowo zawierać wyraźnie przedstawione dane wyjściowe ustalone zgodnie ze szczegółowymi 
+zasadami obliczania emisji gazów cieplarnianych z usług transportowych określonymi w niniejszym rozporzą­
+dzeniu. W stosownych przypadkach można dodać dodatkowe elementy danych służące celom innym niż cele 
+określone w niniejszym rozporządzeniu.
+(32)
+Ujawnianie informacji dotyczących emisji gazów cieplarnianych przed wykonaniem usługi transportowej ma 
+kluczowe znaczenie dla zachęcenia organów publicznych, przedsiębiorstw i konsumentów do podejmowania 
+świadomych decyzji oraz wpływa na zamówienia publiczne udzielane przez organy publiczne i na decyzje 
+biznesowe podmiotów transportowych i podmiotów w węźle transportowym świadczących i organizujących te 
+usługi transportowe na rynku. W związku z tym informacje na temat emisji gazów cieplarnianych związanych 
+z konkretną usługą transportową powinny być ujawniane, o ile to możliwe, przed rozpoczęciem świadczenia usługi 
+transportowej. Powinna jednak istnieć możliwość ujawniania informacji na temat emisji gazów cieplarnianych po 
+wykonaniu usługi transportowej, w szczególności w przypadku gdy komunikacja między przedsiębiorstwami musi 
+opierać się na bardziej szczegółowych informacjach, w szczególności w kontekście łańcuchów logistycznych 
+i stosunków umownych z podwykonawcami, lub w celu wykorzystania danych pierwotnych.
+(33)
+Aby wykazać zgodność z wymogami określonymi w niniejszym rozporządzeniu, podmioty transportowe 
+i podmioty w węźle transportowym oraz pośrednicy w zakresie danych, którzy obliczają i ujawniają dane wyjściowe 
+na temat emisji gazów cieplarnianych z usługi transportowej, powinny być w stanie przedstawić dowody 
+potwierdzające dane wyjściowe. Dowody te powinny być przedstawione zgodnie z zasadami dotyczącymi 
+sprawozdawczości na poziomie usługi transportowej określonymi w normie EN ISO i powinny być udostępniane na 
+wniosek właściwego organu, takiego jak sąd, lub innemu podmiotowi trzeciemu, jeżeli wymagają tego inne odrębne 
+obowiązki prawne lub umowne.
+(34)
+O ile nie mają zastosowania odrębne ustalenia, pośrednika w zakresie danych gromadzącego informacje na temat 
+emisji gazów cieplarnianych z usługi transportowej świadczonej przez podmioty transportowe i podmioty w węźle 
+transportowym lub inne odpowiednie osoby fizyczne lub prawne oraz ujawniającego je na rynku nie należy 
+uznawać za odpowiedzialnego, w przypadku gdy informacje te naruszają określone w niniejszym rozporządzeniu 
+wymogi związane z obliczaniem i weryfikacją emisji gazów cieplarnianych z usług transportowych oraz certyfikacją 
+narzędzi obliczeniowych. Pośrednik w zakresie danych powinien jednak dokładać starań, aby zapobiec ujawnianiu 
+niedokładnych lub nieprawidłowych informacji, a także przestrzegać przepisów niniejszego rozporządzenia 
+w zakresie danych wyjściowych dotyczących emisji gazów cieplarnianych oraz komunikacji i przejrzystości. 
+Pośrednik w zakresie danych powinien ponadto podawać źródło tych informacji, aby umożliwić identyfikację 
+odnośnego dostawcy informacji.
+(35)
+Zewnętrzne narzędzia obliczeniowe udostępniane na rynku przez podmiot trzeci do szerszego użytku 
+komercyjnego lub niekomercyjnego mogą ułatwiać rozliczanie emisji gazów cieplarnianych z usług transportowych, 
+wspierając tym samym upowszechnienie tego rozliczania wśród szerszych grup zainteresowanych stron. 
+Zewnętrzne narzędzia obliczeniowe powinny podlegać certyfikacji w celu zagwarantowania ich zgodności 
+z wymogami niniejszego rozporządzenia, w szczególności w odniesieniu do stosowania wspólnej metodyki 
+i odpowiedniego zestawu danych wejściowych.
+(36)
+Właściwie zaprojektowany system weryfikacji zgodności danych wyjściowych dotyczących emisji gazów 
+cieplarnianych ujawnianych na rynku oraz podstawowych procesów obliczeniowych z wymogami określonymi 
+w niniejszym rozporządzeniu powinien znacznie zwiększyć zaufanie do wiarygodności i dokładności tych danych. 
+W szczególności należy określić szczegółowe warunki regulujące weryfikację, niezależnie od tego, czy dotyczy ona 
+usługi jednorazowej czy regularnej, w tym odpowiednią częstotliwość kontroli, oraz ustalenia proceduralne, 
+z należytym uwzględnieniem charakteru i skali danych usług transportowych oraz konieczności uniknięcia 
+nieproporcjonalnych obciążeń administracyjnych. Podmioty transportowe i podmioty w węźle transportowym oraz 
+pośrednicy w zakresie danych, którzy pomyślnie przeszli ocenę zgodności, powinni być uprawnieni do uzyskania 
+dowodu zgodności powszechnie uznawanego w całej Unii. W przypadku uwzględnienia danych pierwotnych dowód 
+zgodności powinien to uwzględnienie potwierdzać, co w szczególności ma zachęcać do gromadzenia 
+i wykorzystywania danych pierwotnych przez każdy podmiot, którego dotyczy niniejsze rozporządzenie. 
+Weryfikacja danych wyjściowych powinna obejmować porównywalność takich danych wyjściowych, w tym 
+w odniesieniu do obliczania odległości, przy czym odchylenia od odległości po ortodromie i najkrótszej wykonalnej 
+odległości należy sprawdzać pod kątem ich zgodności z normą EN ISO.
+Dz.U. L z 12.5.2026
+PL
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+7/22
+
+
+===== PAGE 8/22 =====
+
+(37)
+Obciążenie administracyjne związane z weryfikacją może być nieproporcjonalne w przypadku mniejszych 
+przedsiębiorstw, dlatego należy go unikać. W związku z tym MŚP powinny być zwolnione z wymogów związanych 
+z weryfikacją, chyba że przedsiębiorstwa te chcą uzyskać dowód zgodności. Duże przedsiębiorstwa powinny 
+ponadto uwzględniać zasadę proporcjonalności, gdy rozważają żądanie weryfikacji zgodności od partnerów 
+w łańcuchu wartości, w szczególności od MŚP.
+(38)
+W aktach prawnych Unii dotyczących sektora transportu ustanowiono już przepisy dotyczące wymogów w zakresie 
+weryfikacji emisji, w szczególności w rozporządzeniach (UE) 2015/757 i (UE) 2023/1805 w odniesieniu do sektora 
+morskiego oraz w dyrektywie 2003/87/WE w odniesieniu do sektora lotnictwa. Aby zmniejszyć obciążenia 
+administracyjne, weryfikatorzy akredytowani na podstawie tych aktów powinni być uznawani za akredytowanych 
+na podstawie niniejszego rozporządzenia do wykonywania działań weryfikacyjnych w odpowiednim sektorze, 
+w którym prowadzą działalność, pod warunkiem że poinformują wyznaczone organy krajowe o zamiarze 
+wykonywania takich działań również na podstawie niniejszego rozporządzenia. Jednostki oceniające zgodność 
+powinny być niezależnymi i kompetentnymi podmiotami prawnymi akredytowanymi przez krajowe jednostki 
+akredytujące ustanowione zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 765/2008 (15). 
+Rozporządzenie (WE) nr 765/2008 w sprawie akredytacji jednostek oceniających zgodność stosuje się 
+horyzontalnie, w tym do weryfikatorów akredytowanych na podstawie rozporządzeń (UE) 2015/757 i (UE) 
+2023/1805 oraz dyrektywy 2003/87/WE, a także do jednostek oceniających zgodność akredytowanych na 
+podstawie niniejszego rozporządzenia. Rozporządzenie (WE) nr 765/2008 obejmuje również sytuacje, w których 
+krajowe jednostki akredytujące są uprawnione do podejmowania odpowiednich środków, jeżeli jednostka oceniająca 
+zgodność nie posiada już kompetencji do wykonywania określonych czynności z zakresu oceny zgodności lub 
+dopuściła się rażącego naruszenia swoich obowiązków.
+(39)
+W przypadku gdy zdezagregowane dane wyjściowe dotyczące emisji gazów cieplarnianych z usług transportowych 
+zostały już zweryfikowane zgodnie ze szczegółowymi przepisami określonymi w innych aktach prawnych Unii, 
+w tym, w odniesieniu do sektora morskiego, w rozporządzeniu (UE) 2015/757 i aktach delegowanych przyjętych na 
+jego podstawie lub w rozporządzeniu (UE) 2023/1805 i aktach delegowanych przyjętych na jego podstawie, 
+a w odniesieniu do sektora lotnictwa – w dyrektywie 2003/87/WE i aktach wykonawczych przyjętych na jej 
+podstawie, dane te należy uznać za zweryfikowane zgodnie z niniejszym rozporządzeniem.
+(40)
+W celu umożliwienia skutecznego funkcjonowania niniejszego rozporządzenia oraz uzupełnienia go dodatkowymi 
+przepisami, Komisji należy zgodnie z art. 290 Traktatu o funkcjonowaniu Unii Europejskiej przekazać uprawnienia 
+do przyjmowania aktów w odniesieniu do oceny zmiany normy EN ISO oraz, w razie potrzeby, zakazania 
+stosowania przyszłych poprawek, oceny i wyłączenia niektórych elementów wspólnej metodyki, dostosowania 
+wspólnych wskaźników dla danych wyjściowych w zakresie emisji gazów cieplarnianych oraz ustanowienia dalszych 
+metod i kryteriów akredytacji jednostek oceniających zgodność. Szczególnie ważne jest, aby w czasie prac 
+przygotowawczych Komisja prowadziła stosowne konsultacje, w tym na poziomie ekspertów, oraz aby konsultacje 
+te prowadzone były zgodnie z zasadami określonymi w Porozumieniu międzyinstytucjonalnym z dnia 13 kwietnia 
+2016 r. w sprawie lepszego stanowienia prawa (16). W szczególności, aby zapewnić Parlamentowi Europejskiemu 
+i Radzie udział na równych zasadach w przygotowaniu aktów delegowanych, instytucje te otrzymują wszelkie 
+dokumenty w tym samym czasie co eksperci państw członkowskich, a eksperci tych instytucji mogą systematycznie 
+brać udział w posiedzeniach grup eksperckich Komisji zajmujących się przygotowaniem aktów delegowanych.
+(41)
+W celu zapewnienia jednolitych warunków wykonywania niniejszego rozporządzenia należy powierzyć Komisji 
+uprawnienia wykonawcze do ustanawiania szczegółowych przepisów dotyczących wniosków do Europejskiego 
+Komitetu Normalizacyjnego o zmianę normy EN ISO, doprecyzowania wspólnej metodyki, ustanowienia zasad 
+i warunków przeprowadzania technicznej kontroli jakości baz danych prowadzonych przez podmioty trzecie, 
+ustanowienia unijnego narzędzia obliczeniowego, certyfikacji zewnętrznych narzędzi obliczeniowych oraz 
+weryfikacji danych wyjściowych. Uprawnienia te powinny być wykonywane zgodnie z rozporządzeniem Parlamentu 
+Europejskiego i Rady (UE) nr 182/2011 (17).
+PL
+Dz.U. L z 12.5.2026
+8/22
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+(15)15)
+Rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiające wymagania w zakresie 
+akredytacji i uchylające rozporządzenie (EWG) nr 339/93 (Dz.U. L 218 z 13.8.2008, s. 30, ELI: http://data.europa.eu/eli/reg/2008/ 
+765/oj).
+(16)16)
+Porozumienie międzyinstytucjonalne pomiędzy Parlamentem Europejskim, Radą Unii Europejskiej a Komisją Europejską w sprawie 
+lepszego stanowienia prawa (Dz.U. L 123 z 12.5.2016, s. 1, ELI: http://data.europa.eu/eli/agree_interinstit/2016/512/oj).
+(17)17)
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 182/2011 z dnia 16 lutego 2011 r. ustanawiające przepisy i zasady 
+ogólne dotyczące trybu kontroli przez państwa członkowskie wykonywania uprawnień wykonawczych przez Komisję (Dz.U. L 55 
+z 28.2.2011, s. 13, ELI: http://data.europa.eu/eli/reg/2011/182/oj).
+
+
+===== PAGE 9/22 =====
+
+(42)
+Ponieważ cel niniejszego rozporządzenia, a mianowicie zachęcanie organów publicznych, przedsiębiorstw 
+i konsumentów do zmiany zachowań z myślą o ograniczeniu emisji gazów cieplarnianych z usług transportowych 
+poprzez upowszechnianie i wykorzystywanie porównywalnych i wiarygodnych danych dotyczących emisji gazów 
+cieplarnianych z usług transportowych, nie może zostać osiągnięty w sposób wystarczający przez państwa 
+członkowskie bez ryzyka wprowadzenia przeszkód administracyjnych na rynku wewnętrznym, które pociągają za 
+sobą dodatkowe koszty i obciążenia administracyjne dla danych branż, natomiast ze względu na harmonizujący 
+skutek wspólnej metodyki obliczania emisji gazów cieplarnianych z usług transportowych określonej w niniejszym 
+rozporządzeniu możliwe jest lepsze osiągnięcie tego celu na poziomie Unii, może ona podjąć działania zgodnie 
+z zasadą pomocniczości określoną w art. 5 Traktatu o Unii Europejskiej. Zgodnie z zasadą proporcjonalności 
+określoną w tym artykule niniejsze rozporządzenie nie wykracza poza to, co jest konieczne do osiągnięcia tego celu,
+PRZYJMUJĄ NINIEJSZE ROZPORZĄDZENIE:
+ROZDZIAŁ I
+PRZEPISY OGÓLNE
+Artykuł 1
+Przedmiot i zakres stosowania
+Niniejsze rozporządzenie ustanawia przepisy dotyczące rozliczania emisji gazów cieplarnianych z usług transportowych, 
+które rozpoczynają się lub kończą na terytorium Unii, w przypadkach gdy zdezagregowane informacje na temat tych emisji 
+są obliczane i ujawniane na podstawie umowy lub dobrowolnie w celach komercyjnych lub gdy takie obliczanie 
+i ujawnianie są wymagane na podstawie mającego zastosowanie prawa Unii lub prawa krajowego.
+Niniejsze rozporządzenie stosuje się do:
+a) przewoźników, organizatorów usług transportowych i operatorów węzłów transportowych;
+b) pośredników w zakresie danych;
+c) podmiotów tworzących narzędzia obliczeniowe;
+d) twórców baz danych będących podmiotami trzecimi; oraz
+e) jednostek oceniających zgodność.
+Artykuł 2
+Definicje
+Na potrzeby niniejszego rozporządzenia stosuje się następujące definicje:
+1)
+„gaz cieplarniany” oznacza gazowy składnik atmosfery, zarówno naturalny, jak i antropogeniczny, który absorbuje 
+i emituje promieniowanie o określonych długościach fal w widmie promieniowania podczerwonego emitowanego 
+przez powierzchnię Ziemi, atmosferę i chmury;
+2)
+„emisja gazów cieplarnianych” oznacza uwolnienie gazu cieplarnianego do atmosfery wyrażone w masie ekwiwalentu 
+dwutlenku węgla;
+3)
+„rozliczanie emisji gazów cieplarnianych” oznacza działania wykonywane w celu ilościowego określenia emisji gazów 
+cieplarnianych za pomocą pomiarów i obliczeń oraz wykorzystywane do raportowania tych emisji;
+4)
+„usługa transportowa” oznacza transport ładunku lub pasażera z punktu początkowego do punktu docelowego; usługa 
+transportowa może wiązać się z jednym elementem lub wieloma elementami łańcucha transportowego wymagającymi 
+zarówno operacji transportowych, jak i operacji w węźle transportowym;
+Dz.U. L z 12.5.2026
+PL
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+9/22
+
+
+===== PAGE 10/22 =====
+
+5)
+„operacja transportowa” oznacza eksploatację pojazdu w celu transportu pasażerów lub ładunku;
+6)
+„operacja w węźle transportowym” oznacza operację mającą na celu przemieszczenie ładunku lub pasażerów przez 
+węzeł transportowy;
+7)
+„łańcuch transportowy” oznacza sekwencję elementów transportu związanych z ładunkiem, pasażerem lub grupą 
+pasażerów, które to elementy razem składają się na przemieszczanie ładunku, pasażera lub grupy pasażerów z punktu 
+początkowego do punktu docelowego;
+8)
+„element łańcucha transportowego” oznacza odcinek łańcucha transportowego, w obrębie którego przewozi się 
+ładunki, pasażerów lub grupy pasażerów pojedynczym pojazdem lub przemieszcza się ładunki, pasażerów lub grupy 
+pasażerów przez jeden węzeł transportowy;
+9)
+„dane pierwotne” oznaczają określoną ilościowo wartość procesu lub działalności uzyskaną z pomiaru bezpośredniego 
+lub z obliczeń opartych na pomiarach bezpośrednich;
+10) „dane wtórne” oznaczają dane modelowane albo wartości standardowe, które nie spełniają wymogów dotyczących 
+danych pierwotnych, w tym dane z baz danych i opublikowanej literatury, standardowe wartości współczynników 
+emisji gazów cieplarnianych z wykazów krajowych, dane obliczone, dane szacunkowe lub inne dane reprezentatywne 
+oraz dane uzyskane z procesów lub szacunków zastępczych;
+11) „organizator usług transportowych” oznacza podmiot świadczący usługi transportowe, w których obsługę niektórych 
+elementów łańcucha transportowego zleca się co najmniej jednemu podwykonawcy;
+12) „przewoźnik” oznacza podmiot, który wykonuje operacje transportowe obejmujące przewóz ładunków lub pasażerów, 
+lub oba te rodzaje przewozów;
+13) „operator węzła transportowego” oznacza podmiot, który wykonuje operacje w węźle transportowym obejmujące 
+przewóz ładunków lub pasażerów;
+14) „podmioty transportowe i podmioty w węźle transportowym” oznaczają organizatora usług transportowych, 
+przewoźnika i operatora węzła transportowego;
+15) „pośrednik w zakresie danych” oznacza osobę prawną lub fizyczną, która dostarcza informacji na temat emisji gazów 
+cieplarnianych z usług transportowych, które rozpoczynają się lub kończą na terytorium Unii, ale która nie świadczy 
+ani nie organizuje tych usług;
+16) „mikroprzedsiębiorstwa oraz małe i średnie przedsiębiorstwa” lub „MŚP” oznaczają mikroprzedsiębiorstwa oraz małe 
+i średnie przedsiębiorstwa, o których mowa w zaleceniu Komisji 2003/361/WE (18);
+17) „wartość standardowa” oznacza wartość danych wtórnych pobraną z opublikowanego źródła, którą uznaje się za 
+standardową w przypadku braku danych pierwotnych lub modelowanych;
+18) „nośnik energii” oznacza substancję lub zjawisko, które mogą zostać wykorzystane do wytwarzania pracy 
+mechanicznej lub ciepła lub w celu realizacji procesów chemicznych lub fizycznych;
+19) „dane modelowane” oznaczają dane wtórne wyprowadzone przy użyciu modelu, w którym uwzględnia się dane 
+pierwotne lub parametry operacji transportowej lub operacji w węźle transportowym istotne pod względem emisji 
+gazów cieplarnianych, w tym przy użyciu modelu dostarczonego za pośrednictwem narzędzia obliczeniowego;
+20) „dane wyjściowe” oznaczają dane zdezagregowane dotyczące emisji gazów cieplarnianych z usługi transportowej 
+wyprowadzone przy użyciu wspólnej metodyki i danych wejściowych określonych w niniejszym rozporządzeniu;
+21) „pojazd” oznacza środek transportu pasażerów lub ładunków lub pasażerów i ładunku, we wszystkich rodzajach 
+transportu;
+PL
+Dz.U. L z 12.5.2026
+10/22
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+(18)18)
+Zalecenie Komisji 2003/361/WE z dnia 6 maja 2003 r. dotyczące definicji mikroprzedsiębiorstw oraz małych i średnich 
+przedsiębiorstw (Dz.U. L 124 z 20.5.2003, s. 36, ELI: http://data.europa.eu/eli/reco/2003/361/oj).
+
+
+===== PAGE 11/22 =====
+
+22) „działalność związana z gazami cieplarnianymi” oznacza działalność, która prowadzi do emisji gazów cieplarnianych;
+23) „dane dotyczące działalności związanej z gazami cieplarnianymi” oznaczają ilościową miarę działalności związanej 
+z gazami cieplarnianymi;
+24) „intensywność emisji gazów cieplarnianych” oznacza współczynnik określający stosunek działalności transportowej 
+lub działalności węzła transportowego do emisji gazów cieplarnianych;
+25) „współczynnik emisji gazów cieplarnianych” oznacza współczynnik określający relację danych dotyczących 
+działalności związanej z gazami cieplarnianymi do emisji gazów cieplarnianych;
+26) „emisje gazów cieplarnianych od źródła energii do koła pojazdu” oznaczają emisje reprezentujące wpływ emisji gazów 
+cieplarnianych wynikający z użytkowania pojazdów i funkcjonowania węzłów transportowych oraz z dostarczania 
+energii na potrzeby tych usług;
+27) „narzędzie obliczeniowe” oznacza aplikację, model lub oprogramowanie umożliwiające automatyczne obliczanie 
+emisji gazów cieplarnianych z usługi transportowej;
+28) „zewnętrzne narzędzie obliczeniowe” oznacza narzędzie obliczeniowe udostępniane na rynku przez podmiot trzeci do 
+szerokiego użytku komercyjnego lub niekomercyjnego;
+29) „ekwiwalent dwutlenku węgla (CO2e)” oznacza jednostkę służącą do porównywania wymuszania radiacyjnego gazu 
+cieplarnianego z wymuszaniem radiacyjnym dwutlenku węgla;
+30) „jednostka oceniająca zgodność” oznacza jednostkę oceniającą zgodność w rozumieniu art. 2 pkt 13 rozporządzenia 
+(WE) nr 765/2008.
+ROZDZIAŁ II
+WSPÓLNA METODYKA
+Artykuł 3
+Wspólna metodyka obliczania emisji gazów cieplarnianych z usług transportowych
+1.
+Emisje gazów cieplarnianych z usług transportowych oblicza się na podstawie wspólnej metodyki w rozumieniu 
+normy EN ISO 14083:2023 – Gazy cieplarniane – Kwantyfikacja i raportowanie emisji gazów cieplarnianych powstających 
+w wyniku operacji w łańcuchach transportowych (zwanej dalej „normą EN ISO”), w jej zaktualizowanej wersji, jak 
+określono w niniejszym rozdziale.
+2.
+Do dnia 3 grudnia 2033 r. Komisja oceni potrzebę zmiany dowolnego elementu normy EN ISO.
+3.
+Komisja może, z własnej inicjatywy lub na wniosek państwa członkowskiego, rozpocząć kontrolę zgodności, aby 
+ocenić zmiany w normie EN ISO.
+4.
+Na zasadzie odstępstwa od ust. 1 niniejszego artykułu Komisja przyjmuje akty delegowane zgodnie z art. 17 
+niniejszego rozporządzenia w celu uzupełnienia niniejszego rozporządzenia przez określenie zmian w normie EN ISO, lub 
+zmian dowolnego jej elementu, o których mowa w ust. 2 niniejszego artykułu, stwarzających oczywiste ryzyko 
+niezgodności z celami niniejszego rozporządzenia i innymi mającymi zastosowanie przepisami prawa Unii, w szczególności 
+z rozporządzeniem (UE) 2021/1119, i które w związku z tym nie mają zastosowania.
+5.
+Komisja jest uprawniona do przyjmowania aktów wykonawczych w celu zwrócenia się do Europejskiego Komitetu 
+Normalizacyjnego z wnioskiem o zmianę normy EN ISO, w tym na podstawie wyników oceny przewidzianej w ust. 2 
+niniejszego artykułu, oraz kontroli zgodności, o której mowa w ust. 3 niniejszego artykułu. Te akty wykonawcze przyjmuje 
+się zgodnie z procedurą sprawdzającą, o której mowa w art. 18 ust. 2.
+Dz.U. L z 12.5.2026
+PL
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+11/22
+
+
+===== PAGE 12/22 =====
+
+6.
+Komisja jest uprawniona do przyjmowania aktów wykonawczych ustanawiających szczegółowe przepisy w celu 
+doprecyzowania wspólnej metodyki, o której mowa w ust. 1 niniejszego artykułu, tak aby zapewnić jej jednolite wdrożenie 
+na rynku w odniesieniu do podejścia do ustalania odpowiednich parametrów istotnych pod względem emisji służących do 
+obliczania emisji gazów cieplarnianych przed świadczeniem usługi transportowej oraz, w stosownych przypadkach, 
+określenia innych parametrów technicznych związanych z przypisaniem emisji gazów cieplarnianych lub agregacją 
+elementów danych, które nie są wyraźnie wyjaśnione w tej wspólnej metodyce. Te akty wykonawcze przyjmuje się zgodnie 
+z procedurą sprawdzającą, o której mowa w art. 18 ust. 2.
+ROZDZIAŁ III
+DANE WEJŚCIOWE I ICH ŹRÓDŁA
+Artykuł 4
+Wykorzystanie danych pierwotnych i wtórnych
+1.
+Do obliczania emisji gazów cieplarnianych z usług transportowych podmioty transportowe i podmioty w węźle 
+transportowym oraz pośrednicy w zakresie danych w pierwszej kolejności wykorzystują dane pierwotne.
+Państwo członkowskie może postanowić, że wykorzystanie danych pierwotnych będzie obowiązkowe w przypadku 
+operacji transportowych wykonywanych na jego terytorium realizowanych przez podmioty transportowe i podmioty 
+w węźle transportowym, których liczba pracowników przekracza określony próg ustanowiony w prawie krajowym, jeśli 
+usługa transportowa rozpoczyna się i kończy na jego terytorium. Państwo członkowskie nie stosuje takiego wymogu do 
+transgranicznych operacji transportowych, w tym do operacji transportowych z tranzytem przez jego terytorium, ani do 
+MŚP.
+2.
+Państwa członkowskie mogą, bez uszczerbku dla zasad pomocy państwa, wprowadzić zachęty administracyjne, 
+finansowe lub operacyjne w celu stymulowania wykorzystywania danych pierwotnych.
+3.
+Wykorzystanie danych wtórnych do obliczania emisji gazów cieplarnianych z usługi transportowej jest dozwolone 
+pod następującymi warunkami:
+a) w przypadku gdy standardowe wartości intensywności emisji gazów cieplarnianych pozyskiwane są z:
+(i) podstawowej unijnej bazy danych zawierającej standardowe wartości intensywności emisji gazów cieplarnianych 
+(zwanej dalej „podstawową unijną bazą danych”), o której to bazie mowa w art. 5; lub
+(ii) baz danych i zbiorów danych zawierających wartości standardowe intensywności emisji gazów cieplarnianych 
+prowadzonych przez podmioty trzecie zgodnie z art. 6;
+b) w przypadku gdy standardowe wartości współczynników emisji gazów cieplarnianych dla nośników energii 
+w transporcie pozyskiwane są z centralnej unijnej bazy danych zawierającej standardowe wartości współczynników 
+emisji gazów cieplarnianych (zwanej dalej „centralną unijną bazą danych”), o której to bazie mowa w art. 7;
+c) w przypadku gdy dane modelowane opierają się na modelu ustanowionym zgodnie ze wspólną metodyką, o której 
+mowa w art. 3 ust. 1, oraz, w stosownych przypadkach, zgodnie z warunkami stosowania danych wtórnych 
+określonymi w lit. a) i b) niniejszego ustępu, a także zgodnie z przepisami dotyczącymi stosowania narzędzi 
+obliczeniowych określonych w art. 8 i 11.
+Zgodnie ze wspólną metodyką, w przypadku gdy podmioty transportowe i podmioty w węźle transportowym dokonują 
+obliczeń ex ante emisji gazów cieplarnianych z konkretnej usługi transportowej, mogą one stosować standardowe wartości 
+intensywności emisji gazów cieplarnianych ustalone na podstawie danych pierwotnych z usługi transportowej o podobnych 
+cechach świadczonej przez te same podmioty w roku poprzedzającym obliczenie ex ante.
+PL
+Dz.U. L z 12.5.2026
+12/22
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+
+
+===== PAGE 13/22 =====
+
+4.
+W przypadku gdy podmioty transportowe i podmioty w węźle transportowym oraz pośrednicy w zakresie danych 
+wykorzystują jako dane wejściowe dane pierwotne, które zostały już wykorzystane jako podstawa do ustalenia danych 
+wyjściowych zweryfikowanych na podstawie innych aktów prawnych Unii przez akredytowaną jednostkę, o której mowa 
+w art. 16, weryfikacja, o której mowa w art. 12 ust. 1, nie jest wymagana w odniesieniu do źródeł danych wejściowych 
+wykorzystywanych do obliczeń, o których mowa w art. 13 ust. 2 lit. b).
+5.
+Przy obliczaniu emisji gazów cieplarnianych z zużywanej energii elektrycznej podmioty transportowe i podmioty 
+w węźle transportowym oraz pośrednicy w zakresie danych mogą zdecydować się na stosowanie podejścia rynkowego 
+zamiast danych wtórnych opartych na lokalizacji, jeżeli spełnione są warunki określone w załączniku J do normy EN ISO.
+Artykuł 5
+Podstawowa unijna baza danych zawierająca standardowe wartości intensywności emisji gazów cieplarnianych
+1.
+Do dnia 2 grudnia 2029 r. Komisja, z pomocą techniczną Europejskiej Agencji Środowiska oraz, w razie potrzeby, 
+przy dodatkowym i dobrowolnym wkładzie państw członkowskich, ustanowi podstawową unijną bazę danych. Komisja 
+dąży do uwzględnienia w podstawowej unijnej bazie danych standardowych wartości intensywności emisji gazów 
+cieplarnianych dla typów pojazdów zazwyczaj stosowanych w Unii, w niektórych lub we wszystkich państwach 
+członkowskich.
+2.
+W miarę dostępności i w razie potrzeby podstawowa unijna baza danych zawiera standardowe wartości 
+intensywności emisji gazów cieplarnianych uzgodnione przez Unię lub w interesie Unii na poziomie międzynarodowym.
+3.
+Podstawowa unijna baza danych zawiera oddzielną tabelę dla każdego rodzaju transportu, w szczególności 
+w odniesieniu do standardowych wartości intensywności emisji gazów cieplarnianych z żeglugi morskiej. Dane dotyczące 
+żeglugi morskiej pozyskiwane są z bazy danych „THETIS-MRV” i uzupełniane, w stosownych przypadkach, innymi 
+źródłami informacji, takimi jak baza danych FuelEU ustanowiona na podstawie art. 19 ust. 1 rozporządzenia (UE) 
+2023/1805.
+4.
+Opracowując standardowe wartości intensywności emisji gazów cieplarnianych, Komisja:
+a) stosuje podejście oparte na lokalizacji przewidziane we wspólnej metodyce, o której mowa w art. 3 ust. 1, oraz, 
+w stosownych przypadkach, uwzględnia unikalne cechy poszczególnych państw członkowskich;
+b) uwzględnia współczynniki emisji gazów cieplarnianych określone zgodnie z dyrektywą Parlamentu Europejskiego i Rady 
+(UE) 2018/2001 (19).
+5.
+Komisja z pomocą techniczną Europejskiej Agencji Środowiska zapewnia utrzymanie, regularną aktualizację, ciągły 
+rozwój oraz odpowiedni poziom bezpieczeństwa podstawowej unijnej bazy danych, na podstawie ust. 1, z uwzględnieniem 
+rozwoju najnowocześniejszych technologii w sektorze transportowym oraz nowych podejść metodycznych do obliczania 
+emisji gazów cieplarnianych. Komisja zapewnia zgodność i spójność podstawowej unijnej bazy danych z obowiązującymi 
+aktami prawnymi Unii. Co najmniej raz w roku Komisja ocenia potrzebę aktualizacji podstawowej unijnej bazy danych.
+W przypadku aktualizacji zawartych w podstawowej unijnej bazie danych standardowych wartości intensywności emisji 
+gazów cieplarnianych Komisja niezwłocznie zapewnia podanie takich zaktualizowanych wartości standardowych do 
+wiadomości publicznej. Podmioty transportowe i podmioty w węźle transportowym oraz pośrednicy w zakresie danych, 
+w terminie 18 miesięcy od dnia, w którym aktualizacja została podana do wiadomości publicznej, wykorzystują najnowsze 
+dostępne dane do obliczania i ujawniania informacji na temat swoich emisji gazów cieplarnianych.
+Obowiązek stosowania zaktualizowanych wartości standardowych, o którym mowa w akapicie drugim, ma zastosowanie 
+wyłącznie do nowych danych wyjściowych, które mają zostać obliczone i ujawnione po tym, jak aktualizacja została 
+przeprowadzona, bez konieczności wstecznego przeglądu już opublikowanych informacji.
+Dz.U. L z 12.5.2026
+PL
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+13/22
+(19)19)
+Dyrektywa Parlamentu Europejskiego i Rady (UE) 2018/2001 z dnia 11 grudnia 2018 r. w sprawie promowania stosowania energii 
+ze źródeł odnawialnych (Dz.U. L 328 z 21.12.2018, s. 82, ELI: http://data.europa.eu/eli/dir/2018/2001/oj).
+
+
+===== PAGE 14/22 =====
+
+6.
+Publiczny dostęp do podstawowej unijnej bazy danych w celu przeglądania lub stosowania standardowych wartości 
+intensywności emisji gazów cieplarnianych jest bezpłatny i jest zapewniany we wszystkich językach urzędowych instytucji 
+Unii.
+Artykuł 6
+Bazy danych i zbiory danych zawierające standardowe wartości intensywności emisji gazów cieplarnianych 
+prowadzone przez podmioty trzecie
+1.
+Będący podmiotem trzecim twórca bazy danych lub zbioru danych przedkłada Komisji wniosek o przeprowadzenie 
+technicznej kontroli jakości standardowych wartości intensywności emisji gazów cieplarnianych zawartych w tej bazie 
+danych lub tym zbiorze danych. Komisja z pomocą techniczną Europejskiej Agencji Środowiska ocenia ten wniosek 
+poprzez przeprowadzenie takiej technicznej kontroli jakości zgodnie ze wspólną metodyką, o której mowa w art. 3 ust. 1.
+2.
+W celu pozyskania danych wtórnych zgodnie z art. 4 ust. 3 lit. a) pkt (ii) wykorzystuje się wyłącznie bazy danych 
+i zbiory danych podmiotów trzecich zawierające standardowe wartości intensywności emisji gazów cieplarnianych, które 
+zostały pozytywnie ocenione zgodnie z ust. 1 niniejszego artykułu. Komisja publikuje i utrzymuje aktualizowany wykaz 
+prowadzonych przez podmioty trzecie i pozytywnie przez nią ocenionych baz danych zawierających standardowe wartości 
+intensywności emisji gazów cieplarnianych. Aktualizowany rejestr jest publicznie dostępny na specjalnej stronie 
+internetowej.
+3.
+Obowiązek technicznej kontroli jakości określony w ust. 1 ma zastosowanie od dnia 3 grudnia 2031 r. Pozytywna 
+ocena, o której mowa w ust. 2, jest ważna przez dwa lata.
+4.
+Do dnia 2 czerwca 2030 r. Komisja przyjmie akty wykonawcze ustanawiające szczegółowe przepisy i warunki 
+przeprowadzania technicznej kontroli jakości, o której mowa w ust. 1 niniejszego artykułu, oraz warunków wydania 
+pozytywnej oceny zgodnie z ust. 2 niniejszego artykułu. W aktach wykonawczych określa się ramy czasowe, w których 
+przeprowadza się techniczne kontrole jakości. Te akty wykonawcze przyjmuje się zgodnie z procedurą sprawdzającą, 
+o której mowa w art. 18 ust. 2.
+Artykuł 7
+Centralna unijna baza danych zawierająca standardowe wartości współczynników emisji gazów cieplarnianych
+1.
+Komisja, z pomocą techniczną Europejskiej Agencji Środowiska oraz, w razie potrzeby, przy dodatkowym 
+i dobrowolnym wkładzie państw członkowskich, odpowiednich zainteresowanych stron i innych sektorowych organów 
+Unii, ustanawia do dnia 2 czerwca 2028 r. centralną unijną bazę danych. Komisja dąży do uwzględnienia w centralnej 
+unijnej bazie danych standardowych wartości współczynników emisji gazów cieplarnianych dla zazwyczaj stosowanych 
+w Unii nośników energii w transporcie, w niektórych lub we wszystkich państwach członkowskich.
+2.
+Przy opracowywaniu standardowych wartości współczynników emisji gazów cieplarnianych Komisja stosuje 
+podejście oparte na lokalizacji przewidziane we wspólnej metodyce, o której mowa w art. 3 ust. 1, oraz w stosownych 
+przypadkach, uwzględnia unikalne cechy poszczególnych państw członkowskich.
+Bez uszczerbku dla akapitu pierwszego niniejszego ustępu Komisja uwzględnia współczynniki emisji gazów cieplarnianych 
+określone zgodnie z dyrektywą (UE) 2018/2001.
+3.
+W miarę dostępności i w razie potrzeby centralna unijna baza danych zawiera standardowe wartości współczynników 
+emisji gazów cieplarnianych uzgodnione przez Unię lub w interesie Unii na poziomie międzynarodowym.
+4.
+Komisja, z pomocą techniczną Europejskiej Agencji Środowiska, zapewnia prowadzenie, regularną aktualizację 
+i ciągły rozwój raz odpowiedni poziom bezpieczeństwa centralnej unijnej bazy danych, o której mowa w ust. 1 niniejszego 
+artykułu, z uwzględnieniem ewentualnej potrzeby dostosowania elementów bazy danych do normy, o której mowa w art. 3 
+ust. 1, rozwoju najnowocześniejszych technologii w sektorze transportu oraz nowych podejść metodycznych do obliczania 
+emisji gazów cieplarnianych. Komisja zapewnia zgodność i spójność centralnej unijnej bazy danych z obowiązującymi 
+aktami prawnymi Unii.
+PL
+Dz.U. L z 12.5.2026
+14/22
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+
+
+===== PAGE 15/22 =====
+
+W przypadku aktualizacji zawartych w centralnej unijnej bazie danych standardowych wartości współczynników emisji 
+gazów cieplarnianych Komisja niezwłocznie zapewnia podanie takich zaktualizowanych wartości do wiadomości 
+publicznej. Podmioty transportowe i podmioty w węźle transportowym oraz pośrednicy w zakresie danych, w terminie 18 
+miesięcy od dnia, w którym aktualizacja została podana do wiadomości publicznej, wykorzystują najnowsze dostępne dane 
+do obliczania i ujawniania informacji na temat swoich emisji gazów cieplarnianych.
+Obowiązek stosowania zaktualizowanych wartości standardowych, o którym mowa w akapicie drugim, ma zastosowanie 
+wyłącznie do nowych danych wyjściowych, które mają zostać obliczone i ujawnione po tym, jak aktualizacja została 
+przeprowadzona, bez konieczności wstecznego przeglądu już opublikowanych informacji.
+5.
+Publiczny dostęp do centralnej unijnej bazy danych w celu przeglądania lub stosowania standardowych wartości 
+współczynników emisji gazów cieplarnianych dla nośników energii w transporcie jest bezpłatny i jest zapewniany we 
+wszystkich językach urzędowych instytucji Unii.
+Artykuł 8
+Unijne narzędzie obliczeniowe
+1.
+Do dnia 2 czerwca 2030 r. Komisja przyjmie akty wykonawcze w celu zapewnienia, aby przyjazne dla użytkownika, 
+bezpłatne, uproszczone unijne narzędzie obliczeniowe ułatwiające obliczenia na podstawie danych pierwotnych 
+i umożliwiające stosowanie standardowych wartości emisji gazów cieplarnianych, w miarę dostępności i w stosownych 
+przypadkach, standardowych wartości intensywności emisji gazów cieplarnianych, oraz standardowych wartości 
+współczynników zgodnie z odpowiednio art. 4 ust. 3 lit. a) i b), było publicznie dostępne dla przewoźników 
+i zaprojektowane z myślą o wspieraniu w szczególności mikro- oraz małych i średnich przewoźników. Unijne narzędzie 
+obliczeniowe jest okresowo aktualizowane. Te akty wykonawcze przyjmuje się zgodnie z procedurą sprawdzającą, o której 
+mowa w art. 18 ust. 2.
+2.
+W przypadku gdy przewoźnicy korzystają z unijnego narzędzia obliczeniowego do ustalania danych wyjściowych, 
+weryfikacja, o której mowa w art. 12 ust. 1, nie jest wymagana w celu sprawdzenia poprawności dokonanych obliczeń, 
+o czym mowa w art. 13 ust. 2 lit. c).
+3.
+Aby wspierać powszechne stosowanie normy EN ISO przez przewoźników, a w szczególności przez MŚP, unijnemu 
+narzędziu obliczeniowemu towarzyszy podręcznik, który pomaga MŚP w wykonywaniu niniejszego rozporządzenia i jasno 
+wyjaśnia, w jaki sposób korzystać z funkcji unijnego narzędzia obliczeniowego. Podręcznik ten jest udostępniany we 
+wszystkich językach urzędowych instytucji Unii.
+ROZDZIAŁ IV
+DANE WYJŚCIOWE I PRZEJRZYSTOŚĆ
+Artykuł 9
+Ustalanie danych wyjściowych dotyczących emisji gazów cieplarnianych z usługi transportowej
+1.
+Dane wyjściowe ustala się przy użyciu wspólnej metodyki i danych wejściowych zgodnie z art. 3–7.
+2.
+Dane wyjściowe można ustalać za pomocą narzędzi obliczeniowych. Zewnętrzne narzędzia obliczeniowe muszą 
+spełniać wymogi określone w art. 11.
+Dz.U. L z 12.5.2026
+PL
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+15/22
+
+
+===== PAGE 16/22 =====
+
+3.
+Dane wyjściowe obejmują co najmniej całkowitą masę ekwiwalentu dwutlenku węgla (CO2e) na usługę transportową 
+oraz, w odniesieniu do danego rodzaju usługi transportowej, co najmniej jeden z następujących wspólnych wskaźników:
+a) w odniesieniu do transportu towarowego – masę CO2e na tonokilometr lub równoważne jednostki;
+b) w odniesieniu do przepustowości węzłów towarowych – masę CO2e na tonę lub równoważne jednostki;
+c) w odniesieniu do transportu pasażerskiego – masę CO2e na pasażerokilometr lub równoważne jednostki;
+d) w odniesieniu do przepustowości węzłów pasażerskich – masę CO2e na pasażera lub równoważne jednostki.
+4.
+Komisja jest uprawniona do przyjmowania aktów delegowanych zgodnie z art. 17 w celu uzupełnienia niniejszego 
+rozporządzenia poprzez rozszerzenie wykazu wspólnych wskaźników dla danych wyjściowych, o których to wskaźnikach 
+mowa w ust. 3 niniejszego artykułu.
+Artykuł 10
+Komunikacja i przejrzystość
+1.
+Podmioty transportowe i podmioty w węźle transportowym oraz pośrednicy w zakresie danych ujawniają dane 
+wyjściowe w sposób jasny i jednoznaczny, w miarę możliwości przed rozpoczęciem świadczenia usługi transportowej lub 
+zawarciem umowy transportowej. W przypadku gdy podmioty transportowe i podmioty w węźle transportowym oraz 
+pośrednicy w zakresie danych ujawniają dane wyjściowe, w komunikacie towarzyszącym temu ujawnieniu zamieszczają 
+stwierdzenie: „Emisje gazów cieplarnianych obliczone zgodnie z rozporządzeniem (UE) 2026/1030” w co najmniej jednym 
+z języków urzędowych instytucji Unii oraz, w miarę możliwości, również w języku urzędowym państwa członkowskiego, 
+na którego terytorium świadczona jest usługa.
+2.
+Podmioty transportowe i podmioty w węźle transportowym oraz pośrednicy w zakresie danych mogą zdecydować 
+się na umieszczenie w widocznym miejscu następujących informacji:
+a) czy ich dane podlegają weryfikacji, o której mowa w art. 12 ust. 1;
+b) czy do obliczenia danych wyjściowych wykorzystali wyłącznie dane pierwotne;
+c) czy korzystali z unijnego narzędzia obliczeniowego, o którym mowa w art. 8.
+3.
+W przypadku gdy dane wyjściowe są uzyskiwane i ujawniane przez pośrednika w zakresie danych, który nie oblicza 
+emisji na podstawie odrębnych ustaleń, zastosowanie ma ust. 1 niniejszego artykułu i art. 9 ust. 3. Ujawniając dane 
+wyjściowe, pośrednik w zakresie danych podaje odniesienie do źródła tych danych.
+4.
+W przypadku gdy wykorzystywane są dane pierwotne, podmioty transportowe i podmioty w węźle transportowym 
+oraz pośrednicy w zakresie danych mają prawo poinformować o tym fakcie podmiot trzeci, pod warunkiem że 
+wykorzystanie danych pierwotnych zostało potwierdzone w ramach procesu weryfikacji, o którym mowa w art. 12 i 13.
+5.
+Podmioty transportowe i podmioty w węźle transportowym oraz pośrednicy w zakresie danych, którzy obliczają 
+emisje gazów cieplarnianych, muszą być w stanie przedstawić dowody potwierdzające, w jaki sposób ustalono dane 
+wyjściowe. Dowody te sporządza się zgodnie ze wspólną metodyką, o której mowa w art. 3 ust. 1, oraz:
+a) służą one za podstawę weryfikacji przeprowadzanej zgodnie z art. 12 i 13;
+b) udostępnia się je na wniosek właściwego organu, który został wyznaczony na mocy prawa Unii lub prawa krajowego, 
+lub innemu podmiotowi trzeciemu, w zakresie, w jakim mają zastosowanie odrębne obowiązki prawne lub umowne;
+c) w przypadku gdy weryfikacja jest przeprowadzana zgodnie z art. 12 i 13, dowody te zawierają odniesienie do dowodu 
+zgodności, o którym mowa w art. 13 ust. 6, oraz dane kontaktowe jednostki oceniającej zgodność, która sporządziła 
+dowód zgodności;
+PL
+Dz.U. L z 12.5.2026
+16/22
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+
+
+===== PAGE 17/22 =====
+
+d) jeżeli dane wyjściowe są ustalane za pomocą zewnętrznego narzędzia obliczeniowego, o którym mowa w art. 9 ust. 2, 
+dowody te zawierają odniesienie do tego narzędzia obliczeniowego.
+6.
+Dane wyjściowe i dowody, o których mowa w ust. 5, sporządza się w sposób jasny i jednoznaczny w co najmniej 
+jednym z języków urzędowych instytucji Unii. W miarę możliwości udostępnia się je za pomocą łącza internetowego, kodu 
+QR lub równoważnego rozwiązania.
+7.
+Dane osobowe są przetwarzane zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (20).
+8.
+Każdy odbiorca danych wyjściowych i dowodów, o których mowa w ust. 5, wprowadza środki w celu zapewnienia 
+poufności odpowiednich danych handlowych przetwarzanych i przekazywanych zgodnie z niniejszym rozporządzeniem 
+oraz w celu zapewnienia, aby dostęp do takich danych wyjściowych i dowodów, ich przetwarzanie i ujawnianie były 
+możliwe wyłącznie po uzyskaniu upoważnienia.
+ROZDZIAŁ V
+ŚRODKI UZUPEŁNIAJĄCE
+Artykuł 11
+Certyfikacja zewnętrznych narzędzi obliczeniowych
+1.
+Zewnętrzne narzędzia obliczeniowe muszą być certyfikowane przez jednostkę oceniającą zgodność, o której mowa 
+w art. 14.
+2.
+Twórcy zewnętrznych narzędzi obliczeniowych składają wniosek do jednostki oceniającej zgodność, o której mowa 
+w art. 14, która ocenia zgodność zewnętrznego narzędzia obliczeniowego z wymogami określonymi w art. 3–9. 
+W przypadku oceny pozytywnej jednostka oceniająca zgodność wydaje certyfikat zgodności zewnętrznego narzędzia 
+obliczeniowego z niniejszym rozporządzeniem. Certyfikat jest ważny przez dwa lata. W przypadku oceny negatywnej 
+jednostka oceniająca zgodność przedstawia wnioskodawcy uzasadnienie takiej oceny.
+3.
+Dana jednostka oceniająca zgodność prowadzi aktualizowany wykaz zewnętrznych narzędzi obliczeniowych, które 
+certyfikowała, oraz tych, których certyfikaty ograniczyła, zawiesiła lub cofnęła. Jednostka oceniająca zgodność udostępnia 
+ten wykaz publicznie na swojej stronie internetowej i niezwłocznie przekazuje Komisji adres tej strony internetowej.
+4.
+Komisja publikuje na swojej oficjalnej stronie internetowej łatwo dostępną listę wszystkich zewnętrznych narzędzi 
+obliczeniowych certyfikowanych zgodnie z ust. 1 i 2, a także linki do stron internetowych, o których mowa w ust. 3.
+5.
+Komisja przyjmuje akty wykonawcze ustanawiające przepisy dotyczące certyfikacji zewnętrznych narzędzi 
+obliczeniowych oraz dotyczące powiązanego certyfikatu zgodności, w tym przepisy dotyczące ograniczania, odnawiania, 
+zawieszania i cofania certyfikacji. Te akty wykonawcze przyjmuje się zgodnie z procedurą sprawdzającą, o której mowa 
+w art. 18 ust. 2.
+Dz.U. L z 12.5.2026
+PL
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+17/22
+(20)20)
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych 
+w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 
+95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz.U. L 119 z 4.5.2016, s. 1, ELI: http://data.europa.eu/eli/reg/2016/679/ 
+oj).
+
+
+===== PAGE 18/22 =====
+
+ROZDZIAŁ VI
+WERYFIKACJA DANYCH DOTYCZĄCYCH EMISJI GAZÓW CIEPLARNIANYCH ORAZ OBLICZEŃ
+Artykuł 12
+Zakres weryfikacji
+1.
+Zgodność danych wyjściowych, o których mowa w art. 9, z wymogami określonymi w art. 3–9 weryfikuje jednostka 
+oceniająca zgodność, o której mowa w art. 14.
+2.
+Ust. 1 ma zastosowanie do podmiotów transportowych i podmiotów w węźle transportowym oraz pośredników 
+w zakresie danych, którzy obliczają emisje, z wyjątkiem MŚP. MŚP mogą zostać poddane weryfikacji na podstawie 
+niniejszego rozporządzenia na swój wniosek.
+Artykuł 13
+Działania weryfikacyjne
+1.
+Jednostka oceniająca zgodność, o której mowa w art. 14, weryfikuje rzetelność, wiarygodność, zgodność i dokładność 
+danych wyjściowych ujawnionych przez podmioty transportowe i podmioty w węźle transportowym oraz pośredników 
+w zakresie danych, którzy obliczają emisje.
+2.
+Jednostka oceniająca zgodność przeprowadza weryfikację zgodności ujawnionych danych wyjściowych z wymogami 
+ustanowionymi w art. 3–9 i w oparciu o dowody, o których mowa w art. 10 ust. 5. Weryfikacja ta dotyczy:
+a) zastosowanej metodyki obliczeniowej;
+b) źródeł danych wejściowych wykorzystanych do obliczeń;
+c) poprawności przeprowadzonych obliczeń;
+d) zastosowanych wspólnych wskaźników.
+3.
+W przypadku stosowania zewnętrznych narzędzi obliczeniowych jednostka oceniająca zgodność bierze pod uwagę 
+ich odpowiednie certyfikaty zgodności, o których mowa w art. 11 ust. 2.
+4.
+W przypadku gdy weryfikacja wykaże nieprawidłowe obliczenia lub niezgodność z art. 3–9, jednostka oceniająca 
+zgodność bez zbędnej zwłoki informuje o tym zainteresowane podmioty transportowe i podmioty w węźle transportowym 
+oraz zainteresowanych pośredników w zakresie danych. Następnie te podmioty transportowe i podmioty w węźle 
+transportowym oraz pośrednicy w zakresie danych korygują obliczenia lub usuwają wszelkie niezgodności, aby umożliwić 
+zakończenie weryfikacji.
+5.
+Podmioty transportowe i podmioty w węźle transportowym oraz pośrednicy w zakresie danych udzielają jednostce 
+oceniającej zgodność wszelkich dodatkowych informacji umożliwiających jej przeprowadzenie weryfikacji. W trakcie 
+weryfikacji jednostka oceniająca zgodność może prowadzić kontrole w celu sprawdzenia wiarygodności danych i obliczeń.
+6.
+Po zakończeniu weryfikacji jednostka oceniająca zgodność sporządza, w stosownych przypadkach, dowód zgodności 
+potwierdzający, że dane wyjściowe są zgodne z odpowiednimi wymogami określonymi w niniejszym rozporządzeniu, 
+i wskazujący, czy podmioty transportowe i podmioty w węźle transportowym oraz pośrednicy w zakresie danych stosują 
+dane pierwotne.
+7.
+Odpowiednia jednostka oceniająca zgodność sporządza i prowadzi aktualizowany wykaz podmiotów trans­
+portowych i podmiotów w węźle transportowym oraz pośredników w zakresie danych, których poddano weryfikacji na 
+podstawie niniejszego artykułu. Do dnia 31 marca każdego roku jednostka oceniająca zgodność zgłasza Komisji ten wykaz.
+PL
+Dz.U. L z 12.5.2026
+18/22
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+
+
+===== PAGE 19/22 =====
+
+8.
+W przypadku gdy dane wyjściowe zostały już zweryfikowane na podstawie innych aktów prawnych Unii, które 
+zawierają szczegółowe przepisy dotyczące weryfikacji danych wyjściowych i zapewniają zgodność z wymogami 
+ustanowionymi w niniejszym rozporządzeniu, takie dane wyjściowe uznaje się za zweryfikowane na podstawie niniejszego 
+artykułu.
+9.
+Komisja przyjmuje akty wykonawcze ustanawiające szczegółowe przepisy dotyczące weryfikacji danych wyjściowych, 
+odpowiedniej częstotliwości tej weryfikacji i związanego z nią dowodu zgodności. Przepisy te obejmują postanowienia 
+dotyczące dowodów, o których mowa w art. 10 ust. 5, oraz praw do udostępniania związanych z wykorzystaniem danych 
+pierwotnych, o których to prawach mowa w art. 10 ust. 4. Ustanawiając te przepisy, Komisja należycie uwzględnia 
+obiektywne kryteria, w tym charakter i skalę danej usługi transportowej, względne ryzyko nieprzestrzegania przepisów 
+oraz konieczność unikania nieproporcjonalnych obciążeń administracyjnych. Te akty wykonawcze przyjmuje się zgodnie 
+z procedurą sprawdzającą, o której mowa w art. 18 ust. 2.
+ROZDZIAŁ VII
+AKREDYTACJA
+Artykuł 14
+Jednostki oceniające zgodność
+1.
+Jednostki oceniające zgodność są akredytowane do wykonywania działań certyfikacyjnych lub weryfikacyjnych, 
+o których mowa w art. 11, 12 i 13.
+2.
+Jednostka oceniająca zgodność musi być niezależna od podmiotów transportowych i podmiotów w węźle 
+transportowym oraz pośredników w zakresie danych wnioskujących o działania certyfikacyjne lub weryfikacyjne, o których 
+mowa w art. 11, 12 i 13.
+3.
+Jednostka oceniająca zgodność, jej kierownictwo najwyższego szczebla oraz pracownicy odpowiedzialni za 
+wykonywanie działań certyfikacyjnych lub weryfikacyjnych nie mogą brać udziału w działalności, która może zagrażać 
+niezależności ich osądu lub rzetelności w odniesieniu do działań certyfikacyjnych lub weryfikacyjnych.
+4.
+Jednostka oceniająca zgodność i jej pracownicy wykonują działania certyfikacyjne lub weryfikacyjne z najwyższym 
+stopniem rzetelności zawodowej, posiadają konieczne kwalifikacje techniczne oraz nie mogą być poddawani żadnym 
+naciskom ani zachętom, zwłaszcza finansowym, które mogłyby wpływać na ich osąd lub wyniki tych działań, 
+w szczególności ze strony osób lub grup osób mających interes w tych wynikach.
+5.
+Jednostka oceniająca zgodność musi dysponować wiedzą fachową, sprzętem i infrastrukturą wymaganymi do 
+wykonywania działań certyfikacyjnych lub weryfikacyjnych, w odniesieniu do których została akredytowana.
+6.
+Pracownicy jednostki oceniającej zgodność dochowują tajemnicy zawodowej w odniesieniu do wszystkich informacji 
+uzyskanych podczas wykonywania działań certyfikacyjnych lub weryfikacyjnych.
+7.
+Jeżeli jednostka oceniająca zgodność zleca podwykonawstwo określonych działań związanych z certyfikacją lub 
+weryfikacją lub korzysta z usług jednostki zależnej, ponosi pełną odpowiedzialność za działania wykonywane przez 
+podwykonawców lub jednostki zależne, niezależnie od tego, gdzie prowadzą swoją działalność, w tym ocenia i monitoruje 
+kwalifikacje podwykonawcy lub jednostki zależnej oraz wykonywane przez nich prace.
+Artykuł 15
+Procedury akredytacji
+1.
+Jednostki oceniające zgodność, o których mowa w art. 14 ust. 1 niniejszego rozporządzenia, są akredytowane przez 
+krajową jednostkę akredytującą zgodnie z rozporządzeniem (WE) nr 765/2008.
+Dz.U. L z 12.5.2026
+PL
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+19/22
+
+
+===== PAGE 20/22 =====
+
+2.
+Każde państwo członkowskie wyznacza organ, który prowadzi aktualizowany wykaz akredytowanych jednostek 
+oceniających zgodność. Te wyznaczone organy krajowe udostępniają ten wykaz publicznie na oficjalnej rządowej stronie 
+internetowej. Państwo członkowskie może zdecydować, że obowiązek ten ma być wykonywany przez krajową jednostkę 
+akredytującą, o której mowa w ust. 1.
+3.
+Do dnia 31 marca każdego roku krajowa jednostka akredytująca, o której mowa w ust. 1, zgłasza Komisji wykaz 
+akredytowanych jednostek oceniających zgodność wraz ze wszystkimi odpowiednimi danymi kontaktowymi.
+4.
+W przypadku gdy w niniejszym rozporządzeniu nie ustanowiono szczegółowych przepisów dotyczących akredytacji 
+jednostek oceniających zgodność, zastosowanie ma rozporządzenie (WE) nr 765/2008.
+5.
+Bez uszczerbku dla art. 16 Komisja jest uprawniona do przyjmowania aktów delegowanych zgodnie z art. 17 w celu 
+uzupełnienia niniejszego rozporządzenia przez ustanowienie dalszych metod i kryteriów akredytacji jednostek oceniających 
+zgodność.
+Artykuł 16
+Weryfikacja na podstawie innych aktów prawnych Unii, z uwzględnieniem sektora morskiego i lotniczego
+1.
+Weryfikatorzy akredytowani zgodnie z art. 16 rozporządzenia (UE) 2015/757 i przyjętymi na jego podstawie aktami 
+delegowanymi lub zgodnie z art. 14 rozporządzenia (UE) 2023/1805 i przyjętymi na jego podstawie aktami delegowanymi 
+mogą wykonywać działania weryfikacyjne jednostek oceniających zgodność na podstawie art. 13 niniejszego 
+rozporządzenia. Weryfikatorów tych uznaje się za akredytowanych zgodnie z art. 14 i 15 niniejszego rozporządzenia 
+do wykonywania działań weryfikacyjnych w odniesieniu do sektora morskiego.
+2.
+Weryfikatorzy akredytowani zgodnie z art. 15 dyrektywy 2003/87/WE i przyjętymi na jej podstawie aktami 
+wykonawczymi mogą wykonywać działania weryfikacyjne jednostek oceniających zgodność na podstawie art. 13 
+niniejszego rozporządzenia. Weryfikatorów tych uznaje się za akredytowanych zgodnie z art. 14 i 15 niniejszego 
+rozporządzenia do wykonywania działań weryfikacyjnych w odniesieniu do sektora lotniczego.
+3.
+Weryfikatorzy, o których mowa w ust. 1 i 2 niniejszego artykułu, informują organ, o którym mowa w art. 15 ust. 2, 
+o zamiarze wykonywania działań weryfikacyjnych jednostek oceniających zgodność na podstawie niniejszego 
+rozporządzenia – przed przeprowadzeniem pierwszej weryfikacji na podstawie niniejszego rozporządzenia.
+ROZDZIAŁ VIII
+AKTY DELEGOWANE I WYKONAWCZE
+Artykuł 17
+Wykonywanie przekazanych uprawnień
+1.
+Powierzenie Komisji uprawnień do przyjmowania aktów delegowanych podlega warunkom określonym w niniejszym 
+artykule.
+2.
+Uprawnienia do przyjmowania aktów delegowanych, o których mowa w art. 3 ust. 4, art. 9 ust. 4 oraz w art. 15 
+ust. 5, powierza się Komisji na czas nieokreślony od dnia 1 czerwca 2026 r.
+3.
+Przekazanie uprawnień, o którym mowa w art. 3 ust. 4, art. 9 ust. 4 i art. 15 ust. 5, może zostać w dowolnym 
+momencie odwołane przez Parlament Europejski lub przez Radę. Decyzja o odwołaniu kończy przekazanie określonych 
+w niej uprawnień. Decyzja o odwołaniu staje się skuteczna następnego dnia po jej opublikowaniu w Dzienniku Urzędowym 
+Unii Europejskiej lub w późniejszym terminie określonym w tej decyzji. Nie wpływa ona na ważność już obowiązujących 
+aktów delegowanych.
+PL
+Dz.U. L z 12.5.2026
+20/22
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+
+
+===== PAGE 21/22 =====
+
+4.
+Przed przyjęciem aktu delegowanego Komisja konsultuje się z ekspertami wyznaczonymi przez każde państwo 
+członkowskie zgodnie z zasadami określonymi w Porozumieniu międzyinstytucjonalnym z dnia 13 kwietnia 2016 r. 
+w sprawie lepszego stanowienia prawa.
+5.
+Niezwłocznie po przyjęciu aktu delegowanego Komisja przekazuje go równocześnie Parlamentowi Europejskiemu 
+i Radzie.
+6.
+Akt delegowany przyjęty na podstawie art. 3 ust. 4, art. 9 ust. 4 lub art. 15 ust. 5 wchodzi w życie tylko wówczas, gdy 
+ani Parlament Europejski, ani Rada nie wyraziły sprzeciwu w terminie dwóch miesięcy od przekazania tego aktu 
+Parlamentowi Europejskiemu i Radzie, lub gdy, przed upływem tego terminu, zarówno Parlament Europejski, jak i Rada 
+poinformowały Komisję, że nie wniosą sprzeciwu. Termin ten przedłuża się o dwa miesiące z inicjatywy Parlamentu 
+Europejskiego lub Rady.
+Artykuł 18
+Procedura komitetowa
+1.
+Komisję wspomaga komitet. Komitet ten jest komitetem w rozumieniu rozporządzenia (UE) nr 182/2011.
+2.
+W przypadku odesłania do niniejszego ustępu stosuje się art. 5 rozporządzenia (UE) nr 182/2011.
+ROZDZIAŁ IX
+PRZEPISY KOŃCOWE
+Artykuł 19
+Ocena i sprawozdawczość
+Komisja przeprowadzi ocenę niniejszego rozporządzenia w odniesieniu do jego celu i przedstawi Parlamentowi 
+Europejskiemu i Radzie sprawozdanie dotyczące głównych ustaleń do dnia 3 grudnia 2034 r.
+Sprawozdanie, o którym mowa w akapicie pierwszym zawiera:
+a) analizę konsekwencji dla podmiotów transportowych i podmiotów w węźle transportowym oraz pośredników 
+w zakresie danych, jeśli chodzi o koszty administracyjne związane z wdrażaniem niniejszego rozporządzenia;
+b) ocenę sposobów dalszego zachęcania do wykorzystywania danych pierwotnych;
+c) analizę skutków obowiązkowego wymogu ilościowego określania i ujawniania emisji gazów cieplarnianych zgodnie 
+z niniejszym rozporządzeniem, w zakresie, w jakim ma ono zastosowanie do podmiotów transportowych i podmiotów 
+w węźle transportowym;
+d) ocenę wykonalności rozliczania zanieczyszczenia powietrza powodowanego przez usługi transportowe;
+e) ocenę działań podjętych w celu zapewnienia pełnej dostępności niniejszego rozporządzenia;
+f) analizę sposobu, w jaki pośrednicy w zakresie danych ujawniają dane wyjściowe zgodnie z niniejszym rozporządzeniem, 
+oraz możliwego wpływu tego ujawniania na wybory dokonywane przez organy publiczne, przedsiębiorstwa 
+i konsumentów;
+g) ocenę wykonalności uzupełnienia wspólnej metodyki w celu uwzględnienia również emisji gazów cieplarnianych 
+związanych z produkcją i konserwacją pojazdów oraz wycofywaniem ich z eksploatacji; ocena taka obejmuje 
+sprawozdanie z postępów poczynionych na forum Międzynarodowej Organizacji Normalizacyjnej w celu opracowania 
+uznawanej w skali globalnej normy opartej na emisjach w całym cyklu życia.
+Dz.U. L z 12.5.2026
+PL
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj
+21/22
+
+
+===== PAGE 22/22 =====
+
+Artykuł 20
+Wejście w życie i stosowanie
+1.
+Niniejsze rozporządzenie wchodzi w życie dwudziestego dnia po jego opublikowaniu w Dzienniku Urzędowym Unii 
+Europejskiej.
+2.
+Niniejsze rozporządzenie stosuje się od dnia 2 grudnia 2030 r.
+Art. 3 ust. 4, 5 i 6, art. 5 ust. 1, art. 6 ust. 4, art. 7 ust. 1, art. 8 ust. 1 i 3, art. 9 ust. 4, art. 11 ust. 5, art. 13 ust. 9 i art. 15 
+ust. 5 stosuje się jednak od dnia wejścia w życie niniejszego rozporządzenia.
+Niniejsze rozporządzenie wiąże w całości i jest bezpośrednio stosowane we wszystkich państwach 
+członkowskich.
+Sporządzono w Strasburgu dnia 29 kwietnia 2026 r.
+W imieniu Parlamentu Europejskiego
+Przewodnicząca
+R. METSOLA
+W imieniu Rady
+Przewodnicząca
+M. RAOUNA
+PL
+Dz.U. L z 12.5.2026
+22/22
+ELI: http://data.europa.eu/eli/reg/2026/1030/oj

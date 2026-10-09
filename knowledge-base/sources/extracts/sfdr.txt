@@ -1,0 +1,1020 @@
+
+
+===== PAGE 1/16 =====
+
+I 
+(Akty ustawodawcze) 
+ROZPORZĄDZENIA 
+ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (UE) 2019/2088 
+z dnia 27 listopada 2019 r. 
+w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług 
+finansowych 
+(Tekst mający znaczenie dla EOG) 
+PARLAMENT EUROPEJSKI I RADA UNII EUROPEJSKIEJ, 
+uwzględniając Traktat o funkcjonowaniu Unii Europejskiej, w szczególności jego art. 114, 
+uwzględniając wniosek Komisji Europejskiej, 
+po przekazaniu projektu aktu ustawodawczego parlamentom narodowym, 
+uwzględniając opinię Europejskiego Komitetu Ekonomiczno-Społecznego (1), 
+stanowiąc zgodnie ze zwykłą procedurą ustawodawczą (2), 
+a także mając na uwadze, co następuje: 
+(1) 
+W dniu 25 września 2015 r. Zgromadzenie Ogólne ONZ przyjęło nowe globalne ramy zrównoważonego rozwoju: 
+Agendę na rzecz zrównoważonego rozwoju 2030 (zwaną dalej „Agendą 2030”), której podstawowymi elementami 
+są cele zrównoważonego rozwoju. Komunikat Komisji z dnia 22 listopada 2016 r. dotyczący kolejnych kroków 
+w kierunku zrównoważonej przyszłości Europy wiąże cele zrównoważonego rozwoju z unijnymi ramami polityki 
+w celu zapewnienia, aby we wszystkich unijnych działaniach i inicjatywach politycznych, realizowanych zarówno 
+w Unii, jak i na całym świecie, od samego początku uwzględniano cele zrównoważonego rozwoju. W swoich kon-
+kluzjach z dnia 20 czerwca 2017 r. Rada potwierdziła zobowiązanie Unii i jej państw członkowskich do wdrożenia 
+Agendy 2030 w pełny, spójny, kompleksowy, zintegrowany i skuteczny sposób oraz w ścisłej współpracy z partne-
+rami i innymi zainteresowanymi stronami. 
+(2) 
+Przejście na niskoemisyjną, bardziej zrównoważoną i zasobooszczędną gospodarkę o obiegu zamkniętym zgodne 
+z celami zrównoważonego rozwoju ma kluczowe znaczenie dla zapewnienia długoterminowej konkurencyjności 
+gospodarki Unii. Porozumienie paryskie przyjęte na mocy Ramowej konwencji Narodów Zjednoczonych w sprawie 
+zmian klimatu (zwane dalej „porozumieniem paryskim”), które zostało zatwierdzone przez Unię w dniu 5 paździer 
+nika 2016 r. (3) i weszło w życie w dniu 4 listopada 2016 r., ma na celu bardziej zdecydowaną reakcję na zmianę kli-
+matu, między innymi przez zapewnienie spójności przepływów finansowych ze ścieżką prowadzącą do niskiego 
+poziomu emisji gazów cieplarnianych oraz rozwoju odpornego na zmianę klimatu. 
+(3)
+Aby osiągnąć cele porozumienia paryskiego oraz znacząco zmniejszyć ryzyko i skutki zmiany klimatu, celem świa­
+towym powinno być utrzymanie wzrostu średniej temperatury na świecie na poziomie znacznie poniżej 2 °C w sto­
+sunku do poziomu sprzed epoki przemysłowej oraz kontynuowanie wysiłków na rzecz ograniczenia wzrostu tem­
+peratury do 1,5 °C powyżej poziomu sprzed epoki przemysłowej. 
+(1) Dz.U. C 62 z 15.2.2019, s. 97. 
+(2) Stanowisko Parlamentu Europejskiego z dnia 18 kwietnia 2019 r. (dotychczas nieopublikowane w Dzienniku Urzędowym) oraz decy-
+zja Rady z dnia 8 listopada 2019 r. 
+(3) Decyzja Rady (UE) 2016/1841 z dnia 5 października 2016 r. w sprawie zawarcia, w imieniu Unii Europejskiej, porozumienia pary-
+skiego przyjętego na mocy Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu (Dz.U. L 282 z 19.10.2016, s. 1). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+9.12.2019                                                                                                                                           
+L 317/1   
+
+
+===== PAGE 2/16 =====
+
+(4) 
+Wspólnym celem dyrektyw Parlamentu Europejskiego i Rady 2009/65/WE (4), 2009/138/WE (5), 2011/61/UE (6), 
+2013/36/UE (7), 2014/65/UE (8), (UE) 2016/97 (9) i (UE) 2016/2341 (10) oraz rozporządzeń Parlamentu Europej­
+skiego i Rady (UE) nr 345/2013 (11), (UE) nr 346/2013 (12), (UE) 2015/760 (13) i (UE) 2019/1238 (14) jest ułatwienie 
+podejmowania i prowadzenia działalności przez przedsiębiorstwa zbiorowego inwestowania w zbywalne papiery 
+wartościowe (UCITS), instytucje kredytowe, zarządzających alternatywnymi funduszami inwestycyjnymi (ZAFI), któ­
+rzy zarządzają tymi funduszami - w tym europejskimi długoterminowymi funduszami inwestycyjnymi (EDFI) - lub 
+wprowadzają je do obrotu, zakłady ubezpieczeń, firmy inwestycyjne, pośredników ubezpieczeniowych, instytucje 
+pracowniczych programów emerytalnych (IORP), zarządzających kwalifikowalnymi funduszami venture capital 
+(zarządzających EuVECA), zarządzających kwalifikowalnymi funduszami na rzecz przedsiębiorczości społecznej 
+(zarządzających EuSEF) oraz dostawców ogólnoeuropejskich indywidualnych produktów emerytalnych (OIPE). Te 
+dyrektywy i rozporządzenia zapewniają bardziej jednolitą ochronę inwestorów końcowych oraz ułatwiają im 
+korzystanie z szerokiego zakresu produktów finansowych, ustanawiając jednocześnie przepisy, które umożliwiają 
+inwestorom końcowym podejmowanie świadomych decyzji inwestycyjnych. 
+(5)
+Zasady ujawniania inwestorom końcowym informacji na temat wprowadzenia do działalności ryzyk dla zrównowa­
+żonego rozwoju, na temat brania pod uwagę niekorzystnych skutków dla zrównoważonego rozwoju, na temat 
+celów zrównoważonego inwestowania lub na temat promowania aspektu środowiskowego lub społecznego w pro­
+cesie podejmowania decyzji inwestycyjnych oraz w procesie doradztwa nie zostały dostatecznie dopracowane, 
+ponieważ takie ujawnianie informacji nie podlega jeszcze zharmonizowanym wymogom. 
+(6) 
+Wyłączenie z zakresu stosowania niniejszego rozporządzenia doradców finansowych, którzy zatrudniają mniej niż 
+trzy osoby, powinno pozostawać bez uszczerbku dla stosowania przepisów prawa krajowego transponujących 
+dyrektywy 2014/65/UE i (UE) 2016/97, w szczególności przepisów dotyczących doradztwa inwestycyjnego i ubez­
+pieczeniowego. Wobec powyższego, choć doradcy tacy nie mają obowiązku przedstawiać informacji zgodnie 
+z niniejszym rozporządzeniem, w procesie doradztwa mają oni jednak obowiązek brania pod uwagę i uwzględniania 
+ryzyka dla zrównoważonego rozwoju. 
+(7)
+W zależności od charakteru prowadzonej działalności podmioty objęte zakresem stosowania niniejszego rozporzą­
+dzenia powinny stosować się do przepisów dotyczących uczestników rynku finansowego w przypadku gdy wytwa­
+rzają produkty finansowe oraz powinny stosować się do przepisów dotyczących doradców finansowych w przy­
+padku gdy świadczą usługi doradztwa inwestycyjnego lub ubezpieczeniowego. W przypadku gdy podmioty takie 
+prowadzą działalność zarówno uczestników rynku finansowego, jak i doradców finansowych, powinny one być 
+zatem uznawane za uczestników rynku finansowego w przypadku gdy działają w charakterze twórców produktów 
+finansowych, w tym w zakresie zarządzania portfelem, oraz powinny być uznawane za doradców finansowych 
+w przypadku gdy świadczą usługi doradztwa inwestycyjnego lub ubezpieczeniowego. 
+(8) 
+W związku z tym, że Unia w coraz większym stopniu mierzy się z katastrofalnymi i nieprzewidywalnymi skutkami 
+zmiany klimatu, wyczerpywaniem się zasobów oraz innymi kwestiami związanymi ze zrównoważonym rozwojem, 
+konieczne są pilne działania służące uruchomieniu kapitału nie tylko za pośrednictwem polityk publicznych, ale 
+również za pośrednictwem sektora usług finansowych. W związku z tym, na uczestników rynku finansowego 
+i doradców finansowych należy nałożyć wymóg ujawniania określonych informacji dotyczących sposobów, w jaki 
+wprowadzają oni do działalności ryzyka dla zrównoważonego rozwoju i biorą pod uwagę niekorzystne skutki dla 
+zrównoważonego rozwoju. 
+(4) Dyrektywa Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, 
+wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe 
+(UCITS) (Dz.U. L 302 z 17.11.2009, s. 32). 
+(5) Dyrektywa Parlamentu Europejskiego i Rady 2009/138/WE z dnia 25 listopada 2009 r. w sprawie podejmowania i prowadzenia dzia-
+łalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz.U. L 335 z 17.12.2009, s. 1). 
+(6) Dyrektywa Parlamentu Europejskiego i Rady 2011/61/UE z dnia 8 czerwca 2011 r. w sprawie zarządzających alternatywnymi fundu-
+szami inwestycyjnymi i zmiany dyrektyw 2003/41WE i 2009/65/WE oraz rozporządzeń (WE) nr 1060/2009 i (UE) nr 1095/2010 
+(Dz.U. L 174 z 1.7.2011, s. 1). 
+(7) Dyrektywa Parlamentu Europejskiego i Rady 2013/36/UE z dnia 26 czerwca 2013 r. w sprawie warunków dopuszczenia instytucji 
+kredytowych do działalności oraz nadzoru ostrożnościowego nad instytucjami kredytowymi i firmami inwestycyjnymi, zmieniająca 
+dyrektywę 2002/87/WE i uchylająca dyrektywy 2006/48/WE oraz 2006/49/WE (Dz.U. L 176 z 27.6.2013, s. 338). 
+(8) Dyrektywa Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz 
+zmieniająca dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz.U. L 173 z 12.6.2014, s. 349). 
+(9) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/97 z dnia 20 stycznia 2016 r. w sprawie dystrybucji ubezpieczeń (Dz.U. L 26 
+z 2.2.2016, s. 19). 
+(10) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2341 z dnia 14 grudnia 2016 r. w sprawie działalności instytucji pracowni-
+czych programów emerytalnych oraz nadzoru nad takimi instytucjami (IORP) (Dz.U. L 354 z 23.12.2016, s. 37). 
+(11) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 345/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy 
+venture capital (Dz.U. L 115 z 25.4.2013, s. 1). 
+(12) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 346/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy 
+na rzecz przedsiębiorczości społecznej (Dz.U. L 115 z 25.4.2013, s. 18). 
+(13) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2015/760 z dnia 29 kwietnia 2015 r. w sprawie europejskich długotermino-
+wych funduszy inwestycyjnych (Dz.U. L 123 z 19.5.2015, s. 98). 
+(14) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indy-
+widualnego produktu emerytalnego (OIPE) (Dz.U. L 198 z 25.7.2019, s. 1). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 317/2                                                                                                                                           
+9.12.2019   
+
+
+===== PAGE 3/16 =====
+
+(9) 
+Wobec braku zharmonizowanych przepisów unijnych dotyczących ujawniania inwestorom końcowym informacji 
+związanych ze zrównoważonym rozwojem istnieje prawdopodobieństwo, że na poziomie krajowym nadal przy­
+jmowane będą rozbieżne środki, a w poszczególnych sektorach usług finansowych mogłyby utrzymywać się różne 
+podejścia. Takie rozbieżne środki i podejścia nadal prowadziłyby do znaczących zakłóceń konkurencji ze względu 
+na istotne różnice w standardach informacyjnych. Ponadto równoległy rozwój praktyk rynkowych opartych 
+na komercyjnych priorytetach, które przynoszą rozbieżne rezultaty, powoduje obecnie dalszą fragmentację rynku 
+i mógłby nawet doprowadzić w przyszłości do dalszego pogorszenia efektywności funkcjonowania rynku wew­
+nętrznego. Rozbieżność standardów informacyjnych oraz praktyk rynkowych sprawia, że bardzo trudno jest porów­
+nać różne produkty finansowe, stwarza nierówne warunki konkurencji pomiędzy takimi produktami oraz pomiędzy 
+sieciami dystrybucji, a także powoduje powstawanie dodatkowych przeszkód na rynku wewnętrznym. Takie roz­
+bieżności mogłyby być również mylące dla inwestorów końcowych i mogłyby negatywnie wpływać na ich decyzje 
+inwestycyjne. Istnieje ryzyko, że w ramach zapewniania zgodności z porozumieniem paryskim, poszczególne pań­
+stwa członkowskie będą przyjmować rozbieżne środki krajowe, które mogłyby stwarzać przeszkody dla sprawnego 
+funkcjonowania rynku wewnętrznego oraz przynosić szkody uczestnikom rynku finansowego i doradcom finanso­
+wym. Ponadto brak zharmonizowanych przepisów dotyczących przejrzystości utrudnia inwestorom końcowym 
+skuteczne porównywanie różnych produktów finansowych w poszczególnych państwach członkowskich w odniesie­
+niu do związanych z nimi ryzyk środowiskowych, społecznych oraz ryzyk związanych z zarządzaniem, a także 
+celów zrównoważonego inwestowania. Dlatego też należy wyeliminować istniejące przeszkody dla funkcjonowania 
+rynku wewnętrznego oraz zwiększyć porównywalność produktów finansowych, tak aby zapobiec prawdopodob­
+nemu powstaniu przeszkód w przyszłości. 
+(10)
+Niniejsze rozporządzenie ma na celu zmniejszenie asymetrii informacji w stosunkach między zleceniodawcą a zlece­
+niobiorcą w odniesieniu do wprowadzenia do działalności ryzyk dla zrównoważonego rozwoju, brania pod uwagę 
+niekorzystnych skutków dla zrównoważonego rozwoju, promowania aspektu środowiskowego lub społecznego 
+oraz zrównoważonych inwestycji, poprzez nałożenie na uczestników rynku finansowego i doradców finansowych 
+wymogu ujawniania stosownych informacji inwestorom końcowym przed zawarciem umowy, a następnie na bie­
+żąco, w przypadku gdy działają oni jako zleceniobiorcy tych inwestorów końcowych (zleceniodawców). 
+(11) 
+Niniejsze rozporządzenie uzupełnia wymogi dotyczące ujawniania informacji określone w dyrektywach 2009/65/ 
+WE, 2009/138/WE, 2011/61/UE, 2014/65/UE, (UE) 2016/97 i (UE) 2016/2341 oraz rozporządzeniach (UE) 
+nr 345/2013, (UE) nr 346/2013, (UE) 2015/760 i (UE) 2019/1238, a także w prawie krajowym regulującym indy­
+widualne produkty emerytalne. Aby zapewnić sprawne i skuteczne monitorowanie przestrzegania niniejszego roz­
+porządzenia, państwa członkowskie powinny polegać na właściwych organach już wyznaczonych na mocy tych 
+przepisów. 
+(12) 
+Niniejsze rozporządzenie utrzymuje nałożone na uczestników rynku finansowego i doradców finansowych wymogi 
+działania w najlepszym interesie inwestorów końcowych, obejmujące między innymi wymóg przeprowadzenia 
+odpowiedniego badania due diligence przed dokonaniem inwestycji, jak przewidziano w dyrektywach 2009/65/ 
+WE, 2009/138/WE, 2011/61/UE, 2013/36/UE, 2014/65/UE, (UE) 2016/97 i (UE) 2016/2341 oraz rozporządze­
+niach (UE) nr 345/2013 i (UE) nr 346/2013, a także w prawie krajowym regulującym indywidualne produkty eme­
+rytalne. Aby wypełnić swoje obowiązki wynikające z tych przepisów, uczestnicy rynku finansowego i doradcy finan­
+sowi w swoich działaniach, w tym w ramach badania due diligence, powinni wprowadzać i stale oceniać nie tylko 
+wszystkie stosowne ryzyka finansowe, ale także wszystkie stosowne ryzyka dla zrównoważonego rozwoju, które 
+mogłyby mieć istotny negatywny wpływ na zwrot z inwestycji lub doradztwo. W związku z tym uczestnicy rynku 
+finansowego i doradcy finansowi powinni określić w swoich strategiach, w jaki sposób wprowadzają do działalności 
+te ryzyka, oraz opublikować te strategie. 
+(13) 
+Niniejsze rozporządzenie nakłada na uczestników rynku finansowego i doradców finansowych, którzy świadczą 
+usługi doradztwa inwestycyjnego lub ubezpieczeniowego w odniesieniu do ubezpieczeniowych produktów inwesty­
+cyjnych, niezależnie od struktury produktów finansowych i rynku docelowego, wymóg publikowania na piśmie 
+strategie wprowadzania do działalności ryzyk dla zrównoważonego rozwoju oraz zapewniania przejrzystości 
+takiego wprowadzania do działalności. 
+(14) 
+Ryzyko dla zrównoważonego rozwoju oznacza zdarzenie lub warunki środowiskowe, społeczne lub związane 
+z zarządzaniem, które – jeżeli wystąpią – mogłyby mieć istotny negatywny wpływ na wartość inwestycji, jak okreś­
+lono w przepisach sektorowych, w szczególności w dyrektywach 2009/65/WE, 2009/138/WE, 2011/61/UE, 
+2013/36/UE, 2014/65/UE, (UE) 2016/97 i (UE) 2016/2341 lub w przyjętych na ich podstawie aktach delegowanych 
+i regulacyjnych standardach technicznych. 
+(15)
+Niniejsze rozporządzenie powinno pozostawać bez uszczerbku dla przepisów dotyczących wprowadzania do dzia­
+łalności ryzyka, zawartych w dyrektywach 2009/65/WE,2009/138/WE, 2011/61/UE, 2013/36/UE, 2014/65/UE, 
+(UE) 2016/97 i (UE) 2016/2341 oraz rozporządzeniach (UE) nr 345/2013 i (UE) nr 346/2013, a także w prawie kra­
+jowym regulującym indywidualne produkty emerytalne, w tym między innymi dla mających zastosowanie stosow­
+nych kryteriów proporcjonalności, takich jak wielkość, organizacja wewnętrzna oraz charakter, zakres i stopień zło­
+PL
+Dziennik Urzędowy Unii Europejskiej 
+9.12.2019                                                                                                                                           
+L 317/3   
+
+
+===== PAGE 4/16 =====
+
+żoności danych działań. Niniejsze rozporządzenie ma na celu osiągnięcie większej przejrzystości w odniesieniu 
+do sposobu wprowadzania do działalności przez uczestników rynku finansowego i doradców finansowych ryzyk 
+dla zrównoważonego rozwoju w ich decyzjach inwestycyjnych oraz doradztwie inwestycyjnym lub ubezpieczenio­
+wym. W przypadku gdy w wyniku oceny ryzyka dla zrównoważonego rozwoju stwierdza się, że w odniesieniu 
+do danego produktu finansowego nie występują ryzyka dla zrównoważonego rozwoju, należy podać uzasadnienie 
+takiego stwierdzenia. W przypadku gdy w wyniku oceny ryzyka dla zrównoważonego rozwoju stwierdza się, że 
+takie ryzyka występują, należy ujawnić informacje – w ujęciu jakościowym albo ilościowym – na temat zakresu, 
+w jakim takie ryzyka mogłyby wpłynąć na wynik danego produktu finansowego. Oceny ryzyka dla zrównoważo­
+nego rozwoju i powiązane informacje ujawniane przed zawarciem umowy przez uczestników rynku finansowego 
+powinny stać się elementem informacji ujawnianych przed zawarciem umowy przez doradców finansowych. 
+Doradcy finansowi powinni ujawniać informacje na temat sposobu, w jaki uwzględniają ryzyka dla zrównoważo­
+nego rozwoju w procesie wyboru produktu finansowego, który jest przedstawiany inwestorom końcowym przed 
+świadczeniem usługi doradztwa, niezależnie od preferencji inwestorów końcowych w zakresie zrównoważonego 
+rozwoju. Powyższe powinno pozostawać bez uszczerbku dla stosowania przepisów prawa krajowego transponują­
+cych dyrektywy 2014/65/UE i (UE) 2016/97, w szczególności obowiązków uczestników rynku finansowego i dorad­
+ców finansowych w zakresie zarządzania produktem, ocen odpowiedniości i adekwatności oraz testu wymagań 
+i potrzeb. 
+(16) 
+Decyzje inwestycyjne oraz usługi doradztwa inwestycyjnego mogłyby mieć negatywny, istotny lub prawdopodobnie 
+istotny wpływ na czynniki zrównoważonego rozwoju, przyczyniać się do jego powstania lub mieć z nim bezpo­
+średni związek. 
+(17)
+W celu zapewnienia spójnego i konsekwentnego stosowania niniejszego rozporządzenia niezbędne jest ustanowie­
+nie zharmonizowanej definicji „zrównoważonych inwestycji”, która przewiduje, że spółki, w które dokonano inwes­
+tycji, stosują dobre praktyki w zakresie zarządzania oraz zapewniają przestrzegania zasady ostrożności „nie czyń 
+poważnych szkód” tak, aby nie wyrządzać poważnych szkód środowiskowych ani społecznych. 
+(18)
+W przypadku gdy uczestnicy rynku finansowego, biorąc należycie pod uwagę swoją wielkość, charakter i skalę pro­
+wadzonej działalności oraz rodzaje produktów finansowych, które udostępniają, biorą pod uwagę główne nieko­
+rzystne skutki decyzji inwestycyjnych dla czynników zrównoważonego rozwoju, niezależnie od tego, czy są one 
+istotne czy prawdopodobnie istotne, powinni oni wprowadzać w swoich działaniach, w tym w ramach badania due 
+diligence, procedury brania pod uwagę głównych niekorzystnych skutków obok stosownych ryzyk finansowych 
+i stosownych ryzyk dla zrównoważonego rozwoju. W informacjach na temat takich procedur mógłby zostać 
+zawarty opis tego, w jaki sposób uczestnicy rynku finansowego wywiązują się ze swoich obowiązków zarządczych 
+związanych ze zrównoważonym rozwojem lub z innych obowiązków wobec akcjonariuszy. Na swoich stronach 
+internetowych uczestnicy rynku finansowego powinni zamieszczać informacje na temat tych procedur oraz opis 
+głównych niekorzystnych skutków. W tym kontekście wspólny komitet Europejskiego Urzędu Nadzoru Bankowego 
+ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1093/2010 (15) (EUNB), Europejskiego 
+Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych ustanowionego rozporządzeniem Parla­
+mentu Europejskiego i Rady (UE) nr 1094/2010 (16) (EIOPA) oraz Europejskiego Urzędu Nadzoru Giełd i Papierów 
+Wartościowych ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1095/2010 (17) (ESMA) 
+(zwany dalej „wspólnym komitetem”), a także uczestnicy rynku finansowego i doradcy finansowi powinni brać pod 
+uwagę wytyczne dotyczące due diligence w zakresie odpowiedzialnego prowadzenia działalności gospodarczej opra­
+cowane przez Organizację Współpracy Gospodarczej i Rozwoju (OECD) oraz popierane przez Organizację Naro­
+dów Zjednoczonych zasady odpowiedzialnego inwestowania. 
+(19)
+Branie pod uwagę czynników zrównoważonego rozwoju w procesie podejmowania decyzji inwestycyjnych i proce­
+sie doradztwa inwestycyjnego może przynieść korzyści wykraczające poza rynki finansowe. Może zwiększyć odpor­
+ność gospodarki realnej i stabilność systemu finansowego. W ten sposób może ostatecznie mieć wpływ na profil 
+ryzyka i zwrotu z tytułu produktów finansowych. Dlatego istotne znaczenie ma to, aby uczestnicy rynku finanso­
+wego i doradcy finansowi podawali informacje niezbędne do umożliwienia inwestorom końcowym podejmowania 
+świadomych decyzji inwestycyjnych. 
+(15) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europej-
+skiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komi-
+sji 2009/78/WE (Dz.U. L 331 z 15.12.2010, s. 12). 
+(16) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europej-
+skiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych), zmiany decyzji 
+nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz.U. L 331 z 15.12.2010, s. 48). 
+(17) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1095/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europej-
+skiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych), zmiany decyzji nr 716/2009/WE i uchyle-
+nia decyzji Komisji 2009/77/WE (Dz.U. L 331 z 15.12.2010, s. 84). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 317/4                                                                                                                                           
+9.12.2019   
+
+
+===== PAGE 5/16 =====
+
+(20)
+Uczestnicy rynku finansowego, którzy biorą pod uwagę główne niekorzystne skutki decyzji inwestycyjnych dla czyn­
+ników zrównoważonego rozwoju, w informacjach ujawnianych przed zawarciem umowy powinni w odniesieniu 
+do każdego produktu finansowego ujawniać w sposób zwięzły – w ujęciu jakościowym lub ilościowym – w jaki spo­
+sób są brane pod uwagę główne niekorzystne skutki, a także powinni w informacjach tych umieścić oświadczenie, że 
+informacje na temat głównych niekorzystnych skutków dla czynników zrównoważonego rozwoju są dostępne 
+w ramach bieżącej sprawozdawczości. Główne niekorzystne skutki należy rozumieć jako te skutki decyzji inwestycyj­
+nych i usług doradztwa inwestycyjnego, które mają niekorzystny wpływ na czynniki zrównoważonego rozwoju. 
+(21) 
+Dotychczas opracowano zrównoważone produkty w różny sposób uwzględniające cele zrównoważonego rozwoju. 
+Dlatego do celów ujawniania informacji przed zawarciem umowy oraz ujawniania informacji w ramach sprawozdań 
+okresowych niezbędne jest wprowadzenie rozróżnienia pomiędzy wymogami dotyczącymi produktów finanso­
+wych, które promują aspekt środowiskowy lub społeczny, a wymogami dotyczącymi produktów finansowych, któ­
+rych celem jest osiąganie pozytywnych skutków środowiskowych i społecznych. W związku z tym, w przypadku 
+produktów finansowych, które obejmują aspekt środowiskowy lub społeczny, uczestnicy rynku finansowego 
+powinni ujawniać informacje na temat tego, czy i w jaki sposób wyznaczony indeks, indeks zrównoważonego roz­
+woju lub indeks podstawowy są dostosowane do tych aspektów, a w przypadku gdy nie stosuje się wskaźnika refe­
+rencyjnego – informacje na temat tego, w jaki sposób zapewnia się uwzględnienie aspektu dotyczącego zrównowa­
+żonego rozwoju w przypadku danego produktu finansowego. W przypadku produktów finansowych, których 
+celem jest osiąganie pozytywnych skutków środowiskowych i społecznych, uczestnicy rynku finansowego powinni 
+ujawniać informacje na temat rodzaju wskaźnika referencyjnego zrównoważonego rozwoju stosowanego przez 
+nich do pomiaru wyniku w zakresie zrównoważonego rozwoju, a w przypadku gdy nie stosuje się wskaźnika refe­
+rencyjnego – wyjaśniać, w jaki sposób cel zrównoważonego rozwoju zostaje osiągnięty. To ujawnianie informacji 
+powinno być dokonywane każdego roku w ramach ich sprawozdań okresowych. 
+(22) 
+Niniejsze rozporządzenie pozostaje bez uszczerbku dla przepisów dotyczących wynagrodzeń lub ocen wyników 
+osób zatrudnionych przez uczestników rynku finansowego i doradców finansowych zawartych w dyrektywach 
+2009/65/WE, 2009/138/WE, 2011/61/UE, 2013/36/UE, 2014/65/UE, (UE) 2016/97 i (UE) 2016/2341 oraz rozpo­
+rządzeniach (UE) nr 345/2013 i (UE) nr 346/2013, lub dla aktów wykonawczych oraz prawa krajowego regulują­
+cego indywidualne produkty emerytalne, w tym między innymi mających zastosowanie stosownych kryteriów pro­
+porcjonalności, takich jak wielkość, wewnętrzna organizacja oraz charakter, zakres i stopień złożoności danych 
+działań. Należy jednak osiągnąć większą przejrzystość – w ujęciu jakościowym lub ilościowym – w zakresie polityk 
+wynagrodzeń uczestników rynku finansowego i doradców finansowych w odniesieniu do świadczonych przez nich 
+usług doradztwa inwestycyjnego lub ubezpieczeniowego, które to polityki wspierają solidne i skuteczne zarządzanie 
+ryzykiem w odniesieniu do ryzyk dla zrównoważonego rozwoju, podczas gdy struktura wynagrodzenia nie zachęca 
+do podejmowania nadmiernego ryzyka w odniesieniu do ryzyk dla zrównoważonego rozwoju i jest powiązana 
+z wynikami skorygowanymi o ryzyko. 
+(23)
+W celu zwiększenia przejrzystości oraz informowania inwestorów końcowych, dostęp do informacji na temat spo­
+sobu wprowadzania do działalności przez uczestników rynku finansowego i doradców finansowych stosownych 
+ryzyk dla zrównoważonego rozwoju, niezależnie od tego czy są one istotne czy prawdopodobnie istotne, odpowied­
+nio w ich procesach podejmowania decyzji inwestycyjnych, łącznie z aspektami organizacyjnymi, zarządzania ryzy­
+kiem i zarządzania, oraz w procesach doradztwa, powinien być regulowany poprzez nałożenie na te podmioty 
+wymogu utrzymywania zwięzłych informacji na temat tych strategii na ich stronach internetowych. 
+(24)
+Obecne wymogi dotyczące ujawniania informacji określone w prawie Unii nie obejmują wymogu ujawniania wszyst­
+kich informacji niezbędnych do właściwego informowania inwestorów końcowych na temat związanych ze zrównowa­
+żonym rozwojem skutków ich inwestycji w produkty finansowe, które obejmują aspekt środowiskowy lub społeczny, 
+lub produkty finansowe służące osiągnięciu celów dotyczących zrównoważonego rozwoju. Należy zatem określić bar­
+dziej szczegółowe i znormalizowane wymogi dotyczące ujawniania informacji w odniesieniu do takich inwestycji. Na 
+przykład należy regularnie informować o ogólnych związanych ze zrównoważonym rozwojem skutkach produktów 
+finansowych, stosując wskaźniki właściwe dla pomiaru stopnia realizacji wybranego celu zrównoważonego inwesto­
+wania. W przypadku gdy wyznaczono odpowiedni indeks jako wskaźnik referencyjny, takie informacje należy również 
+przedstawiać w odniesieniu do wyznaczonego indeksu, a także szerokiego indeksu giełdowego, aby umożliwić porów­
+nanie. W przypadku gdy zarządzający EuSEF udostępniają informacje na temat pozytywnych skutków społecznych, 
+które są celem danego funduszu, na temat ogólnych osiągniętych skutków społecznych i na temat powiązanych metod 
+stosowanych zgodnie z rozporządzeniem (UE) nr 346/2013, mogliby oni w stosownych przypadkach wykorzystywać 
+takie informacje do celów ujawniania informacji na podstawie niniejszego rozporządzenia. 
+(25)
+Dyrektywą Parlamentu Europejskiego i Rady 2013/34/UE (18) nałożono obowiązki w zakresie przejrzystości w odnie­
+sieniu do kwestii środowiskowych, społecznych i ładu korporacyjnego w sprawozdawczości niefinansowej. Jednakże 
+forma i prezentacja wymagana na podstawie tej dyrektywy nie zawsze jest odpowiednia do bezpośredniego wyko­
+rzystania przez uczestników rynku finansowego i doradców finansowych w relacjach z inwestorami końcowymi. 
+Do celów niniejszego rozporządzenia oraz zgodnie z tą dyrektywą uczestnicy rynku finansowego i doradcy finan­
+sowi powinni w stosownych przypadkach mieć możliwość wykorzystania informacji zawartych w sprawozdaniach 
+z działalności oraz oświadczeniach na temat informacji niefinansowych. 
+(18) Dyrektywa Parlamentu Europejskiego i Rady 2013/34/UE z dnia 26 czerwca 2013 r. w sprawie rocznych sprawozdań finansowych, skon-
+solidowanych sprawozdań finansowych i powiązanych sprawozdań niektórych rodzajów jednostek, zmieniająca dyrektywę Parlamentu 
+Europejskiego i Rady 2006/43/WE oraz uchylająca dyrektywy Rady 78/660/EWG i 83/349/EWG (Dz.U. L 182 z 29.6.2013, s. 19). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+9.12.2019                                                                                                                                           
+L 317/5   
+
+
+===== PAGE 6/16 =====
+
+(26) 
+Aby zapewnić wiarygodność informacji publikowanych na stronach internetowych uczestników rynku finansowego 
+i doradców finansowych, takie informacje powinny być aktualizowane, a każdy przegląd lub zmianę takich informa­
+cji należy wyjaśnić w zrozumiały sposób. 
+(27) 
+Pomimo tego, że niniejsze rozporządzenie nie obejmuje krajowych systemów zabezpieczenia społecznego, które są 
+objęte zakresem stosowania rozporządzeń (WE) nr 883/2004 i (WE) nr 987/2009, to ze względu na fakt, że pań­
+stwa członkowskie coraz częściej dopuszczają do zarządzania obowiązkowymi programami emerytalnymi w ramach 
+swoich systemów zabezpieczenia społecznego przez uczestników rynku finansowego lub przez inne podmioty 
+prawa prywatnego, a także ponieważ systemy takie są narażone na ryzyka dla zrównoważonego rozwoju oraz mog­
+łyby brać pod uwagę niekorzystne skutki dla zrównoważonego rozwoju, promować aspekty środowiskowe lub spo­
+łeczne lub realizować zrównoważone inwestycje, państwa członkowskie powinny mieć możliwość stosowania 
+niniejszego rozporządzenia w odniesieniu do takich systemów, aby złagodzić asymetrię informacji. 
+(28) 
+Niniejsze rozporządzenie nie powinno uniemożliwiać państwom członkowskim przyjmowania lub utrzymywania 
+w mocy bardziej rygorystycznych przepisów dotyczących publikowania strategii w zakresie przystosowania się 
+do zmiany klimatu oraz strategii dotyczących ujawniania inwestorom końcowym dodatkowych informacji dotyczą­
+cych ryzyk dla zrównoważonego rozwoju, pod warunkiem że uczestnicy rynku finansowego i doradcy finansowi, 
+których przepisy takie dotyczą, mają siedziby główne na ich terytoriach. Takie przepisy nie powinny jednak mieć 
+wpływu na skuteczne stosowanie niniejszego rozporządzenia ani na realizację jego celów. 
+(29)
+Na podstawie dyrektywy (UE) 2016/2341 IORP są już zobowiązane do stosowania przepisów dotyczących zarzą­
+dzania i zarządzania ryzykiem do swoich decyzji inwestycyjnych i ocen ryzyka w celu zapewnienia ciągłości i regu­
+larności. Decyzje inwestycyjne powinny być podejmowane, a ocena związanych z nimi ryzyk, w tym ryzyk środo­
+wiskowych, społecznych i związanych z zarządzaniem, powinna być przeprowadzana, w sposób zapewniający 
+zgodność z interesami członków i beneficjentów IORP. EIOPA powinna wydać wytyczne dotyczące sposobu, w jaki 
+w decyzjach inwestycyjnych i ocenach ryzyka IORP mają uwzględniać ryzyka środowiskowe, społeczne i związane 
+z zarządzaniem na podstawie tej dyrektywy. 
+(30) 
+EUNB, EIOPA i ESMA (łącznie zwanym „europejskimi urzędami nadzoru”) należy zlecić, poprzez wspólny komitet, 
+opracowanie projektów regulacyjnych standardów technicznych w celu doprecyzowania treści, metod i prezentacji 
+informacji związanych ze wskaźnikami zrównoważonego rozwoju w odniesieniu do klimatu i innych niekorzyst­
+nych skutków środowiskowych, do kwestii społecznych i pracowniczych, poszanowania praw człowieka oraz prze­
+ciwdziałania korupcji i przekupstwu, a także w celu doprecyzowania prezentacji i treści informacji w odniesieniu 
+do promowania aspektu środowiskowego lub społecznego oraz celów zrównoważonego inwestowania, które należy 
+ujawniać w dokumentach przed zawarciem umowy, sprawozdaniach rocznych i na stronach internetowych uczest­
+ników rynku finansowego zgodnie z art. 10–14 rozporządzenia (UE) nr 1093/2010, (UE) nr 1094/2010 i (UE) 
+nr 1095/2010. Komisja powinna być uprawniona do przyjmowania tych regulacyjnych standardów technicznych 
+w drodze aktów delegowanych na mocy art. 290 Traktatu o funkcjonowaniu Unii Europejskiej (TFUE) oraz zgodnie 
+z art. 10-14 rozporządzeń (UE) nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010. 
+(31) 
+Europejskim urzędom nadzoru należy zlecić, poprzez wspólny komitet, opracowanie projektów wykonawczych 
+standardów technicznych w celu określenia standardowej prezentacji informacji na temat promowania aspektu śro­
+dowiskowego lub społecznego i zrównoważonych inwestycji w komunikatach marketingowych. Komisja powinna 
+być uprawniona do przyjmowania tych wykonawczych standardów technicznych w drodze aktów wykonawczych 
+na mocy art. 291 TFUE oraz zgodnie z art. 15 rozporządzeń (UE) nr 1093/2010, (UE) nr 1094/2010 i (UE) 
+nr 1095/2010. 
+(32)
+Ponieważ w sprawozdaniach rocznych co do zasady podsumowuje się wyniki gospodarcze za pełne lata kalenda­
+rzowe, przepisy niniejszego rozporządzenia dotyczące wymogów w zakresie przejrzystości w odniesieniu do takich 
+sprawozdań nie powinny być stosowane do dnia 1 stycznia 2022 r. 
+(33)
+Przepisy dotyczące ujawniania informacji zawarte w niniejszym rozporządzeniu powinny być uzupełnieniem prze­
+pisów dyrektyw 2009/65/WE, 2009/138/WE, 2011/61/UE, 2014/65/UE, (UE) 2016/97 i (UE) 2016/2341 oraz roz­
+porządzeń (UE) nr 345/2013, (UE) nr 346/2013, (UE) 2015/760 i (UE) 2019/1238 
+(34) 
+Niniejsze rozporządzenie nie narusza praw podstawowych i jest zgodne z zasadami zapisanymi w szczególności 
+w Karcie praw podstawowych Unii Europejskiej. 
+(35) 
+Ponieważ cele niniejszego rozporządzenia, a mianowicie zwiększenie ochrony inwestorów końcowych i poszerzenie 
+zakresu ujawnianych im informacji, w tym w przypadkach dokonywania transgranicznych zakupów przez inwesto­
+rów końcowych, nie mogą zostać osiągnięte w sposób wystarczający przez państwa członkowskie, natomiast ze 
+względu na konieczność ustanowienia jednolitych wymogów dotyczących ujawniania informacji, możliwe jest ich 
+lepsze osiągnięcie na poziomie Unii, może ona podjąć działania zgodnie z zasadą pomocniczości określoną w art. 5 
+Traktatu o Unii Europejskiej. Zgodnie z zasadą proporcjonalności określoną w tym artykule, niniejsze rozporządze­
+nie nie wykracza poza to, co jest konieczne do osiągnięcia tych celów, 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 317/6                                                                                                                                           
+9.12.2019   
+
+
+===== PAGE 7/16 =====
+
+PRZYJMUJĄ NINIEJSZE ROZPORZĄDZENIE: 
+Artykuł 1 
+Przedmiot 
+Niniejsze rozporządzenie ustanawia zharmonizowane przepisy dla uczestników rynku finansowego i doradców finanso­
+wych dotyczące przejrzystości w odniesieniu do wprowadzania do działalności ryzyk dla zrównoważonego rozwoju 
+oraz brania pod uwagę niekorzystnych skutków dla zrównoważonego rozwoju w prowadzonych przez nich działaniach, 
+a także w odniesieniu do przedstawiania przez nich informacji związanych ze zrównoważonym rozwojem na temat pro­
+duktów finansowych. 
+Artykuł 2 
+Definicje 
+Do celów niniejszego rozporządzenia stosuje się następujące definicje: 
+1) 
+„uczestnik rynku finansowego” oznacza: 
+a) zakład ubezpieczeń, który udostępnia ubezpieczeniowy produkt inwestycyjny; 
+b) firmę inwestycyjną, która świadczy usługi zarządzania portfelem; 
+c) instytucję pracowniczych programów emerytalnych (IORP); 
+d) twórcę produktu emerytalnego; 
+e) zarządzających alternatywnymi funduszami inwestycyjnymi (ZAFI); 
+f) dostawcę ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE); 
+g) zarządzającego kwalifikowalnym funduszem venture capital zarejestrowanego zgodnie z art. 14 rozporządzenia 
+(UE) nr 345/2013; 
+h) zarządzającego kwalifikowalnym funduszem na rzecz przedsiębiorczości społecznej zarejestrowanego zgodnie 
+z art. 15 rozporządzenia (UE) nr 346/2013; 
+i)
+spółkę zarządzającą przedsiębiorstwa zbiorowego inwestowania w zbywalne papiery wartościowe (spółkę zarzą­
+dzającą UCITS); lub 
+j) instytucję kredytową, która świadczy usługi zarządzania portfelem; 
+2) 
+„zakład ubezpieczeń” oznacza zakład ubezpieczeń, który uzyskał zezwolenie zgodnie z art. 18 dyrektywy 2009/138/ 
+WE; 
+3) 
+„ubezpieczeniowy produkt inwestycyjny” oznacza: 
+a) ubezpieczeniowy produkt inwestycyjny zdefiniowany w art. 4 pkt 2 rozporządzenia Parlamentu Europejskiego 
+i Rady (UE) nr 1286/2014 (19); lub 
+b) produkt ubezpieczeniowy udostępniony inwestorowi profesjonalnemu, zapewniający wartość w dniu zapadal­
+ności lub wartość wykupu, która jest całkowicie lub częściowo narażona, bezpośrednio lub pośrednio, na wahania 
+rynkowe; 
+4) 
+„zarządzający alternatywnym funduszem inwestycyjnym” lub „ZAFI” oznacza ZAFI zdefiniowany w art. 4 ust. 1 lit. b) 
+dyrektywy 2011/61/UE; 
+5) 
+„firma inwestycyjna” oznacza firmę inwestycyjną zdefiniowaną w art. 4 ust. 1 pkt 1 dyrektywy 2014/65/UE; 
+6) 
+„zarządzanie portfelem” oznacza zarządzanie portfelem zdefiniowane w art. 4 ust. 1 pkt 8 dyrektywy 2014/65/UE; 
+7)
+„instytucja pracowniczych programów emerytalnych” lub „IORP” oznacza instytucję pracowniczych programów eme­
+rytalnych, która uzyskała zezwolenie lub została zarejestrowana zgodnie z art. 9 dyrektywy (UE) 2016/2341, z wyjąt­
+kiem instytucji, w odniesieniu do której państwo członkowskie zdecydowało się stosować art. 5 tej dyrektywy lub 
+instytucji, która obsługuje programy emerytalne obejmujące łącznie mniej niż 15 uczestników; 
+(19) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierają-
+cych kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwesty-
+cyjnych (PRIIP) (Dz.U. L 352 z 9.12.2014, s. 1). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+9.12.2019                                                                                                                                           
+L 317/7   
+
+
+===== PAGE 8/16 =====
+
+8) 
+„produkt emerytalny” oznacza: 
+a) produkt emerytalny, o którym mowa w art. 2 ust. 2 lit. e) rozporządzenia (UE) nr 1286/2014; lub 
+b) indywidualny produkt emerytalny, o którym mowa w art. 2 ust. 2 lit. g) rozporządzenia (UE) nr 1286/2014; 
+9) 
+„ogólnoeuropejski indywidualny produkt emerytalny” lub „OIPE” oznacza produkt, o którym mowa w art. 2 pkt 2 
+rozporządzenia (UE) 2019/1238; 
+10) „spółka zarządzająca UCITS” oznacza: 
+a) spółkę zarządzającą zdefiniowaną w art. 2 ust. 1 lit. b) dyrektywy 2009/65/WE; lub 
+b) spółkę inwestycyjną, która uzyskała zezwolenie zgodnie z dyrektywą 2009/65/WE i która do celów zarządzania 
+nią nie wyznaczyła spółki zarządzającej posiadającej zezwolenie na mocy tej dyrektywy; 
+11) „doradca finansowy” oznacza: 
+a) pośrednika ubezpieczeniowego, który świadczy usługi doradztwa ubezpieczeniowego w odniesieniu do ubezpie­
+czeniowych produktów inwestycyjnych; 
+b) zakład ubezpieczeń, który świadczy usługi doradztwa ubezpieczeniowego w odniesieniu do ubezpieczeniowych 
+produktów inwestycyjnych; 
+c) instytucję kredytową, która świadczy usługi doradztwa inwestycyjnego; 
+d) firmę inwestycyjną, która świadczy usługi doradztwa inwestycyjnego; 
+e) ZAFI, który świadczy usługi doradztwa inwestycyjnego zgodnie z art. 6 ust. 4 lit. b) ppkt (i) dyrektywy 2011/61/ 
+UE; lub 
+f) spółkę zarządzającą UCITS, która świadczy usługi doradztwa inwestycyjnego zgodnie z art. 6 ust. 3 lit. b) ppkt (i) 
+dyrektywy 2009/65/WE; 
+12) „produkt finansowy” oznacza: 
+a) portfel zarządzany zgodnie z pkt 6 niniejszego artykułu; 
+b) alternatywny fundusz inwestycyjny (AFI); 
+c) ubezpieczeniowy produkt inwestycyjny; 
+d) produkt emerytalny; 
+e) program emerytalny; 
+f) UCITS; lub 
+g) OIPE; 
+13) „alternatywny fundusz inwestycyjny” lub „AFI” oznacza AFI zdefiniowany w art. 4 ust. 1 lit. a) dyrektywy 2011/61/UE; 
+14) „program emerytalny” oznacza program emerytalny zdefiniowany w art. 6 pkt 2 dyrektywy (UE) 2016/2341; 
+15) „przedsiębiorstwo zbiorowego inwestowania w zbywalne papiery wartościowe” lub „UCITS” oznacza przedsiębior­
+stwo zbiorowego inwestowania w zbywalne papiery wartościowe, które uzyskało zezwolenie zgodnie z art. 5 dyrek­
+tywy 2009/65/WE; 
+16) „doradztwo inwestycyjne” oznacza doradztwo inwestycyjne zdefiniowane w art. 4 ust. 1 pkt 4 dyrektywy 2014/65/ 
+UE; 
+17) „zrównoważona inwestycja” oznacza inwestycję w działalność gospodarczą, która przyczynia się do realizacji celu śro­
+dowiskowego, na przykład taka, która jest mierzona za pomocą kluczowych wskaźników zasobooszczędności pod 
+kątem zużycia energii, wykorzystywania energii ze źródeł odnawialnych, wykorzystywania surowców, zużycia wody 
+i użytkowania gruntów, generowania odpadów, emisji gazów cieplarnianych lub wpływu na różnorodność biolo­
+giczną i gospodarkę o obiegu zamkniętym, lub inwestycję w działalność gospodarczą, która przyczynia się do realizacji 
+celu społecznego, w szczególności inwestycję przyczyniającą się do przeciwdziałania nierównościom lub inwestycję 
+wspierającą spójność społeczną, integrację społeczną i stosunki pracy, lub inwestycję w kapitał ludzki lub w społecz­
+ności znajdujące się w niekorzystnej sytuacji pod względem gospodarczym lub społecznym, o ile takie inwestycje nie 
+naruszają poważnie któregokolwiek z tych celów, a spółki, w które dokonano inwestycji, stosują dobre praktyki 
+w zakresie zarządzania, w szczególności w odniesieniu do solidnych struktur zarządzania, stosunków pracowniczych, 
+wynagrodzenia dla osób zatrudnionych i przestrzegania przepisów prawa podatkowego; 
+18) „inwestor profesjonalny” oznacza klienta, który spełnia kryteria określone w załączniku II do dyrektywy 2014/65/UE; 
+19) „inwestor detaliczny” oznacza inwestora niebędącego inwestorem profesjonalnym; 
+20) „pośrednik ubezpieczeniowy” oznacza pośrednika ubezpieczeniowego zdefiniowanego w art. 2 ust. 1 pkt 3 dyrektywy 
+(UE) 2016/97; 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 317/8                                                                                                                                           
+9.12.2019   
+
+
+===== PAGE 9/16 =====
+
+21) „doradztwo ubezpieczeniowe” oznacza doradztwo zdefiniowane w art. 2 ust. 1 pkt 15 dyrektywy (UE) 2016/97; 
+22) „ryzyko dla zrównoważonego rozwoju” oznacza sytuację lub warunki środowiskowe, społeczne lub związane z zarzą­
+dzaniem, które – jeżeli wystąpią – mogłyby mieć, rzeczywisty lub potencjalny, istotny negatywny wpływ na wartość 
+inwestycji; 
+23) „europejski długoterminowy fundusz inwestycyjny” lub „EDFI” oznacza fundusz, który uzyskał zezwolenie zgodnie 
+z art. 6 rozporządzenia (UE) 2015/760; 
+24) „czynniki zrównoważonego rozwoju” oznaczają kwestie środowiskowe, społeczne i pracownicze, kwestie dotyczące 
+poszanowania praw człowieka oraz przeciwdziałania korupcji i przekupstwu. 
+Artykuł 3 
+Przejrzystość strategii dotyczących ryzyka dla zrównoważonego rozwoju 
+1.
+Uczestnicy rynku finansowego publikują na swoich stronach internetowych informacje na temat swoich strategii 
+dotyczących wprowadzania do działalności ryzyk dla zrównoważonego rozwoju w procesie podejmowania decyzji inwes­
+tycyjnych. 
+2.
+Doradcy finansowi publikują na swoich stronach internetowych informacje na temat swoich strategii dotyczących 
+wprowadzania do działalności ryzyk dla zrównoważonego rozwoju w ramach świadczenia usług doradztwa inwestycyj­
+nego lub ubezpieczeniowego. 
+Artykuł 4 
+Przejrzystość w zakresie niekorzystnych skutków dla zrównoważonego rozwoju na poziomie podmiotu 
+1.
+Uczestnicy rynku finansowego publikują i utrzymują na swoich stronach internetowych: 
+a) w przypadku gdy biorą pod uwagę główne niekorzystne skutki decyzji inwestycyjnych dla czynników zrównoważo­
+nego rozwoju – oświadczenie na temat strategii w zakresie due diligence w odniesieniu do tych skutków, biorąc przy 
+tym należycie pod uwagę swoją wielkość oraz charakter i skalę prowadzonej działalności, a także rodzaje produktów 
+finansowych, które udostępniają; lub 
+b) w przypadku gdy nie biorą pod uwagę głównych niekorzystnych skutków decyzji inwestycyjnych dla czynników zrów­
+noważonego rozwoju – jasne uzasadnienie takiego postępowania, obejmujące w stosownych przypadkach informacje 
+na temat tego, czy i kiedy zamierzają brać pod uwagę takie niekorzystne skutki. 
+2.
+Uczestnicy rynku finansowego włączają do informacji przedstawianych zgodnie z ust. 1 lit. a) przynajmniej: 
+a) informacje na temat ich strategii określania i hierarchizacji głównych niekorzystnych skutków dla zrównoważonego 
+rozwoju i wskaźników; 
+b) opis głównych niekorzystnych skutków dla zrównoważonego rozwoju i opis wszelkich podjętych w odniesieniu do nich 
+oraz, w stosownych przypadkach, planowanych działań; 
+c) gdy ma to zastosowanie, krótkie podsumowania polityk dotyczących zaangażowania zgodnie z art. 3g dyrektywy 
+2007/36/WE; 
+d) odniesienie do przestrzegania przez nie kodeksów odpowiedzialnego prowadzenia działalności gospodarczej oraz uzna­
+nych na poziomie międzynarodowym standardów w zakresie due diligence i sprawozdawczości oraz, w stosownych 
+przypadkach, stopnia ich dostosowania do celów porozumienia paryskiego. 
+3.
+Na zasadzie odstępstwa od ust. 1, od dnia 30 czerwca 2021 r. uczestnicy rynku finansowego przekraczający na dzień 
+bilansowy kryterium średniej liczby 500 pracowników w ciągu roku obrotowego publikują i utrzymują na swoich stronach 
+internetowych oświadczenie na temat ich strategii w zakresie due diligence w odniesieniu do głównych niekorzystnych 
+skutków decyzji inwestycyjnych dla czynników zrównoważonego rozwoju. Oświadczenie to zawiera przynajmniej infor-
+macje, o których mowa w ust. 2. 
+4.
+Na zasadzie odstępstwa od ust. 1, od dnia 30 czerwca 2021 r. uczestnicy rynku finansowego, którzy są jednostkami 
+dominującymi dużej grupy, o czym mowa w art. 3 ust. 7 dyrektywy 2013/34/UE, przekraczający – w ujęciu skonsolidowa-
+nym – na dzień bilansowy grupy kryterium średniej liczby 500 pracowników w ciągu roku obrotowego publikują i utrzy-
+mują na swoich stronach internetowych oświadczenie na temat ich strategii w zakresie due diligence w odniesieniu do głów-
+nych niekorzystnych skutków decyzji inwestycyjnych dla czynników zrównoważonego rozwoju. Oświadczenie zawiera 
+przynajmniej informacje, o których mowa w ust. 2. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+9.12.2019                                                                                                                                           
+L 317/9   
+
+
+===== PAGE 10/16 =====
+
+5.
+Doradcy finansowi publikują i utrzymują na swoich stronach internetowych: 
+a) informacje o tym, czy – biorąc należycie pod uwagę swoją wielkość, charakter i skalę prowadzonej działalności oraz 
+rodzaje produktów finansowych, w odniesieniu do których świadczą usługi doradztwa – w ramach świadczenia usług 
+doradztwa inwestycyjnego lub ubezpieczeniowego biorą pod uwagę główne niekorzystne skutki dla czynników zrów­
+noważonego rozwoju; lub 
+b) informacje o tym, dlaczego nie biorą pod uwagę głównych niekorzystnych skutków decyzji inwestycyjnych dla czynni­
+ków zrównoważonego rozwoju w ramach świadczenia usług doradztwa inwestycyjnego lub ubezpieczeniowego oraz, 
+w stosownych przypadkach, informacje na temat tego, czy i kiedy zamierzają brać pod uwagę takie niekorzystne skutki. 
+6.
+Do dnia 30 grudnia 2020 r. europejskie urzędy nadzoru opracują, poprzez wspólny komitet, projekty regulacyjnych 
+standardów technicznych zgodnie z art. 10–14 rozporządzeń (UE) nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010 
+dotyczących treści, metod i prezentacji informacji, o których mowa w ust. 1–5 niniejszego artykułu, w odniesieniu 
+do wskaźników zrównoważonego rozwoju dotyczących niekorzystnych skutków dla klimatu i innych niekorzystnych skut-
+ków środowiskowych. 
+W stosownych przypadkach europejskie urzędy nadzoru będą się konsultować z Europejską Agencją Środowiska i Wspól­
+nym Centrum Badawczym Komisji Europejskiej. 
+Komisji przekazuje się uprawnienia do uzupełnienia niniejszego rozporządzenia w drodze przyjmowania regulacyjnych 
+standardów technicznych, o których mowa w akapicie pierwszym, zgodnie z art. 10-14 rozporządzeń (UE) nr 1093/2010, 
+(UE) nr 1094/2010 i (UE) nr 1095/2010. 
+7.
+Do dnia 30 grudnia 2021 r. europejskie urzędy nadzoru opracują, poprzez wspólny komitet, projekty regulacyjnych 
+standardów technicznych zgodnie z art. 10–14 rozporządzeń (UE) nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010 
+dotyczących treści, metod i prezentacji informacji, o których mowa w ust. 1–5 niniejszego artykułu, w odniesieniu 
+do wskaźników zrównoważonego rozwoju dotyczących niekorzystnych skutków w zakresie kwestii społecznych i pracow-
+niczych, poszanowania praw człowieka oraz przeciwdziałania korupcji i przekupstwu. 
+Komisji przekazuje się uprawnienia do uzupełnienia niniejszego rozporządzenia w drodze przyjmowania regulacyjnych 
+standardów technicznych, o których mowa w akapicie pierwszym, zgodnie z art. 10-14 rozporządzeń (UE) nr 1093/2010, 
+(UE) nr 1094/2010 i (UE) nr 1095/2010. 
+Artykuł 5 
+Przejrzystość polityk wynagrodzeń w związku z wprowadzaniem do działalności ryzyk dla zrównoważonego 
+rozwoju 
+1.
+Uczestnicy rynku finansowego i doradcy finansowi ujmują w swoich politykach wynagrodzeń informacje o sposobie 
+zapewniania spójności tych polityk z wprowadzaniem do działalności ryzyk dla zrównoważonego rozwoju oraz publikują 
+te informacje na swoich stronach internetowych. 
+2.
+Informacje, o których mowa w ust. 1, ujmuje się w politykach wynagrodzeń, do których określenia i stosowania 
+zgodnie z przepisami sektorowymi, w szczególności dyrektywami 2009/65/WE, 2009/138/WE, 2011/61/UE, 2013/36/ 
+UE, 2014/65/UE, (UE) 2016/97 i (UE) 2016/2341, zobowiązani są uczestnicy rynku finansowego i doradcy finansowi. 
+Artykuł 6 
+Przejrzystość w zakresie wprowadzania do działalności ryzyk dla zrównoważonego rozwoju 
+1.
+Uczestnicy rynku finansowego włączają do informacji ujawnianych przed zawarciem umowy opis następujących ele­
+mentów: 
+a) sposób, w jaki ryzyka dla zrównoważonego rozwoju są wprowadzane w podejmowanych przez nich decyzjach inwes­
+tycyjnych; oraz 
+b) wyniki oceny prawdopodobnego wpływu ryzyk dla zrównoważonego rozwoju na zwrot z tytułu produktów finanso­
+wych, które udostępniają. 
+W przypadku gdy uczestnicy rynku finansowego uznają, że ryzyka dla zrównoważonego rozwoju są nieznaczące, opis ele­
+mentów, o których mowa w akapicie pierwszym, obejmuje jasne i zwięzłe wyjaśnienie przyczyn uznania tych ryzyk za nie­
+znaczące. 
+2.
+Doradcy finansowi włączają do informacji ujawnianych przed zawarciem umowy opis następujących elementów: 
+a) sposób, w jaki ryzyka dla zrównoważonego rozwoju są wprowadzane w świadczonych przez nich usługach doradztwa 
+inwestycyjnego lub ubezpieczeniowego; oraz 
+b) wyniki oceny prawdopodobnego wpływu ryzyk dla zrównoważonego rozwoju na zwrot z tytułu produktów finanso­
+wych, w odniesieniu do których doradzają. 
+W przypadku gdy doradcy finansowi uznają, że ryzyka dla zrównoważonego rozwoju są nieznaczące, opis elementów, 
+o których mowa w akapicie pierwszym, obejmuje jasne i zwięzłe wyjaśnienie przyczyn uznania tych ryzyk za nieznaczące. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 317/10                                                                                                                                         
+9.12.2019   
+
+
+===== PAGE 11/16 =====
+
+3.
+Informacje, o których mowa w ust. 1 i 2, podlegają ujawnieniu w następujący sposób: 
+a) w przypadku ZAFI – w ramach ujawniania inwestorom informacji, o których mowa w art. 23 ust. 1 dyrektywy 
+2011/61/UE; 
+b) w przypadku zakładów ubezpieczeń – w ramach przekazywania informacji, o których mowa w art. 185 ust. 2 dyrek­
+tywy 2009/138/WE, lub, w stosownych przypadkach, zgodnie z art. 29 ust. 1 dyrektywy (UE) 2016/97; 
+c) w przypadku IORP – w ramach przekazywania informacji, o których mowa w art. 41 dyrektywy (UE) 2016/2341; 
+d) w przypadku zarządzających kwalifikowalnymi funduszami venture capital – w ramach przekazywania informacji, 
+o których mowa w art. 13 ust. 1 rozporządzenia (UE) nr 345/2013; 
+e) w przypadku zarządzających kwalifikowalnymi funduszami na rzecz przedsiębiorczości społecznej – w ramach przeka­
+zywania informacji, o których mowa w art. 14 ust. 1 rozporządzenia (UE) nr 346/2013; 
+f) w przypadku twórców produktów emerytalnych – w formie pisemnej, z odpowiednim wyprzedzeniem, zanim inwestor 
+detaliczny zostanie związany umową dotyczącą produktu emerytalnego; 
+g) w przypadku spółek zarządzających UCITS – w prospekcie emisyjnym, o którym mowa w art. 69 dyrektywy 2009/65/ 
+WE; 
+h) w przypadku firm inwestycyjnych, które świadczą usługi zarządzania portfelem lub usługi doradztwa inwestycyjnego – 
+zgodnie z art. 24 ust. 4 dyrektywy 2014/65/UE; 
+i) w przypadku instytucji kredytowych, które świadczą usługi zarządzania portfelem lub usługi doradztwa inwestycyjnego 
+– zgodnie z art. 24 ust. 4 dyrektywy 2014/65/UE; 
+j)
+w przypadku pośredników ubezpieczeniowych i zakładów ubezpieczeń, świadczących usługi doradztwa ubezpiecze­
+niowego w odniesieniu do ubezpieczeniowych produktów inwestycyjnych, oraz w przypadku pośredników ubezpiecze­
+niowych, którzy świadczą usługi doradztwa ubezpieczeniowego w odniesieniu do produktów emerytalnych narażonych 
+na wahania rynkowe – zgodnie z art. 29 ust. 1 dyrektywy (UE) 2016/97; 
+k) w przypadku ZAFI, którzy zarządzają EDFI – w prospekcie emisyjnym, o którym mowa w art. 23 rozporządzenia (UE) 
+2015/760; 
+l) w przypadku dostawców OIPE – w dokumencie zawierającym kluczowe informacje dotyczące OIPE, o którym mowa 
+w art. 26 rozporządzenia (UE) 2019/1238. 
+Artykuł 7 
+Przejrzystość w zakresie niekorzystnych skutków dla zrównoważonego rozwoju na poziomie produktu 
+finansowego 
+1.
+Do dnia 30 grudnia 2022 r. w odniesieniu do każdego produktu finansowego, w przypadku gdy uczestnik rynku 
+finansowego udostępnia informacje zgodnie z art. 4 ust. 1 lit. a) lub art. 4 ust. 3 lub 4, ujawniane informacje, o których 
+mowa w art. 6 ust. 3, obejmują: 
+a) jasne i uzasadnione wyjaśnienie czy i w jaki sposób produkt finansowy bierze pod uwagę główne niekorzystne skutki 
+dla czynników zrównoważonego rozwoju; 
+b) oświadczenie, że informacje na temat głównych niekorzystnych skutków dla czynników zrównoważonego rozwoju są 
+dostępne w ramach informacji ujawnianych na podstawie art. 11 ust. 2. 
+W przypadku gdy informacje, o których mowa w art. 11 ust. 2, obejmują ujęcie ilościowe dotyczące głównych niekorzyst­
+nych skutków dla czynników zrównoważonego rozwoju, informacje te mogą opierać się na przepisach regulacyjnych stan­
+dardów technicznych przyjętych na podstawie art. 4 ust. 6 i 7. 
+2.
+W przypadku gdy uczestnik rynku finansowego udostępnia informacje zgodnie z art. 4 ust. 1 lit. b), ujawniane infor­
+macje, o których mowa w art. 6 ust. 3, obejmują oświadczenie w odniesieniu do każdego produktu finansowego, że dany 
+uczestnik rynku finansowego nie bierze pod uwagę głównych niekorzystnych skutków decyzji inwestycyjnych dla czynni­
+ków zrównoważonego rozwoju oraz wskazanie przyczyn takiego postępowania. 
+Artykuł 8 
+Przejrzystość w zakresie promowania aspektu środowiskowego lub społecznego w informacjach ujawnianych 
+przed zawarciem umowy 
+1.
+W przypadku gdy produkt finansowy promuje, między innymi, aspekt środowiskowy lub społeczny, lub oba te 
+aspekty, o ile spółki, w które dokonywane są inwestycje, stosują dobre praktyki w zakresie zarządzania, informacje ujaw­
+niane podlegające ujawnieniu na podstawie art. 6 ust. 1 i 3 obejmują: 
+a) informacje na temat sposobu, w jaki dany produkt finansowy zapewnia uwzględnienie tych aspektów; 
+b) jeżeli indeks został wyznaczony jako wskaźnik referencyjny - informacje na temat tego, czy i w jaki sposób indeks ten 
+jest zgodny z tymi aspektami. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+9.12.2019                                                                                                                                         
+L 317/11   
+
+
+===== PAGE 12/16 =====
+
+2.
+W informacjach ujawnianych na podstawie art. 6 ust. 1 i 3, uczestnicy rynku finansowego wskazują, gdzie można 
+zapoznać się z metodami stosowanymi na potrzeby obliczania indeksu, o którym mowa w ust. 1 niniejszego artykułu. 
+3.
+Europejskie urzędy nadzoru, poprzez wspólny komitet, opracowują projekty regulacyjnych standardów technicznych 
+w celu doprecyzowania szczegółów prezentacji i treści informacji ujawnianych na podstawie niniejszego artykułu. 
+Przy opracowywaniu projektów regulacyjnych standardów technicznych, o których mowa w akapicie pierwszym, europej­
+skie urzędy nadzoru biorą pod uwagę różne rodzaje produktów finansowych, uwzględnione w nich aspekty oraz różnice 
+pomiędzy nimi, a także cel polegający na ujawnianiu informacji, które mają być dokładne, rzetelne, jasne, niewprowadza­
+jące w błąd, proste i zwięzłe. 
+Europejskie urzędy nadzoru przedstawią Komisji projekty regulacyjnych standardów technicznych, o których mowa w aka­
+picie pierwszym, do dnia 30 grudnia 2020 r. 
+Komisji przekazuje się uprawnienia do uzupełnienia niniejszego rozporządzenia w drodze przyjmowania regulacyjnych 
+standardów technicznych, o których mowa w akapicie pierwszym, zgodnie z art. 10–14 rozporządzeń (UE) 
+nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010. 
+Artykuł 9 
+Przejrzystość w zakresie zrównoważonych inwestycji w informacjach ujawnianych przed zawarciem umowy 
+1.
+W przypadku gdy dany produkt finansowy ma na celu zrównoważone inwestycje i wyznaczono indeks jako wskaź­
+nik referencyjny, do informacji ujawnianych na podstawie art. 6 ust. 1 i 3 dołącza się: 
+a) informacje na temat dostosowania wyznaczonego indeksu do tego celu; 
+b) wyjaśnienie, dlaczego i w jaki sposób wyznaczony indeks dostosowany do tego celu różni się od ogólnego indeksu ryn­
+kowego. 
+2.
+W przypadku gdy produkt finansowy ma na celu zrównoważoną inwestycję i nie wyznaczono żadnego indeksu jako 
+wskaźnika referencyjnego, informacje ujawniane zgodnie z art. 6 ust. 1 i 3, obejmują wyjaśnienie, w jaki sposób ten cel ma 
+zostać osiągnięty. 
+3.
+W przypadku gdy produkt finansowy ma na celu zmniejszenie emisji dwutlenku węgla, informacje ujawniane zgod­
+nie z art. 6 ust. 1 i 3 obejmują cel dotyczący ekspozycji z tytułu niskiej emisji dwutlenku węgla z myślą o osiągnięciu długo­
+terminowych celów porozumienia paryskiego w zakresie globalnego ocieplenia. 
+Na zasadzie odstępstwa od ust. 2 niniejszego artykułu, w przypadku gdy unijny wskaźnik referencyjny transformacji klima­
+tycznej ani unijny wskaźnik referencyjny dostosowany do porozumienia paryskiego zgodnie z rozporządzeniem Parla­
+mentu Europejskiego i Rady (UE) 2016/1011 (20) nie są dostępne, informacje, o których mowa w art. 6, obejmują szczegó­
+łowe wyjaśnienie, w jaki sposób zapewnione jest stałe dążenie do realizacji celu dotyczącego zmniejszenia emisji 
+dwutlenku węgla z myślą o osiągnięciu długoterminowych celów porozumienia paryskiego w zakresie globalnego ocieple­
+nia. 
+4.
+W informacjach ujawnianych zgodnie z art. 6 ust. 1 i 3 uczestnicy rynku finansowego wskazują, gdzie można zapo­
+znać się z metodą stosowaną na potrzeby obliczania indeksów, o których mowa w ust. 1 niniejszego artykułu, oraz wskaź­
+ników referencyjnych, o których mowa w ust. 3 akapit drugi niniejszego artykułu. 
+5.
+Europejskie urzędy nadzoru, poprzez wspólny komitet, opracowują projekty regulacyjnych standardów technicznych 
+w celu doprecyzowania szczegółów prezentacji i treści informacji ujawnianych na podstawie niniejszego artykułu. 
+Przy opracowywaniu projektu regulacyjnych standardów technicznych, o których mowa w akapicie pierwszym niniejszego 
+ustępu, europejskie urzędy nadzoru biorą pod uwagę różne rodzaje produktów finansowych, ich cele, o których mowa 
+w ust. 1, 2 i 3, oraz różnice pomiędzy nimi, a także cel polegający na ujawnianiu informacji, które mają być dokładne, rze­
+telne, jasne, niewprowadzające w błąd, proste i zwięzłe. 
+(20) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako 
+wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych 
+i zmieniające dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz.U. L 171 z 29.6.2016, s. 1). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 317/12                                                                                                                                         
+9.12.2019   
+
+
+===== PAGE 13/16 =====
+
+Europejskie urzędy nadzoru przedstawią Komisji te projekty regulacyjnych standardów technicznych, o których mowa 
+w akapicie pierwszym, do dnia 30 grudnia 2020 r. 
+Komisji przekazuje się uprawnienia do uzupełnienia niniejszego rozporządzenia w drodze przyjmowania regulacyjnych 
+standardów technicznych, o których mowa w akapicie pierwszym, zgodnie z art. 10–14 rozporządzeń (UE) 
+nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010. 
+Artykuł 10 
+oraz zrównoważonych inwestycji na stronach internetowych 
+1.
+Uczestnicy rynku finansowego publikują i utrzymują na swoich stronach internetowych następujące informacje 
+w odniesieniu do każdego produktu finansowego, o którym mowa w art. 8 ust. 1 i art. 9 ust. 1, 2 i 3: 
+a) opis aspektu środowiskowego lub społecznego lub celu dotyczącego zrównoważonego inwestowania; 
+b) informacje na temat metod stosowanych do oceny, pomiaru i monitorowania aspektu środowiskowego lub społecznego 
+lub wpływu zrównoważonych inwestycji wybranych dla danego produktu finansowego, w tym ich źródeł danych, kry­
+teriów kwalifikacji aktywów bazowych i odpowiednich wskaźników zrównoważonego rozwoju stosowanych 
+do pomiaru aspektu środowiskowego lub społecznego lub ogólnego wpływu danego produktu finansowego na zrówno­
+ważony rozwój; 
+c) informacje, o których mowa w art. 8 i 9; 
+d) informacje, o których mowa w art. 11. 
+Informacje ujawniane na podstawie akapitu pierwszego muszą być jasne, zwięzłe oraz zrozumiałe dla inwestorów. Infor­
+macje te publikuje się w sposób dokładny, rzetelny, jasny, niewprowadzający w błąd, prosty i zwięzły w widocznym 
+i łatwo dostępnym miejscu na stronie internetowej. 
+2.
+Europejskie urzędy nadzoru, poprzez wspólny komitet, opracowują projekty regulacyjnych standardów technicznych 
+w celu doprecyzowania szczegółów treści informacji, o których mowa w ust. 1 akapit pierwszy lit. a) i b), oraz wymogi 
+dotyczące prezentacji, o których mowa w akapicie drugim tego ustępu. 
+Przy opracowywaniu projektów regulacyjnych standardów technicznych, o których mowa w akapicie pierwszym niniej­
+szego ustępu, europejskie urzędy nadzoru biorą pod uwagę różne rodzaje produktów finansowych, uwzględnione w nich 
+aspekty i cele, o których mowa w ust. 1, oraz różnice pomiędzy nimi. Europejskie urzędy nadzoru aktualizują regulacyjne 
+standardy techniczne w świetle zmian w regulacjach i rozwoju technologicznego. 
+Europejskie urzędy nadzoru przedstawią Komisji projekty regulacyjnych standardów technicznych, o których mowa w aka­
+picie pierwszym, do dnia 30 grudnia 2020 r. 
+Komisji przekazuje się uprawnienia do uzupełnienia niniejszego rozporządzenia w drodze przyjmowania regulacyjnych 
+standardów technicznych, o których mowa w akapicie pierwszym, zgodnie z art. 10–14 rozporządzeń (UE) 
+nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010. 
+Artykuł 11 
+Przejrzystość w zakresie promowania aspektu środowiskowego lub społecznego i zrównoważonych inwestycji 
+w sprawozdaniach okresowych 
+1.
+W przypadku gdy uczestnicy rynku finansowego udostępniają produkt finansowy, o którym mowa w art. 8 ust. 1 
+lub art. 9 ust. 1, 2 lub 3, przedstawiają w sprawozdaniach okresowych opis następujących elementów: 
+a) w przypadku produktu finansowego, o którym mowa w art. 8 ust. 1 – zakres, w jakim zapewniono uwzględnienie 
+aspektu środowiskowego lub społecznego; 
+b) w przypadku produktu finansowego, o którym mowa w art. 9 ust. 1, 2 lub 3: 
+(i) ogólny wpływ danego produktu finansowego na kwestie związane ze zrównoważonym rozwojem określony za 
+pomocą odpowiednich wskaźników zrównoważonego rozwoju; lub 
+(ii) w przypadku gdy wyznaczono indeks jako wskaźnik referencyjny – porównanie ogólnego wpływu danego pro­
+duktu finansowego z wpływem wyznaczonego indeksu oraz ogólnego indeksu rynkowego za pomocą wskaźników 
+zrównoważonego rozwoju. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+9.12.2019                                                                                                                                         
+L 317/13   
+
+
+===== PAGE 14/16 =====
+
+2.
+Informacje, o których mowa w ust. 1, podlegają ujawnieniu w następujący sposób: 
+a) w przypadku ZAFI – w sprawozdaniu rocznym, o którym mowa w art. 22 dyrektywy 2011/61/UE; 
+b) w przypadku zakładów ubezpieczeń – corocznie w formie pisemnej zgodnie z art. 185 ust. 6 dyrektywy 2009/138/WE; 
+c) w przypadku IORP – w sprawozdaniu rocznym, o którym mowa w art. 29 dyrektywy (UE) 2016/2341; 
+d) w przypadku zarządzających kwalifikowalnymi funduszami venture capital – w sprawozdaniu rocznym, o którym 
+mowa w art. 12 rozporządzenia (UE) nr 345/2013; 
+e) w przypadku zarządzających kwalifikowalnymi funduszami na rzecz przedsiębiorczości społecznej – w sprawozdaniu 
+rocznym, o którym mowa w art. 13 rozporządzenia (UE) nr 346/2013; 
+f)
+w przypadku twórców produktów emerytalnych – w formie pisemnej w sprawozdaniu rocznym lub sprawozdaniu spo­
+rządzanym zgodnie z prawem krajowym; 
+g) w przypadku spółek zarządzających UCITS – w sprawozdaniu rocznym, o którym mowa w art. 69 dyrektywy 2009/65/ 
+WE; 
+h) w przypadku firm inwestycyjnych, które świadczą usługi zarządzania portfelem – w sprawozdaniu okresowym, o któ­
+rym mowa w art. 25 ust. 6 dyrektywy 2014/65/UE; 
+i)
+w przypadku instytucji kredytowych, które świadczą usługi zarządzania portfelem – w sprawozdaniu okresowym, o któ­
+rym mowa w art. 25 ust. 6 dyrektywy 2014/65/UE; 
+j) w przypadku dostawców OIPE – w informacji o świadczeniach z OIPE, o której mowa w art. 36 rozporządzenia (UE) 
+2019/1238. 
+3.
+Do celów ust. 1 niniejszego artykułu uczestnicy rynku finansowego mogą wykorzystywać informacje, w zależności 
+od przypadku, w sprawozdaniach z działalności zgodnie z art. 19 dyrektywy 2013/34/UE lub w oświadczeniach na temat 
+informacji niefinansowych zgodnie z art. 19a tej dyrektywy. 
+4.
+Europejskie urzędy nadzoru, poprzez wspólny komitet, opracowują projekty regulacyjnych standardów technicznych 
+w celu doprecyzowania szczegółów treści i prezentacji informacji, o których mowa w ust. 1. 
+Przy opracowywaniu projektów regulacyjnych standardów technicznych, o których mowa w akapicie pierwszym, europej­
+skie urzędy nadzoru biorą pod uwagę różne rodzaje produktów finansowych, uwzględnione w nich aspekty i cele oraz róż­
+nice pomiędzy nimi. Europejskie urzędy nadzoru aktualizują regulacyjne standardy techniczne w świetle zmian w regula­
+cjach i rozwoju technologicznego. 
+Europejskie urzędy nadzoru przedstawią Komisji projekty regulacyjnych standardów technicznych, o których mowa w aka­
+picie pierwszym, do dnia 30 grudnia 2020 r. 
+Komisji przekazuje się uprawnienia do uzupełnienia niniejszego rozporządzenia w drodze przyjmowania regulacyjnych 
+standardów technicznych, o których mowa w akapicie pierwszym, zgodnie z art. 10–14 rozporządzeń (UE) 
+nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010. 
+Artykuł 12 
+Przegląd ujawnianych informacji 
+1.
+Uczestnicy rynku finansowego zapewniają, aby wszelkie informacje publikowane zgodnie z art. 3, 5 lub 10 były 
+na bieżąco aktualizowane. W przypadku gdy uczestnik rynku finansowego zmienia takie informacje, publikuje na tej 
+samej stronie internetowej zrozumiałe wyjaśnienie takiej zmiany. 
+2.
+Ust. 1 ma zastosowanie odpowiednio do doradców finansowych w odniesieniu do wszelkich informacji publikowa­
+nych zgodnie z art. 3 i 5. 
+Artykuł 13 
+Komunikaty marketingowe 
+1.
+Bez uszczerbku dla surowszych przepisów sektorowych, w szczególności dyrektyw 2009/65/WE, 2014/65/UE i (UE) 
+2016/97 oraz rozporządzenia (UE) nr 1286/2014, uczestnicy rynku finansowego i doradcy finansowi zapewniają, aby ich 
+komunikaty marketingowe nie były sprzeczne z informacjami ujawnianymi na podstawie niniejszego rozporządzenia. 
+2.
+Europejskie urzędy nadzoru mogą opracować, poprzez wspólny komitet, projekty wykonawczych standardów tech­
+nicznych w celu określenia standardowej prezentacji informacji na temat promowania aspektu środowiskowego lub spo­
+łecznego i zrównoważonych inwestycji. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 317/14                                                                                                                                         
+9.12.2019   
+
+
+===== PAGE 15/16 =====
+
+Komisji przekazuje się uprawnienia do uzupełnienia niniejszego rozporządzenia w drodze przyjmowania wykonawczych 
+standardów technicznych, o których mowa w akapicie pierwszym, zgodnie z art. 15 rozporządzeń (UE) nr 1093/2010, 
+(UE) nr 1094/2010 i (UE) nr 1095/2010. 
+Artykuł 14 
+Właściwe organy 
+1.
+Państwa członkowskie zapewniają, aby właściwe organy wyznaczone zgodnie z przepisami sektorowymi, w szczegól­
+ności przepisami sektorowymi, o których mowa w art. 6 ust. 3 niniejszego rozporządzenia, oraz zgodnie z dyrektywą 
+2013/36/UE, monitorowały przestrzeganie przez uczestników rynku finansowego i doradców finansowych wymogów 
+niniejszego rozporządzenia. Właściwe organy muszą posiadać wszelkie uprawnienia nadzorcze i uprawnienia w zakresie 
+prowadzenia postępowań wyjaśniających, które są niezbędne do wykonywania ich funkcji w ramach niniejszego rozporzą­
+dzenia. 
+2.
+Do celów niniejszego rozporządzenia właściwe organy współpracują ze sobą i bez zbędnej zwłoki przekazują sobie 
+nawzajem informacje mające znaczenie do celów wykonywania ich obowiązków w ramach niniejszego rozporządzenia. 
+Artykuł 15 
+Przejrzystość zapewniana przez IORP i pośredników ubezpieczeniowych 
+1.
+IORP publikują i utrzymują informacje, o których mowa w art. 3-7 oraz w art. 10 ust. 1 akapit pierwszy, zgodnie 
+z art. 36 ust. 2 lit. f) dyrektywy (UE) 2016/2341. 
+2.
+Pośrednicy ubezpieczeniowi przekazują informacje, o których mowa w art. 3, art. 4 ust. 5, art. 5, art. 6 oraz art. 10 
+ust. 1 akapit pierwszy, zgodnie z art. 23 dyrektywy (UE) 2016/97. 
+Artykuł 16 
+Produkty emerytalne objęte zakresem stosowania rozporządzeń (WE) nr 883/2004 i (WE) nr 987/2009 
+1.
+Państwa członkowskie mogą podjąć decyzję o stosowaniu niniejszego rozporządzenia w odniesieniu do twórców 
+produktów emerytalnych obsługujących krajowe systemy zabezpieczenia społecznego, objętych zakresem stosowania roz­
+porządzeń (WE) nr 883/2004 i (WE) nr 987/2009. W takich przypadkach do twórców produktów emerytalnych, o których 
+mowa w art. 2 pkt 1 lit. d), zalicza się twórców produktów emerytalnych obsługujących krajowe systemy zabezpieczenia 
+społecznego i twórców produktów emerytalnych, o których mowa w art. 2 pkt 8 niniejszego rozporządzenia. W takim 
+przypadku definicję produktu emerytalnego w art. 2 pkt 8 niniejszego rozporządzenia uznaje się za obejmującą produkty 
+emerytalne, o których mowa w zdaniu pierwszym. 
+2.
+Państwa członkowskie powiadamiają Komisję i europejskie urzędy nadzoru o każdej decyzji podjętej na podsta­
+wie ust. 1. 
+Artykuł 17 
+Wyłączenia 
+1.
+Niniejsze rozporządzenie nie ma zastosowania do pośredników ubezpieczeniowych, którzy świadczą usługi doradz­
+twa ubezpieczeniowego w odniesieniu do ubezpieczeniowych produktów inwestycyjnych, ani do firm inwestycyjnych, 
+które świadczą usługi doradztwa inwestycyjnego, będących przedsiębiorstwami, niezależnie od ich formy prawnej, w tym 
+osób fizycznych lub samozatrudnionych, pod warunkiem że zatrudniają mniej niż trzy osoby. 
+2.
+Państwa członkowskie mogą podjąć decyzję o stosowaniu niniejszego rozporządzenia do pośredników ubezpiecze­
+niowych, którzy świadczą usługi doradztwa ubezpieczeniowego w odniesieniu do ubezpieczeniowych produktów inwesty­
+cyjnych, lub do firm inwestycyjnych, które świadczą usługi doradztwa inwestycyjnego, o których mowa w ust. 1. 
+3.
+Państwa członkowskie powiadamiają Komisję i europejskie urzędy nadzoru o każdej decyzji podjętej na podsta­
+wie ust. 2. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+9.12.2019                                                                                                                                         
+L 317/15   
+
+
+===== PAGE 16/16 =====
+
+Artykuł 18 
+Sprawozdanie 
+Europejskie urzędy nadzoru podsumują zakres dobrowolnie ujawnionych informacji zgodnie z art. 4 ust. 1 lit. a) i art. 7 
+ust. 1 lit. a). Do dnia 10 września 2022 r., a następnie każdego roku, europejskie urzędy nadzoru przedłożą Komisji roczne 
+sprawozdanie na temat najlepszych praktyk oraz przedstawią zalecenia dotyczące standardów dobrowolnej sprawozda-
+wczości. W tym rocznym sprawozdaniu uwzględnia się konsekwencje stosowania praktyk due diligence dla ujawniania 
+informacji na podstawie niniejszego rozporządzenia oraz przedstawia się stosowne wytyczne. Sprawozdanie to podaje się 
+do wiadomości publicznej oraz przekazuje się Parlamentowi Europejskiemu i Radzie. 
+Artykuł 19 
+Ocena 
+1.
+Do dnia 30 grudnia 2022 r. Komisja przeprowadzi ocenę stosowania niniejszego rozporządzenia, a w szczególności 
+weźmie pod uwagę następujące kwestie: 
+a) czy odniesienie do średniej liczby pracowników zawarte w art. 4 ust. 3 i 4 powinno zostać utrzymane, zastąpione lub 
+czy powinny mu towarzyszyć inne kryteria oraz czy należy uwzględnić korzyści i proporcjonalność powiązanego 
+z tym obciążenia administracyjnego; 
+b) czy funkcjonowanie niniejszego rozporządzenia utrudnia brak danych lub ich niższa niż optymalna jakość, w tym 
+wskaźników dotyczących niekorzystnych skutków dla czynników zrównoważonego rozwoju, przedstawianych przez 
+spółki, w które dokonano inwestycji. 
+2.
+W stosownym przypadku do oceny, o której mowa w ust. 1, dołącza się wniosek ustawodawczy. 
+Artykuł 20 
+Wejście w życie i stosowanie 
+1.
+Niniejsze rozporządzenie wchodzi w życie dwudziestego dnia po jego opublikowaniu w Dzienniku Urzędowym Unii 
+Europejskiej. 
+2.
+Niniejsze rozporządzenie stosuje się od dnia 10 marca 2021 r. 
+3.
+Na zasadzie odstępstwa od ust. 2 niniejszego artykułu, art. 4 ust. 6 i 7, art. 8 ust. 3, art. 9 ust. 5, art. 10 ust. 2, art. 11 
+ust. 4 oraz art. 13 ust. 2 stosuje się od dnia 29 grudnia 2019 r., a art. 11 ust. 1–3 stosuje się od dnia 1 stycznia 2022 r. 
+Niniejsze rozporządzenie wiąże w całości i jest bezpośrednio stosowane we wszystkich pań­
+stwach członkowskich. 
+Sporządzono w Strasburgu dnia 27 listopada 2019 r. 
+W imieniu Parlamentu Europejskiego 
+D. M. SASSOLI 
+Przewodniczący 
+W imieniu Rady 
+T. TUPPURAINEN 
+Przewodniczący     
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 317/16                                                                                                                                         
+9.12.2019   

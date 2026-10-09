@@ -1,0 +1,3004 @@
+
+
+===== PAGE 1/61 =====
+
+EBA FINAL REPORT ON GREENWASHING 
+ 
+ 
+ 
+ 
+GREENWASHING 
+MONITORING AND 
+SUPERVISION 
+FINAL REPORT    
+EBA/REP/2024/09 
+
+
+===== PAGE 2/61 =====
+
+EBA FINAL REPORT ON GREENWASHING 
+ 
+Contents 
+1. Introduction 
+7 
+1.1 
+Background 
+7 
+1.2 
+EBA’s approach and contents of the Final Report 
+7 
+2. Understanding greenwashing 
+9 
+2.1 
+A common ESAs high-level understanding of greenwashing 
+9 
+3. Greenwashing trends, types and financial risks 
+12 
+3.1 
+Greenwashing trends 
+12 
+3.1.1 
+Findings based on Progress Report and updated quantitative data 
+12 
+3.2 
+Greenwashing occurrences 
+16 
+3.2.1 
+Greenwashing concerns related to sustainability-linked loans 
+19 
+3.3 
+Greenwashing risks 
+20 
+3.3.1 
+Materiality of greenwashing and its impact on financial risks 
+20 
+3.3.2 
+Financial risks, case study on litigation risk 
+22 
+3.3.3 
+Impact of greenwashing on financial stability 
+25 
+3.4 
+Conclusion and the way forward 
+26 
+4. Addressing greenwashing through the EU regulatory framework 
+27 
+4.1 
+Key building blocks in EU legislation to address greenwashing 
+27 
+4.1.1 
+Consumer and investor protection: regulating (sustainability) claims 
+27 
+4.1.2 
+Key foundations to mitigate greenwashing risk in the sustainable finance 
+framework 
+29 
+4.2 
+Challenges and areas for potential complements 
+32 
+4.2.1 
+Challenges and avenues for remediation 
+32 
+4.2.2 
+Complementing the EU regulatory framework 
+34 
+4.3 
+Conclusions and recommendations 
+35 
+5. Practices to mitigate greenwashing risks by institutions 
+39 
+5.1 
+Key high-level principles and processes 
+39 
+5.1.1 
+General principles 
+39 
+5.1.2 
+Governance and internal processes 
+40 
+5.1.3 
+ESG data 
+41 
+5.1.4 
+External verification 
+42 
+5.2 
+Practices to mitigate greenwashing risk at entity level 
+42 
+5.2.1 
+Forward-looking commitments 
+42 
+5.2.2 
+Green or ESG financing targets 
+43 
+5.2.3 
+Lobbying 
+43 
+5.2.4 
+Risk management 
+44 
+5.3 
+Practices to mitigate greenwashing risk at product and/or service level 
+44 
+
+
+===== PAGE 3/61 =====
+
+EBA FINAL REPORT ON GREENWASHING 
+ 
+5.3.1 
+Product governance 
+44 
+5.3.2 
+Market guidance 
+45 
+5.3.3 
+Sustainability-linked loans 
+45 
+5.3.4 
+Deposits 
+46 
+6. Supervision 
+48 
+6.1 
+Mandates and resources 
+48 
+6.1.1 
+Mandates 
+48 
+6.1.2 
+Capacities and resources 
+48 
+6.2 
+Supervisory practices 
+49 
+6.2.1 
+Supervisory activities 
+49 
+6.2.2 
+Supervisory documentation or guidance 
+51 
+6.2.3 
+Data 
+52 
+6.2.4 
+Cooperation with other authorities and sanctions 
+53 
+6.2.5 
+Financial literacy and education 
+53 
+6.2.6 
+Challenges 
+54 
+6.3 
+Supervisory framework 
+54 
+6.3.1 
+Institutions’ loan origination, governance and stress-testing processes 
+55 
+6.3.2 
+Supervisory review and evaluation process 
+57 
+6.3.3 
+Consumer protection 
+58 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 4/61 =====
+
+EBA FINAL REPORT ON GREENWASHING 
+ 
+List of figures 
+Figure 1. Total alleged incidents of misleading communication on ESG related topics by geographic 
+location (2012-2023) 
+13 
+Figure 2. Total alleged incidents of misleading communication on ESG related topics 
+13 
+Figure 3. Type of environmental topics involved in alleged incidents of greenwashing 
+14 
+Figure 4. Type of social topics involved in alleged incidents of greenwashing on social topics 
+14 
+Figure 5. Sectors involved in alleged greenwashing incidents 
+15 
+Figure 6. Number of alleged greenwashing incidents in the EU financial and banking sector 
+16 
+Box 1. Examples of occurences of alleged greenwashing 
+17 
+Figure 7. Number of bank lending with interest rates tied to sustainability targets 
+19 
+Figure 8. Materiality of greenwashing risk for credit institutions 
+21 
+Figure 9. Materiality of greenwashing risk for investment firms 
+21 
+Figure 10. Materiality of greenwashing risk for payment service providers 
+22 
+Figure 11. Impact of greenwashing on financial risks 
+23 
+Box 2. Case study on litigation risk 
+24 
+Table 1. Sources of greenwashing and potential regulatory mitigants 
+36 
+Box 3. Recommendations to Policymakers 
+37 
+Box 4. Recommendations to Institutions 
+46 
+Box 5. Examples of supervisory activities 
+50 
+Figure 12. Use of documentation and guidance addressing greenwashing 
+51 
+Box 6. Recommendations to Supervisors 
+59 
+Box 7. Recommendations to EBA 
+60 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 5/61 =====
+
+EBA FINAL REPORT ON GREENWASHING 
+ 
+Executive Summary 
+This Final Report is the EBA’s response to the European Commission’s request to provide input on the 
+phenomenon of greenwashing, including its most relevant types and occurrences, risks that 
+greenwashing poses, supervisory practices, gaps and challenges in addressing these risks. It builds on the 
+Progress Report published by the EBA in May 2023 and focuses mostly on the banking sector, while 
+covering investment firms and payment service providers to a more limited extent.  
+The Final Report reiterates the ESAs’ common high-level understanding of greenwashing as a practice 
+whereby sustainability-related statements, declarations, actions, or communications do not clearly and 
+fairly reflect the underlying sustainability profile of an entity, a financial product, or financial services. This 
+practice may be misleading to consumers, investors, or other market participants. 
+The quantitative analysis of the greenwashing phenomenon in the EU shows a clear increase in the total 
+number of potential cases of greenwashing across all sectors, including EU banks from 2012 to 2023. The 
+total number of alleged cases continued to increase in 2023 (+21.1% in all regions and +26.1% in the EU 
+compared to 2022). Greenwashing controversies remain amplified towards EU financial and banking 
+institutions.  
+The Final Report takes a deeper look on the actual and potential alleged greenwashing occurrences as 
+reported by the Competent Authorities (CAs) and provides updates on the adverse impact that 
+greenwashing can have on the financial risks of institutions and on consumers. The views of the CAs on 
+the materiality of greenwashing risk to banks remain overall stable, with some CAs noting it has become 
+a more relevant issue. Reputational and operational risks are still considered as the types of financial risks 
+most impacted by greenwashing, which is in line with the observation that litigation risk resulting from 
+greenwashing has been in a rising trend in the last three years. 
+As institutions expand their offering of sustainable finance products and are adapting their business 
+models to meet challenges in relation to the transition towards a more sustainable economy, addressing 
+greenwashing is key to provide confidence in the market and maintain the trust of investors and 
+consumers. This is relevant both in the context of specific products and services and for entity-level claims 
+and commitments. In this context, market’s best practices, regulation and supervision have a role to play 
+in addressing integrity concerns. 
+Institutions should take all necessary steps to ensure that sustainability information provided is fair, clear, 
+and not misleading. This includes observing key principles for sustainability claims to be accurate, 
+substantiated, up to date, fairly representative of the institution’s overall profile or the profile of the 
+product, and presented in an understandable manner. Institutions should review and adapt their 
+governance arrangements and internal processes to build safeguards against greenwashing, take a 
+proactive approach in addressing data challenges, and consider the extent to which external verification 
+and alignment with market guidance would support credibility of green or sustainable products and/or 
+targets.  
+
+
+===== PAGE 6/61 =====
+
+EBA FINAL REPORT ON GREENWASHING 
+ 
+At the entity level, institutions should substantiate forward-looking sustainability commitments such as 
+net-zero pledges with credible plans and strategies, provide clear and granular information on their green 
+and sustainable finance targets, and integrate greenwashing-related financial risks as part of their 
+management of conduct, operational and reputational risks. At the product level, institutions should 
+establish and report clear criteria, definitions and indicators for products and/or services labelled as green 
+or sustainable. They should also apply rigor and closely engage with counterparties in designing 
+sustainability-linked products in particular sustainability-linked loans. 
+At a legislative and regulatory level, the EBA considers that the most effective way forward to address 
+greenwashing by EU banks is to focus on the finalisation and implementation of the existing and planned 
+initiatives. Existing frameworks and ongoing developments provide key foundations to address several 
+aspects of greenwashing concerns in the banking sector. This includes rules on consumer/investor 
+protection that provide the legal basis for tackling misleading statements, and sustainable finance related 
+developments, including ESG disclosures and transition plans that should enhance transparency on 
+sustainability practices. However, several measures are still in the early stages of implementation, while 
+others are being updated or developed, suggesting that benefits of these frameworks are not fully visible 
+yet. 
+In the short term, priority should be given to supporting a robust implementation of the full set of new 
+regulations and to overcome the identified challenges. Efforts to address data, usability, consistency and 
+international interoperability issues should be pursued. Further developments on aspects that are 
+relatively less regulated (transition finance, green- and sustainability-linked loans) or where specific issues 
+have been identified (review of the Sustainable Finance Disclosure Regulation (SFDR)) would contribute 
+to the robustness of the regulatory framework. 
+The EBA recommends that CAs pursue their planned and ongoing efforts and activities to identify and 
+monitor greenwashing within the remit of their respective prudential supervision and/or conduct 
+supervision mandate. CAs are encouraged to make use of the existing supervisory framework to the 
+largest extent possible. Furthermore, building-up the capacities and fostering financial education are 
+crucial to appropriately account for and mitigate greenwashing risks.  
+Complementary to the recommendations to CAs, the EBA will provide regulatory guidance on how to 
+address greenwashing-related aspects within prudential supervision and will facilitate knowledge sharing 
+between CAs on best supervisory practices. Finally, the EBA will continue monitoring greenwashing-
+related trends and risks in the EU banking sector. 
+
+
+===== PAGE 7/61 =====
+
+EBA FINAL REPORT ON GREENWASHING 
+ 
+ 
+ 
+7 
+1. Introduction  
+1.1 Background 
+1. In May 2022, the European Supervisory Authorities (ESAs) received a request for input from the 
+European Commission requesting each ESA within its sectoral remit and competencies to provide 
+input on the phenomenon of greenwashing, first in the form of progress reports by May 2023, 
+followed by final reports by May 2024, including policy recommendations. 
+2. The advice from each ESA was requested on: 
+a. Common high-level understanding on greenwashing with key features; 
+b. Most relevant types of greenwashing, its occurrences and complaints related to it; 
+c. Risks that greenwashing poses to financial sector entities, investors and consumers; 
+d. Supervisory practices, experiences and capacities, including tools to monitor 
+greenwashing; 
+e. Gaps, inconsistencies and problems in the current legislative framework. 
+3. This Final Report is the EBA’s response to the European Commission covering the areas listed under 
+para 2 as stated above. In line with the request, the Progress Report published in May 2023 was a 
+stock take of the current situation, providing initial findings and proposing a common high-level 
+understanding of greenwashing by the three ESAs. The Final Report reiterates the common high-level 
+understanding and follows up on the findings from the Progress Report. It also provides 
+recommendations to institutions, supervisors, and policymakers. 
+1.2 EBA’s approach and contents of the Final Report 
+4. The Progress Report published in May 2023 served mostly as a stock take of the current situation to 
+understand the awareness, views and approach by market participants and supervisors when 
+tackling greenwashing. The Final Report builds on the Progress Report, and investigates further the 
+phenomenon, its trends, types and specific cases as reported by the CAs. The Final Report also looks 
+into the impact it has on financial risks and the market practices to address and tackle greenwashing.  
+5. Chapter 2 of this report reminds the high-level understanding of greenwashing by the three ESAs, as 
+already included in the Progress Report.  
+6. Chapter 3 provides an updated overview of the evolution of the greenwashing phenomenon since 
+2012. It first presents quantitative trends across companies, sectors, and geographic area, and then 
+focuses on greenwashing in the EU financial sector and EU banks with updated data and analysis 
+compared to the Progress Report. This part is based on the data from the third-party data provider 
+RepRisk. The second part of Chapter 3 looks into the alleged cases of greenwashing that the CAs have 
+encountered in their supervisory work or via media coverage. It also covers the greenwashing risk 
+
+
+===== PAGE 8/61 =====
+
+ 
+ 
+8 
+and its impact on financial risks, with a deeper look into litigation risk. This part is largely based on the 
+survey that the EBA conducted among its CAs in 2022 for the purposes of the Progress Report, and a 
+follow-up survey that was carried out at the end of 2023. 
+7. Chapter 4 assesses how the EU regulatory framework can contribute to addressing greenwashing, 
+identifies challenges and areas for potential complements, and proposes recommendations to 
+policymakers to foster implementation and enhance effectiveness of the EU framework in tackling 
+greenwashing. 
+8. Chapter 5 presents principles and practices that could help institutions mitigate the risk of 
+greenwashing. It builds on the description included in Progress Report of some market practices 
+described by stakeholders on how they address greenwashing 1 , takes into account recent 
+supervisory or regulatory initiatives to tackle misleading sustainability claims 2and provides an 
+indicative list of tools, processes and initiatives that are considered as potential mitigants to some 
+identified drivers and types of greenwashing. These principles and practices are the basis for the 
+recommendations proposed for the institutions. 
+9. Chapter 6 focusses on the role, tools and practices of CAs in the remit of the EBA in relation to 
+greenwashing, covering banking supervision from both a prudential perspective and a conduct / 
+consumer protection perspective. It builds on the information laid down in the Progress Report and 
+is updated by the findings from the follow-up survey to the CAs. The first part of this chapter provides 
+a snapshot of the CAs’ mandates and resources related to greenwashing and walks through the 
+existing or planned supervisory practices. Further, this part elaborates how the existing EBA 
+guidelines may be used to address aspects of greenwashing and to what extent CAs’ actions related 
+to tackling greenwashing already build on these guidelines. The second part sets a pathway to further 
+enhance effective and consistent supervision in the EU by proposing policy recommendations to CAs 
+and the EBA.  
+ 
+ 
+1 EBA Progress Report on greenwashing monitoring and supervision, Section 4.2, May 2023. 
+2 EIOPA Opinion on sustainability claims and greenwashing in the insurance and pensions sectors, FCA finalised non-
+handbook guidance on the anti-greenwashing rule, April 2024. 
+
+
+===== PAGE 9/61 =====
+
+ 
+ 
+9 
+2. Understanding greenwashing 
+10. The drivers of greenwashing are multifaceted and complex. These include a considerable increase in 
+demand for products with sustainability features, the competitive drive for companies to improve 
+their sustainability profile, including sustainable product offering, a fast-evolving regulatory 
+landscape, inconsistencies or lack of clarity of certain regulatory provisions and concepts, data quality 
+and availability issues, lack of expertise and skills within the financial system, and financial literacy 
+gaps. Clearly defining and better understanding greenwashing is a key step towards better tackling 
+its causes and drivers. 
+11. Even though there are several references to greenwashing in the EU regulatory framework (the 
+Taxonomy Regulation, the SFDR Delegated Regulation, as well as in amending MiFID II and IDD 
+Delegated Regulations), they do not cover all potential forms of greenwashing under the three ESAs’ 
+remits (for the overview of the currently available definitions, please see the Annex to the EBA’s 
+Progress Report, published on 31 May 2023).  
+12. The Progress Reports published by the three ESAs proposed a common high-level understanding of 
+greenwashing risks that need to be monitored, assessed, and addressed in the financial system, in 
+order to protect consumers, investors and other market participants. The high-level understanding 
+was introduced as a shared reference point to market participants that deal with the issue and help 
+inform supervisors, enforcement activities as well as regulatory interventions and remains valid for 
+the Final Reports. As the Final Reports are the ESAs’ response to the Call for Advice by the Commission 
+and do not root on a legal mandate, the high-level understanding is not intended to be elevated into 
+a regulatory definition but is meant to keep its character as a starting point for advocating certain 
+future developments, including possible regulatory definitions, in the regulatory framework and 
+prioritising supervisory action. 
+2.1 A common ESAs high-level understanding of greenwashing  
+13. The three ESAs high-level understanding is that greenwashing is a practice whereby sustainability-
+related statements, declarations, actions, or communications do not clearly and fairly reflect the 
+underlying sustainability profile of an entity, a financial product, or financial services. This practice 
+may be misleading to consumers, investors, or other market participants. 
+14. In addition, the ESAs have identified several core characteristics that help understand the potential 
+scope of greenwashing: 
+i. 
+Similarly to communication of other misleading claims there are several ways in which 
+sustainability-related statements, declarations or communications may be misleading. On the 
+one hand, communications can be misleading due to the omission of information relevant to 
+consumers, investors or other markets participants’ decisions (including but not limited to partial, 
+selective, unclear, unintelligible, vague, oversimplistic, ambiguous or untimely information, 
+unsubstantiated statements). On the other hand, communications can be misleading due to the 
+
+
+===== PAGE 10/61 =====
+
+ 
+ 
+10 
+actual provision of information, that is false, deceives or is likely to deceive consumers, investors 
+or other market participants (including but not limited to mislabelling, misclassification, mis-
+targeted marketing, inconsistent information). 
+ii. 
+Similarly to other misleading actions, greenwashing is a type of misconduct, which may not only 
+result in a direct claim but in misleading actions. Potential examples include identifying clients 
+with sustainability preferences within the positive target market of a product that does not have 
+any sustainability features (in the product design phase) or not taking duly into account clients’ 
+sustainability preferences in the advice phase.   
+iii. 
+Sustainability-related misleading claims can occur and spread intentionally or unintentionally, 
+whereby intentionality, negligence, or the lack of robustness and appropriateness of due diligence 
+efforts could, where relevant, constitute aggravating factors in the context of supervisory and 
+enforcement actions. 
+iv. 
+Greenwashing can occur either at entity level (e.g. in relation to an entity’s sustainability strategy 
+or performance), at financial product level (e.g. in relation to products’ sustainability strategy or 
+performance) or at financial service level including advice (e.g. in relation to the integration of 
+sustainability-related preferences to the provision of financial advice).     
+v. 
+Greenwashing can occur at any point where sustainability-related statements, declarations, 
+actions or communications are made, including at different stages of the business cycle of 
+financial products or services (e.g., manufacturing, delivery, marketing, sales, monitoring) or of 
+the sustainable finance value chain.  
+vi. 
+Greenwashing may occur in relation to the application of specific disclosures required by the EU 
+sustainable finance regulatory framework or in relation to general principles – as featured either 
+in the general EU financial legislation or more specifically in EU sustainable finance legislation. In 
+addition, greenwashing may occur in relation to entities that are outside of the remit of the EU 
+sustainable finance legislation as it currently stands. 
+vii. 
+Greenwashing can be triggered by the entity to which the sustainability communications relate, 
+by the entity responsible for the product, by the entity providing advice or information on the 
+product, or it can be triggered by third parties (e.g. ESG rating providers, or third-party verifiers). 
+viii. 
+Greenwashing may or may not result in immediate damage to individual consumers or investors 
+(in particular through mis-selling3) or the gain of an unfair competitive advantage. Regardless of 
+such outcomes, if not kept in check, greenwashing may undermine trust in sustainable finance 
+markets and policies. 
+15. In the context of the summary statement outlined  above, “entities” are understood to be financial 
+or non-financial undertakings or intermediaries that manufacture, issue and/or distribute financial 
+ 
+3 EU regulations do not provide a definition of mis-selling, and the concept is generally understood as encompassing 
+different practices such as unauthorised entities providing financial services, authorised entities providing unauthorised 
+products or services and/or authorised financial intermediaries unsuitably selling financial products or services to clients 
+(i.e. not accounting for their actual characteristics and needs). In the case of the greenwashing request for input, we are 
+considering this latter case of market not responding properly to consumers or investors preferences. 
+
+
+===== PAGE 11/61 =====
+
+ 
+ 
+11 
+products; “financial product or financial service” is used to cover all financial instruments, securities 
+and investment, banking, insurance and pension products as well as all financial services relevant for 
+each sector considered; “consumers” encompasses all retail and professional customers/clients 
+“entities”. 
+16. For the purposes of the Progress Report, the ESAs launched a survey to stakeholders to gather the 
+evidence and views, including market practices, on greenwashing from the market participants. The 
+survey also included questions on a common high-level understanding of greenwashing proposed by 
+the three ESAs, and the results were included in the Progress Report.  
+17. Having analysed the feedback to the proposed common high-level understanding and core principles, 
+the ESAs are of a view that it is sufficiently broad to encompass the greenwashing phenomenon in 
+the three ESAs’ remit while not being overly specific and leaving room for possible future 
+developments. 
+ 
+ 
+
+
+===== PAGE 12/61 =====
+
+ 
+ 
+12 
+3. Greenwashing trends, types and 
+financial risks 
+3.1 Greenwashing trends 
+18. The quantitative analysis presented in this section is based on the data collected by RepRisk4, which 
+gathers ‘risk incidents’ (criticism and events) of companies associated with misleading 
+communication around ESG issues, including for example criticisms of an advertising campaign 
+deceiving consumers on environmental objectives, research findings revealing that a company is 
+overstating the social impact of an initiative, or a company’s website promoting ESG activities and 
+business conduct in contrast to its actual sustainability practices. RepRisk captures alleged cases of 
+greenwashing, i.e. greenwashing incidents reported in public sources. While RepRisk does not verify 
+or validate reported allegations, each alleged incident is identified and assessed in a systematic, 
+transparent and rule-based way, including through quality checks and regular reviews of the 
+classification of sources. However, caution should be exercised when reading the analysis due to the 
+“alleged nature” of the claims and the different sources of data that could impact the quality of 
+analysis. 
+3.1.1 
+Findings based on Progress Report and updated quantitative data 
+a. 
+Greenwashing across all companies, sectors and regions 
+19. As a whole (all companies, sectors and regions), the total number of alleged cases of misleading 
+communication on ESG related topics reported by stakeholders continued to rise in 2023 – by 21.2% 
+(2119 alleged cases in 2023 vs 1749 in 2022), which was 7.3 times higher than in 2012 (Figure 1). Even 
+though the number of alleged cases declined in North America (-6.8%), it continued to grow in all 
+other regions in 2023 with +26.1% in the EU, +6% in Europe non-EU and +51.7% in the region ‘Other’5. 
+The slight decline in the North America can possibly be explained with the backlash in ESG matters 
+and thus less reporting on it.  
+ 
+ 
+ 
+ 
+ 
+4RepRisk (link) is an ESG data provider, which collects information on companies’ and infrastructure projects’ ESG and 
+business conduct risk to support decision-making by investors, banks insurers and other corporates. It takes an outside-
+in approach to ESG by processing and analysing ESG data from various public sources and stakeholders (such as NGOs, 
+regulators, press, social medial, think thanks and research firms) and by intentionally excluding company’s self-
+disclosures). RepRisk’s methodology is public.  
+5 ‘Other’ includes all other areas that are not EU, Europe non-EU, North America, and Asia. 
+
+
+===== PAGE 13/61 =====
+
+ 
+ 
+13 
+ 
+Source: RepRisk ESG Data Science, www.reprisk.com 
+20. Alleged cases of greenwashing also continued to increase in all three ESG dimensions in 2023, with 
+environmental and social related issues as the most prominent topics subject to greenwashing (37% 
+and 33% respectively of all alleged cases). Alleged greenwashing cases related to governance issues 
+(such as anti-competitive practices, corruption, bribery, money laundering, tax evasion and executive 
+remuneration) also increased but remain relatively small. Finally, cross-cutting incidents that include 
+any combination of environmental, social and/or governance related issues accounted for 23% of all 
+alleged cases (Figure 2). 
+ 
+ 
+Source: RepRisk ESG Data Science, www.reprisk.com 
+21. Regarding environmental issues, climate related topics accounted for ca. 30% of the total of alleged 
+greenwashing cases related to environmental issues against 15% in 2012, hence remaining the 
+0
+200
+400
+600
+800
+1000
+1200
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+North America
+EU
+Europe non EU
+Asia
+Other
+0
+1000
+2000
+3000
+4000
+5000
+6000
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Environmental
+Social
+Governance
+Cross-cutting
+FIGURE 1. TOTAL ALLEGED INCIDENTS OF MISLEADING COMMUNICATION ON ESG RELATED TOPICS BY GEOGRAPHIC 
+LOCATION (2012-2023) 
+FIGURE 2. TOTAL ALLEGED INCIDENTS OF MISLEADING COMMUNICATION ON ESG RELATED TOPICS 
+
+
+===== PAGE 14/61 =====
+
+ 
+ 
+14 
+second most prominent green items subject to greenwashing by companies after the impact on 
+landscape, ecosystem, and biodiversity (35% in 2023) (Figure 3).  
+ 
+  
+Source: RepRisk ESG Data Science, www.reprisk.com 
+22. Regarding social issues, ‘impact on communities’, which mostly entails impact to health and 
+economic impact on local communities, continued to be the most common topic subject to 
+‘greenwashing on social topics’ by companies worldwide. Its share increased from 33% in 2022 to 
+40% in 2023, while alleged miscommunications on employment conditions (discrimination and poor 
+employment conditions) and local participation issues tend to become more prominent in recent 
+years (Figure 4). 
+ 
+ 
+Source: RepRisk ESG Data Science, www.reprisk.com 
+0%
+20%
+40%
+60%
+80%
+100%
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Climate change, GHG emissions, and global pollution
+Local pollution
+Overuse and wasting of resources
+Animal mistreatment
+Waste issues
+Impacts on landscapes, ecosystems and biodiversity
+0%
+20%
+40%
+60%
+80%
+100%
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Child labor
+Discrimination in employment
+Forced labor
+Freedom of association and collective bargaining
+Human rights abuses and corporate complicity
+Impacts on communities
+Local participation issues
+Occupational health and safety issues
+Poor employment conditions
+Social discrimination
+FIGURE 3. TYPE OF ENVIRONMENTAL TOPICS INVOLVED IN ALLEGED INCIDENTS OF GREENWASHING 
+FIGURE 4. TYPE OF SOCIAL TOPICS INVOLVED IN ALLEGED INCIDENTS OF GREENWASHING ON SOCIAL TOPICS 
+
+
+===== PAGE 15/61 =====
+
+ 
+ 
+15 
+23. Alleged cases of greenwashing have also been occurring in all economic sectors. However, it has been 
+mostly concentrated around six activities including oil, gas and utilities, mining, industrial 
+construction, food and beverage, household goods and the financial sector. The latter accounted for 
+ca. 16% of alleged greenwashing cases observed worldwide in 2023 (the same as in 2022), including 
+insurance (1%) banks (3%) and financial services (12%) (Figure 5). 
+ 
+ 
+Source: RepRisk ESG Data Science, www.reprisk.com 
+ 
+b. 
+Greenwashing in the EU financial sector and the EU banking sector  
+24. Alleged greenwashing cases in the EU financial sector (including the EU banks) increased significantly 
+until 2022 (around 206 cases reported in 2022 against 40 in 2018), and the growth continued in 2023 
+(13.6% increase compared to 2022). Moreover, the EU financial sector accounts for a higher share of 
+the total alleged greenwashing cases reported by stakeholders on EU companies in 2023. In 2023, 
+the EU financial sector accounted for 21% (including 8% for the EU banks) of the total alleged 
+greenwashing cases involving an EU company (Figure 6). However, a slight decrease (from 23% and 
+9% respectively) has been observed here compared to 2022.  
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+20%
+40%
+60%
+80%
+100%
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Oil, Gas and Utilities
+Financial sector
+Mining
+Food and Beverage
+Industrials and construction
+Retail personal, household goods
+Travel and Airlines
+Other
+FIGURE 5. SECTORS INVOLVED IN ALLEGED GREENWASHING INCIDENTS 
+
+
+===== PAGE 16/61 =====
+
+ 
+ 
+16 
+ 
+ 
+Source: RepRisk ESG Data Science, www.reprisk.com 
+25. The three most common topics subject to greenwashing claims in the EU financial sector, including 
+EU banks, are climate change, impact on landscape and biodiversity and impact on local 
+communities, which is in line with the trends observed in the other sectors. 
+3.2 Greenwashing occurrences 
+26. In order to analyse the greenwashing phenomenon and its occurrences, the EBA asked the CAs6 
+under its remit if they had received any complaints (anonymous or public) related to possible 
+greenwashing in banking, investment firms or payment service market. Only one CA out of 29 
+responded having received a complaint. This concerned a case already identified in the previous 
+survey about a credit institution that was advertising an investment fund as delivering a positive 
+environmental impact. In that regard, the bank made available on its website an ‘impact calculator’ 
+to calculate the environmental influence of any investment e.g. for the creation of renewable 
+energies or saving of CO2. However, the institution itself did not have that precise data and was 
+ignoring potential negative impacts of companies in the portfolio. The case has been settled following 
+judicial proceedings initiated by a consumer protection organisation based on disclosure regulations 
+and the credit institution has deleted this calculator from its website. 
+27. Seven CAs have identified occurrences of actual or potential greenwashing since November 2022. 
+Approximately one third of respondents were able to provide at least one example of an actual 
+greenwashing practice occurred since the first survey, while more than two thirds of respondents 
+stated that they could not provide any example. Only one respondent provided an example related 
+to third-country branches of credit institutions. The examples given were almost evenly split between 
+cases referring to the entity level and cases referring to the product/service level. The entity-level 
+examples related mostly to credit institutions, but also sole investment firms and one example 
+ 
+6 29 CAs responded to the EBA’s follow-up survey in 2023. 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+0
+200
+400
+600
+800
+1000
+1200
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+EU non-financial sector (left axis)
+EU financial sector (including banks, insurances and other financial companies) (left axis)
+Share of EU financial sector (right axis)
+Share of EU banks (right axis)
+FIGURE 6. NUMBER OF ALLEGED GREENWASHING INCIDENTS IN THE EU FINANCIAL AND BANKING SECTOR 
+
+
+===== PAGE 17/61 =====
+
+ 
+ 
+17 
+concerned a non-financial corporation. On the product/service level, the examples related to 
+investment funds, stock funds, UCITS funds, (green/sustainable) bonds, and (green/sustainable) 
+consumer loans. 
+28. The misleading information was found to be included in product information, legally required 
+documents other than legally required product information, marketing materials (including website, 
+social media) or voluntary reporting as well as in mandatory disclosures. Marketing materials and 
+voluntary reporting were cited most often.  
+29. With regards to the misleading characteristics, “Vagueness or ambiguity or lack of clarity” was 
+identified most often, in six instances. “Empty claims (exaggerated claims and/or failure to deliver on 
+claims)”, “Inconsistency across various disclosures and communications”, and “Lack of fair and 
+meaningful comparisons, thresholds and/or underlying assumptions” were identified four times 
+each. “No proof (unsubstantiated)” was chosen three times. “Selective disclosure or hidden trade-
+off” and “Misleading/suggestive use of ESG-related terminology (name-related greenwashing)” were 
+named two times each. Other examples included “Outdated information”, “Omission or lack of 
+disclosure”, and “Misleading / suggestive non-textual imagery and sounds”. One respondent gave an 
+example of a vague wording in the prospectus together with too broad use of disclaimers/risk factors, 
+indicating the risk that the issuer of the green bond may not invest the proceeds according to the 
+green bond framework that it has committed to. 
+30. Only three of the examples provided were brought up to the knowledge of the CA by the public 
+authority. One case was discovered during a thematic review of marketing materials on public 
+websites of supervised entities done by the respondent. Other cases were identified by the staff 
+members of the respondents, consumer organisations, NGOs, and other financial supervisory 
+authorities.  
+31. Examples of alleged greenwashing cases are presented in Box 1 below. Even though several examples 
+refer to the funds and fund management companies that are not in the EBA’s remit, they were 
+provided to the EBA by the CAs who mostly supervise credit institutions7. This is because the survey 
+included questions on any greenwashing occurrences that were known to the CAs, either directly or 
+indirectly (including via media). These occurrences illustrate that greenwashing is not limited to one 
+sector or specific types of entities but can be evidenced anywhere in the financial sector. 
+ 
+7 For a detailed account of greenwashing occurrences detected by financial markets’ regulators, see the ESMA Final 
+Report on Greenwashing published in parallel to this Report available at the ESMA’s website. 
+8 An examination of net-zero commitments by the world’s largest banks (europa.eu). 
+BOX 1. EXAMPLES OF OCCURENCES OF ALLEGED GREENWASHING 
+▪ 
+One respondent referred to a recent ECB staff paper on banks’ net-zero commitments8 that 
+found various instances of different problematic practices amongst G-SIBs that could lead to 
+allegations of greenwashing. These include limited information sharing, tentative or merely 
+aspirational language and commitments to unclear goals such as “carbon neutrality”. Gaps also 
+exist regarding the choice of scenarios, target-setting by banks, and financial institutions’ 
+exposures to certain sectors. For example, banks rarely make granular disclosures regarding 
+portfolio alignment metrics, with G-SIBs often disclosing an incomplete set of information. 
+
+
+===== PAGE 18/61 =====
+
+ 
+ 
+18 
+Common weaknesses also include the selective use of scenarios or the use of outdated scenarios 
+or benchmarks, the use of unscientific methodologies, no integration in portfolio steering, and no 
+alignment monitoring of targets. The paper further found that target-setting could be improved 
+substantially to avoid greenwashing risk, as the climate-related targets that banks are setting are 
+not sufficiently comparable, and the methodological description of the targets is often very 
+vague. 
+▪ 
+Several examples given referred to greenwashing in connection with funds, often relating to the 
+SFDR. A concrete example concerned a mutual fund that was marketed as a green and sustainable 
+product on the website of the investment firm though the product itself did not have such 
+features. Another respondent referred to investment firms claiming that investments would be 
+done sustainably solely by looking at Article 8 of the SFDR. In the respondent’s view, this was 
+misleading towards consumers as Article 8 does not provide any actual reliability of a degree of 
+sustainability. Another respondent cited a credit institution that promoted investment funds 
+(UCITSs) labelled as green/ESG/sustainable on its website, while there was a lack of information 
+about these funds and/or their manufacturer in accordance with relevant provisions of the SFDR. 
+However, during the ensuing investigation, the manufacturer of the funds provided a published 
+documentation in accordance with the SFDR, hence an actual greenwashing did not occur in this 
+case. Further shortcomings regarding funds and their labelling, especially with regards to 
+compliance with the SFDR, were also found during a comprehensive supervisory review 
+conducted by one respondent. 
+▪ 
+Another respondent identified two greenwashing practices (i.e. misleading statements) with 
+regards to retail financial products during a comprehensive supervisory review exercise: (a) a 
+consumer finance product that aimed to incentivise the purchase of household appliances with 
+better energy efficiency qualifications, however that minimum energy label requirement was too 
+low, (b) a consumer financing scheme relating to trade-in schemes of mobile phones was cited as 
+a contribution to the circular economy but at that time the Taxonomy Regulation delegated act 
+on circular economy was not available and no regulatory standard was used to qualify this 
+instrument. In both cases the respondent requested the bank to modify the features of the 
+financial products to align them with EU regulation. In addition, these financial products were not 
+regulated in the bank’s internal credit policies.  
+▪ 
+A further example given referred to a currently pending case against one large European bank 
+that was sued by three NGOs. The claim is based on the national law, which requires that 
+companies, including banks, establish a plan to prevent the violation of environmental damage 
+that may occur in the course of their business. The claimants allege multiple shortcomings in the 
+bank’s plan that touch upon greenwashing, including lack of clarity and insufficient information 
+on the bank’s financing and investments (e.g. no information on Scope 3 emissions is given). 
+Moreover, they claim that the bank is likely to fail to meet its commitment to become “carbon-
+neutral” by 2050. 
+▪ 
+Another example referred to a case brought against a fund management company for their 
+advertisement that a fund had a measurable effect on CO2 avoidance and that investors would 
+make a measurable ecological contribution by investing in the fund. A consumer advice centre 
+challenged this advertising statement. The court found that although consumers would not 
+assume that CO2 avoidance could be specifically measured, they could nevertheless expect to be 
+informed about how the calculation is carried out, and the calculation method was not presented 
+by the provider in a sufficiently clear and comprehensible manner. It further held that there was 
+
+
+===== PAGE 19/61 =====
+
+ 
+ 
+19 
+3.2.1 
+Greenwashing concerns related to sustainability-linked loans 
+32. In addition to the cases referred by the CAs in the previous subsection, there is also increased media 
+coverage on alleged greenwashing cases related to sustainability linked loans (SLLs).  
+33. SLLs were introduced to the market in 2017, offering slightly cheaper borrowing (2.5-10 basis points 
+less than for a regular loan)9 if the borrowing entities (generally large corporates) meet certain 
+Sustainable Performance Targets (SPT) and Key Performance Indicators (KPIs), e.g. cutting their 
+carbon emissions, or setting certain social inclusion targets. These SPTs and KPIs may rely on those 
+set by the borrowing corporates themselves in their own sustainable/green finance frameworks. 
+Cheaper borrowing and the remuneration incentives to hit ESG targets made the market grow rapidly 
+– reaching its peak in issuance 2021-2022 with approx. EUR 294 bn in Europe and approx. EUR 442 
+bn globally in 202210 (Figure 7). It has become the second biggest ESG debt market after green bonds.  
+ 
+Source: LSEG data, via Reuters. 
+34. Also, due to market concerns, the SLL market started to decline in 2023 (but still remained a lot higher 
+than in 2020). According to the Financial Conduct Authority (FCA)11 and the data it received in early 
+2023 from the SLL market participants, stakeholders noted their concerns about weak incentives (a 
+borrower does not seek SLL because of trust and integrity concerns), potential conflicts of interest 
+(banks incentivised to promote SLLs and accept weak SPTs and KPIs in case remuneration is linked to 
+achieving ESG financing targets), as well as low ambition and poor design in some SLLs’ SPTs and KPIs 
+suggesting that these instruments may have been used to provide an exaggerated view of 
+sustainability efforts. These issues were in line with the FCA’s own observations about the potential 
+risks to market integrity and suspicion of greenwashing in the SLL market. In addition, some banks 
+ 
+9 LSEG data via Reuters. 
+10 Ibid. 
+11 FCA Outlines Concerns About Sustainability-Linked Loans Market. June 2023. https://www.fca.org.uk/news/news-
+stories/fca-outlines-concerns-about-sustainability-linked-loans-market 
+an increased burden regarding information about the meaning and content of environmental 
+advertising claims. 
+FIGURE 7. NUMBER OF BANK LENDING WITH INTEREST RATES TIED TO SUSTAINABILITY TARGETS 
+
+
+===== PAGE 20/61 =====
+
+ 
+ 
+20 
+started to reject SLLs where the environmental targets were too low (e.g. a coal company applying 
+for SLL with environmental target to cover only 5% of its emissions) or related to general (minimum) 
+health and safety targets. On the other hand, some SLLs were rejected because the ESG targets were 
+unrealistic to achieve to begin with. 
+35. Given that the SLL market has been largely unregulated and not very transparent, it is also not easy 
+to measure the potential scale of greenwashing. At the same time there are indications12 that SLLs 
+have in some cases been used as a marketing tool only, creating regulatory and reputational risk. 
+3.3 Greenwashing risks 
+3.3.1 
+Materiality of greenwashing and its impact on financial risks 
+36. While the phenomenon of greenwashing has been existing for years, there is not only a need to tackle 
+it but also to assess how material this risk is to institutions and to the risks they need to manage in 
+the course of their business. Even though currently it might not be recognised as a prevalent or 
+imminent risk in the risk management policies and procedures yet, it has the potential to create 
+significant reputational and litigation risk and therefore become material with detrimental impact on 
+institutions themselves but also on their customers. Ultimately, this hinders the development of 
+sustainable finance products and markets, impeding progress towards the goal of achieving a carbon-
+neutral economy. 
+37. In order to assess the current understanding of the materiality of greenwashing risk, the EBA asked 
+CAs and stakeholders13 how they see its relevance for credit institutions, investment firms and 
+payment service providers and the results were described in the Progress Report. While answers 
+were provided by all CAs, only about one third of the stakeholders answered to this question. 
+38. The materiality (relevance) of greenwashing risk for credit institutions was considered low by more 
+than half of CAs and medium by 30% of the CAs in 2022 survey, low or medium for investment firms 
+(33% and 23% of respondents respectively) and low for payment service providers (more than 50% 
+respondents). The follow-up survey to the CAs showed that in 2023 CAs generally perceived that the 
+materiality of greenwashing risk by credit institutions, investment firms and payment service 
+providers had stayed the same compared to 2022.  
+39. In 2023, the majority of CAs (76%) perceived that the materiality of greenwashing had stayed the 
+same for credit institutions compared to 2022 (see Figure 8), while 17% of the CAs were of the 
+opinion that greenwashing risk had increased and 7% did not know whether the materiality had 
+changed or not. Some CAs provided additional comments pointing to the fact that credit institutions 
+are gradually offering more products with sustainable characteristics and are giving greater 
+prominence to sustainability-related practices. In this context, credit institutions tend to be more 
+ 
+12 BNN Bloomberg    
+13 The survey to stakeholders ran from 15 Nov 2022 to 17 Jan 2023 and respondents included 13 bank associations, 17 
+credit institutions, 12 investment firms, 18 market associations, 22 investment managers, but also 15 NGOs, 11 think 
+tanks, 13 issuers, 4 benchmarks administrators, 3 ESG ratings providers, 3 consumer associations, 9 consultancy 
+companies, 2 data providers, 7 institutional investors, 12 insurance undertakings and 1 insurance intermediary, 2 
+payment service providers, 2 occupational schemes providers, 3 pension funds, 3 retail investors/consumers, 3 trade 
+unions and 2 regulators/supervisors. 14 respondents defined themselves under ‘Other’. 
+
+
+===== PAGE 21/61 =====
+
+ 
+ 
+21 
+aware of greenwashing topics and because of the associated regulatory requirements, mostly related 
+to disclosures, their products and disclosures are more and more scrutinised. However, some of the 
+CAs that pointed out this argument believed that the materiality of greenwashing had stayed the 
+same while some others consider that the materiality had increased. 
+ 
+Source: EBA survey to CAs in 2022 and 2023. 
+* To note, 30 CAs responded in 2022 and 29 CAs in 2023. 
+40. In the context of investment firms, no CA perceived the materiality of greenwashing high in 2022; 
+one third perceived it medium and 23% said it was low. In 2023, more than half of CAs (59%) 
+considered that the materiality of greenwashing had stayed the same compared to 2022 and 10% of 
+the CAs believed that greenwashing risk had increased. 31% of CAs responded ‘Do not know’, but this 
+rather high percentage might be explained by these authorities not being responsible for the 
+supervision of investment firms (Figure 9).  
+ 
+Source: The EBA survey to CAs in 2022 and 2023. 
+FIGURE 8. MATERIALITY OF GREENWASHING RISK FOR CREDIT INSTITUTIONS 
+FIGURE 9. MATERIALITY OF GREENWASHING RISK FOR INVESTMENT FIRMS 
+
+
+===== PAGE 22/61 =====
+
+ 
+ 
+22 
+41. In the context of payment service providers, more than half of CAs considered the materiality of 
+greenwashing risk low in 2022 but it was expected to increase slightly in the future. In 2023, more 
+than half of CAs (62%) thought that the materiality of greenwashing had stayed the same compared 
+to 2022 and only 3.5% of the CAs considered that it had increased. About one third of CAs (34%) 
+indicated not to know if the materiality for payment service providers had changed, this relatively 
+high percentage could be partially explained by the fact that some CAs are not responsible for 
+payment service providers, including crypto-assets, but also to other motives, no further explanation 
+was given by the CAs on the latter (Figure 10).  
+ 
+Source: The EBA survey to CAs in 2022 and 2023. 
+3.3.2 
+Financial risks, case study on litigation risk 
+42. Greenwashing can have adverse impact on financial risks of financial institutions but also on financial 
+stability and hence, ultimately on consumers. In the Progress Report, the EBA looked at the most 
+important risks such as reputational, operational (including litigation), strategic and business risks, 
+liquidity and funding risks, credit and market risk, and how they can be affected by greenwashing and 
+also asked the views of the stakeholders and CAs.  
+43. From the prudential supervisory perspective several categories of financial risks may be affected by 
+greenwashing, or merely by perceived greenwashing. Such risks can be expected to increase as the 
+market share of green financial instruments increases and their price is to a higher degree dependent 
+on their green credentials. The financial risks could be impacted either directly because of 
+greenwashing practices of institutions, or indirectly because greenwashing by the counterparties of 
+the institutions would ultimately result in financial risks to these institutions. Finally, greenwashing 
+may undermine consumers’ confidence in entities and in sustainable finance products, risking 
+jeopardising the efforts being made to achieve a more sustainable economy, and hence having 
+possible negative effects on financial stability. 
+FIGURE 10. MATERIALITY OF GREENWASHING RISK FOR PAYMENT SERVICE PROVIDERS 
+
+
+===== PAGE 23/61 =====
+
+ 
+ 
+23 
+44. The EBA asked the CAs about how they perceived the impact of greenwashing on other financial risks 
+of financial institutions. The results of both surveys indicated that the most important risk was 
+reputational risk, followed by operational risk (Figure 11). 
+ 
+Source: The EBA survey to CAs in 2022. 
+45. In 2023 the CAs were asked whether their views on their perceived impact of greenwashing on 
+financial risks had changed compared to 2022. In general terms, the majority of CAs considered that 
+the risks most impacted by greenwashing had not changed. The most affected categories of risks 
+continued to be the reputational risk, operational risk (including litigation) and strategic and business 
+risks. 
+46. For investment firms and payment service providers, all the CAs replied that, in their view, the said 
+financial risks had not changed either. For credit institutions, only two CAs considered that there had 
+been a change, one CA pointed to an increase in the score given last year to operational risk due to 
+losses related to litigation and liability risks and one CA considered the impact of greenwashing on 
+strategic and business risks had increased, due to the fact that banks are acting more cautious to 
+avoid greenwashing accusations, which could result in banks dropping business if the risk of being 
+accused of greenwashing is seen as too high. 
+47. As there are more and more cases where litigants are seeking monetary damages for greenwashing, 
+the follow-up survey also included a question on litigation risk. The results showed that the losses 
+from litigation due to misleading of commercial practices (for example mis-selling of products as 
+green while they do not meet the standards for such products or advertised green credentials) were 
+seen as most relevant factor by the answering CAs to impact the financial risks (over 50% of the 
+answering CAs considered this factor as “relevant” or “very relevant”). Litigation cases against 
+institutions arguing that their advertised support for initiatives related to the protection of the 
+environment could be labelled as greenwashing and litigation cases against institutions due to a 
+misalignment between their internal environmental or social policies and some of their activities 
+were considered by around one third of the CAs as (very) relevant.  
+48. One CA remarked that the relevance cannot be classified that easily as it depends on the bank’s 
+business model and its complexity. Two CAs considered the relevance of such cases is likely to 
+FIGURE 11. IMPACT OF GREENWASHING ON FINANCIAL RISKS  
+
+
+===== PAGE 24/61 =====
+
+ 
+ 
+24 
+increase in the future, as the demand for green/sustainable banking products as well as the offer of 
+banking products and services whose sustainability features are highlighted would increase. 
+49. Furthermore, three CAs remarked that their answers only reflected their views on credit institutions. 
+Answers might differ, if related to investment firms and/or payment service providers. These CAs 
+assumed that similar cases were of lesser or even no relevance for investment firms and/or payment 
+service providers. 
+50. Litigation risk resulting from greenwashing and the claims that the litigants are seeking, has been on 
+a rise, especially in the last three years14. The Network for Greening the Financial System (NGFS) and 
+the ECB have studied climate related litigation cases, which are described in Box 2.  
+ 
+14 Greenwashing and Climate Litigation for Banks on the Rise (sustainalytics.com) 
+15 Climate_related_litigation.pdf (ngfs.net) from 2021, ngfs_report-on-climate-related-litigation-recent-trends-and-
+developments.pdf 
+from 
+2023 
+and 
+https://www.ngfs.net/sites/default/files/medias/documents/ngfs_report-on-
+microprudential-supervision-of-climate-related-litigation-risks.pdf from 2023. 
+BOX 2. CASE STUDY ON LITIGATION RISK 
+NGFS’s papers15 focus on the recent trends and developments using reporting from its members and 
+numerous databases. They report a notable increase in ongoing climate-related litigation cases in 
+recent years. The report identifies three categories of climate-related litigations against: i) states and 
+public entities, ii) non-financial institutions, and iii) financial institutions. It focuses on assessing the 
+impact of the initiation of climate-related litigation rather than the outcome. 
+▪ 
+Climate-related litigations against states and public entities are usually initiated by NGOs to 
+ensure governmental action on climate change is ambitious and aligned with the need to 
+respond to climate impact predicted by scientific community. In some instances, they also rely 
+on successful cases against states to act against corporates in the same jurisdiction. Other 
+examples are litigations against state decisions to grant licences for fossils fuel exploration and 
+extraction, which also pose more immediate and direct risk to financial and non-financial 
+institutions that have financial interests in these projects.  
+▪ 
+Climate-related litigation cases against non-financial institutions are on the increase too. These 
+cases include claims against fossil fuel companies for physical damage and allegations of 
+misleading sustainability claims/greenwashing. Other cases include failures to adhere to 
+climate and environmental regulation and reduce carbon emissions. This has led to wider range 
+of entities being affected by climate-related litigation, and it goes beyond fossil fuel and energy 
+companies – litigations include airlines and car manufacturers, but also entities in agriculture, 
+food and construction sectors. Claims based on greenwashing (unsubstantiated, misleading or 
+selective claims) are considered a key trend where litigants seek monetary damages, civil 
+penalties and/or injunctive relief in respect of “greenwashed” communications. This trend is 
+likely to continue as jurisdictions develop legislation to protect consumers from greenwashing, 
+unfair commercial practices, and anti-competitive behaviour. As was noted in the NGFS’s 
+November 2021 report, cases against non-financial institutions can have significant financial 
+implications not only for the defendant to the litigation but also for other institutions with 
+financial exposures to the defendant. Such litigation can lead to direct financial losses (legal 
+fees and costs, damages, fines, and adaptation and compliance costs), with a possible impact 
+on the value of the firm, its creditworthiness and/or its financing costs. This impact could be 
+
+
+===== PAGE 25/61 =====
+
+ 
+ 
+25 
+3.3.3 
+Impact of greenwashing on financial stability 
+51. Greenwashing may also cause a risk to financial stability. Should it appear in a large scale or should 
+the lack of trust impacting one or more institutions involved in alleged greenwashing spread over to 
+other institutions, it would potentially affect the whole market. From a financial stability perspective: 
+• 
+A “Minsky moment” could arise, where green financial instruments, in their entirety or a 
+substantial part of them, are no longer perceived as green, impacting negatively the sustainable 
+financial markets’ credibility and causing a widespread repricing and drop in liquidity, 
+subsequently resulting in a risk to the entire financial system (e.g. fire-sales of green bonds). 
+• 
+The argument could be made that greenwashing could have detrimental effects by distorting or 
+preventing an accurate assessment of risks and thus giving too much credit to entities’ disclosed 
+transition timelines, metrics and targets, hence underestimating transition risk, increasing the risk 
+of a disorderly climate transition and ultimately impacting the resilience of financial institutions. 
+ 
+16 An examination of net-zero commitments by the world’s largest banks (europa.eu) 
+17
+ https://www.lse.ac.uk/granthaminstitute/publication/impacts-of-climate-litigation-on-firm-value/, 
+The 
+London 
+School of Economics and Political Science. 
+particularly potent where a court finds that companies are under a legal obligation to reduce 
+their emissions, which can, in turn, have an impact on the company’s share price, and result in 
+stranded assets. Such litigation – particularly in respect of claims of greenwashing – can lead to 
+reputational costs, potentially with spill-over effects for institutions in the same sector. It is also 
+noted that for prudential supervisors, this can become particularly relevant in respect of 
+accounting for corporates’ credit risk. 
+▪ 
+Climate-related litigation cases against financial institutions are an emerging trend, in 
+particular in respect of claims of greenwashing and breaches of directors’ duties. Also, in light 
+of this, supervisors may need to ensure that such liability risk is incorporated into financial 
+institutions’ operational risk management, and that appropriate account is taken of the 
+financial impact arising from reputation risks. In respect of greenwashing, there is an existing 
+and increasing risk that climate-related disclosures become the subject of litigation before 
+courts or become subject to investigations by advertising standards authorities, by supervisory 
+authorities or even by public prosecutors. This trend is expected to grow in the wake of the 
+further development of legislation to better regulate climate-related disclosures. 
+An ECB staff paper on net-zero commitments by world’s largest banks16 notes that legal consequences 
+of greenwashing can be severe. In addition to reputational repercussions that can negatively affect 
+investors’ and consumers’ views, it can have multiple legal consequences, and courts in many jurisdictions 
+are increasingly open to rule in favour of shareholders and NGOs. The paper underlines the impact on 
+banks’ risk management and governance, because, in addition to increasing reputational risk, 
+greenwashing allegations can significantly affect litigation risk. This is important also from the prudential 
+perspective, even if the litigation is a threat only. The paper refers to a recent LSE study17 where a causal 
+link was found between climate litigation and stock prices (estimated loss of firm value was on average -
+0.41%).  
+
+
+===== PAGE 26/61 =====
+
+ 
+ 
+26 
+52. In the 2022 survey two thirds of CAs estimated greenwashing having a high impact on the credibility 
+of sustainable financial markets but a low impact on financial stability both at national level (53% of 
+respondents) and at EU level (50% of respondents). Only two CAs estimated the impact to financial 
+stability high (both at national and EU level). The EBA asked the question again in 2023. One quarter 
+of the CAs who answered shared the opinion that greenwashing potentially impacts financial stability. 
+Those CAs which argued that greenwashing can have an impact on financial stability via financial risks, 
+mostly named operational, litigation, reputational, credit and market risk.  
+53. On the opposite, 75% of the CAs thought that greenwashing had no impact on financial stability yet. 
+Amongst these, some CAs stated that they were seeing at least a theoretical risk, however, as of now 
+the greenwashing risk does not yield at this stage a macro prudential perspective and/or the effects 
+of greenwashing on financial stability are not significant yet. One CA stated that it could not take a 
+final conclusion if there was an impact on financial stability or not as it had not conducted any specific 
+impact assessment on this yet. 
+54. Finally, as also noted in the Progress Report18, greenwashing can have an impact on consumers and 
+end-investors due to purchase and investment decisions being based on misleading information. In 
+addition, a loss of trust could discourage consumers to engage in sustainable finance. Greenwashing 
+has also a significant potential to undermine confidence in markets, therefore threatening the ability 
+to transition to a low carbon economy. 
+3.4 Conclusion and the way forward 
+55. The data related to misleading communication on ESG topics shows continued increase in the total 
+number of potential cases of greenwashing across all sectors, including the EU banks. It also indicates 
+rising accountability and better awareness. The data obtained from RepRisk shows an increase in 
+almost all regions, including in the EU, and the total number was 21.1% higher in all geographical 
+locations combined. It also remains amplified towards EU entities including the EU financial and credit 
+institutions. 
+56. The follow-up survey to the EBA’s CAs confirmed that reputational risk continues to be considered as 
+the most affected financial risks by greenwashing, followed by operational (including litigation) risk. 
+Most CAs also kept their views on the relevance of greenwashing risk to institutions. 
+57. Among the seven occurrences of greenwashing reported to the EBA since November 2022, four of 
+them referred to examples involving funds and fund management companies, and several cases 
+about net-zero claims by G-SIIs. Sustainability linked loans have also been observed as a concern by 
+market participants. This confirms that greenwashing can occur in all sectors, and also involves banks. 
+Therefore, integrating the management of greenwashing risk into the institutions’ policies and 
+practices, as well as in the supervisory activities, is crucial.  
+58. The EBA will continue monitoring greenwashing-related trends and risks in the EU banking sector as 
+part of the ESG risks monitoring framework pursuant to the mandates received, and based on the 
+available information.  
+ 
+ 
+18 Section 3.2.2 in the EBA Progress Report. 
+
+
+===== PAGE 27/61 =====
+
+ 
+ 
+27 
+4. Addressing greenwashing through 
+the EU regulatory framework 
+4.1 Key building blocks in EU legislation to address greenwashing 
+59. The EU regulatory framework mainly addresses greenwashing through (i) rules and principles tackling 
+misleading statements and unfair commercial practices, and (ii) specific sustainability-related 
+requirements.  
+60. The first category provides the basis to address misleading sustainability claims by regulating the 
+communication and marketing practices of organisations, including of financial services providers. 
+Relevant frameworks relate to investor and consumer protection, including conduct of business, 
+advertising and marketing. The second category deals more specifically with the sustainable finance 
+framework, including the EU Taxonomy, sustainability disclosure requirements and the development 
+of new standards or labels for financial products. 
+4.1.1 
+Consumer and investor protection: regulating (sustainability) claims  
+61. Greenwashing is a type of misconduct and a type of misleading communications. As such, 
+greenwashing can be captured by existing rules on unfair commercial practices and misleading 
+advertising. Misleading sustainability claims could be addressed and/or sanctioned on the basis of 
+general principles embedded into the EU consumer and investor protection framework, in particular 
+the need to be clear, fair and not misleading. Non-exhaustive examples of EU laws in this area include 
+the Unfair Commercial Practices Directive (UCPD19), the Directive on Markets in Financial Instruments 
+(MiFID II20), the Mortgage Credit Directive (MCD21) and the Consumer Credit Directives (CCD1 and 
+CCD222)23. EBA’s Progress Report provided an overview of national legislative frameworks related to 
+greenwashing, which are largely based on the EU framework.24 
+62. The UCPD constitutes the overarching piece of EU legislation regulating unfair commercial practices 
+in business-to-consumer transactions. It applies to all commercial practices that occur before (i.e. 
+during advertising or marketing), during and after a business-to-consumer transaction, including in 
+relation to financial services, encompassing any service of a banking, investment, or payment nature. 
+The UCPD has recently been amended as a result of the European Commission’s initiative to 
+empower consumers for the green transition, which aims, among other things, at strengthening 
+ 
+19 Directive 2005/29/EC of the European Parliament and of the Council concerning unfair business-to-consumer 
+commercial practices in the internal market. 
+20 Directive 2014/65/EU of the European Parliament and of the Council on Markets in Financial Instruments. 
+21 Directive 2014/17/EU of the European Parliament and of the Council on credit agreements for consumers relating to 
+residential immovable property. 
+22 Directives (EU) 2008/48/EC and (EU) 2023/2225 of the European Parliament and of the Council on credit agreements 
+for consumers. 
+23 Non-exhaustive examples. Other legislations include Market Abuse Regulation, Consumer Protection Cooperation 
+Regulation, legislation on risk and compliance assessments under UCITS and AIF. 
+24 EBA’s Progress Report on greenwashing monitoring and supervision, Section 4.1.2, May 2023. 
+
+
+===== PAGE 28/61 =====
+
+ 
+ 
+28 
+consumer protection against untrustworthy or false environmental claims. Specific rules have been 
+introduced in the UCPD, as well as in the Consumer Rights Directive, to tackle unfair commercial 
+practices relating to sustainability, including misleading environmental claims25. In addition, the 
+Commission has proposed a new complementary Green Claims Directive that, however, would not 
+fully apply to the financial sector26. 
+63. Unfair environmental claims to consumers, including from financial institutions, may entail 
+investigations and sanctions pursuant to UCPD, although CAs under the remit of the EBA are not 
+always the ones in charge of enforcement27.  
+64. With regard to the financial sector more specifically, the MiFID II contains rules on all information, 
+including marketing communications, addressed by an investment firm and a credit institution 
+providing one or more investment services and/or performing investment activities, to clients or 
+potential clients. It states that the communication must be fair, clear and not misleading both in its 
+content and its presentation. Compliance with these provisions is monitored by competent 
+supervisory authorities28, which shall be given all supervisory powers necessary to fulfil their duties, 
+including investigatory powers and powers to impose remedies.  
+65. At a legislative level, the MiFID II also represents a tool to regulate green marketing communications 
+by investment firms and credit institutions, which provide one or more investment services and/or 
+perform investment activities. In addition, the Commission has adopted a Retail Investment Package, 
+which aims at empowering retail investors to make investment decisions that are aligned with their 
+needs and preferences, ensuring that they are treated fairly and duly protected. This consists of an 
+ 
+25 Directive (EU) 2024/825 of the European Parliament and of the Council of 28 February 2024 amending Directives 
+2005/29/EC and 2011/83/EU as regards empowering consumers for the green transition through better protection 
+against unfair practices and through better information. Amendments to the UCPD aim at better regulating 
+environmental claims through: defining environmental claim; ensuring that consumers are not misled about 
+environmental and social impacts of products; prohibiting the use of sustainability labels not based on a certification 
+scheme or established by public authorities; prohibiting the use of generic environmental claims used in marketing 
+towards consumers, where the excellent environmental performance of the product cannot be demonstrated in 
+accordance with officially recognised labelling; prohibiting environmental claims about the entire product, when it 
+actually concerns only a certain aspect of the product. Besides, some commercial practices to be considered misleading 
+have been added, including making an environmental claim related to future environmental performance without clear, 
+objective and verifiable commitments and targets and an independent monitoring system. 
+26 Commission’s proposal for a directive on substantiation and communication of explicit environmental claims. Recital 
+10: this Directive shall not apply to sustainability information involving messages or representations that may be either 
+mandatory or voluntary pursuant to the Union or national rules for financial services, such as rules relating to banking, 
+credit, (…) investment firms, payment, portfolio management and investment advice. 
+27 According to the UCPD, Member States must impose penalties for infringements of the UCPD, which are effective, 
+proportionate and dissuasive. Member States must ensure that the court or an administrative authority has the necessary 
+powers to enable them to order the cessation and/or prohibition of a practice, which has been determined to be an unfair 
+commercial practice. Competition regulators often have jurisdiction over UCPD legislation; however, some CAs in the 
+remit of the EBA are also responsible for the prohibition of unfair commercial practices and for supervising compliance 
+with consumer protection rules on the financial market by selected entities.  
+28 For example, the ESMA has conducted a common supervisory action with national competent authorities (NCAs) on 
+the application of MiFID II disclosure rules with regard to marketing communications. Preliminary findings from the 
+Common Supervisory Actions are presented in the ESMA Final Report on Greenwashing, published in parallel to this 
+Report.  
+
+
+===== PAGE 29/61 =====
+
+ 
+ 
+29 
+amending Directive revising the existing investor protection rules set out across sector specific 
+legislative instruments, including MiFID29. 
+66. MCD sets forth the overarching regime applicable to the provision of credit to consumers secured by 
+a mortgage or otherwise relating to residential immovable property. On the other hand, CCD2 
+contains the requirements applicable to the provision of credit to consumers. Both texts apply to 
+creditors providing credit advertised as green to consumers.  
+67. More specifically, both pieces of law include requirements on the information to be provided to the 
+consumer, prior and during the contractual phase, including marketing and advertising 
+communications. They both foresee that any advertising and marketing communications should be 
+fair, clear and not misleading. Compliance with these provisions should be monitored by competent 
+supervisory authorities, which shall be given investigating and enforcement powers and adequate 
+resources that are necessary for the efficient and effective performance of their duties.  
+68. Overall, general rules governing investor protection, consumer protection and prohibition of 
+misleading advertising could capture misleading sustainability claims by institutions. Also, recent as 
+well as on-going legislative developments strengthen requirements applicable to environmental 
+claims. 
+4.1.2 
+Key foundations to mitigate greenwashing risk in the sustainable finance 
+framework 
+69. In addition to consumer and investor protection, several elements of the EU sustainable finance 
+regulatory framework should help prevent, identify or mitigate aspects of greenwashing. Regulatory 
+developments over the last years lay the foundations for (i) commonly defining environmentally 
+sustainable activities i.e. green economic activities, (ii) ensuring a high level of transparency and (iii) 
+harmonising criteria and labelling for certain green financial products. 
+70. First, the EU Taxonomy provides an important classification system by establishing criteria for 
+environmentally sustainable activities and introduces disclosure requirements. By providing detailed, 
+publicly available information on the definition of and institutions’ exposures to – or investments in 
+– green activities, the EU Taxonomy should progressively reduce the need for interpretation of the 
+classification of green activities, covering both climate objectives and other environmental 
+objectives30. It should lead to improved data reliability and comparability and limit the risk of market 
+fragmentation, although reliance on the EU Taxonomy is not always mandatory when marketing all 
+types of financial products as sustainable31. 
+ 
+29 Amendments are proposed to the rules set out in MiFID II, the Insurance Distribution Directive, the Undertaking for 
+Collective Investment in Transferable Securities Directive, the Alternative Investment Fund Managers Directive, and the 
+Taking-up and Pursuit of the Business of Insurance and Reinsurance Directive (Solvency II), as well as an amending 
+Regulation, which revises the Packaged Retail and Insurance-based Investment Products (PRIIPs) Regulation. 
+30 Other environmental objectives are: sustainable use and protection of water and marine resources; transition to a 
+circular economy; pollution prevention and control; protection and restoration of biodiversity and ecosystems.  
+31 Issuers may choose to apply different, also market-based classification systems. However, the EU Green Bond 
+Regulation requires a high degree of alignment with the EU Taxonomy, and SFDR contains disclosure requirements on 
+the extent of Taxonomy alignment of underlying investments when financial market participants offer financial products 
+making sustainability-related claims.  
+
+
+===== PAGE 30/61 =====
+
+ 
+ 
+30 
+71. For credit institutions and investment firms, the role of the EU Taxonomy in mitigating greenwashing 
+is twofold. First, disclosures on how and to what extent their activities qualify as environmentally 
+sustainable in accordance with the Taxonomy32 will enhance entity-level sustainability disclosure 
+requirements (respectively, Green Asset Ratio ‘GAR’ and Green Investment Ratio) and improve 
+market transparency and comparability, potentially providing a basis for benchmarking and 
+monitoring institutions’ green claims and commitments. Second, while the EU Taxonomy did not 
+modify the regulatory framework applicable to the distribution of (sustainable) retail banking 
+products, it constitutes nonetheless a key tool to help identify green financial and banking products. 
+The EU Taxonomy is the reference for defining sustainable activities for green bonds under the EU 
+Green Bond Regulation and identifying eligible green loans exposures to households as part of G ARs 
+of credit institutions. 
+72. In addition to Taxonomy’s transparency requirements, ESG disclosure frameworks have evolved 
+towards more comprehensiveness, comparability and reliability and should improve transparency on 
+institutions’ sustainability characteristics, hence contributing to preventing and/or identifying 
+greenwashing. Relevant requirements for institutions under the remit of the EBA include 
+transparency requirements introduced by: 
+- 
+The EU Taxonomy Regulation (see above); 
+- 
+The Capital Requirements Regulation (CRR) and Commission Implementing Regulation (EU) 
+2022/2453 as regards the disclosure of ESG risks – i.e. prudential (Pillar 3) disclosure requirements 
+with detailed templates for reporting on climate-related risks metrics; 
+- 
+The Regulation on Sustainability-Related Disclosures in the Financial Sector (SFDR33), further 
+specified by ESAs technical standards, aiming at enhancing disclosures and increasing the 
+comparability of information made available to end-investors for products with environmental or 
+social characteristics or sustainability objectives34;  
+- 
+The Securitisation Regulation35, further specified by ESAs technical standards, regarding the 
+disclosure of sustainability information for certain types of Simple, Transparent, and Standardised 
+securitisation, and 
+- 
+The Corporate Sustainability Reporting Directive (CSRD36), further specified by the European 
+Sustainability Reporting Standards (ESRS), which will significantly expand and enhance the 
+availability, comparability and reliability of sustainability information by financial and non-
+financial corporates, in particular through obligations to audit sustainability data.  
+ 
+32 Under article 8 of the EU Taxonomy Regulation and as specified in corresponding delegated acts. 
+33 Regulation (EU) 2019/2088. 
+34 The SFDR’s sustainability-related disclosure requirements apply to financial market participants (including credit 
+institutions which provide portfolio management), financial advisers (including credit institutions, which provide 
+investment advice) and financial products as defined in the regulation. 
+35 Regulation (EU) 2017/2402. 
+36 Directive (EU) 2022/2464. 
+
+
+===== PAGE 31/61 =====
+
+ 
+ 
+31 
+73. ESG disclosure obligations support the objectives of reducing the occurrence of and facilitating the 
+oversight of potential greenwashing. Sustainability transparency requirements should allow 
+stakeholders to better form an opinion on the sustainability characteristics of a particular financial 
+product or entity. This more demanding transparency framework should foster market discipline and 
+promote accountability. It may push institutions to enhance the oversight of their sustainability 
+claims and commitments. 
+74. In that regard, the set of ESG disclosure requirements applicable to EU banks should progressively 
+enable an assessment and comparison of (claimed) objectives and (actual) practices, such as those 
+related to net zero targets. The disclosure of transition plans and alignment metrics (CSRD, CRR Pillar 
+3) should, for example, bring more clarity as to the short, medium and long-term actions planned and 
+implemented by banks, facilitating the assessment of the credibility and adequacy of business 
+practices in light of banks’ commitments. Considering the greenwashing risks related to 
+misrepresentation of entity-level forward-looking commitments, ESG disclosure requirements would 
+allow for further scrutiny on strategic consistency with objectives committed to.  
+75. Thirdly, some regulatory initiatives aim at creating new standards or labels including for some 
+financial products relevant to EU banks. A sound product classification system can mitigate 
+greenwashing by providing robust standards and labels, which foster clarity and consumers’ and/or 
+investors’ trust. 
+76. Relevant developments in this area include, first, the EU Green Bond Regulation37 that has introduced 
+a voluntary standard relying on common definitions of environmental sustainability, standardised 
+disclosures and reporting, and supervision of companies carrying out pre- and post-issuance reviews 
+at the European level. This should contribute to promoting transparency, consistency and 
+comparability in the green bond market and address some market integrity concerns associated with 
+greenwashed debt. The regulation also sets out conditions for the use of the designation ‘European 
+Green Bond’ or ‘EuGB’ in respect of securitisation bonds. 
+77. Second, the EBA has recommended the introduction of a harmonised high-level green loan definition, 
+which can be linked to the EU Taxonomy38. Such a definition could provide the basis for a voluntary 
+green loan label that would increase comparability and transparency in product identification. Green 
+loans granted under the EU standards would provide clarity in markets both for credit institutions 
+originating these green loans and for borrowers using the proceeds and would reduce the risk of 
+greenwashing. Other recommendations provided by the EBA could also contribute to addressing 
+potential greenwashing relating to green loans and green mortgages, such as those related to the 
+provision of adequate advice to banks’ clients, information disclosure, and institutions’ staff 
+competences and knowledge. 
+ 
+37 Regulation (EU) 2023/2631 of 22 November 2023 on European Green Bonds and optional disclosures for bonds 
+marketed as environmentally sustainable and for sustainability-linked bonds. 
+38 EBA report on green loans and mortgages, December 2023. 
+
+
+===== PAGE 32/61 =====
+
+ 
+ 
+32 
+78. Third, following its first Sustainable Finance Action Plan, the Commission initiated work to develop an 
+EU Ecolabel criteria, under the EU Ecolabel Regulation39, for some financial products, including the 
+service of managing a fixed-term deposit or savings deposit product in order to pay interest and 
+derive environmental benefits from the projects and economic activities to which the deposited 
+money is loaned (i.e. green deposit). However, this project is on hold and no timeline has been 
+communicated for its completion. 
+79. It should also be noted, with regard to the financial risks arising from greenwashing, that the banking 
+package (CRR3/CRD6) has introduced new requirements for institutions to ensure a robust 
+management of ESG risks, under which financial risks resulting from greenwashing should be 
+considered. 
+80. Overall, regulatory developments in the EU have built a sustainable finance framework, which should 
+contribute to preventing, identifying and monitoring greenwashing, in particular by providing specific 
+definitions and criteria and allowing for increased transparency on – and comparability of – 
+institutions’ practices. However, this framework is still in the process of being implemented and faces 
+some challenges. 
+4.2 Challenges and areas for potential complements 
+81. Although the EU legislative framework now contains regulatory mitigants to address misleading 
+sustainability claims, some challenges related to data, usability and consistency hamper its 
+effectiveness to fully address greenwashing risks at this juncture. On-going and planned initiatives 
+may help overcome some challenges, and targeted complements to expand the regulatory 
+framework can be envisaged. 
+4.2.1 
+Challenges and avenues for remediation 
+82. The first challenge raised by stakeholders, particularly financial institutions, in relation to the ability 
+of the EU regulatory framework to tackle greenwashing is the lack of available and reliable data to 
+meet new ESG disclosure requirements. The rapidly evolving ESG disclosure framework is indeed 
+raising a need for institutions to build the right data infrastructure for sustainability aspects. In this 
+context, some data shortcomings40 are perceived as potentially creating instances of unintentional 
+greenwashing, which could potentially undermine the benefits that these disclosures should bring.  
+ 
+39 The EU Ecolabel criteria are designed to promote the use of the most environmentally friendly products as articulated 
+by the Regulation on the EU Ecolabel (Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 
+November 2009 on the EU Ecolabel). According to Article 2, this Regulation applies to ‘products’ (either goods or services) 
+that are supplied for distribution, consumption or use on the EU market. Financial products fall within the scope of the 
+EU Ecolabel Regulation where they can be considered as services for distribution or use. 
+40 As described in the EBA’s Progress Report, some issues highlighted by institutions based on the 2022 ESAs’ call for 
+evidence are: (i) data and methodological gaps, e.g. no common established methodology to calculate the scope 3 GHG 
+emission or the carbon footprint of a portfolio, no common definition of energy efficiency across Europe, sequencing 
+issues between financial sector and real economy ESG reporting; (ii) the need to have recourse, in the absence of 
+sufficient data, to equivalent information (EU Taxonomy) or estimates (SFDR, Pillar 3) from external providers, which may 
+be heterogeneous and necessitate adjustments over time, potentially fueling greenwashing accusations; (iii) some 
+discrepancies between regulations, e.g. as to the use of proxies; (iv) dependency on ESG data providers despite some 
+accuracy and reliability issues. 
+
+
+===== PAGE 33/61 =====
+
+ 
+ 
+33 
+83. It should, however, be noted that the need to address ESG data availability and reliability challenges 
+has been recognised as a key priority by the EU and international standard-setters. The CSRD will 
+increase the availability of sustainability data from institutions’ counterparties subject to the new 
+requirements, through the European Sustainability Reporting Standards (ESRS), with important 
+progress also underway at the international level through the International Sustainability Standards 
+Board. In addition, the creation of a European single access point (ESAP) providing access to public 
+financial and sustainability-related information about EU companies and investment products will 
+facilitate access to sustainability data for institutions. Improved data access and quality will facilitate 
+compliance with ESG disclosure requirements and support the effectiveness of these new obligations 
+in mitigating greenwashing, although the full benefits of CSRD and ESAP will only be reached 
+progressively as they are gradually implemented.  
+84. Another challenge met by stakeholders as part of broader sustainability data concerns relates to the 
+quality and reliability of ESG ratings, which may be used by institutions as a basis for sustainability 
+claims/commitments and may lead to unintentional greenwashing in case ESG ratings face serious 
+shortcomings. The on-going legislative development to provide a regulatory framework for ESG 
+ratings providers41  may contribute to addressing this issue alongside prudent market practices in 
+terms of due diligence, transparency and data management (see Chapter 5). 
+85. A second challenge that has been both documented by stakeholders 42 and recognised by 
+policymakers relates to usability issues. Although there is first evidence that the EU Taxonomy and 
+the wider sustainable finance framework are being used by the market and have already had a 
+positive impact43, these challenges are particularly relevant with regard to the EU Taxonomy. As a 
+response to currently identified issues, the European Commission took several measures to support 
+the implementation of the Taxonomy criteria and disclosures 44 . Overcoming these usability 
+challenges will be key for the EU Taxonomy to fulfil its potential as an effective mitigation tool for 
+greenwashing. Continued work of the European Commission and EU Platform on Sustainable Finance 
+should contribute to enhancing the usability of the EU Taxonomy. In addition, multilateral efforts to 
+promote comparability and interoperability between taxonomies under the International Platform 
+on Sustainable Finance may allow progress towards a common understanding of sustainability at the 
+international level. 
+86. A third implementation challenge relates to uncertainty or ambiguity about key concepts such as the 
+definition of a sustainable investment or environmentally harmful activity, due to some discrepancies 
+across regulations. This raises consistency issues and clarity or interpretation challenges particularly 
+in relation to SFDR. The European Commission’s acknowledgment of challenges has led to a series of 
+measures that aim at bringing more clarity45 and consulting on potential improvements to SFDR. The 
+ 
+41 COM (2023) 314: Proposal for a regulation on the transparency and integrity of Environmental, Social and Governance 
+rating activities. 
+42 EU Platform on Sustainable Finance, Report on data and usability of the EU Taxonomy, October 2022. 
+43 EU Platform on Sustainable Finance, Compendium of market practices, January 2024. 
+44 These measures are detailed in the Communication from the Commission (COM/2023/317 final) together with the 
+Commission Staff Working Document (SWD/2023/209 final) in June 2023. 
+45 See for example European Commission, Answers to questions on the interpretation of Regulation (EU) 2019/2088, 
+submitted by the European Supervisory Authorities on 9 September 2022, April 2023. 
+
+
+===== PAGE 34/61 =====
+
+ 
+ 
+34 
+ESAs are finalising a Joint Opinion on the assessment of the SFDR outlining recommendations to 
+improve the framework and address greenwashing and mis-selling risks.  
+87. Lastly, some stakeholders have raised doubts about the ability of the framework to lead to effective 
+enforcement. While recognising that both the existing communication or consumer/investor 
+protection rules and sustainable finance regulatory developments provide relevant foundations to 
+address greenwashing, the development of further regulatory guidance to promote a consistent 
+implementation of the sustainable finance framework, or to clarify how the existing legislation on 
+misleading practices should apply to greenwashing in the financial sector, could help in that regard. 
+The development in the short-term of best practices for avoiding greenwashing (see Chapter 5) and 
+further clarity and/or enhancements in the medium-term regarding the sanction regime applicable 
+to breaches of compliance with the new sustainable finance rules described above (e.g. EU 
+Taxonomy, SFDR) could contribute to addressing this issue. 
+4.2.2 
+Complementing the EU regulatory framework 
+88. In addition to the recommendations mentioned above regarding policy initiatives on green loans and 
+SFDR, the EBA has identified specific aspects where more regulatory certainty could be beneficial to 
+address some identified drivers or types of greenwashing. 
+89. The first aspect that is not fully covered by the current sustainable finance framework relates to 
+transition finance and sustainability-linked products. This may give rise to instances of 
+misrepresentation of strategies, trajectories and/or targets at the entity level, or transition-washing, 
+as well as cases of misleading labelling at the product level46. 
+90. Some regulatory and non-regulatory initiatives can contribute to addressing greenwashing concerns 
+associated with the absence of a single, clear approach to transition finance. First, the application of 
+CSRD will increase the supply of standardised, audited forward-looking ESG information for emissions 
+reduction targets and transition plans, which should support assessment of credibility. Developments 
+in this area could also contribute to ensuring that the assumptions or limitations around banks’ 
+planned transition finance actions are highlighted alongside the intended outcome/commitments, 
+mitigating potential misleading claims. Second, the EU Green Bond regulation includes some 
+voluntary disclosure requirements for sustainability-linked bonds issued in the EU. Third, the 
+Recommendation of the European Commission on transition finance 47 provides guidance to 
+institutions, inter alia, on the use of credible transition pathways, considerations for target setting, 
+and use of science-based decarbonisation scenarios. 
+91. To complement these initiatives, further clarity on the transition and decarbonisation pathways of 
+different sectors of the EU economy could be provided by policymakers, building on relevant EU 
+ 
+46 Among the issues raised by stakeholders are the absence of: (i) a clear definition as to what can be labelled transition 
+finance, (ii) a transition ratio (as opposed to green asset ratio), (iii) clear transition pathways to calculate transition-aligned 
+trajectories and set credible targets, (iv) binding standards on sustainability-linked loans and sustainability-linked bonds. 
+47 EC recommendation (EU) 2023/1425 of 27 June 2023 on facilitating finance for the transition to a sustainable economy. 
+
+
+===== PAGE 35/61 =====
+
+ 
+ 
+35 
+legislation such as the EU climate law and other relevant regulations48. Sectoral roadmaps for 
+achieving climate neutrality and/or broader environmental sustainability in line with EU objectives 
+would support the assessment of the credibility of transition-related claims either at the entity or 
+portfolio and/or exposure level, for example by helping identify credible transition finance related 
+loans and securities. 
+92. In line with the latter point, at a product level, further work may be needed to ensure trust and 
+integrity in sustainability-labelled financial products. In addition to the proceeds-based approach for 
+green loans, the policy framework could further investigate a transition-specific approach with a 
+focus on other general-purpose loans as part of transition finance, such as sustainability-linked loans. 
+On the latter, an initiative could aim at gathering insights into the functioning of the sustainability-
+linked loan market and at determining what measures would improve market integrity and address 
+greenwashing concerns, for example in terms of how KPIs and/or SPTs and/or penalties are set, 
+measured and implemented. 
+93. Another aspect of the EU sustainable finance framework that may be further developed, building on 
+existing initiatives, relates to sustainability factors other than climate related. For environmental 
+factors other than climate, such as biodiversity, the frameworks described above, e.g. EU Taxonomy, 
+CSRD, should gradually contribute to harmonising criteria49, improving clarity and transparency, and 
+supporting oversight of non-climate environmental claims. The consideration of social factors on the 
+other hand could be further explored by relevant experts, building on existing analysis such as the 
+PSF report on a social taxonomy 50 in order to provide a robust methodological approach for 
+measuring positive and negative impact.  
+94. Lastly, further clarity and/or developments regarding regulatory safeguards against misleading 
+environmental (real-world) impact claims may be beneficial 51. This could include determining how 
+current rules may apply and/or would need to be adapted to address greenwashing concerns around 
+this specific type of claim, for example by requiring specific information and clarifying key concepts52. 
+4.3 Conclusions and recommendations 
+95. Existing frameworks and ongoing regulatory developments provide key foundations to address 
+several aspects of greenwashing in the banking sector. Several measures are however still in the early 
+stages of implementation, while others are being updated or developed, suggesting that benefits of 
+these frameworks are not fully visible yet. 
+ 
+48 Examples include amended Energy Performance of Buildings Directive (EU/2010/31) for the real estate sector, 
+amended Regulation on CO2 emission performance standards (EU/2019/631) for the automotive sector, Regulation on 
+commodities and products associated with deforestation and forest degradation (EU) 2023/1115) for the manufacturing 
+sector. 
+49 A delegated act for economic activities substantially contributing to non-climate environmental objectives has been 
+adopted in June 2023 and applies as of January 2024. 
+50 Platform on Sustainable Finance, Report on Social Taxonomy, February 2022. 
+51 Real-world impact claims may be considered as a sub-category of broader environmental claims referring to the 
+practice of suggesting that a financial product or service has a real-economy impact, which is positive for the environment. 
+52 Such as defining what “impact” means, where exactly the impact is achieved, clarifying to what extent additionality, 
+materiality and measurability are considered, distinguishing between investor impact and investee company impact. 
+
+
+===== PAGE 36/61 =====
+
+ 
+ 
+36 
+96. On the one hand, the EBA notes that certain communication and marketing rules (e.g. UCPD, MiFID) 
+already aim at tackling misleading statements, regardless of their nature or specifically for 
+environmental ones, and may thus potentially allow to prevent or sanction greenwashing practices 
+by credit institutions, payment service providers and investment firms. On the other hand, the EU 
+sustainable finance regulatory framework has not yet been fully implemented. ESG disclosure 
+requirements, for example, are gradually entering into application with first Pillar 3 disclosures 
+published in 2023, first taxonomy-alignment reporting provided in 2024, and CSRD reporting 
+expected in the next years. Several pieces of the transparency framework will also be updated and/or 
+further developed53. Beyond disclosures, the EU regulatory framework also provides some mitigants 
+against greenwashing at the product level, although only partially.  
+97. Overall, the EU regulatory framework provides mitigants against several sources of greenwashing, as 
+illustrated in table 154. 
+Potential source of greenwashing 
+Potential EU regulatory mitigant  
+Marketing and commercial practice 
+MiFID 2, UCPD, MCD, CCD 2 
+Banking product or service 
+ 
+Green loans 
+EU Taxonomy 
+EBA’s 
+recommendations 
+on 
+definition, 
+adequate advice to bank clients, information 
+disclosure, institutions’ staff competences and 
+knowledge and voluntary label  
+Green mortgages 
+EU Taxonomy 
+EBA’s 
+recommendations 
+on 
+definition, 
+adequate advice to bank clients, information 
+disclosure, institutions’ staff competences and 
+knowledge and voluntary label 
+Deposit 
+Uncertain (eco-label project on hold) 
+Green bond 
+EuGB regulation 
+Green securitisation  
+EuGB regulation 
+Technical standards on ESG disclosures for STS 
+securitisations 
+Sustainability-linked loan 
+No specific regulatory framework 55, general 
+policy 
+ambition 
+set 
+out 
+in 
+the 
+EC 
+Recommendation on transition finance 
+ 
+53 Extension of Pillar 3 requirements to all banks, review of SFDR, extension of taxonomy reporting to all environmental 
+objectives, sector-specific standards under CSRD. 
+54 The table includes regulatory initiatives at different phases of development and focuses on level 1 and level 2 
+frameworks in line with the focus of this chapter on the EU regulatory framework; nonetheless, level 3 requirements and 
+non-binding recommendations such as the EC recommendation on transition finance also contribute to the mitigation of 
+greenwashing. 
+55 The need to be fair, clear and not misleading embedded into general credit legislation such as MCD or CCD would 
+nonetheless apply. 
+TABLE 1. SOURCES OF GREENWASHING AND POTENTIAL REGULATORY MITIGANTS 
+
+
+===== PAGE 37/61 =====
+
+ 
+ 
+37 
+Sustainability-linked bond 
+Partial application of EuGB regulation 
+Financial advice and discretionary portfolio 
+management 
+SFDR 
+Entity level 
+Claim on current sustainability characteristics Disclosure frameworks (Taxonomy, Pillar 3, 
+CSRD) 
+Claim on sustainability results or real-world 
+impacts 
+Uncertain 
+Claim on forward-looking commitment e.g. 
+net-zero claim 
+Disclosure frameworks (Taxonomy, Pillar 3, 
+CSRD) and requirements on transition plans 
+(CSRD, CRD, draft CSDDD) 
+98. Level 3 requirements also contain provisions that may contribute to addressing aspects of 
+greenwashing by regulating institutions’ processes or allowing for the consideration of greenwashing-
+related financial risks in institutions’ risk management and CAs’ supervision, as further detailed in 
+Chapter 6. 
+99. Considering that the EU regulatory framework directly or indirectly related to sustainability claims 
+has quickly evolved in recent years and could address several areas of concern, the EBA considers 
+that the most effective way forward to address greenwashing by EU banks is to focus on the 
+finalisation and implementation of the existing and planned legislative initiatives. This includes rules 
+on both consumer/investor protection and sustainable finance, including ESG disclosures, transition 
+plans and ESG ratings. 
+100. 
+In the short term, priority should be given to support a robust implementation of the full set of 
+new regulations and to overcome identified challenges, building on initiatives already undertaken by 
+policymakers. Efforts to address data, usability, consistency, and international interoperability issues 
+should be pursued. In addition, further developments on aspects that are relatively less regulated 
+(transition finance, green and sustainability-linked loans) or where specific issues have been identified 
+(SFDR) would contribute to making the regulatory framework more robust against greenwashing 
+risks. 
+101. 
+In the medium to long term, once sufficient experience on the application of new requirements 
+has been acquired, an identification of potential gaps could be performed and a new legislative 
+initiative on greenwashing in the financial sector could be contemplated, if needed. 
+ 
+BOX 3. RECOMMENDATIONS TO POLICYMAKERS 
+PM-1: Provide regulatory certainty by prioritising the finalisation and effective 
+implementation of on-going and existing initiatives, considering both legislation on 
+misleading claims (e.g. UCPD, MiFID2, MCD, CCD1, CCD2) and the different pieces of the 
+sustainable finance regulatory framework (e.g. EU Taxonomy, CSRD, EuGB, ESG ratings, 
+and clarifying the status and/or next steps for the Eco-label project for retail financial 
+products such as deposits). 
+
+
+===== PAGE 38/61 =====
+
+ 
+ 
+38 
+ 
+ 
+ 
+ 
+PM-2: Pursue efforts to ensure consistency among the different elements of the 
+regulatory framework, address data and usability challenges, and support international 
+interoperability of sustainability standards. 
+ 
+PM-3: Consider establishing sectoral transition roadmaps and pathways in line with EU 
+regulations and sustainability objectives as benchmark for sustainability claims and 
+commitments, including transition finance related claims. 
+ 
+PM-4: Implement EBA’s recommendations on the introduction of a harmonised high-
+level green loan definition, adequate advice to bank clients, information disclosure, 
+institutions’ staff competences and knowledge and a voluntary green loan label as 
+proposed in the EBA report on green loans and mortgages. 
+ 
+PM-5: Implement ESAs’ recommendations to be included in the joint opinion on SFDR. 
+ 
+PM-6: Consider further actions to enhance market integrity of sustainability-linked 
+products, including by monitoring market developments and assessing potential 
+measures to address greenwashing concerns relating to the structure and/or functioning 
+of sustainability-linked loans (e.g. setting of targets, level of transparency, ex-post 
+verification).  
+ 
+PM-7: Continue addressing greenwashing in the real economy i.e. tackling misleading 
+sustainability claims by institutions’ counterparties (e.g. finalisation of the Green Claims 
+Directive) as this would reduce the prospects of greenwashing in the financial sector. 
+ 
+
+
+===== PAGE 39/61 =====
+
+ 
+ 
+39 
+5. Practices to mitigate greenwashing 
+risks by institutions 
+102. 
+Practices described in this chapter can be considered as potential mitigants to some identified 
+drivers and types of greenwashing. They have a non-mandatory, illustrative purpose and are aimed 
+at supporting institutions in the implementation of sound approaches and robust processes to 
+protect against greenwashing.  
+5.1 Key high-level principles and processes 
+5.1.1 
+General principles 
+103. 
+Institutions have a responsibility to communicate sustainability information in a balanced and 
+substantiated manner, in line with requirements to provide “fair, clear and not misleading 
+information”. In a context of evolving regulatory framework and stakeholders’ expectations, 
+institutions should consider observing some key general principles when making sustainability claims, 
+encompassing both entity-level and product and/or service level claims. 
+104. 
+Firstly, institutions should ensure that their sustainability claims are accurate and fairly represent 
+their overall profile and business model, or the profile of their product(s). Claims should convey a 
+representative picture of the entity or product and not omit important information that might 
+influence decision-making or create a misperception on the actual contribution to sustainability. 
+Applying proportionality in any communication, fairly reflecting the extent to which sustainability 
+factors are linked with a given product, portfolio, activity, or strategy can help mitigate greenwashing. 
+On the other hand, claims that highlight only positive sustainability impacts where other aspects of 
+the entity or the product may have a negative impact on sustainability could be conducive to 
+greenwashing. 
+105. 
+To avoid overstatements at the entity level, institutions should consider the impact of all their 
+business activities. For a credit institution with investment firms or asset management subsidiaries, 
+this involves, for example, avoiding discrepancies between environmental claims related to its 
+lending policies and practices related to underwriting and/or other types of financing activities. At the 
+product level, disclosures, promotional materials, and indicators used by institutions should clearly 
+and fairly represent the sustainability features of the product and should not overemphasize the 
+sustainability aspects compared to other relevant aspects of the product.  
+106. 
+Secondly, institutions should be able to substantiate and support their claims with robust 
+evidence and clear facts. Institutions should carefully assess if their claims can be explained and 
+justified based on reliable, verifiable, and relevant information. Where claims are only valid if certain 
+conditions or caveats apply, those conditions or caveats should be clearly stated. Institutions should 
+take into account the challenges of demonstrating the accuracy of specific types of claims, such as 
+(real-world) impact claims, which would require substantiation of specific elements such as the 
+measurement of the additional effects obtained.  
+
+
+===== PAGE 40/61 =====
+
+ 
+ 
+40 
+107. 
+Thirdly, sustainability claims should be kept up to date, and any changes should be communicated 
+in a timely manner and with a clear rationale. Institutions should regularly review their claims and 
+any supporting evidence to ensure that relevant changes in strategies, policies, operations and/or 
+products are accurately reflected. Where necessary, for example in the case of a significant shift in 
+sustainability policies or objectives, institutions should revise their claims to align with the new policy 
+or objective, transparently communicating about this change. At a product level, a change in the 
+sustainability features of the product should be communicated to consumers and reflected in any 
+sustainability claims about the product. 
+108. 
+Fourthly, institutions should ensure their sustainability-related claims are clear and presented in 
+a way that can be understood by the target audience while maintaining accuracy. Visibility, 
+accessibility and understandability of sustainability claims are key for stakeholders’ decision-making.  
+5.1.2 
+Governance and internal processes 
+109. 
+To effectively address greenwashing risks, institutions should consider adapting and enhancing 
+their governance arrangements and internal processes. Sound governance and internal processes 
+should provide relevant safeguards against greenwashing in the formulation, implementation, 
+verification and review of claims. This should ensure that greenwashing considerations are 
+adequately taken into account in the development and implementation of ESG strategies and 
+initiatives, and embedded across frameworks to manage conduct, compliance and ESG risks. 
+110. 
+ Institutions should consider adapting a range of existing processes with a view to applying greater 
+scrutiny and rigor to sustainability-related communications. Such processes could include product 
+approval process, review of marketing material and advertising, preparation of disclosure 
+documents, training of employees, internal controls, due diligence responsibilities to reduce the risk 
+of unintentional misleading claims, and audits.  
+111. 
+Internal control mechanisms are a key element to help ensure the accuracy of claims, or establish 
+sound risk management processes to manage greenwashing-related financial risks (see also below 
+on risk management). First, the compliance function has an important role in ensuring compliance 
+with climate-related laws, rules, regulations and standards, and in advising business relationship 
+officers on the compliance risks of greenwashing, particularly for products and transactions labelled 
+as green, ESG or sustainable. Supervisory experience also shows that compliance functions in some 
+institutions find an increasing need to mitigate the risk of greenwashing, against the backdrop of 
+regulatory developments and voluntary commitments. The internal audit function can also check 
+external communication processes or review the application of relevant frameworks to ensure the 
+integrity of green, transition, and sustainability products. 
+112. 
+Institutions should also consider the need to invest in capacity building and expertise, for 
+example by providing training to the management body, compliance function and business lines, 
+where relevant, on the latest regulatory developments impacting greenwashing, and the making and 
+publishing of sustainability-related claims. Up-to-date knowledge about sustainable finance and the 
+involvement of a range of experts in the formulation or review of sustainability claims can help avoid 
+publishing misleading information. 
+
+
+===== PAGE 41/61 =====
+
+ 
+ 
+41 
+113. 
+Other practices institutions should consider are: 
+i. 
+Mirroring their sustainability claims in their decision-making, culture, and internal processes. If an 
+institution portrays itself as heavily engaged in sustainability, actively reflecting this statement in 
+all relevant processes, including risk management and internal audit strategies, investment and 
+lending policies, corporate culture, and remuneration policies would help address greenwashing 
+concerns. 
+ii. 
+Applying codes of conduct and remuneration policies for sales staff that aim at mitigating the risk 
+of mis-selling of green financial products. 
+iii. 
+Where the terminology used by institutions in the naming and labelling of products or initiatives 
+or in other forms of communication relate to terms such as green, sustainable, positive impacts, 
+carbon neutrality, etc. institutions should ensure that such terminology is justified and sufficiently 
+substantiated.  
+iv. 
+Reviewing and assessing a new sustainable product and/or service through committees from the 
+perspectives of risks, legal and compliance to ensure that both regulatory requirements as well as 
+internal procedures are complied with. Other observed practices include establishing a 
+committee dedicated to the delivery of environmental commitments and establishing a scientific 
+committee validating methodological choices on climate issues. 
+5.1.3 
+ESG data 
+114. 
+Pending the full implementation of new reporting and disclosure requirements under the 
+sustainable finance regulatory framework, and the establishment of the ESAP, which should enable 
+institutions to use reliable and standardised ESG data sources, institutions should consider taking a 
+proactive approach to address data challenges, needs for estimates and potential associated 
+reputational risks. Institutions should consider building insights into ESG data sources they use and 
+the quality of the data underpinning ESG credentials behind their sustainability claims. Such 
+understanding can facilitate accurate presentation and communication. 
+115. 
+Building internal resources and expertise to assess and verify that external ESG data being used is 
+updated, reliable, and sufficiently robust, would reduce the risk of unintentional greenwashing e.g. 
+by spreading inaccurate and/or misleading sustainability claims due to data shortcomings. 
+Institutions should consider the need to fulfil due diligence responsibilities on ESG data with ambition 
+and care and ensure that the information based on which sustainability claims are made is accurate. 
+116. 
+Furthermore, transparency about the ESG data sources and methodologies used by institutions, 
+the approach applied to fill data gaps as well as about the limitations of any information, data or 
+metrics used in a claim can limit the risk of greenwashing. For example, when institutions use an ESG 
+rating to make claims about their sustainability profile or the sustainability profile of a product, 
+transparency as to what that ESG rating measures and why it is a relevant measure of their profile or 
+of their product’s profile can mitigate the risk of misleading stakeholders. 
+ 
+
+
+===== PAGE 42/61 =====
+
+ 
+ 
+42 
+5.1.4 
+External verification 
+117. 
+While the quality and reliability of sustainability disclosures should improve going forward 
+through increased recourse to auditing such as in the context of sustainability reporting under the 
+European Sustainability Reporting Standards, the use of external reviews and third parties’ 
+verification or certification is a practice that can add credibility to green/sustainable products and/or 
+targets. External reviews can help institutions mitigate the risk of greenwashing by offering 
+verification, facilitating the good application of green principles and standards to financial products, 
+and demonstrating a commitment to transparency.  
+118. 
+At a product level, external reviews can contribute to addressing greenwashing concerns by 
+assessing, inter alia, in the pre-issuance phase, the chosen green eligibility criteria, materiality and 
+ambition of KPIs, and overarching sustainability strategies, and in the post-issuance phase the 
+verification of financing allocation and performance. At the entity level, recourse to external 
+validation or assessment of the ambition or credibility of sustainability commitments/pledges may 
+help mitigate greenwashing in relation to forward-looking information (see also below practices to 
+mitigate greenwashing for forward-looking commitments). 
+119. 
+Institutions should nonetheless consider that external reviews may not provide full mitigation 
+against greenwashing risks56. 
+5.2 Practices to mitigate greenwashing risk at entity level 
+5.2.1 
+Forward-looking commitments  
+120. 
+To address greenwashing concerns relating to forward-looking sustainability commitments 
+and/or long-term sustainability objectives, institutions should consider substantiating such claims 
+with credible plans and strategies. Interim targets, alignment of business practices with said 
+commitments as well as sound monitoring and reporting processes whereby institutions publicly and 
+regularly explain how they are progressing towards their objectives can also help mitigate 
+greenwashing risk. 
+121. 
+Institutions that have announced net zero targets and/or commitments should consider specific 
+processes to mitigate risks of misrepresentation57. While recent market practices suggest growing 
+convergence and transparency, such commitments should be designed with care and supported by 
+consistent business strategies. Institutions should consider how the use of specific frameworks, such 
+as global market alliances, recommendations of the UN High-Level Expert Group on the Net-Zero 
+Emissions Commitments of Non-State Entities, or Science-Based Target initiative, could bring 
+credibility to net zero pledges. 
+ 
+56 As described in the EBA’s Progress Report, stakeholders raised some concerns over the lack of a high-quality, 
+consistent, science-based and independent verification process, potentially hampering broader use or credibility of 
+external reviews. In addition, while ICMA has documented that the number of issuers obtaining Science Based Targets 
+initiative (SBTi) approval for their sustainable-linked bond targets (SLB) has increased over the past few years, this does 
+not necessarily protect them from controversy. Indeed, among the 15 SLB issuers with controversy reports, 8 of those 
+had SBTi approved targets. See ICMA, market integrity and greenwashing risks in sustainable finance, October 2023. 
+57 ECB occasional paper, An examination of net-zero commitments by the world’s largest banks, January 2024. 
+
+
+===== PAGE 43/61 =====
+
+ 
+ 
+43 
+122. 
+For those institutions that have made net-zero claims, embedding net-zero targets into day-to-
+day business practices and monitoring can be supported by the development and implementation of 
+transition plans. Institutions that have advanced transition planning capabilities are less likely to 
+incorrectly measure or misreport their milestones and targets. Practices supporting credibility of 
+transition plans include the use of scientifically grounded and regularly updated net-zero scenarios 
+that provide pathways relevant to portfolio exposures, and ensuring that the portfolio coverage of 
+metrics and targets allows to draw conclusions on the institution’s alignment with the net-zero 
+trajectory, including by considering all relevant sources of greenhouse gas emissions such as off-
+balance sheet exposures and facilitated emissions linked to funding activities. 
+123. 
+Appropriate disclosures to substantiate institutions’ net zero commitments could also help 
+mitigate greenwashing concerns. Such transparency could help demonstrate accountability by 
+allowing stakeholders to assess how institutions are steering their portfolios to achieve their net-zero 
+targets. Practices institutions should consider include the disclosure of alignment metrics and net-
+zero targets for a sufficient and representative coverage of exposures, description of the share of 
+exposures covered by these targets, providing details about the methodology used and explanations 
+for any change, and describing the actions undertaken to transition to a net-zero pathway.  
+5.2.2 
+Green or ESG financing targets 
+124. 
+In addition to mitigation actions against potential greenwashing relating to forward-looking 
+commitments such as net-zero targets, institutions should consider practices addressing 
+greenwashing concerns around green or sustainable finance targets. The current lack of 
+comparability or understanding of these targets across banks suggests that practices to comply with 
+the principle of providing fair, clear, and not misleading information should be enhanced with regard 
+to green/sustainable financing claims. 
+125. 
+To provide clear information about their green or sustainable financing objectives, institutions 
+should consider substantiating their claims with granular information. Transparency about the 
+following aspects could be applied: (i) criteria used for defining green or sustainable assets, (ii) 
+distinguishing between financing of activities that already qualify as green based on the EU Taxonomy 
+and other projects, such as those considered eligible for transition finance, (iii) proportion of the 
+balance sheet and business affected by the financing objectives, (iv) the extent to which capital 
+market activities and services such as foreign-exchange hedging or merger & acquisition advice are 
+taken into account by the target, keeping in mind stakeholders’ interest in understanding the 
+institution’s actual contribution to sustainability and the share of financing directed towards the real 
+economy. 
+5.2.3 
+Lobbying  
+126. 
+Greenwashing concerns can arise due to perceived inconsistency between sustainability claims 
+and lobbying activity or association membership. To address such sources of greenwashing risk, 
+institutions should consider performing consistency checks between their sustainability claims and 
+their lobbying practices, public-sector engagement and association memberships, and adapt 
+practices as necessary to support alignment with sustainability goals they have committed to. 
+
+
+===== PAGE 44/61 =====
+
+ 
+ 
+44 
+5.2.4 
+Risk management 
+127. 
+Greenwashing or greenwashing allegations can lead to financial risks for institutions as described 
+in Chapter 3. To mitigate such potential impacts, institutions should consider all practices described 
+above that could reduce the probability of greenwashing occurrence, including building strategies 
+and internal processes ensuring that sustainability commitments can be fulfilled. In addition, 
+institutions should consider specific enhancements of risk management procedures, taking into 
+account that consumers, investors and overall market reactions to greenwashing controversies may 
+evolve as public scrutiny on sustainability-related claims continues to increase.  
+128. 
+Where institutions have announced commitments to sustainability goals or objectives such as net 
+zero targets, they should consider demonstrating that their portfolios are evolving consistently with 
+their objectives58, or transparently explaining the reasons for any deviation. In addition, to assess and 
+measure potential impacts on reputation and litigation risks, institutions should consider integrating 
+greenwashing as part of stress testing or other types of forward-looking analyses. Recognising the 
+challenges in the availability of a representative litigation data set, institutions could apply a scenario 
+analysis approach to gauge the impact of potential litigation cases on their operational risks, based 
+on observed greenwashing litigation cases or hypothetical case studies.  
+129. 
+While institutions could prioritise the integration of greenwashing-related financial risks as part 
+of the management of conduct, operational and reputational risks, they should also consider 
+assessing possible impacts on other types of risks. This could include taking into account the potential 
+effects of greenwashing on liquidity and funding risks, for example as a result of funding withdrawal 
+or reduced ability to issue green funding instruments.  
+5.3 Practices to mitigate greenwashing risk at product and/or 
+service level 
+130. 
+To limit and address greenwashing risk at the product and/or service level, institutions should 
+consider a range of practices including building proper processes and controls to manage their green 
+and sustainable products, being transparent about a clear list of eligible projects and activities for 
+green and sustainable finance and applying available guidance and/or standards. 
+5.3.1 
+Product governance 
+131. 
+Institutions should firstly consider applying the key principles and processes described above, 
+which could provide effective mitigants to the risk of misleading customers, investors, or savers. 
+Observing these principles and processes would help ensure that sustainability-related claims about 
+products and services are fair, clear and not misleading, and are consistent with the sustainability 
+characteristics of the product or service. This includes providing transparent and proportionate 
+information in the different stages of the product commercialisation on the key sustainability 
+features of a financial product as well as on the methodology and data used, for example, with regard 
+ 
+58 ECB analysis shows that banks that have publicly declared a net-zero commitment often display a significant level of 
+misalignment with a net-zero decarbonisation pathways over a five-year time horizon. Please see ECB, Risks from 
+misalignment of banks’ financing with the EU climate objectives, January 2024. 
+
+
+===== PAGE 45/61 =====
+
+ 
+ 
+45 
+to how sustainability indicators relied upon relate to specific aspects or objectives of the product and 
+allow for their precise measurement.  
+132. 
+Institutions should consider adapting, as necessary, their product approval processes and policies 
+regarding green and sustainable financial products. Having in place strict internal standards and 
+criteria for products and services labelled as sustainable could reduce space for interpretation and 
+mitigate the risk of greenwashing. From that perspective, institutions should consider using 
+definitions and criteria based on international and European standards whenever possible (e.g. EuGB) 
+or being clear and transparent about other criteria and definitions used. 
+5.3.2 
+Market guidance 
+133. 
+Institutions should consider to what extent leveraging on industry’s best practices or market 
+guidance would mitigate greenwashing risk at product level. For instance, a set of guidelines, 
+handbooks or principles have been created related to Green, Social, Sustainable, Sustainability-linked 
+Loans or Bonds or transition finance products59, which could contribute to support comparable 
+product design, definitions and criteria. Recent updates to some of these principles seek to reduce 
+greenwashing risk through clarifications on assets and activities eligibility, the selection of KPIs and 
+SPTs, external review process and reporting. 
+134. 
+As described in the EBA’s Progress Report, applying market guidance and/or standards was 
+mentioned by respondents to the ESAs’ survey of November 2022 as the most relevant tool to 
+mitigate greenwashing risk at the product level60, although few concerns were also raised on the 
+credibility of self-regulation initiatives, e.g. in terms of level of ambition and stringency. Institutions 
+should consider whether guidance and frameworks provided by industry bodies would address 
+investors’ or stakeholders’ concerns about greenwashing and provide sufficient assurance on their 
+products’ integrity.  
+5.3.3 
+Sustainability-linked loans 
+135. 
+Institutions providing or planning to provide sustainability-linked loans should consider 
+addressing greenwashing risk for such products, which – although they tend to be private contracts 
+– could raise credibility concerns and reputational risks. Institutions should consider applying 
+sufficient scrutiny and rigor in their engagement with borrowers and in the design of such products. 
+Attention could be paid to some identified drivers of potential greenwashing risk such as the level of 
+ambition and materiality of KPIs and SPTs, their consistency with the borrower’s sustainability 
+strategy, and the degree of transparency and external verification on the sustainability elements of 
+the loan and/or on the achievement of targets. As mentioned above, institutions should assess 
+whether following market guidance would address the areas of concern61. 
+ 
+59 Under organisations such as the International Capital Market Association, the London-based Loan Market Association, 
+the Loan Syndications and Trading Association in New York, the Asia Pacific Loan Market Association, the Climate Bonds 
+Initiative etc. 
+60 This finding suggests that the EU Taxonomy has not yet been established as the key classification system for green 
+financial products, although its role for European green bonds and green loans and mortgages is expected to increase. 
+61 The update to the Loan Market Association’s Sustainability-Linked Loan Principles provides that key performance 
+indicators should be relevant, core and material, measurable or quantifiable, and possible to compare with a benchmark. 
+Borrowers are encouraged to publicly report on the achievement of targets and external verification is required. 
+
+
+===== PAGE 46/61 =====
+
+ 
+ 
+46 
+136. 
+Institutions should consider leveraging voluntary guidance provided by the European 
+Commission’s recommendation of June 202362  to support the credibility of their sustainability-linked 
+loans, as well as other types of transition finance products. Institutions should, for example, take into 
+account that the use of science-based, time-bound climate or environmental performance targets 
+could serve as safeguards to greenwashing risk. Institutions can consider possible loan structure 
+types, such as loans with performance targets to finance transition investments (i) in line with 
+science-based transition pathways or (ii) based on the overall share of Taxonomy alignment to be 
+achieved, or loans to finance transition investments that are based on a credible transition plan 
+towards a climate-neutral, climate-resilient and environmentally sustainable economy. 
+5.3.4 
+Deposits  
+137. 
+Institutions providing or advertising deposits or saving accounts as green or sustainable should 
+consider taking specific actions to ensure observance of the key principles described above. This could 
+include establishing a clear framework for the earmarking of the funds acquired from the green 
+deposits towards the financing of projects or activities contributing to environmental sustainability. 
+To ensure transparency towards deposit holders, institutions should consider providing sufficient and 
+granular information on the funds’ allocation. 
+ 
+ 
+62 EC recommendation (EU) 2023/1425 of 27 June 2023 on facilitating finance for the transition to a sustainable economy. 
+BOX 4. RECOMMENDATIONS TO INSTITUTIONS 
+INST-1: Take all necessary steps to ensure that sustainability information provided is fair, 
+clear, and not misleading, including by observing key principles for sustainability claims 
+to be accurate, substantiated, up to date, fairly representative of the institution’s overall 
+profile or the profile of the product, and presented in an understandable manner. 
+INST-2: Review and adapt governance arrangements and internal processes to build 
+safeguards against greenwashing, including by embedding greenwashing considerations 
+into internal control mechanisms and investing in ESG capacity building and expertise. 
+INST-3: Take a proactive approach to addressing data challenges by building sound ESG 
+data management, including building insights into ESG data underlying sustainability 
+claims, performing due diligence and being transparent about sources, methodologies 
+and limitations. 
+INST-4: Consider external verification as a tool for providing credibility to green or 
+sustainable products and/or targets. 
+INST-5: Substantiate forward-looking sustainability commitments such as net-zero 
+pledges with credible plans and strategies, demonstrating and reporting consistency 
+with objectives committed to. 
+INST-6: Provide clear and granular information about green and sustainable finance 
+targets. 
+INST-7: Align any lobbying practices with sustainability claims. 
+
+
+===== PAGE 47/61 =====
+
+ 
+ 
+47 
+ 
+ 
+ 
+INST-8: Integrate greenwashing-related financial risks as part of management of 
+conduct, operational (including litigation) and reputational risks. 
+INST-9: Establish and report clear criteria and definitions for products and/or services 
+labelled as green or sustainable. 
+INST-10: Consider to what extent alignment with market guidance would address 
+greenwashing concerns around products’ integrity. 
+INST-11: Apply rigor in the design of sustainability-linked products in particular 
+sustainability-linked loans, mitigating potential drivers of greenwashing risk such as 
+materiality and ambition of performance targets, and leveraging on European 
+Commission’s recommendation. 
+
+
+===== PAGE 48/61 =====
+
+ 
+ 
+48 
+6. Supervision 
+6.1 Mandates and resources 
+6.1.1 
+Mandates 
+138. 
+As the findings from the Progress Report showed, the vast majority of CAs consider that their 
+mandates allow them to address different aspects of greenwashing. However, it is often reflected 
+indirectly and limited to the extent that the actions related to greenwashing are conducted within 
+the remit of their primary mandate to ensure the protection of consumers or the resilience of 
+institutions from a prudential perspective. For consumer protection authorities, greenwashing would 
+be relevant to the extent that it is associated with irregular or unfair commercial practices hampering 
+the fairness and transparency of the market for financial products or services, e.g. as misleading 
+claims on the sustainability features of retail banking products or services. For banking supervision 
+authorities, greenwashing would account to the extent that it can be a driver of prudential and 
+conduct risk having an adverse impact on the institutions’ safety and soundness as well as the stability 
+of the financial sector.  
+139. 
+Given the indirect and limited applicability of the primary mandates of the CAs to greenwashing-
+related actions, CAs view their mandates, powers, and competences as only partially sufficient to 
+encompass all facets of greenwashing, or to adequately mitigate greenwashing risks for institutions.  
+140. 
+A small number of CAs reported that their mandates, powers, and competences have changed, 
+or at least partially changed, over the last year. Those changes derived from new national legislation 
+that has been passed recently (e.g. the publication of a new circular on risk management) or the 
+development of new toolkits. Those new toolkits include, among others, the development of an IT 
+system to help identify greenwashing under SFDR or the development of internal guidelines covering 
+inspection objectives and techniques. 
+6.1.2 
+Capacities and resources 
+141. 
+The availability of CAs’ resources to tackle greenwashing or greenwashing-related financial risks 
+remains on a relatively low level, albeit an increasing trend can be recognised. As the stock take of 
+available resources from the Progress Report showed, nearly 50% of the CAs had two or less Full Time 
+Employees (FTEs) dedicated to various sustainability-related supervisory tasks back in 2022. In terms 
+of the FTEs dedicated to tasks specifically related to greenwashing, the share of available resources 
+was even lower: only 10% of the CAs reported that they have three or more FTEs allocated to those 
+tasks. Although there seems to be a shortage of FTEs dedicated to sustainability-related supervisory 
+tasks, this alone might not provide a complete picture of capacity for sustainability tasks as these can 
+potentially be spread over a larger pool of staff. 
+
+
+===== PAGE 49/61 =====
+
+ 
+ 
+49 
+142. 
+Putting the snapshot of resources from 2022 in comparison to the latest survey results, most CAs 
+(72%) indicated that the number of their FTEs63 dedicated to sustainability-related supervisory tasks 
+and/or tasks related to greenwashing has not changed over the past twelve months. However, there 
+is some evidence of a positive trend regarding the number of resources. Current survey responses 
+show that seven CAs (out of 29) have increased the number of FTEs dedicated to sustainability-
+related supervisory tasks within the last year, of which one CA has assigned these FTEs particularly to 
+greenwashing-related risks.  
+143. 
+On the question whether they have the appropriate or needed number of resources and 
+expertise to address greenwashing or greenwashing-related financial risks, most CAs indicated that 
+they were facing gaps. Only a few CAs (21%) reported to not lack any resources or expertise. When 
+asked about the extent of potential gaps, various CAs specified that their resource constraints 
+become apparent both in terms of the number of FTEs dedicated to greenwashing and of the 
+expertise on greenwashing. As the availability of skilled resources is a crucial factor for the CAs to 
+keep up their current supervisory activities in the field of greenwashing and to further extend their 
+effort in the future, special attention should be paid by CAs to build- and/or skill-up resources to the 
+extent possible.  
+144. 
+Recognising the increasing importance of greenwashing-related matters in the financial sector, 
+some CAs committed themselves to building up their supervisory workforce in terms of number of 
+FTEs and the required skillset over the coming years. As of their capacity planning, six CAs explained 
+that they intend to increase the number of FTEs dedicated to sustainability-related supervisory tasks 
+in 2024, whereas three out of the said six CAs will assign, to a certain degree, these FTEs to tasks 
+related to greenwashing. For the year 2025, only three CAs shared their estimation of the 
+development of resources stating that they were planning to increase the number of FTEs dedicated 
+to sustainability-related supervisory tasks, whereas two of those three CAs will assign the FTEs to 
+tasks related to greenwashing.  
+145. 
+As these developments and estimations show, CAs have already begun to stock up their capacities 
+in terms of number of FTEs and the required expertise, however, in most cases more broadly on 
+sustainability-related matters, and not specifically on greenwashing.   
+6.2 Supervisory practices 
+6.2.1 
+Supervisory activities 
+146. 
+Since the last survey in 2022, 17 CAs have carried out or are planning to carry out supervisory 
+activities or other measures in relation to greenwashing. This result is quite stable in comparison to 
+the previous survey, where 18 CAs indicated that they were either already carrying out supervisory 
+activities or were planning to do so. Some examples of concrete activities, distinguished between 
+activities related to banking supervision, conduct supervision or supervision of investment 
+firms/funds, can be found in the following Box 5.  
+ 
+ 
+63 Including FTEs dedicated to the supervision of banks, investment firms and payment service providers. 
+
+
+===== PAGE 50/61 =====
+
+ 
+ 
+50 
+ 
+64 Preliminary findings from these two CSAs are presented in the ESMA Final Report on Greenwashing, published in 
+parallel to this report. 
+BOX 5. EXAMPLES OF SUPERVISORY ACTIVITIES 
+• 
+Banking supervision: From a banking supervision perspective, some CAs mentioned that in 
+2023 several supervisory activities regarding climate-related and environmental risks took 
+place. However, most of those were not specifically aimed at addressing greenwashing-
+related matters, but in some cases these assessments partially covered aspects of it or their 
+results could be used to inform on this topic. Those supervisory activities included, amongst 
+others, (i) monitoring of the findings from the ECB Thematic Review on climate-related and 
+environmental risks, (ii) follow-ups and/or assessments on the banks’ climate-related and 
+environmental risk preparedness and compliance with respective supervisory expectations  
+(either national expectations or from the ECB Guide on climate-related and environmental 
+risks), (iii) performance of on-site inspections and (iv) benchmark reviews among selected 
+banks. Furthermore, some CAs mentioned that they were analysing disclosures (e.g. SFDR) 
+or they were looking at the results of the regular ECB Climate Risk Disclosure Assessment to 
+inform on potential greenwashing cases. Two CAs stated that they were planning to 
+publish/update national supervisory expectations on climate-related and environmental 
+risks. One CA planned to conduct deep dives on reputational and litigation risk associated 
+with climate-related and environmental strategies and risk profiles for selected banks. One 
+CA highlighted that it had intensified its dialogue with the institutions regarding climate risks 
+and integrated climate risk considerations into their supervisory activities for LSIs (e.g. by 
+monitoring the execution of three-years action plans).  
+ 
+• 
+Conduct supervision: In terms of conduct supervision, some CAs mentioned that they were 
+monitoring the commercialisation of retail banking products and services/advertisements. 
+Some CAs stated that they were assessing consumer complaints according to their internal 
+guidelines and/or the existing legal and regulatory framework. One CA was planning to 
+launch a survey among commercial banks on whether they advertise “green” products. 
+ 
+• 
+Investment firms/funds: Some CAs mentioned that they had taken part and/or would take 
+part in ESMA’s “Common Supervisory Actions” (CSAs). In 2023, the ESMA launched two CSAs, 
+one on sustainability risks and disclosures by asset managers and one on marketing material 
+by investment firms. 64 In 2024, the ESMA will launch a CSA on MiFID II sustainability 
+requirements. In this regard, thematic reviews were/will be conducted, for instance on the 
+integration of sustainability in investment firms’ suitability assessment. Independently from 
+this, a few CAs stated that they were conducting and/or planning to conduct off-site 
+inspections and thematic reviews, e.g. on green banking products distributed to retail clients 
+or on client sustainability preferences. One CA had undertaken a survey on greenwashing 
+risk within a sample of fund managers in 2023. One CA mentioned that it had conducted 
+(governance-/MiFID-targeted) on-site inspections at investment service providers by using 
+an updated control plan integrating sustainability-related obligations. One CA was 
+considering tabulating all products that could be subject to greenwashing risks as a first step 
+for their work related to greenwashing. 
+
+
+===== PAGE 51/61 =====
+
+ 
+ 
+51 
+6.2.2 
+Supervisory documentation or guidance 
+147. 
+With regards to the implementation of supervisory practices related to greenwashing, the latest 
+survey further assessed if CAs were already using or if they were developing dedicated 
+documentation or guidance available to supervisory teams to address greenwashing and the risks 
+stemming from it for institutions.  In particular, the existence of four different types of 
+documentation was investigated: (I) dedicated internal guidelines, (II) dedicated supervisory 
+expectations, (III) high-level expectations, and (IV) other supporting or explanatory documentation. 
+Results are presented as follows (Figure 12): 
+ 
+Source: EBA follow-up survey to CAs in 2023. 
+148. 
+Even though CAs consider those guidance and documentation made available to supervisory 
+teams as useful tools to enhance the identification and supervision of greenwashing-related financial 
+risks, the number of CAs having such documentation in place remains relatively low, however, it 
+seems to have slightly increased over the last twelve months.65 For instance, only one CA indicated 
+having a dedicated internal guidance for ESG supervision addressing greenwashing implemented. 
+However, this guidance was not exclusively set up for the purpose of greenwashing but is structured 
+around principles for ESG risk supervision in general. One CA mentioned that in the context of the 
+banking conduct supervision a reflection of possible guidelines for retail banking products and 
+services was taking place. The highest share in terms of implemented documentation can be found 
+for the high-level expectations. Twelve CAs indicated that they had set up high-level expectations 
+addressing greenwashing and its risks, however, most of them were part of broader ESG-related 
+materials/documents and not solely focused on greenwashing. In this regard, CAs refer to, for 
+example, the ECB Guide on climate-related and environmental risks and to own national high-level 
+expectations for credit institutions. 
+ 
+65 However, the comparison should be done with caution as some answers from the CAs given in the follow-up survey 
+leave some room for interpretation and/or can be understood ambiguously. 
+FIGURE 12. USE OF DOCUMENTATION AND GUIDANCE ADDRESSING GREENWASHING 
+
+
+===== PAGE 52/61 =====
+
+ 
+ 
+52 
+6.2.3 
+Data 
+149. 
+The integration of reliable and high-quality data into the supervisory processes is crucial to identify 
+and monitor greenwashing risk of institutions. As the latest survey results show, the vast majority of 
+CAs intend to identify and monitor greenwashing risk in the future, by using the data and information 
+stemming from the field of ESG regulation. In this context, CAs consider the information originating 
+from the Taxonomy Regulation, the CRR (Pillar 3 ITS on ESG risks), the SFDR and the CSRD as the most 
+relevant sources for the (potential) identification and monitoring of greenwashing. Some CAs 
+reported that they were also making use or planning to make use of information stemming from 
+national disclosure requirements (which are mostly aligned with the EU Regulation and/or other 
+public disclosures, e.g. TCFD). Furthermore, some CAs indicated that they intended to leverage on 
+the information that they receive in the context of regulatory climate- or environmental risk exercises 
+(e.g. the ECB Thematic review or climate risk-focused on-site inspections). In addition to information 
+stemming from the ESG-related regulation and supervisory activities, CAs stated that information 
+obtained from the institutions’ online appearance (e.g. product advertisements on the institutions’ 
+website), the institutions’ annual report or information obtained from customers’ complaints and the 
+media are useful sources to keep track of greenwashing-related incidences. 
+150. 
+Despite the variety of possible information and data sources, CAs saw some limitations in their 
+usability to identify, address and monitor greenwashing risks. These concerns were grounded on the 
+following reasons: (i) (self-selected) information provided by or disclosed by institutions may not 
+allow to identify greenwashing; (ii) the scope of application of some regulations does not capture all 
+institutions, such as CSRD or CRR – in this regard, a potential extension of Pillar 3 requirements on 
+ESG risks to all credit institutions is seen as a positive factor; and (iii) CAs may lack experience and 
+tools for analysing this data at the moment. 
+151. 
+In terms of if and how the information and data collected from the sources mentioned above are 
+already used, a few CAs reported that they were already conducting regular media monitoring, 
+screening banks’ advertisements, or analysing consumer complaints in order to identify potential 
+greenwashing cases. Two CAs mentioned the performance of recent on-site inspections. Although 
+their scope was not specifically tailored to greenwashing, the observations from the on-site 
+inspections would be analysed by the CAs to potentially inform on any greenwashing-related 
+concerns. One CA was considering using the data stemming from the upcoming CRR reporting 
+requirements to assess the plausibility of prudential transition plans of the institutions. Another CA 
+intended to build an IT system/web-scrape to inform its assessment of greenwashing. In contrast to 
+these first efforts, there were some CAs who had not elaborated yet how to potentially identify or 
+monitor greenwashing based on the aforementioned data sources. Some of those CAs were waiting 
+for common definition or supervisory guidance. In this regard, some CAs reported that they aimed to 
+follow Single Supervisory Mechanism (SSM) methodologies as soon as they become available. One 
+CA explained its non-activity with the absence of a mandate to supervise greenwashing.   
+152. 
+In conclusion, the current state of play regarding the use of data to identify and monitor 
+greenwashing is quite mixed. Whereas some CAs are already making efforts or have plans to 
+integrate available data into their supervisory processes, other CAs are waiting for the regulatory 
+landscape of greenwashing to evolve before acting.   
+
+
+===== PAGE 53/61 =====
+
+ 
+ 
+53 
+6.2.4 
+Cooperation with other authorities and sanctions 
+153. 
+The majority of CAs had not received information from or cooperated with other authorities 
+regarding greenwashing yet. Only five CAs stated that they had liaised with other stakeholders and 
+referred to either cooperations with other national authorities (e.g. Authority for Consumers and 
+Markets, public prosecutor’s office, ministry of environment) or collaborations with industry (e.g. 
+banking associations, meteorological institute).  
+154. 
+In terms of taking up enforcement actions, most CAs stated that they had not taken any of those 
+actions, such as sanctions or other administrative measures, with respect to greenwashing. Amongst 
+those, one CA explicitly highlighted that it was not foreseeing to enforce any supervisory action in 
+terms of greenwashing without a clear mandate, regulatory framework and implemented definition 
+on it. Nearly one third of the CAs responded that they had not taken formal enforcement actions with 
+respect to greenwashing yet but would not exclude that this could happen in the future. In this vein, 
+two CAs further elaborated that they could adopt specific actions prospectively, addressed either to 
+the market as a whole or only to a subset of financial market participants.  
+155. 
+ Whereas in the previous survey none of the CAs had taken up any formal enforcement action so 
+far, two CAs confirmed now that they took action since the end of 2022. 
+6.2.5 
+Financial literacy and education  
+156. 
+When CAs were first asked about their engagement in financial literacy and education initiatives 
+involving the issue of sustainability generally or greenwashing specifically in 2022, 50% reported that 
+they had conducted such initiatives. As the latest survey results show, this trend seems to continue. 
+Since November 2022, half of the CAs have conducted new financial literacy and education initiatives 
+including the issue of sustainability generally or greenwashing specifically.  
+157. 
+Among the newly launched initiatives are:  
+• 
+Publications (e.g. website articles or videos) and events (e.g. public conferences, information 
+campaigns, targeted seminars) related to green/sustainable finance in general to disseminate 
+knowledge about green financial markets and products and sustainable finance regulation; 
+• 
+Publications and events specifically targeted to greenwashing, for example by explaining the 
+meaning of green/sustainable finance, the concept of greenwashing and illustrating it with 
+specific cases potentially faced by consumers (e.g. misleading advertisement of financial products 
+as green);  
+• 
+Participation in the development of the Joint Committee interactive factsheet on financial 
+education and sustainable finance;  
+• 
+Staff publications contributing to raising awareness and developing knowledge on the topic of 
+greenwashing.  
+158. 
+As a supplement to the above-mentioned initiatives, educational programmes are seen 
+instrumental in equipping consumers with the relevant knowledge and skills to reflect critically on 
+retail products’ characteristics and their alignment with climate-related and environmental 
+considerations. In collaboration with the ESMA and EIOPA, the EBA is actively working on the 
+
+
+===== PAGE 54/61 =====
+
+ 
+ 
+54 
+integration of ESG dimensions in the promotion of financial education, as part of the ESAs’ mandates 
+to review and coordinate financial education and literacy initiatives of national authorities. Despite 
+the general agreement on the fact that fostering consumer awareness is a key component to combat 
+greenwashing risks, CAs emphasised the need for a precise delineation of consumers’ role, 
+highlighting that the primary responsibility remains on the financial sector and supervisors within 
+their mandate. 
+6.2.6 
+Challenges 
+159. 
+Many CAs are facing some obstacles or challenges towards taking supervisory activities in relation 
+to greenwashing. A snapshot of the CAs’ current responses shows that the identification and 
+monitoring of greenwashing risks in the financial sector is especially hampered by the following 
+factors: 
+• 
+Lack of a clear mandate to investigate the issue and to enforce remediation, if needed; 
+• 
+Absence of a specific framework on greenwashing, e.g. lack of specific rules in retail banking 
+markets, or lack of mapping with existing legal requirements; 
+• 
+Lack of a harmonised definition of greenwashing, criteria and materiality benchmarks to identify 
+and measure the impact of greenwashing-related financial risks on the risk profile of the 
+institutions; 
+• 
+Legal uncertainty around the ESG domain, as legislation and common principles are continuously 
+being revised or established; 
+• 
+Absence of specific methodology or guidance on how CAs can detect and collect information on 
+(potential) greenwashing cases or how they can verify whether green deposits are actually used 
+for green investments;  
+• 
+Lack of data and software applications to analyse it; 
+• 
+Lack of human resources and/or supervisory experience; 
+• 
+The broad extent of the greenwashing phenomenon, which can occur in so many different forms 
+and can relate to thousands of underlying assets, impedes a comprehensive supervision.  
+160. 
+Compared to the previous survey results, the obstacles and challenges identified by the CAs had 
+not substantially changed lately. However, one CA highlighted that the challenges in taking 
+supervisory activities might potentially increase as the portfolio considered as ‘sustainable’ by banks 
+was also growing.  
+6.3 Supervisory framework 
+161. 
+This section focusses on the level 3 requirements, which may contribute to addressing aspects of 
+greenwashing through regulating institutions’ processes, supervisory processes and consumer 
+protection. First, it provides an overview of the relevant EBA Guidelines and details how these could 
+potentially be utilised by CAs in the future for the sake of the supervision of greenwashing or 
+greenwashing-related financial risks. Although the respective guidelines do not explicitly refer to 
+greenwashing itself, their provisions can be used as a starting point to mitigate greenwashing risks 
+considering that in the medium to long term further improvements to the regulatory framework 
+could be contemplated, if need be, to fully capture this topic. Secondly, this section gives a picture of 
+
+
+===== PAGE 55/61 =====
+
+ 
+ 
+55 
+how those guidelines were already used in the past by the CAs to identify or mitigate greenwashing-
+related risks. In this conjunction, it should be noted that most of those use cases, which are illustrated 
+in the following paragraphs, were already reported by the CAs for the purposes of the Progress 
+Report and no substantial changes in supervisory approaches could be identified based on the results 
+from the follow-up survey.  
+6.3.1 
+Institutions’ loan origination, governance and stress-testing processes 
+162. 
+As applicable of 30 June 2021, the EBA Guidelines on loan origination and monitoring66 (“LOG”) 
+include, among others, minimum requirements for institutions that plan to engage in 
+environmentally sustainable activities, including having in place: 
+• 
+A list of the projects and activities, as well as the criteria, that the institution considers eligible 
+for environmentally sustainable lending or a reference to relevant existing standards on 
+environmentally sustainable lending; 
+• 
+The process by which the institutions evaluate that the proceeds of the environmentally 
+sustainable credit facilities they have originated are used for environmentally sustainable 
+activities. 
+163. 
+According to the latest survey results, the LOG are the most frequently mentioned EBA product 
+and already used by eleven CAs for assessing the regulatory compliance of institutions that engage 
+with or plan to engage with sustainable activities. A few instances of prevailing supervisory activities 
+include: 
+• 
+Assessing the above-mentioned requirements of the LOG as part of a broader thematic review 
+on climate-related and environmental risks. Results show that credit products with sustainability 
+features are generally grounded on basic practices, while institutions offering those products 
+are not properly prepared to respond to the litigation and reputational risks arising from them 
+(see below findings on litigation and reputational risks); 
+• 
+Surveying how the LOG are implemented, including a view at procedures preventing 
+greenwashing; 
+• 
+Monitoring compliance with the provisions of the LOG related to environmentally sustainable 
+lending of a significant institution; 
+• 
+Reviewing the credit risk admission policy of an institution; 
+• 
+Performing a review of how institutions define ‘green’ in their green loan products. 
+164. 
+While some CAs have already taken action on the basis of the existing provisions of the LOG, other 
+CAs who have not done it yet are in the stage of planning how to review the implementation of the 
+LOG from the perspective of sustainability/greenwashing in the future. Some CAs raised the idea to 
+integrate such compliance checks of the implementation of the environmental-related aspects of the 
+LOG in the on-site inspection field work, in particular credit risk-focused missions. Especially against 
+the background that the demand for green banking products is expected to rise over the upcoming 
+ 
+66 EBA/GL/2020/06 
+
+
+===== PAGE 56/61 =====
+
+ 
+ 
+56 
+years, the timely implementation of those reviews – either as part of the on-site or off-site activities 
+– will gain further importance for the supervisory work.  
+165. 
+The EBA Guidelines on Internal Governance67 are also used or planned to be used by some CAs 
+for the purpose of mitigating greenwashing. At the current stage, only six CAs reported that they were 
+making use of those GLs for the purpose of assessing the compliance of institutions engaging with 
+sustainable activities. However, several CAs considered that it would be beneficial to include this 
+assessment in the supervisory activities, such as in the context of business models assessments or 
+inspections.  
+166. 
+The GL describe, among others, requirements on the new product approval process that credit 
+institutions should adopt, including a well-documented new product approval policy (NPAP). The 
+NPAP, upon approval of the management body, should cover every consideration to be taken into 
+account before deciding to enter new markets, deal with new products, launch a new service, or 
+make significant changes to the existing products or services. Further, it requires for the approval of 
+new products, or for significant changes to existing products, processes and systems, the involvement 
+of the risk management and the compliance function. Therefore, when embedding the review of 
+compliance within the GL in the supervisory activities, it could be ensured that institutions take any 
+potential greenwashing aspect into consideration when deciding to enter new markets or deal with 
+new products with sustainability features. Furthermore, the requirements on institutions’ risk culture 
+prove to be another good starting point for CAs to reflect on the level of greenwashing risk within the 
+institutions. As the implementation of a strong risk culture fosters the accountability of staff members 
+and alignment of risk-taking behaviour with the institutions’ risk profile, the institutions’ ability to 
+make sound and informed decisions will be strengthened, thus diminishing the potential for any 
+greenwashing-related risks. Therefore, CAs may take considerations on greenwashing risk into 
+account when checking on the institutions’ risk culture being compliant with these GL. 
+167. 
+Lastly, the EBA Guidelines on institutions’ stress testing68 may be used as a further point of 
+reference by CAs. As those GL include requirements for institutions to perform stress testing of 
+conduct-related risks arising from the current or prospective risk of losses from the inappropriate 
+supply of financial services and the associated litigation costs, including cases of willful or negligent 
+misconduct, CAs could refer to them in order to verify if and how institutions consider greenwashing 
+in their conduct-related risk stress testing going forward.69 However, at the current stage, there is no 
+information on the implementation of the GL in relation to greenwashing available yet. 
+ 
+ 
+67 EBA/GL/2021/05 
+68 EBA/GL/2018/04 
+69 The Guidelines provide that institutions should take into account that conduct-related risk, as part of legal risk under 
+the scope of operational risk, arises because of the current or prospective risk of losses from the inappropriate supply of 
+financial services and the associated litigation costs, including cases of willful or negligent misconduct. In their stress 
+testing, institutions should assess the relevance and significance of the following exposures to conduct-related risk and 
+associated litigation costs: a) the mis-selling of products, in both the retail and the wholesale markets; b) the pushed 
+cross-selling of products to retail customers, such as packaged bank accounts or add-on products that customers do not 
+need; c) conflicts of interest in conducting business; f) poorly designed distribution channels that may result in conflicts 
+of interest with false incentives; and h) the unfair processing of customer complaints. 
+
+
+===== PAGE 57/61 =====
+
+ 
+ 
+57 
+6.3.2 
+Supervisory review and evaluation process 
+168. 
+In terms of the guidance provided to supervisors, the EBA Guidelines on the Supervisory Review 
+and Evaluation Process70 (SREP) contain several provisions that can be used to assess to what extent 
+institutions are exposed to greenwashing-related financial risks and how to factor this assessment 
+into supervision. The provisions are further elaborated in the following paragraphs. As of now, only a 
+minority of CAs reported to have made use of those provisions for the purpose of supervising 
+greenwashing-related financial risks.  
+169. 
+In the first place, CAs should make use of available information and outcomes from other 
+supervisory activities that can, even if not directly designed to target greenwashing, potentially 
+inform on it, and should reflect that information in their SREP assessment. In this regard, the outcome 
+of climate- or environmental-related on-site inspections, thematic reviews or deep-dives as well as 
+market conduct and consumer protection activities, like conduct risk assessment, might be useful as 
+a starting point to reflect greenwashing-related considerations – at least indirectly – in the SREP 
+assessment.71 In general, CAs have not yet reflected explicitly in their SREP assessments information 
+and outcomes related to greenwashing coming from other supervisory activities. Nonetheless, most 
+CAs shared the view that reporting such information in the SREP might gain more relevance in near 
+future, as the integration of ESG aspects in the SREP is taking up speed and further supervisory 
+activities that might inform on greenwashing-related matters are in the pipeline. 
+170. 
+In addition, CAs may assess, as part of the SREP, whether institutions’ code of conduct allows for 
+the mitigation of greenwashing risks, e.g. by establishing principles on and providing for examples of 
+acceptable and unacceptable behaviours linked in particular to financial misreporting and 
+misconduct, including but not limited to mis-selling and other violations of consumer protection laws. 
+Within their SREP practices, CAs have not yet assessed whether institutions’ code of conduct, or 
+broader ethical corporate and risk culture, addresses the risk of greenwashing, however, it may gain 
+importance in the future as it may be taken into account for the assessment of operational and 
+reputational risks. 
+171. 
+Lastly, CAs may account for greenwashing risks within their assessment of the reputational risk as 
+part of the SREP. In general, the assessment of reputational risk to which the institution is exposed to 
+concentrates on the assessment of the overall reputational risk framework, including the 
+implementation of appropriate communication strategies, which ensures that the institution is 
+capable of identifying and dealing with any events that may generate a negative impact on its 
+reputation. In the context of the assessment, both internal and external factors or events that might 
+give rise to reputational concerns should be taken into account by the CAs, for example sanctions and 
+ongoing known investigations from official bodies and media campaigns and consumer-association 
+initiatives that contribute to a deterioration in the public perception and reputation of the institution.  
+172. 
+Generally, CAs have not yet assessed if and to what extent greenwashing-related matters drive 
+reputational risks that institutions are exposed to as part of the SREP. However, some CAs have 
+started to evaluate, as part of broader assessments, institutions’ climate risk preparedness and 
+ 
+70 EBA/GL/2022/03 
+71 Likewise, the findings from the SREP assessment should inform other supervisory processes. 
+
+
+===== PAGE 58/61 =====
+
+ 
+ 
+58 
+compliance with supervisory expectations on climate-related and environmental risks that embrace 
+the management of reputational risks stemming from climate-related factors.  
+173. 
+Going forward, CAs generally consider that greenwashing aspects could be increasingly reflected 
+in the SREP in near future, especially for the assessment of operational and reputational risks, as the 
+impact of greenwashing risks on the institutions’ risk profile may increase given that the demand for 
+green products is expected to rise as well as the clients’ awareness of the topic. 
+174. 
+In addition, the reflection of greenwashing risks within the SREP as part of the reputational risk 
+assessment might be driven forward as further supervisory activities are coming their way. According 
+to the latest survey results, one CA planned to conduct deep dives on reputational and litigation risk 
+associated with climate-related and environmental strategies and risk profiles for selected banks. 
+Another CA was preparing the launch of a survey among commercial banks focusing on their 
+advertisement of their green products.  
+6.3.3 
+Consumer protection  
+175. 
+From the consumer protection perspective, several EBA guidelines provide a basis for CAs to 
+address greenwashing and its risks.  
+176. 
+Firstly, the EBA Guidelines on product oversight and governance arrangements for retail 
+banking products72 (POG GL) setting the framework for robust and responsible product design and 
+distribution for the retail banking products that fall into EBA’s consumer protection remit73 address 
+some conduct risks and supplement other EBA guidelines in this regard that may be relevant to 
+product oversight and governance, such as EBA Guidelines on internal governance. The POG GL 
+contain requirements for both manufacturers and distributors of retail banking products and focus 
+on, amongst others, the appropriateness of the internal control functions/arrangements, 
+identification of the target market, product testing, disclosure, product monitoring, remedial actions 
+and distribution channels, and information requirements.  
+177. 
+Regarding the utilisation of the POG GL, many CAs have not assessed yet whether and how those 
+could be used to account for greenwashing-related conduct risk. Nevertheless, there were some 
+initial approaches. For instance, one CA planned to assess sustainability-related conduct risk, which 
+could include greenwashing using the POG GL as one possible tool.  
+178. 
+In general, CAs agreed on the point that the POG GL might already prove useful to prevent 
+greenwashing related to banking retail products as they require that consumers’ interest shall duly 
+be taken into account at every stage of the lifecycle of the product. Thus, where a product is intended 
+to be sustainable, a prior assessment is to be conducted to identify whether it may appropriately 
+serve the desires and needs of the consumers within its target market, helping to diminish misleading 
+pre-contractual information and commercial claims. 
+ 
+72 EBA/GL/2015/18 
+73 Those products are: mortgages, personal loans, deposits, payment accounts, payment services, and electronic money. 
+
+
+===== PAGE 59/61 =====
+
+ 
+ 
+59 
+179. 
+Secondly, there are the EBA Guidelines on remuneration policies for sales staff74 that aim at 
+reducing possible conduct costs for financial institutions by strengthening the framework for financial 
+institutions’ remuneration policies and practices. If applied properly, the GL lead institutions to avoid 
+providing incentives for greenwashing in commercial practices, such as pushing the sale of 
+sustainable products that are not in the best interest of a client. The GL apply to remuneration paid 
+to staff employed by credit institutions, creditors, credit intermediaries, payment institutions and 
+electronic money institutions when selling mortgages, personal loans, deposits, payment accounts, 
+payment services and/or electronic money.  
+180. 
+As of now, only a couple of CAs have started to (partly) evaluate how the EBA Guidelines on 
+remuneration policies for sales staff, if appropriately implemented by the institutions, would foster 
+the mitigation of greenwashing-related conduct risk. However, as the GL contain principles 
+combating the risk of mis-selling by incentivising institutions to treat consumers fairly, some CAs 
+stressed the relevance of the guidelines in the future to address greenwashing regarding conduct 
+supervision.  
+181. 
+Thirdly, the Guidelines for complaints-handling for the securities (ESMA) and banking (EBA) 
+sectors75 can support mitigating greenwashing risk and fostering consumer protection as the GL 
+contain requirements for complaint handling applicable for products/services under the EBA’s remit. 
+Since the GL do not make any specification on the possible complaints’ causes, CAs may use them to 
+address complaints related to greenwashing. 
+182. 
+CAs are at different stages in developing their approach to sustainability-related consumer 
+protection and conduct risk, also with respect to those GL. While most of the CAs have not started to 
+assess whether and how the GL can be utilised to identify greenwashing risks yet, four CAs stated 
+that they already referred to those guidelines with a view of detecting potential cases of 
+greenwashing. Considering the rising trend of products manufactured and distributed with an ESG 
+label, which raises the potential for misleading statements and declarations by the offering 
+institutions, CAs considered the GL to be relevant in the future. 
+183. 
+Finally, complaints are an important source of information for market conduct supervisory 
+activities and any greenwashing-related complaint would help monitor greenwashing over time.  
+  
+ 
+74 EBA/GL/2016/06 
+75 JC 2018 35 
+BOX 6. RECOMMENDATIONS TO SUPERVISORS 
+SUP-1: Pursue ongoing and planned efforts to identify and monitor greenwashing-
+related financial risks of institutions in your jurisdiction and amplify supervisory 
+activities related to greenwashing within the remit of your respective mandate, taking 
+into account key principles outlined in Section 5.1 when assessing entity and/or 
+product/service level sustainability claims. 
+
+
+===== PAGE 60/61 =====
+
+ 
+ 
+60 
+ 
+ 
+ 
+ 
+SUP-2:  Make use of the power given by the existing supervisory framework to account 
+for the impact stemming from greenwashing-related matters on the institutions’ risk 
+profile, e.g. through the SREP GL when assessing reputational and litigation risks. 
+SUP-3: Include verification of institutions’ compliance with relevant requirements and 
+guidance as part of supervisory activities, including: 
+• 
+Guidelines on loan origination and monitoring – processes for environmentally 
+sustainable lending, 
+• 
+Guidelines on internal governance - institutions’ new product approval policy 
+(with respect to products with sustainability features) and risk culture, 
+• 
+Guidelines on product oversight and governance arrangements for retail 
+banking products – institutions’ processes to mitigate greenwashing-related 
+conduct risk for retail banking products from product manufacturing to 
+distribution. 
+SUP-4: Monitor and evaluate sustainability commitments of institutions in your 
+jurisdiction, e.g. by conducting regular screenings of institutions’ disclosure or website 
+information, or use of innovative tools like web-scraping. 
+SUP-5: Build-up expertise and capacity/human resources to address greenwashing-
+related matters and be able to keep up with regulatory developments, e.g. by upskilling 
+and training of staff on ESG in general or greenwashing specifically. 
+SUP-6: Promote further financial literacy initiatives to raise awareness and develop 
+knowledge on the topic of greenwashing. 
+ 
+BOX 7. RECOMMENDATIONS TO EBA 
+EBA-1: Provide regulatory guidance on addressing greenwashing-related aspects within 
+the prudential and conduct supervision by continuing updating the existing supervisory 
+framework, e.g. SREP GL, with ESG-related provisions including the impact of 
+greenwashing risks on institutions’ risk profile, POG GL. 
+EBA-2: Foster and facilitate knowledge sharing between CAs on best practices for 
+supervising greenwashing risks. 
+EBA-3: Continue to address greenwashing concerns in the financial sector and 
+strengthen institutions’ resilience against it by enhancing the consideration of 
+greenwashing-related financial risks in the institutions’ risk management processes by 
+the respective EBA GLs, e.g. ESG risks management GLs to institutions. 
+ 
+
+
+===== PAGE 61/61 =====
+
+ 
+ 
+61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tour Europlaza, 20 avenue André Prothin CS 30154 
+92927 Paris La Défense CEDEX, FRANCE  
+Tel.  +33 1 86 52 70 00 
+E-mail: info@eba.europa.eu 
+https://eba.europa.eu 
+ 

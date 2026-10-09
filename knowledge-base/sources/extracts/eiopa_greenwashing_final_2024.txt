@@ -1,0 +1,2439 @@
+
+
+===== PAGE 1/54 =====
+
+  
+ 
+  
+ 
+ 
+Advice to the European 
+Commission on greenwashing 
+risks and the supervision of 
+sustainable finance policies 
+ 
+FINAL REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EIOPA-BoS-24-159 
+04 June 2024 
+ 
+ 
+ 
+
+
+===== PAGE 2/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 2/54 
+ 
+CONTENTS 
+Executive Summary and proposals 
+4 
+1. 
+Introduction and background 
+6 
+1.1. 
+Mandate 
+6 
+1.1.1. 
+Process 
+6 
+1.1.2. 
+EIOPA’s interpretation of the EC’s request for input 
+6 
+1.1.3. 
+Scope covered by EIOPA 
+7 
+1.2. 
+Background 
+7 
+2. 
+Understanding sustainability claims and greenwashing 
+8 
+2.1. 
+Sustainability claims 
+8 
+2.2. 
+ESAs common understanding of greenwashing 
+9 
+3. 
+Supervising sustainability claims in the insurance and pensions lifecycles 
+9 
+3.1. 
+Common approach to supervise sustainability claims 
+9 
+3.1.1. 
+Rationale of the Opinion on sustainability claims and greenwashing 
+9 
+3.1.2. 
+Summary of the content of the Opinion 
+10 
+3.2. 
+Sustainability claims in the insurance and pension lifecycles 
+11 
+3.2.1. 
+Entity-level 
+12 
+3.2.1.1. 
+Sustainability claims in the business model 
+12 
+3.2.1.2. 
+Sustainability claims in the entity management 
+13 
+3.2.2. 
+Product level 
+15 
+3.2.2.1. 
+Sustainability claims in the product manufacturing and scheme design stage 
+15 
+3.2.2.2. 
+Sustainability claims in the delivery stage 
+15 
+3.2.2.3. 
+Sustainability claims in the product/scheme management stage 
+17 
+4. 
+Risks and impacts from greenwashing 
+18 
+4.1. 
+Green exposure in the insurance and pension sectors 
+18 
+4.2. 
+Impact of greenwashing 
+19 
+5. 
+Supervisory activities carried out in relation to greenwashing 
+20 
+5.1. 
+Survey to undertakings on sustainability 
+20 
+5.1.1. 
+Implementation of SFDR requirements 
+21 
+5.1.1.1. 
+Entity-level SFDR disclosures 
+21 
+5.1.1.2. 
+Entity-level investment information beyond SFDR 
+23 
+
+
+===== PAGE 3/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 3/54 
+ 
+5.1.1.3. 
+Product-level SFDR disclosures 
+23 
+5.1.2. 
+Implementation of IDD sustainability requirements 
+26 
+5.1.2.1. 
+POG sustainability-related requirements 
+26 
+5.1.2.2. 
+IDD suitability assessment sustainability-related requirements 
+30 
+5.1.3. 
+Non-life insurance products with sustainability features 
+31 
+5.2. 
+SFDR Pre-contractual disclosure analysis 
+32 
+6. 
+Supervisory experiences 
+37 
+6.1. 
+NCAs’ supervisory activities around greenwashing 
+37 
+Supervisory tools to tackle greenwashing 
+39 
+6.2. 
+Occurences of potential greenwashing 
+39 
+6.3. 
+Supervisory capacities, challenges and powers 
+40 
+6.3.1. 
+Supervisory capacities 
+40 
+6.3.2. 
+Supervisory challenges 
+41 
+6.3.3. 
+Supervisory mandates and powers 
+42 
+7. 
+Possible Improvements to the regulatory framework 
+43 
+7.1. 
+Non-life insurance products with sustainability features 
+43 
+7.1.1. 
+Clarifying what are non-life products with sustainability features 
+44 
+7.1.1.1. 
+Potential sustainability features of non-life products 
+44 
+7.1.1.2. 
+Potential product-level disclosure 
+46 
+7.1.1.3. 
+Other considerations 
+47 
+7.1.2. 
+Pros and cons of the implementation of a potential approach for non-life products with sustainability 
+features 
+48 
+7.2. 
+Insurance Distribution Directive (IDD) 
+48 
+7.3. 
+Sustainable Finance Disclosure Regulation (SFDR) 
+49 
+7.4. 
+IORP II Directive 
+49 
+8. 
+Annex 
+51 
+8.1. 
+Acronyms and abbreviations 
+51 
+8.2. 
+Stakeholder interaction 
+52 
+8.3. 
+ESAs understanding of greenwashing 
+52 
+ 
+
+
+===== PAGE 4/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 4/54 
+ 
+EXECUTIVE SUMMARY AND PROPOSALS 
+In May 2022, the European Commission (EC) asked EIOPA to provide advice on greenwashing risks 
+and the supervision of sustainable finance policies. This Final Report serves as EIOPA’s final input to 
+the EC’s Call for Advice (CfA) on Greenwashing and complements EIOPA’s Progress Report on 
+greenwashing published in June 20231.  
+‘Sustainability claims’ made by insurance and pension providers should be accurate, 
+substantiated, accessible and up to date. Relying on the ESAs’ understanding of ‘greenwashing’ and 
+EIOPA’s understanding of ‘sustainability claims’, EIOPA sets out a common approach to supervise 
+sustainability claims and greenwashing in the insurance and pensions sectors. This common 
+approach composed of four principles follows a public consultation that ended in March 20242. 
+EIOPA applied this approach to a set of examples of sound and misleading sustainability claims 
+across the stages of the insurance and pension lifecycles.  
+While providers reported generally complying with sustainability-related requirements, EIOPA 
+sees room for improvement. To assess the status of implementation of the current sustainability-
+related requirements, EIOPA coordinated a survey to undertakings on sustainability. 16 National 
+Competent Authorities (NCAs) participated in this exercise which covered 99 insurance and pension 
+providers. In relation to SFDR, EIOPA sees room for improvement particularly regarding Article 10 
+SFDR requirements (i.e., product-level website disclosures). Despite POG being a well-established 
+concept in the insurance regulatory landscape, the integration of sustainability-related objectives in 
+the POG process is not adequate, especially for non-life products. In relation to the integration of 
+sustainability preferences in the suitability assessment under the Insurance Distribution Directive 
+(IDD), assessments undertaken by Insurance Based Investment Products (IBIP) distributors appears 
+at times to be insufficiently granular and precise.   
+The understanding of what is a non-life product with sustainability features varies across 
+undertakings. Based on the survey to undertakings, EIOPA finds that 16 out of 46 manufacturers of 
+non-life products classified – with internal classification processes – some of their non-life insurance 
+products as having sustainability features or as being “green”. A lack of standards in relation to non-
+life products with sustainability features can lead to a higher risk of greenwashing. 
+While there are data gaps, EIOPA finds that consumers’ investments in IBIPs are significantly 
+exposed to investments that have some sustainability features. By matching Solvency II data to 
+collective investment undertaking (CIU) data related to SFDR, EIOPA found that 51.6% of consumers’ 
+ 
+1 EIOPA's Progress Report on Greenwashing - Advice to the European Commission - European Union - Link 
+2 Consultation on the Opinion on sustainability claims and greenwashing in the insurance and pensions sectors - Link 
+
+
+===== PAGE 5/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 5/54 
+ 
+investments in IBIPs disclosed under Article 8 of the SFDR (€771 bn), while 2.6% disclosed under 
+Article 9 of the SFDR (€38 bn).  
+EIOPA noticed an increase in supervisory attention around sustainability-related requirements 
+and greenwashing between 2023 and 2024. In the 2024 survey, more NCAs reported occurrences 
+of greenwashing or potential greenwashing (from 8 to 11 NCAs). NCAs also reported more 
+supervisory activities around greenwashing (from 15 to 21 NCAs), more resources dedicated to 
+greenwashing supervision (from 22 FTEs to 30 FTEs), as well as more internal supervisory tools 
+developed around greenwashing. However, several challenges in the supervision of greenwashing 
+remain, notably: resource constraints, a lack of sustainability-related data, the complexity of the 
+regulatory framework and a lack of common approach to supervise greenwashing. 
+To address existing challenges and combat greenwashing, EIOPA lays out a set of key proposals 
+aimed at enhancing the supervision of greenwashing and at improving the sustainable finance 
+regulatory framework. These key proposals are included throughout the report and are listed 
+below. 
+ 
+Proposal 1 – Using the ESAs common understanding of greenwashing as a reference point 
+ 
+Proposal 2 – Building a common EU supervisory approach in relation to sustainability claims and 
+greenwashing 
+ 
+Proposal 3 – Tackling greenwashing through enhanced supervision and targeted supervisory 
+activities 
+ 
+Proposal 4 – Preventing greenwashing 
+ 
+Proposal 5 – Enhancing supervisory resources and expertise to tackle greenwashing 
+ 
+Proposal 6 – Closing the gap related to non-life insurance products with sustainability features 
+ 
+Proposal 7 – Consumer-centric sustainability preferences 
+ 
+Proposal 8 – A sustainability-related investment framework that works for insurance and 
+pension consumers and providers 
+ 
+Proposal 9 – Enhancing sustainable finance and mitigating greenwashing in the occupational 
+pensions sector 
+
+
+===== PAGE 6/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 6/54 
+ 
+1. INTRODUCTION AND BACKGROUND 
+1.1. MANDATE 
+1.1.1. Process 
+The request for input3 sent by the European Commission on 23 May 2022 requests EIOPA’s advice 
+on the areas of greenwashing and its supervision, by way of a progress report to be delivered by the 
+end of May 2023 and a final report to be delivered by the end of May 2024. The progress report 
+was delivered to the Commission on 31 May 20234. With this report, EIOPA is fulfilling its mandate 
+to deliver a final report.  
+While the request for input asks for separate progress and final reports from each of the ESAs 
+individually, and that each of the ESAs accurately presents the specificities of the sectors in their 
+remit, the request for input encourages a high level of coordination across the ESAs deliveries.  
+1.1.2. EIOPA’s interpretation of the EC’s request for input 
+EIOPA has interpreted the request for input sent by the EC as covering three main parts. The first 
+part was covered by the progress report, while the second and third parts are covered by this final 
+report.    
+(i) The first part asks the ESAs to provide input on occurrences, cases and complaints relating to 
+greenwashing, and asks the ESAs to assess the scale and frequency of greenwashing. The ESAs 
+are also asked to assess risks and potential impacts stemming from the occurrence of 
+greenwashing. Based on the occurrences, risks, impacts and complaints studied, the ESAs are 
+asked to provide a common high-level understanding of greenwashing across the sectors, and, 
+where relevant, a definition of greenwashing at sectoral level.   
+(ii) The second part relates to the supervision of greenwashing by NCAs. The ESAs are asked to 
+gather supervisory experience in dealing with greenwashing and to identify supervisory 
+practices (techniques, tools, measures taken, data requirements) which are effective at 
+identifying, monitoring and mitigating potential greenwashing risks and potential 
+gaps/challenges, including an assessment of whether the current and forthcoming supervisory 
+mandates, powers, obligations and toolkits are fit to adequately tackle greenwashing and its 
+risks. Input is also sought in relation to the resources dedicated to sustainability-related 
+ 
+3 Request for input to the European Banking Authority (EBA), the European Insurance and Occupational Pensions Authority (EIOPA) and 
+the European Securities and Markets Authority (ESMA) related to greenwashing risks and supervision of sustainable finance policies - 
+link 
+4 EIOPA’s Progress report on Greenwashing - Link 
+
+
+===== PAGE 7/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 7/54 
+ 
+supervisory tasks. Further, the ESAs are requested to assess the current state of implementation 
+of relevant EU sustainability-related requirements and assess how NCAs intend to/are already 
+implementing their supervisory obligations, including enforcement.  
+(iii) The third part invites the ESAs to propose improvements to the current regulatory framework, 
+based on observed shortcomings such as inconsistencies, contradictory concepts or definitions 
+and gaps – including in Level 1 legislation.  
+1.1.3. Scope covered by EIOPA 
+In its advice, EIOPA covers several relevant market segments under its remit and areas around which 
+potential greenwashing can emerge.  
+The market segments covered in EIOPA’s work are:  
+ 
+In the area of retail investments: Insurance-based investment products (IBIPs); Occupational 
+pension schemes; and Pan-European personal pension products5.   
+ 
+In the area of non-life insurance: Non-life insurance products marketed as having sustainability 
+features and corporate commitments related to underwriting practices. 
+1.2. BACKGROUND 
+European insurance consumers and pensions savers are increasingly interested in allocating their 
+money in a sustainable manner. According to EIOPA’s 2023 Eurobarometer survey, 32% of EU 
+consumers6 have heard about sustainable insurance or pension products, 13% have already bought 
+such products and 13% would consider buying them. Another 27% of EU consumers, while not 
+having heard about sustainable insurance or pension products, would be interested in knowing 
+more about them.  
+Insurance and pension providers7, hereinafter ‘providers’, are increasing their sustainable offerings 
+– both investment and non-life insurance products – and are adapting their business models to be 
+more sustainable. While this can contribute toward the transition to a more sustainable economy, 
+challenges emerge when providers misleadingly portray themselves and their products/schemes as 
+sustainable by making misleading sustainability claims – i.e., greenwashing.  
+In its 2022 Consumer Trends Report8, EIOPA emphasized the importance of substantiating 
+sustainability claims made by providers. Additionally, some NCAs have reported instances of 
+potential greenwashing in their markets. 
+ 
+5 While the current supply of PEPP is limited, EIOPA covered PEPP in its advice. 
+6 ‘Consumers’ is understood as a term that can englobe consumers, savers, pension scheme members and beneficiaries. This term is 
+therefore used to refer broadly to people using or benefitting from pensions and insurance services.  
+7 ‘Insurance and pension providers’ captures insurance undertakings, PEPP providers, insurance distributors, and IORPs. 
+8 EIOPA’s 2022 Consumer Trends Report. 
+
+
+===== PAGE 8/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 8/54 
+ 
+EIOPA further explored greenwashing in its progress report9 which served as interim deliverable to 
+the European Commission’s Call for Advice on greenwashing. The progress report provides a 
+common understanding, shared by the three European Supervisory Authorities (ESAs) on what 
+greenwashing is. EIOPA’s progress report also shows how greenwashing can manifest at all stages of 
+the insurance and pensions lifecycles10. Moreover, it highlights that greenwashing has a substantial 
+impact on insurance consumers, pension savers and providers. It also provides some initial 
+considerations on the supervision of greenwashing, and early challenges faced by supervisors. 
+Finally, it lists issues identified in the regulatory framework.  
+Relying on the input provided in the progress report, this final report focuses on two aspects: i) the 
+supervision of greenwashing and ii) potential improvements to the regulatory framework around 
+greenwashing. 
+2. UNDERSTANDING SUSTAINABILITY CLAIMS AND 
+GREENWASHING  
+2.1. SUSTAINABILITY CLAIMS  
+In EIOPA’s progress report, EIOPA outlined that for greenwashing to occur, there should be a 
+‘sustainability claim’ that is misleading.  
+EIOPA understands a ‘sustainability claim’ to be any claim related to the sustainability profile of an 
+entity or a product. Such claims state or imply that an entity or product benefits the environment 
+or people11, but can also include claims misrepresenting sustainability risk to portray a more 
+environmentally or socially responsible profile.  
+‘Sustainability claims’ can be made by providers across all stages of the insurance and pensions 
+lifecycles.  
+‘Sustainability claims’ encompass a broad range of statements, declarations, actions, or 
+communications related to sustainability, including any regulatory disclosures (e.g., SFDR, Taxonomy 
+Regulation) and sustainability requirements (e.g., considering sustainability-related objectives of 
+the target market in the manufacturing of an insurance-based investment product (IBIP)). In 
+addition, they include other forms of disclosures such as marketing information, website texts, 
+ 
+9 Progress Report on Greenwashing. 
+10 The insurance and pensions lifecycles encompass all the product-level and entity-level stages relevant to insurance and pensions 
+processes. More is available on greenwashing in EIOPA’s progress report on greenwashing (link).  
+11 This encompasses ‘environmental claims‘, as defined in Directive (EU) 2024/825 of the European Parliament and of the Council of 28 
+February 2024 amending Directives 2005/29/EC and 2011/83/EU as regards empowering consumers for the green transition through 
+better protection against unfair practices and through better information (OJ L, 2024/825, 6.3.2024). 
+
+
+===== PAGE 9/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 9/54 
+ 
+advertising brochures, social media posts, policies, images, strategies, labels, certificates, ratings, 
+targets, non-regulatory labels, and product names.  
+There are several ways in which a ‘sustainability claim’ can be misleading and, thus, conducive to 
+greenwashing. Therefore, the term ‘misleading’ is understood as an umbrella term that covers the 
+following non-exhaustive list of issues: selective disclosure, empty claims, omission or lack of 
+disclosure, vagueness or lack of clarity, inconsistency, lack of meaningful comparisons or thresholds, 
+unsubstantiated, misleading imagery or sounds, irrelevance, outdated information, misleading 
+sustainability-related terminology, falsehoods.  
+EIOPA’s understanding of ‘sustainability claims’ is in line with the ESAs understanding of 
+greenwashing, which is presented below. 
+2.2. ESAS COMMON UNDERSTANDING OF GREENWASHING 
+Summary statement12: The ESAs understand greenwashing as a practice whereby sustainability-
+related statements, declarations, actions, or communications do not clearly and fairly reflect the 
+underlying sustainability profile of an entity, a financial product, or financial services. This practice 
+may be misleading to consumers, investors, or other market participants.  
+Proposal 1 – Using the ESAs common understanding of greenwashing as a reference point  
+ 
+NCAs are encouraged to adopt the ESAs understanding of greenwashing  as a common reference 
+point for supervisory activity on sustainability and greenwashing.  
+ 
+Insurance and pension providers are encouraged to adopt the ESAs understanding of 
+greenwashing as a common reference point for internal monitoring and tackling of 
+greenwashing (e.g., as part of their policies and procedures). 
+ 
+3. SUPERVISING SUSTAINABILITY CLAIMS IN THE 
+INSURANCE AND PENSIONS LIFECYCLES 
+3.1. COMMON APPROACH TO SUPERVISE SUSTAINABILITY CLAIMS 
+3.1.1. Rationale of the Opinion on sustainability claims and greenwashing 
+ 
+12 More information is available in the Annex.  
+
+
+===== PAGE 10/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 10/54 
+ 
+NCAs have started to integrate the monitoring of sustainability claims and the risk of 
+greenwashing in their supervisory activities. EIOPA noticed an increasing number of NCAs 
+reporting potential cases of greenwashing.  
+The number of potential greenwashing cases, and the impact of greenwashing on consumers’ trust 
+in the insurance and pension sectors, necessitates an effective and consistent supervision of 
+providers’ sustainability claims in order to tackle greenwashing. However, NCAs have reported some 
+challenges in their supervision of greenwashing (see section 6.3.2). First, the regulatory framework 
+is complex, and NCAs are currently in the process of developing the required expertise to assess 
+compliance with its requirements. Second, there is no common approach at EU level to assess 
+sustainability claims and greenwashing in the insurance and pensions sectors. Thirdly, legal 
+requirements addressing greenwashing are often high-level, therefore more supervisory guidance 
+to ensure convergence is needed. A survey to NCAs carried out by EIOPA in January 2023 confirmed 
+these challenges, as 15 NCAs responded that they were waiting for further guidance on the 
+supervision of greenwashing from EIOPA. 
+In this respect, it is important to develop a common approach to supervise sustainability claims 
+and greenwashing in the insurance and pensions sector to ensure consistent outcomes across the 
+EU. To this end, EIOPA published a draft Opinion on sustainability claims and greenwashing for public 
+consultation in December 202313. This draft Opinion sets out a framework designed to assist NCAs 
+in their monitoring of insurance and pension providers and that providers adhere to common 
+principles when making sustainability claims about themselves or their products or schemes. 
+Following the end of the public consultation in March 2024, EIOPA reviewed the draft Opinion, and 
+is issuing with this Final Report, the Opinion on sustainability claims and greenwashing.  
+3.1.2. Summary of the content of the Opinion 
+The Opinion on sustainability claims and greenwashing applies to all product and entities under 
+EIOPA’s remit. Based on EIOPA’s Progress Report and Final Report on greenwashing, the Opinion 
+explains what sustainability claims are and outlines the ways in which they can be misleading and 
+thus lead to greenwashing.  
+The Opinion sets out four principles for sustainability claims, which are derived from the legal 
+obligations to provide fair, clear and not misleading information laid down in Article 17 (2) of IDD, 
+Article 6 of the PRIIPs regulation and similarly in Articles 36 and 41 of the IORP II Directive. These 4 
+principles are as follows: 
+ 
+Principle 1: Sustainability claims made by a provider should be accurate, precise, and should 
+fairly represent the provider’s profile, and/or the profile of its product(s).  
+ 
+13 Consultation on the Opinion on sustainability claims and greenwashing in the insurance and pensions sectors - Link 
+
+
+===== PAGE 11/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 11/54 
+ 
+ 
+Principle 2: Sustainability claims should be substantiated with clear reasoning, facts and 
+processes.   
+ 
+Principle 3: Sustainability claims and their substantiation should be accessible by the targeted 
+stakeholders. 
+ 
+Principle 4: Sustainability claims should be kept up to date, and any material change should be 
+disclosed in a timely manner and with a clear rationale. 
+These 4 principles are further explained in the Opinion on sustainability claims, where EIOPA 
+outlines supervisory expectations throughout the insurance and pensions lifecycles.  
+3.2. SUSTAINABILITY CLAIMS IN THE INSURANCE AND PENSION 
+LIFECYCLES 
+EIOPA lists below examples of sustainability claims for the various stages of the insurance and 
+pension lifecycles14. These examples stem from the different data collection exercises that EIOPA 
+carried out (e.g., reporting by NCAs, ESAs Joint CfE, survey to undertakings). To provide a concrete 
+dimension to the Opinion on sustainability claims, claims are highlighted as being either sound or 
+misleading, with regard to the 4 principles set out in the Opinion and in line with legal provisions 
+cited in the section above (i.e., Article 17(2) of IDD, Article 6 of PRIIPs, and Articles 36 and 41 of the 
+IORP II Directive). 
+Figure 1 – Likelihood of greenwashing in the different stages of the insurance and pensions 
+lifecycles as rated by respondents of the ESAs Joint Call for Evidence (CfE)** 
+ 
+Source: ESAs Joint CfE, 2023 
+ 
+14 Please refer to pages 17 to 33 of EIOPA’s progress report for more details on each lifecycle stage.  
+
+
+===== PAGE 12/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 12/54 
+ 
+3.2.1. Entity-level 
+3.2.1.1. Sustainability claims in the business model  
+Insurance and pension providers, as major institutional investors, develop investment strategies 
+detailing their goals, ambitions, and methods for achieving them. This includes promoting the 
+sustainability of their investments through channels like annual and climate reports, press releases, 
+advertisements, and social media. Insurance and pension providers (particularly IORP Boards) 
+seeking to embed sustainability in their investments usually rely on third parties (e.g., asset 
+managers), who are tasked with designing and implementing strategies that align with their 
+sustainability goals. Through their investments, insurance and pension providers influence the 
+activities of their investee companies, with some claiming to steer these companies towards 
+environmentally or socially beneficial practices. 
+Given insurance undertakings’ role as risk-managers, they are increasingly highlighting the 
+sustainability credentials of their underwriting activities, e.g., not providing coverage for polluting 
+activities like coal mining or fracking. Furthermore, both insurance and pension providers are 
+making long-term commitments to transition their investment activities (and underwriting activities 
+for insurance providers) towards Net Zero. 
+Examples of misleading sustainability claims15 
+a) An IORP publicly declares that it intends to incorporate sustainability considerations in its new 
+investment strategy. The IORP board outsources the design of this strategy to an external party, 
+which says that it has an extensive track-record in the design of investment strategies with 
+sustainability considerations. However, the external party exaggerated its sustainability 
+expertise, and therefore does not manage to integrate sustainability considerations to the level 
+expected by the IORP Board. This claim is not accurate (principle 1) due to the external 
+provider’s misrepresentation of its sustainability expertise. Moreover, the IORP board did not 
+notice the inadequate integration of sustainability considerations ultimately leading the IORP 
+scheme to invest with a lower sustainability ambition. 
+b) An insurance provider claims on its website "a vast choice of responsible and sustainable 
+investment opportunities" and "the possibility to direct your investments towards the real 
+economy and sustainable initiatives". It does not provide details about such sustainability-
+related investment options on its website. These claims are not accurate (principle 1), as the 
+provider makes vague and overly positive claims. Moreover, these claims are unsubstantiated 
+(principle 2) as the provider did not provide information on its range of products with 
+ 
+15 The explanations of why a claim is misleading are for illustrative purposes. They should not be understood as representing EIOPA’s 
+supervisory assessments.  
+
+
+===== PAGE 13/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 13/54 
+ 
+sustainability attributes on its website, nor explain how consumer investments would aid 
+sustainability efforts. 
+c) An insurance provider presents its entity-level SFDR information (e.g., Article 3, 4, 5 disclosures) 
+on its website in a manner that is not accessible for consumers and the general public. The SFDR-
+related content requires navigating through a disproportionate number of webpages. This claim 
+is not accessible (principle 3) and is not compliant with Article 2 of the SFDR DR.  
+d) An insurance provider highlights on its website homepage its strong credentials in making 
+investments in companies with low GHG emissions. This does not reflect that most of its 
+investments are in companies with high GHG emissions, which are disclosed in other reports, 
+whose access requires navigating through a disproportionate number of webpages. This claim 
+is not accurate (principle 1) and not accessible (principle 3) as it highlights positive impacts 
+while disclosing more material negative impacts in a less accessible manner. This can therefore 
+mislead consumers when assessing the sustainability profile of the insurer. 
+Examples of sound sustainability claims  
+e) An insurance provider discloses on its website that it joined an alliance committed to achieving 
+Net Zero emissions by 2050 in its underwriting portfolio. Upon joining, the insurance provider 
+transparently outlined its long-term sustainability goals and established a roadmap with 
+science-based intermediate targets. Internally, this provider puts in place rigorous monitoring 
+mechanisms to track progress. To ensure external accountability, this provider frequently 
+publishes progress reports detailing achievements toward these intermediate goals and 
+accurately communicates material changes to its approach and strategy. The provider also 
+actively collaborates with alliance members to share best practices and to stay updated on 
+sustainability trends. 
+f) An insurance provider claims to promote sustainability and, on its website, provides information 
+on the sustainability objectives it pursues in a clear and layered manner. This allows consumers 
+to access the information without being overwhelmed. In providing this information it includes 
+links to reports and/or to a data repository where consumers or any other interested 
+stakeholders can easily check how this provider is progressing towards its sustainability 
+objectives.  
+3.2.1.2. Sustainability claims in the entity management  
+Sustainability aspects are increasingly becoming relevant in providers’ ways of operating. 
+Providers are highlighting the sustainability credentials of their Board, senior management, and 
+employees. Remuneration policies for senior managers and staff are increasingly tied to 
+sustainability goals, and sustainability considerations are becoming integral to firm-level culture. 
+Many insurance and pension providers are also establishing sustainable finance committees to 
+address sustainability across their organizations. 
+
+
+===== PAGE 14/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 14/54 
+ 
+Regulatory reporting by insurance and pension providers around sustainability aspects has 
+recently grown under the SFDR and the Taxonomy Regulation, and is due to further grow with the 
+CSRD. Moreover, when fulfilling these reporting obligations, insurance and pensions providers rely 
+to some extent on data provided by third parties. Additionally, providers often make use of third-
+party sustainability ratings and/or non-regulatory labels to portray themselves or their products as 
+sustainable. 
+Examples of misleading sustainability claims16  
+g) A provider makes a claim that it materially links the remuneration of its senior management to 
+positive environmental impact in the form of climate targets. These are short-term targets that 
+only measure financial risks stemming from the climate, i.e., climate risk – and therefore do not 
+measure positive impact on the climate. Moreover, the provider does not disclose these targets 
+publicly. This claim is not accurate (principle 1) because the provider did not set climate targets 
+in its remuneration policy that are consistent with its claim, and the claim is not accessible 
+(principle 3) given that the targets are not publicly available. 
+h) An insurance provider does not apply the same level of rigor in its sustainability reporting as it 
+does in its financial reporting. This leads the insurance provider to make a material 
+misstatement in the sustainability information it reports. This claim is not accurate (principle 1) 
+due to the sustainability information reported being wrong. 
+i) An insurance provider claims to be a “sustainability leader” thanks to a rating given by a third-
+party rating provider. It does not explain what the rating measures. In this case, the rating solely 
+measures the sustainability risk profile of the entity; it does not assess the impact of the 
+provider’s activities on sustainability factors. This claim is unsubstantiated (principle 3) because 
+the rating does not explain what it measures which may lead consumers to believe that they 
+are investing in a provider that is positively impacting the environment or society, whereas this 
+is not necessarily the case. 
+Examples of sound sustainability claims 
+j) An insurance provider sets out precise sustainability targets and guidelines in its investment 
+policy. A central sustainable finance committee coordinates and ensures that the targets are 
+met, and the guidelines are respected across the entity’s investment activities. The provider 
+also regularly engages with partnering asset managers through ex-ante and periodic 
+questionnaires. This practice helps prevent non-compliance with the entity’s investment policy, 
+while improving the chances of early detection and correction of non-compliance. 
+k) An insurance provider claims that it integrates in its firm-level management strong sustainability 
+considerations. This company sets out sustainability as one of its strategic priorities for the next 
+ 
+16 The explanations of why a claim is misleading are for illustrative purposes. They should not be understood as representing EIOPA’s 
+supervisory assessments.  
+
+
+===== PAGE 15/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 15/54 
+ 
+5 years with a detailed action plan which is published on its website. It also sets up a cross-
+cutting sustainability team with adequate sustainability expertise, which is empowered to 
+challenge the Board and different business units where appropriate. Moreover, it materially ties 
+remuneration practices to sustainability targets, and organizes capacity building initiatives such 
+as workshops for employees on sustainability-related aspects. 
+3.2.2. Product level 
+3.2.2.1. Sustainability claims in the product manufacturing and scheme design stage 
+Providers are integrating sustainability aspects in the life and non-life products they manufacture. 
+This in line with an increasing consumer interest in products with sustainability features, and with 
+the relevant specific sustainability-related requirements (i.e., POG DR). This implies the 
+consideration of sustainability aspects in all steps of product manufacturing, such as product design 
+and target market analysis. Moreover, manufacturers may use data provided by third parties when 
+manufacturing products.  
+Examples of misleading sustainability claims17  
+l) An insurance provider has a Multi-Option Product (MOP) that is named “Climate protection”. 
+Most of the investment options proposed by the insurance provider’s MOP are not aimed at 
+protecting the climate. This claim is not substantiated (principle 2) because the sustainability-
+related name of the MOP is not consistent with its investment options. 
+Examples of sound sustainability claims 
+m) As part of a pension scheme, a pension provider offers a climate change mitigation focused 
+investment option. This option only invests in companies with a high share of EU Taxonomy-
+aligned activities that contribute to climate change mitigation.  
+n) In relation to the investment options of MOPs, an insurance provider systematically conducts 
+scheduled reviews of external data, sourced from rating agencies and asset managers. This 
+allows the provider to ensure that the investment options continue to align with the specified 
+sustainability objectives of the target market, and communicate any material change to 
+consumers. 
+3.2.2.2. Sustainability claims in the delivery stage 
+The delivery of products includes the promotional strategy, as well as the interaction between 
+customers and providers at the point of sale. Some providers are promoting the sustainability 
+ 
+17 The explanations of why a claim is misleading are for illustrative purposes. They should not be understood as representing EIOPA’s 
+supervisory assessments.  
+
+
+===== PAGE 16/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 16/54 
+ 
+profile of their product by using sustainability-related words in their product name, and in the 
+names of the investment options offered by these products. To the extent that a lot of advertising 
+is visual, products are increasingly portrayed with sustainability-themed visual supports (e.g., green 
+colour, picture of trees) in various marketing channels. Product distributors advise on sustainability 
+features of products by assessing the suitability of products vis-à-vis consumers’ sustainability 
+preferences, by explaining to consumers the different sustainability features of such products, and 
+by providing them the relevant disclosure, including sustainability disclosure. Distributor training 
+courses on sustainable finance requirements are also taking place. In addition, sustainability claims 
+are made in product-level pre-contractual and website mandatory disclosures focused on 
+sustainability (e.g., SFDR), but also in those not explicitly focused on sustainability (e.g., PRIIPs KID, 
+PEPP KID, IPID etc…). 
+Examples of misleading sustainability claims18 
+o) A provider names its insurance product “Sustainable future” however this product discloses a 
+0% sustainable investments commitment in its pre-contractual disclosure under Article 9 of the 
+SFDR. This claim is not substantiated (principle 2) because products that disclose under Article 
+9 should have a sustainable investment objective and only do sustainable investments. 
+Moreover, the product is using a sustainability-related word in the product name to make 
+consumers think the product is more sustainable than it is. 
+p) When seeking advice for an IBIP, a consumer expresses preference to invest in an IBIP making a 
+high share of sustainable investments. The distributor does not consider the consumer’s 
+preference and recommends an IBIP with a low share of sustainable investments. This claim is 
+not substantiated (principle 2) and is not compliant with the IDD DR 2021/1257 as the 
+distributors did not consider the sustainability preferences of the consumer when making its 
+recommendation. 
+q) An insurance provider does not provide a clear and direct link to the SFDR disclosure for each 
+investment option of their MOP. In addition, it presents an investment option, disclosing under 
+Article 8 of the SFDR, as having the name “sustainable” that neither has any commitment to 
+make sustainable investments nor taxonomy-aligned investments19. These claims are not 
+substantiated (principle 2), not accessible (principle 3) and are not compliant with Article 10 
+of the SFDR and Article 2 of the SFDR DR. 
+r) The SFDR disclosure of an IBIP makes generic references to indicators evaluating the 
+environmental and social characteristics and good governance principles of the investee 
+companies without disclosing them. This claim is not substantiated (principle 2) because the 
+provider did not disclose the indicators.  
+ 
+18 The explanations of why a claim is misleading are for illustrative purposes. They should not be understood as representing EIOPA’s 
+supervisory assessments.  
+19 More examples are listed in section 0 of this report on the SFDR pre-contractual disclosure analysis. 
+
+
+===== PAGE 17/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 17/54 
+ 
+s) An insurance provider says its IBIP is sustainable because more than 50% of the product’s assets 
+are invested in companies that "consider" certain ESG aspects in their strategy. The provider 
+makes no reference to the IBIP’s SFDR disclosure. This claim is not substantiated (principle 2) 
+and is not accessible (principle 3) as it does not provide the evidence proving that more than 
+50% of the product’s assets are invested in companies that consider ESG aspects  
+t) A provider makes a social media advertisement with sustainability-related visuals for a life 
+insurance product, stating that the “product contributes to the protection of the marine 
+ecosystem”, without additional explanations. This claim is not substantiated (principle 2) 
+because this provider does not explain how the product contributes to the protection of the 
+marine ecosystem.  
+Examples of sound sustainability claims 
+u) An insurance provider offers an IBIP that is named “Paris-aligned investment”. This product aims 
+to achieve alignment with the Paris agreement goals. This aim is further detailed in the 
+product’s regulatory (e.g., SFDR disclosure) and non-regulatory disclosures. 
+v) A pension provider offers a pension product named “Funding the transition and your 
+retirement”. This scheme has a goal to decrease the GHG emissions that result from the 
+activities in which the product will invest. Moreover, the product’s SFDR disclosure highlights 
+how it intends to achieve this goal: i) by investing in assets (e.g., companies, projects, or 
+sovereigns) that are expected to lower the GHG emissions of their activities and by ii) engaging 
+with investee companies to influence their business decisions to lower GHG emissions. 
+3.2.2.3. Sustainability claims in the product/scheme management stage 
+Insurance and pension providers monitor how products are working in practice (in line with POG 
+requirements for insurers), if there are changes in products’ sustainability features, and if they still 
+match the sustainability preferences of consumers even after the sale. The claims management 
+process may include sustainability features, as potentially outlined in the product’s marketing 
+documentation given to consumers in the delivery stage. Additionally, sustainability claims are 
+made within product-level periodic mandatory disclosure focused on sustainability (e.g., SFDR) but 
+also in those not explicitly focused on sustainability (e.g., PRIIPs KID, PEPP KID, IPID etc.). 
+Examples of misleading sustainability claims20 
+w) A provider did not notify consumers who purchased an IBIP with investment options initially 
+disclosing under Article 9 of the SFDR, but that after the purchase, disclosed under Article 8 of 
+the SFDR. This claim is no longer accurate because it was not updated (principle 4), as the 
+ 
+20 The explanations of why a claim is misleading are for illustrative purposes. They should not be understood as representing EIOPA’s 
+supervisory assessments.  
+
+
+===== PAGE 18/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 18/54 
+ 
+provider did not inform consumers that their chosen investment options no longer match their 
+sustainability preferences, nor did the provider offer remedial options.   
+x) An insurance provider portrays a non-life insurance product as sustainable in an advertisement 
+because it says that its claims management process is “very sustainable”, without explaining 
+what makes this process very sustainable. This claim is not substantiated (principle 2) as it does 
+not provide information on what makes the claims management process sustainable. 
+Examples of sound sustainability claims 
+y) For a motor insurance product, an insurance provider reduces the deductible if consumers 
+choose to repair their car using recycled parts. The motor insurance marketing material includes 
+clear information on this repair process, its sustainability benefits, and the amount of the 
+deductible reduction. 
+z) An insurance manufacturer sets out thresholds on the minimum proportions of sustainability-
+related investment options for their MOPs. If the thresholds are breached for a given MOP, the 
+manufacturer stops making sustainability claims about the MOP and adjusts the allocation 
+within 45 days. 
+4. RISKS AND IMPACTS FROM GREENWASHING 
+4.1. GREEN EXPOSURE IN THE INSURANCE AND PENSION SECTORS 
+To assess the exposure of the insurance and pension sectors to investments that have sustainability 
+features, EIOPA matched Solvency II data and IORPs data to Morningstar collective investment 
+undertaking (CIU) data related to SFDR. The results of this matching are presented in Figure 2.  
+Figure 2 – Matching of Solvency II data and IORPs data to Morningstar SFDR data in % 
+ 
+% matching  
+Total insurers CIU investments  
+47.8% 
+Insurers’ CIU investments not held for unit- or index-linked contracts 
+18.9% 
+Insurers’ CIU investments held for unit- or index-linked contracts 
+75.9% 
+Total IORPs CIU investments 
+17.9% 
+Source: Morningstar, ESMA, EIOPA’s SII database (S06.02), EIOPA’s IORP database 
+Given the low matching of insurers’ CIU investments not held for unit- or index-linked contracts 
+(UL/IL) and of IORPs CIU investments, the below analysis only considers insurers’ CIU investments 
+held for UL/IL contracts.  
+
+
+===== PAGE 19/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 19/54 
+ 
+As of Q3 2023, the  total amount of CIU investments held for UL/IL contracts was 1,495 bn EUR, of 
+which 1,135 bn EUR was matched (75.9%). These are insurer’s investments that are made as part of 
+consumers’ IBIPs, and therefore are a measure of consumers’ exposure to investments with 
+sustainability features.   
+Figure 3 – Insurers’ investments held for IL/UL contracts at EEA level (data as of 2023-Q3) 
+ 
+Source: Morningstar, ESMA, EIOPA’s SII database (S06.02) 
+Looking at Figure 3, it appears that most consumers’ investments have some sustainability features 
+(54.2% disclose under Article 8 or 9), with the vast majority disclosing under Article 8 investments 
+(51.6%). These findings reconcile well with ESMA’s findings on the SFDR disclosure of EU funds: 52% 
+of funds disclosed under Article 8, and 3% of funds disclosed under Article 921. Beyond Article 8 or 
+9 SFDR disclosure, EIOPA looked at Morningstar Sustainable Investment (SI) flag. EIOPA found that 
+33% of Article 8 investments had the SI flag, while 98% of Article 9 investments had the SI flag.  
+While there are data gaps, based on this analysis, EIOPA finds that consumers’ investments in 
+IBIPs are significantly exposed to investments that have some sustainability features.  
+4.2. IMPACT OF GREENWASHING  
+(Please refer to the Progress Report pages 13 to 16 for more details on the impact of greenwashing)  
+Misleading sustainability claims can lead consumers to buy products that are not aligned with 
+their sustainability preferences. It can also lead them to invest via a pension or insurance provider 
+that misleadingly portrays itself as an entity with sustainability credentials. In these instances, 
+consumers' investments or premiums are diverted from benefiting the environment or society. 
+Greenwashing erodes consumers’ trust in providers’ ability to positively impact environmental or 
+social factors, as also reported by consumer representatives in their response to the ESAs joint CfE. 
+ 
+21 ESMA’s TRV on trends, risks, and vulnerabilities No.1 2023 – Link  
+
+
+===== PAGE 20/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 20/54 
+ 
+Similarly, EIOPA’s Eurobarometer survey carried out in July 2023 shows that 51% of EU consumers 
+do not trust the sustainability claims made by insurance undertakings or distributors.  
+A provider that makes misleading sustainability claims might suffer significant reputational and 
+financial damage if it is involved in greenwashing. Consumers might want to sever ties with the 
+provider by redeeming their investments, for example, in the case of investments through IBIPs 
+(e.g., surrender), or by changing their non-life insurance provider (e.g., non-renewal). As many 
+consumers may surrender their products following greenwashing allegations, the concerned 
+insurance undertaking might not be able to cover all redemptions, for example due to a lack of 
+liquidity. Existing customers might pursue legal actions against providers to seek damages. Other 
+stakeholders, such as non-governmental organizations, might also pursue legal action against 
+providers or engage in public ‘name-and-shame’ techniques. If the provider is publicly traded, its 
+share value may decrease, potentially affecting its capacity to raise capital. 
+Where there is non-compliance with sustainability requirements and general consumer protection 
+rules such as the need for providers to be fair, clear, and not misleading, NCAs will apply increased 
+supervisory scrutiny. Where appropriate and in line with the relevant legislation, such cases could 
+result in sanctions or in product intervention measures. 
+Overstating sustainability efforts – for example in transition plans – may impact the financial 
+resilience of the insurer. Indeed, misleading sustainability claims may lead to a potential 
+misjudgement of risk exposures in relation to underwriting and investment activities, resulting in 
+unanticipated losses or reduced returns. 
+5. SUPERVISORY 
+ACTIVITIES 
+CARRIED 
+OUT 
+IN 
+RELATION TO GREENWASHING 
+In 2023 and early 2024, EIOPA carried out two supervisory activities related to sustainability aspects, 
+as well one survey to NCAs on greenwashing. This was done to inform this Final Report, particularly 
+in evaluating the state of implementation of relevant sustainable finance requirements.  
+5.1. SURVEY TO UNDERTAKINGS ON SUSTAINABILITY 
+To assess the status of implementation of the current sustainability-related requirements, EIOPA 
+coordinated a survey to undertakings on sustainability-related aspects. 16 NCAs participated in this 
+exercise which covered 99 providers (89 insurance undertakings and 10 IORPs). The survey sought 
+
+
+===== PAGE 21/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 21/54 
+ 
+to inform various areas such as i) the implementation of SFDR requirements, ii) the implementation 
+of IDD sustainability-related requirements, and iii) non-life insurance products with sustainability 
+features.  
+Although the survey encompasses a wide sample, its findings should not be construed as 
+representative of all EU insurance and pension providers. 
+5.1.1. Implementation of SFDR requirements  
+Out of the 99 providers that participated in this data collection, 84 providers were in scope of SFDR 
+(i.e., IORPs, insurers making an IBIP available). While providers reported generally complying with  
+SFDR requirements, EIOPA sees room for improvement particularly in relation to Article 10 
+requirements.  
+5.1.1.1. Entity-level SFDR disclosures 
+Providers generally complied with entity-level transparency requirements set out under SFDR and 
+most of these 84 providers were able to provide website links to their entity level disclosures22. Still, 
+some issues and divergences were noticed, especially in relation to Article 4 SFDR reporting, where 
+several insurers reported not covering all their investment decisions.   
+ 
+Article 3 of SFDR requires that providers in scope publish on their websites information about 
+their policies on the integration of sustainability risks in their investment decision-making 
+process. Out of the 84 providers in scope of SFDR, 80 indicated having this information 
+published on their website. 4 providers in scope of SFDR indicated not having this information 
+published on their website.  
+ 
+Article 4 of SFDR requires that providers in scope publish and maintain on their website a 
+statement on due diligence policies on the principal adverse impacts of their investment 
+decisions on sustainability factors, if they consider these impacts (mandatory consideration if 
+they have over 500 employees). If they do not consider these impacts, they must provide a clear 
+reasoning as to why they do not do so.  
+Out of the 84 providers in scope of SFDR, 68 providers indicated considering these impacts with 
+some divergences between providers. While many insurers reported that this consideration 
+covered all their investments, others reported limiting PAI consideration to their general 
+account thereby excluding ‘indirect investments’ or ‘unit-linked investments’ (e.g., externally 
+managed funds). This was mostly due to a lack of data (some mentioned fund managers not 
+providing them with the relevant data) or unclarities stemming from the regulation. However, 
+some of these insurers indicated working on including these investments in the future. Unlike 
+ 
+22 According to Article 15(1) of SFDR, IORPs shall publish and maintain the information referred to in Articles 3 to 7 free of charge through 
+electronic means, including on a durable medium or by means of a website, or on paper. 
+
+
+===== PAGE 22/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 22/54 
+ 
+the others, two insurers consider that externally managed investment options of their MOPs 
+are subject to consumers’ investment decisions rather than to providers’ investment decision, 
+therefore they exclude such investments from their PAI consideration. When it comes to 
+providers lacking data for their PAI consideration, two approaches were reported by providers, 
+some providers estimate/extrapolate missing data while others restrict the scope of their PAI 
+considerations to the investments for which they have data. Further, a few providers reported 
+excluding from PAI consideration real estate investments and derivatives. Several providers 
+expect the quality and availability of data to improve over time, thereby improving their Article 
+4 reporting. 
+Out of the 84 providers in scope of SFDR, 16 providers indicated not considering these impacts. 
+2 out of these 16 providers indicated not doing so because they have less than 500 employees, 
+and reported publishing the statement requested by Article 4(1)(b) SFDR. Other providers 
+indicate that they do not consider PAI due the unavailability of data for their MOPs’ investment 
+options. One undertaking reported that they do not consider PAI via the PAI indicators but via 
+their own methodology which is done through an exclusion list. 4 providers noted plans to start 
+consideration of PAI in the near future, as data availability improves.  
+ 
+Article 5 of SFDR requires that providers in scope assess the consistency of their remuneration 
+policies with the integration of sustainability risks and publish this information on their 
+websites. Out of the 84 providers in scope of SFDR, 80 providers reported doing so, while 4 
+reported not doing so. For those who reported doing so, issues of vagueness were noted, 
+particularly as some providers failed to clearly explain the link between sustainability risk 
+management and remuneration.  
+ 
+Article 12 of SFDR requires that providers in scope ensure that any information published in 
+relation to Article 3 and Article 5 (also in relation to Article 10 but the focus of this section is 
+entity level) is kept up to date. Out of the 84 providers in scope of SFDR, 72 providers reported 
+setting out a process around the monitoring and review of SFDR information. Several providers 
+rely on internal committees/boards or business areas (e.g., SUFI department, appointment of a 
+“sustainability manager”) that are dedicated to the coordination and oversight of sustainability-
+related aspects throughout the entity, and to ensure that SFDR information is up to date. Many 
+providers reported having auditors or other external consultants review their SFDR disclosures. 
+ESG data providers are also widely used. In terms of the periodicity of reviews, many providers 
+reported reviewing their SFDR entity-level disclosure every year in line with reporting deadlines. 
+Some providers reviewed these disclosures more often, sometimes quarterly or monthly, or on 
+an ad hoc basis (in case of significant changes). In terms of approval, some providers highlighted 
+that these disclosures are approved by their senior managers (e.g., CEO, Executives) or their 
+Board. Finally, several providers reported taking steps to ensure that SFDR disclosures be fair, 
+clear and not misleading, e.g., through the elaboration of internal guidelines for the 
+preparation, management and review of SFDR-related disclosures. 
+
+
+===== PAGE 23/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 23/54 
+ 
+5.1.1.2. Entity-level investment information beyond SFDR 
+ 
+47 providers reported including sustainability-related considerations in their shareholder 
+engagement policies. Most of these providers noted doing so through collaborative approaches 
+with investee companies, for instance engaging in dialogues, nomination committees and 
+working groups. These providers placed emphasis on conveying their expectations to investee 
+companies regarding the mitigation of sustainability-risk and/or the reduction of adverse 
+impacts on sustainability factors. Some providers specified that this approach applies either to 
+companies in which significant shares are held or to situations where material sustainability-
+related issues may cause detriment to the value of their investments. Another approach taken 
+by many providers is exercising voting rights at shareholder meetings on topics related to 
+sustainability risks as well as sustainability impacts. Some providers also track investee 
+companies’ progress in integrating sustainability-related aspects in their activities and/or ask 
+investee companies to provide periodic reports on sustainability-related aspects. A few 
+providers further specified that if an investee company does not meet their sustainability 
+expectations a set of steps are foreseen: i) undertake an assessment, ii) work with the entity to 
+address the issues identified, and iii) as a last resort if the issues are not resolved within a set 
+timeframe, the providers divest from the investee company. In terms of specific actions, a few 
+providers reported engaging with the investee companies that contributed most to their 
+investment portfolios’ CO2 emissions to set transition targets (e.g., net-zero targets).  
+27 providers reported not including sustainability-related considerations in their shareholder 
+engagement policies. Several of these providers noted not holding any direct equity, and 
+therefore cannot exercise active engagement, or do not have engagement policies at all.  
+5.1.1.3. Product-level SFDR disclosures 
+With this survey to undertakings, EIOPA did not focus on pre-contractual SFDR disclosures as it 
+already conducted analyses on that type of disclosure; a summary of it can be found in section 5.2 
+of this report. Therefore, EIOPA sought with this survey information on product-level website 
+disclosures, on the review process of product-level disclosures, as well as other SFDR-related 
+information.  
+ 
+Article 10 of SFDR requires that providers publish and maintain on their website23 SFDR-related 
+information for each of their Article 8 and 9 products – this is further specified by Article 23 to 
+49 of SFDR DR. Out of the 84 providers that are in scope of SFDR, 45 providers provided at least 
+one link to an Article 8 or 9 IBIP, pension scheme or pension product website disclosure. 
+However, when reviewing these links, EIOPA found that many providers do not publish SFDR 
+ 
+23 According to Article 15(1) of SFDR, IORPs shall publish and maintain the information referred to the first subparagraph of Article 10(1) 
+free of charge through electronic means, including on a durable medium or by means of a website, or on paper. 
+
+
+===== PAGE 24/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 24/54 
+ 
+website information in the way that SFDR DR requires them to. Indeed, the sections of the 
+website product disclosure listed in Article 24 and Article 37 of SFDR DR (e.g., ‘summary’ or 
+‘investment strategy’ sections) are not included in these website disclosures. Furthermore, 
+some providers did not publish the SFDR-related information of a product in the same part of 
+the website as other product information (e.g., marketing material). Moreover, some providers 
+publish a list of investment options with the only SFDR information being whether the 
+investment option discloses under Article 8 or 9 SFDR, and ask the visitor to refer to the asset 
+manager’s website for the SFDR disclosure.  
+ 
+Article 2(17) of SFDR sets out that to qualify as ‘sustainable investment’ a financial product 
+must i) be invested in an economic activity that contributes to an environmental or social 
+objective, ii) not significantly harm any of those objectives, and iii) ensure that the investee 
+companies follow good governance practices. Given that the current regulatory framework 
+does not provide a standardized methodology to calculate the share of ‘sustainable 
+investments’ (SI), EIOPA asked in its’ survey to undertakings how they calculate the share of SI 
+made by their products in practice.  
+Around a third of providers under the scope of SFDR indicated that they did not calculate the 
+share of SI made by each of their product for three main reasons: 
+• 
+The first reason is that since the share of SI depends on the chosen investment option, 
+providers rely on the SI calculation (and disclosure) developed by asset managers.  
+• 
+The second reason given by providers is that they do not have enough data to calculate 
+the share of SI at the MOP level.  
+• 
+The third reason is that they lack products disclosing under Article 8 or Article 9 of SFDR.  
+Around two thirds of providers in the scope of SFDR indicated that they calculate the share of 
+SI made by each of their products, and none of these providers said that they use different 
+methodologies to calculate the share of SI across different product types. Some providers 
+reported gathering the share of SI of all investment options for each given product – usually 
+from a third-party provider – and then calculate the weighted average share of SI based on the 
+size (e.g., AuM) of each investment option. However, many providers go further in their SI 
+calculation as they define a set of criteria for investments to be considered as ‘sustainable 
+investments’, which vary between providers and asset classes. Some criteria reported by 
+providers are presented below:  
+• 
+Green turnover: Investments in a company that has at least X% (X varies from 20% to over 
+50% depending on the provider) of its turnover coming from activities/services that 
+contribute to one or more of the UN's Sustainable Development Goals. This contribution 
+typically relies on an assessment done by third parties, but a few providers reported having 
+their own methodology for this assessment.  
+• 
+Transition targets: Investments in a company that has made a commitment to a transition 
+pathway based on the framework provided by the Science Based Targets initiative (SBTi).  
+
+
+===== PAGE 25/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 25/54 
+ 
+• 
+Taxonomy-aligned activities: Investments in a company that undertakes economic activities 
+contributing to one or more of the environmental objectives set out in the EU Taxonomy.  
+• 
+DNSH and good governance: Investments in a company must comply with the Do No 
+significant Harm (DNSH) principle and have good governance. This compliance is typically 
+measured through various indicators – including selected PAI indicators. For example, 
+companies should not have breached the "UN Global Compact Principles & OECD 
+Guidelines for Multinational Enterprises " (PAI 10) and or the "Lack of Processes & 
+Compliance Mechanisms to Monitor Compliance with UN Global Compact Principles" (PAI 
+11). Other examples are exclusions of companies involved in fossil fuels (PAI 4), in 
+controversial weapons (PAI 14), in cannabis, and in tobacco. Other providers reported 
+excluding companies based on controversy or ESG scores provided by third parties.  
+• 
+Sustainability-related bonds: Some providers consider that all “green bonds” qualify as 
+sustainable investments (e.g., mention of ICMA green and social bonds principles). For a 
+few providers this also includes government bonds, as well as bonds relating to entities 
+that fulfil social or environmental roles (e.g., hospitals).  
+• 
+Real estate: Investments in real estate that has environmental labels.  
+ 
+Article 12 of SFDR requires that providers ensure that any information published in relation to 
+Article 10 of SFDR (also in relation to Article 3 and 5 SFDR but the focus of this section is product 
+level) is kept up to date. Generally, reviews of product-level SFDR disclosure follows similar 
+timelines and internal governance/processes as entity-level SFDR disclosure reviews, where 
+review intervals range from every month or quarter to every year (the latter being the most 
+common). Some providers reported monitoring or receiving reports on changes to externally 
+managed investment options of their MOPs and then updating SFDR disclosures accordingly. 
+Like for entity-level SFDR disclosures, some providers use third-parties to update their SFDR 
+product-level information and have developed internal guidelines/guidance on SFDR 
+disclosures, which include the review and update of these disclosures.  
+ 
+Article 13 of SFDR requires that providers’ marketing communications do not contradict the 
+information disclosed pursuant to SFDR. To that extent, EIOPA sought input on the use of labels 
+as arguments to promote the sustainability profile of products. 18 providers reported using 
+labelling schemes to promote the sustainability profile of their products. Almost all of these 
+providers used national labelling schemes. Providers indicated choosing these national labels 
+because they are well-established in their respective countries, and because these labels 
+benefit from governmental oversight. A few reported also using non-governmental third-party 
+labels (e.g., Morningstar, Sustainalytics). For externally managed funds that are investment 
+options in their MOPs, providers reported relying on any labels/ratings used by those funds. 52 
+providers reported not using labelling schemes to promote the sustainability profile of their 
+products.  
+
+
+===== PAGE 26/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 26/54 
+ 
+While for other financial products (e.g., funds) sustainability-related information is more readily 
+available (e.g., via third party providers), sustainability-related information for IBIPs or pension 
+schemes/products is less available. To reduce this information gap, EIOPA collected SFDR product-
+level information split by Article 6/8/9 for each provider: i) outstanding GWP at end 2022, ii) average 
+share of sustainable investments (SI) as defined in Article 2(17) of SFDR, and iii) average share of 
+taxonomy aligned investments (TR)24. The products for which it collected information on were IBIPs, 
+IBIPs that are also pension products, and IORPs.  
+Figure 4 - SDFR product-level information based on the survey to undertakings  
+ 
+Disclosing under 
+Article 6 SFDR 
+Disclosing under 
+Article 8 SFDR 
+Disclosing under 
+Article 9 SFDR 
+IBIPs 
+Number of providers that reported this field 
+60 
+41 
+9 
+% of total outstanding GWP at end 2022 
+50.1% 
+49.4% 
+0.5% 
+Average share of SI  
+ 
+14% 
+51% 
+Average share of TR  
+ 
+3% 
+3% 
+IBIPs that are also pension products 
+Number of providers that reported this field 
+22 
+18 
+8 
+% of total outstanding GWP at end 2022 
+6% 
+93% 
+1.1% 
+Average share of SI  
+ 
+10% 
+53% 
+Average share of TR  
+ 
+0% 
+6% 
+IORPs 
+Number of IORPs that reported this field 
+9 
+6 
+0 
+% of total AuM at end 2022 
+56% 
+44% 
+0% 
+Source: EIOPA’s survey to undertakings, 2024 
+5.1.2. Implementation of IDD sustainability requirements  
+5.1.2.1. POG sustainability-related requirements 
+Out of the 99 providers that participated in this data collection, 89 providers were in scope of POG 
+(i.e., manufacturers of insurance products), out of which 74 are IBIP manufacturers.  
+Despite POG being a well-established concept in the insurance regulatory landscape, with providers 
+being more accustomed to it compared to newer sustainability regulations, it appears, based on the 
+evidence set out below, that the integration of sustainability-related objectives in the POG process 
+has not been performed by a considerable amount of insurance undertakings, particularly for non-
+ 
+24 Limitation of the figures: EIOPA asked for the average share of SI and of taxonomy-aligned investments at provider-level, meaning 
+that each provider reported only two averages of SI (article 8, article 9) and two averages of taxonomy-aligned investments (Article 8 
+and Article 9).  
+
+
+===== PAGE 27/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 27/54 
+ 
+life products. Moreover, when it has been integrated, it is not always done in an adequate way, 
+particularly for MOPs.  
+ 
+Article 5 of the POG DR requires that insurance manufacturers incorporate sustainability-
+related objectives when carrying out the target market assessment for a product.  
+41 insurance manufacturers indicated that they incorporate sustainability-related objectives in 
+the target market assessment for their IBIPs. To substantiate this, most of these insurance 
+manufacturers reported that they amended their POG policy to integrate sustainability-related 
+objectives when defining the target market, but did not provide further details on this 
+integration. Others provided a clearer picture. Several manufacturers reported defining various 
+‘sustainability-related objectives’ categories for the purpose of the target market assessment. 
+These categories are often based on the 3 IDD ‘sustainability preferences’ categories (i.e., PAI 
+consideration, share of SI, share of taxonomy-aligned investments). One provider also 
+mentioned defining a negative target market for consumers with sustainability preferences that 
+cannot be met by its product offering. One provider took a different approach and reported 
+relying on a mapping of the UN’s SDGs for the target market assessment. Some manufacturers 
+of MOPs noted relying on the investment options’ SFDR disclosure for the target market 
+assessment (e.g., PAI consideration, Article 8 or 9).  
+9 insurance manufacturers indicated that they incorporate sustainability-related objectives in 
+the target market assessment for some of their IBIPs, typically only for IBIPs that they consider 
+as having sustainability features. 20 insurance manufacturers indicated that they do not 
+incorporate sustainability-related objectives in the target market assessment for their IBIPs. One 
+of the main reasons given by these manufacturers is that they do not offer IBIPs disclosing under 
+Article 8 or 9 of the SFDR. A few manufacturers indicated that they have not manufactured new 
+products or significantly revised existing products since the entry into force of the POG DR 
+sustainability requirements (i.e., 02 August 2022) and therefore have not updated their target 
+market assessment to include sustainability-related objectives. Some MOP manufacturers 
+noted challenges in integrating sustainability-related objectives in the target market 
+assessment, given the numerous investment options. Several of these 20 manufacturers 
+reported working on incorporating sustainability-related objectives in the target market 
+assessment for their IBIPs.  
+ 
+Article 6 of the POG DR requires that manufacturers incorporate sustainability-related 
+objectives when testing their insurance products (before they market it or in case of a significant 
+adaptation) to ensure that they meet the identified needs, objectives, and characteristics of 
+consumers belonging to the target market. 39 insurance manufacturers indicated that they 
+incorporate sustainability-related objectives in the product testing for their IBIPs. Like for 
+requirements under Article 5 of the POG DR, most of these insurance manufacturers reported 
+that they amended their POG policy to integrate sustainability-related objectives when testing 
+products, but did not provide further details on this integration. A few manufacturers reported 
+
+
+===== PAGE 28/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 28/54 
+ 
+expanding scenario analysis to include additional tests relating to sustainability. A few 
+manufacturers mentioned the use of interviews and/or focus groups with consumers to test 
+whether their products meet the identified sustainability-related objectives of the target 
+market. 5 insurance manufacturers indicated that they incorporated sustainability-related 
+objectives in the product testing for some of their IBIPs, while 26 insurance manufacturers 
+indicated that they do not do so at all. One of the main reasons given is that they do not offer 
+Article 8 or 9 IBIPs. Several of these manufacturers indicated that they plan on incorporating 
+sustainability-related objectives in the product testing in the future.  
+ 
+Article 7 of the POG DR requires that manufacturers continuously monitor and regularly review 
+insurance products that they have brought to the market, to ensure that products remain 
+consistent with the sustainability-related objectives of the identified target market. 34 
+insurance manufacturers reported doing so. Most of these manufacturers do so as part of their 
+general POG review for each product, which is typically conducted every year (this varies 
+between every 3 months to every 3 years). Several manufacturers reported monitoring 
+investment options offered by their MOPs – done through the European ESG Template (EET) in 
+some cases – especially in relation to SFDR-related information (e.g., if the investment option is 
+“reclassified” from Article 6, 8, 9 of the SFDR). A few manufacturers also noted setting 
+sustainability-related thresholds in the monitoring of their MOPs. If thresholds are breached for 
+one of its MOPs, a manufacturer noted that it stops making sustainability claims about the MOP 
+and adjusts the allocation within 45 days. A few manufacturers mentioned assessing results of 
+surveys on sustainability-related aspects filled in by consumers or by external providers and take 
+remedial actions if they see the target market’s sustainability-related objectives not being met. 
+12 insurance manufacturers indicated that they monitor and review some of their IBIPs – 
+typically their IBIPs with sustainability features – to ensure ongoing alignment with the target 
+market’s sustainability-related objectives.  
+24 insurance manufacturers indicated that they do not monitor and review their IBIPs to ensure 
+ongoing alignment with the target market’s sustainability-related objectives.  
+ 
+Article 8 of the POG DR requires that manufacturers select distribution channels that are 
+appropriate for the target market of their IBIPs, and that they ensure these channels take into 
+account the target market's sustainability-related objectives, if any. 37 manufacturers reported 
+monitoring that their distribution channels collect information about and take into account the 
+target market's sustainability objectives/preferences when distributing IBIPs. Approaches to 
+distribution varies among manufacturers; some directly distribute their IBIPs, while others use 
+intermediaries in addition to direct distribution, and some rely entirely on distribution via 
+intermediaries. For direct distribution, manufacturers reported ensuring that their IBIPs match 
+the target market’s sustainability-related objectives by recording consumers sustainability 
+preferences during the advice process (e.g., collecting data on sustainability preferences). Some 
+mention the use of digital tools to better collect and analyse this data. For indirect distribution 
+
+
+===== PAGE 29/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 29/54 
+ 
+(e.g., via intermediaries), some manufacturers noted that it is the responsibility of the 
+intermediaries to ensure that they take into account the target market's sustainability-related 
+objectives when advising on IBIPs. Contrastingly, others reported requesting sustainability 
+preferences information for their IBIPs from intermediaries (e.g., by sending surveys to the 
+intermediaries or data collection exercises), in order to monitor and assess that IBIPs are 
+distributed taking into account the target market’s sustainability-related objective. 5 
+manufacturers reported partially monitoring that their distribution channels collect information 
+about and take into account the target market's sustainability objectives when distributing 
+IBIPs. 26 manufacturers reported not doing so at all. Several of these manufacturers noted that 
+they do not directly distribute IBIPs and consider that it is up to the intermediary to ensure that 
+it considers the target market's sustainability objectives when advising on IBIPs. A few 
+manufacturers noted that they do not offer advice in relation to their IBIPs.  
+ 
+When designing and developing MOPs, manufacturers choose the investment options of the 
+products, or make available a range of investment options from which consumers select their 
+preferred options. EIOPA asked MOP providers how they selected investment options that they 
+make available, also in relation to sustainability-related objectives. Particularly in two MS, 
+providers indicated having a selection process for externally managed investment options at 
+two levels. The first level is an assessment of the sustainability profile of the third-party 
+managing the investment options (e.g., fund manager). This assessment reportedly considered 
+whether the third-party signed the UN PRI, whether it had set a transition target for its 
+investments and whether the third-party’s management team had sustainability expertise. The 
+second level is an assessment of the investment option’s (e.g., fund) sustainability profile which 
+reportedly considers aspects such as the ESG rating of the investment option or how the 
+investment options fares in relation to PAI indicators (e.g., exposure to coal). Some 
+manufacturers in other MS, reported also conducting an assessment at one of the two levels. 
+For example, one manufacturer reported not accepting as potential investment options in its 
+MOPs any Article 6 of SFDR funds that were marketed as having ESG features.  
+ 
+The new sustainability-related requirements set out in the POG DR do not specify that the 
+sustainability-related requirements only apply to IBIPs. In that context, EIOPA asked providers 
+whether they integrate sustainability-related objectives in the POG processes of their non-life 
+insurance products. 17 providers reported doing so for all of their non-life products. 10 
+providers reported doing so for some of their non-life products, depending on the line of 
+business. These lines of business are health insurance, mobility-related insurance (e.g., motor 
+insurance, bike insurance), renewable energy insurance, pollution liability insurance, insurance 
+targeting vulnerable consumers, property insurance, natural catastrophe insurance. Moreover, 
+a few providers reported using sustainability-related checklists/questions (e.g., one provider 
+reported taxonomy-related questions) when assessing whether a non-life product has 
+sustainability-related objectives. 29 providers (that manufacture non-life products) reported 
+
+
+===== PAGE 30/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 30/54 
+ 
+not integrating sustainability-related objectives in their POG processes for their non-life 
+products.  
+5.1.2.2. IDD suitability assessment sustainability-related requirements 
+Out of the 99 providers that participated in this data collection 47 providers were in scope of IDD  
+suitability assessment sustainability-related requirements (i.e., distributors of IBIPs).  
+Most of the providers reported having integrated sustainability preferences in the suitability 
+assessment. However, in some cases, assessments appear to be insufficiently granular and precise, 
+especially in relation to the use of the three IDD sustainability preferences criteria25 for both 
+collection of consumer’s sustainability preferences and assessment of suitability.   
+ 
+Article 9 of the IDD DR on suitability requires that providers giving advice on an IBIP collect 
+from consumers information – including on their sustainability preferences – for the purpose of 
+the suitability assessment. EIOPA’s Guidance on the integration of sustainability preferences in 
+the suitability assessment under the IDD26 further specifies this.  
+44 providers in scope of IDD suitability assessment requirements indicated collecting 
+information on consumers’ sustainability preferences. Almost all indicated doing so via 
+questionnaires to consumers, either via paper forms or digitally – the former being slightly more 
+prevalent. Indeed, 16 providers indicated using automated advice processes for the distribution 
+of their IBIPs, while 28 reported not using such. Several of those collecting sustainability 
+preferences only in paper form reported being in the process of building tools to do so digitally 
+in the future.  
+The range of sustainability preference questions in the questionnaires to consumers varies 
+significantly. Some have only one or two generic sustainability questions, while others present 
+a more extensive set of questions – however, without clear reference to the 3 IDD sustainability 
+preferences criteria. Others reported having a set of detailed questions tailored to the 3 
+sustainability preferences criteria. Especially when the questionnaires are carried out digitally, 
+the sustainability questions are layered, helping avoid consumer overload. One provider 
+explicitly mentioned that when a consumer is filling out the questionnaire digitally, the 
+consumer cannot go further in the purchasing process if the sustainability questions are not 
+answered.   
+Based on the answers to the sustainability preferences questions, several providers reported 
+selecting the most appropriate product/investment strategy or giving the consumer a list of 
+investment options that meet their sustainability preferences to choose from. Other providers 
+did not specify how they considered consumers’ answers to the sustainability preferences 
+questions. In case providers do not have suitable product in relation to sustainability 
+ 
+25 Article 2(4) of 2017/2359 DR (IDD suitability DR) 
+26 EIOPA’s Guidance on the integration of sustainability preferences in the suitability assessment under the IDD – Link 
+
+
+===== PAGE 31/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 31/54 
+ 
+preferences, several of them indicated asking if the consumer wants to adapt their preferences 
+and record this adaptation if there is one. A few providers also reported giving their consumers 
+educational material on what Article 8 and Article 9 investments are. Finally, one provider noted 
+that less than 20% of their consumers stated having sustainability preferences. 
+ 
+Article 10 of the IDD requires that providers possess appropriate knowledge and ability to 
+complete their tasks and perform their duties adequately, and that they comply with continuing 
+professional training and development requirements in order to maintain an adequate level of 
+performance corresponding to the role they perform and the relevant market.  
+36 providers indicated having fully trained their employees distributing IBIPs on how to consider 
+sustainability preferences during the suitability assessment. Providers reported organising 
+mandatory online trainings (e.g., webinars, e-learning tools) as well as in person mandatory 
+trainings, which reportedly had high attendance rates (most indicated 100%, lowest was 77%). 
+While most providers indicated offering trainings on both general sustainable finance 
+framework and IDD sustainable preferences, a few noted offering trainings only on the 
+sustainable finance framework in general. In addition to trainings, many providers reported 
+giving their employees educational material on IDD sustainability preferences and manuals to 
+use when assessing consumers sustainability preferences. 7 providers indicated having partially 
+trained their employees distributing IBIPs on how to consider sustainability preferences during 
+the suitability assessment, while 4 providers reported not having done so at all.  
+5.1.3. Non-life insurance products with sustainability features 
+While there is currently no understanding as to what a non-life product with sustainability feature 
+is (aside from the Taxonomy-aligned underwriting of climate-related perils), 16 insurance 
+undertakings from 11 MS classified – based on internal classification processes – some of their non-
+life insurance products as having sustainability features or as being “green”. 
+At year-end 2022, these 16 undertakings reported offering a total of 309 non-life product types 
+with sustainability features (max: 127 product types, min: 1 product type). The GWP for non-life 
+with sustainability features as share of total non-life GWP also varies across undertakings with an 
+average of 17% (max: 67%, min: 0.1%). 
+The understanding of what is a non-life product with sustainability features varies from 
+undertaking to undertaking. One provider restricted its understanding of non-life products with 
+sustainability features to those that are taxonomy-eligible based on the underwriting climate-
+related perils criteria of the Taxonomy Regulation. Another provider reported working on a 
+classification approach based on the Taxonomy. Other providers take a broader approach and 
+enlarge their understanding to any product that relates to environmental aspects, including 
+benefitting the environment as well as reducing risks related to the environment. While most 
+undertakings limit their understanding to environmental aspects, a few undertakings included in 
+
+
+===== PAGE 32/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 32/54 
+ 
+their understanding also ‘social’ aspects, such as products that target vulnerable consumers or that 
+strengthen social inclusion.  
+In terms of the attribute(s) of the product that allows it to benefit the environment or society, some 
+providers find that it is sufficient for products to offer coverage to “green” or “sustainable” assets 
+(e.g., solar or wind farms). One provider noted offering premium discounts for green assets (e.g., 
+discounts for electric vehicles). A few providers reported integrating sustainability factors in their 
+claims management process, or the allocation of premium paid for a given product to sustainable 
+causes (e.g., to preserve biodiversity).  
+In terms of lines of business, household insurance, motor insurance and natural catastrophe 
+insurance appear to be the ones with the most products with sustainability features. Beyond the 
+lines of business shown in Figure 5, undertakings reported having products with sustainability 
+features also in the following lines of business: marine insurance, agriculture/crop insurance, 
+aviation insurance, electric scooter/bike insurance.  
+Figure 5 – Lines of business in which undertakings reported having products with sustainability 
+features (in number of undertakings)  
+ 
+Source: Survey to Undertakings 
+One undertaking that has not yet introduced non-life products with sustainability features indicated 
+that it is awaiting clarity on what regulators would consider a non-life product with sustainability 
+features to be. Another undertaking reported being in the process of defining internally what it 
+would consider a non-life insurance product with sustainability features to be.  
+5.2. SFDR PRE-CONTRACTUAL DISCLOSURE ANALYSIS  
+
+
+===== PAGE 33/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 33/54 
+ 
+EIOPA conducted two analyses (one in 2022-2023 and another in 2023-2024) of SFDR pre-
+contractual product disclosure based on a cumulative sample of 200 IBIPs and IBIPs’ investment 
+options taken from EIOPA’s Cost and Past Performance Report27 (CPP) database.  
+Generally, these disclosures are compliant with the requirements set out in the SFDR and the 
+SFDR DR, however, two main groups of issues were identified in some of the disclosures: the 
+accessibility of these disclosures on undertakings’ websites and vague statements made within 
+the disclosure.  
+Main findings of the pre-contractual disclosure analysis  
+SFDR pre-contractual disclosures should be easily accessible on websites. However, EIOPA found 
+that these disclosures are often hard to find on companies' websites or are sometimes missing. 
+ 
+Several undertakings did not provide on their website the link to the SFDR disclosure for each 
+investment option of their MOPs. These undertakings usually only had a list of the available 
+investment options for their MOPs and indicated for each investment option whether it 
+disclosed under Article 6, 8 or 9. A few cases were also seen of undertakings showing a list of 
+investment options without the links to the SFDR disclosures, as well as without indicating 
+whether the investment options listed disclosed under SFDR Article 6, 8 or 9.  
+ 
+While most undertakings had working links to SFDR disclosure, several undertakings had links 
+to investment options offered in MOPs that did not work, not allowing EIOPA to retrieve the 
+disclosures.  
+ 
+Some undertakings did not include the SFDR disclosure of their MOP and its investment options 
+in the MOP’s dedicated webpage but included this information in a different webpage 
+containing entity level disclosures (e.g., investors relations webpage). This issue was also 
+observed for non-MOP products.  
+ 
+A few cases were also identified in which MOPs investment options were mistakenly using SFDR 
+periodic disclosure templates instead of the SFDR pre-contractual product templates.  
+ 
+Some undertakings referred to external documentation within the SFDR disclosure but did not 
+say where that documentation could be found (e.g., no link to the documentation), nor 
+referenced the relevant section in that documentation.  
+In addition to accessibility issues, the information in SFDR pre-contractual disclosures was at times 
+vague, not fully complying with the requirements set out in the SFDR and SFDR DR. 
+ 
+Discrepancies were observed between SFDR information highlighted on the website and the 
+actual SFDR disclosure where some investment options were presented as Article 9 on the 
+website, while the SFDR disclosure indicated that these investment options disclosure under 
+ 
+27 EIOPA's Costs and Past Performance Report December 2023 - Link 
+
+
+===== PAGE 34/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 34/54 
+ 
+Article 8. Other discrepancies were observed between sustainability-related information in the 
+SFDR disclosure and other pre-contractual documentation.  
+ 
+Inconsistencies were also observed within the SFDR disclosures. For example, an investment 
+option’s disclosure indicated that it would mostly do social sustainable investments, while it 
+later stated that most of its investments are made in environmentally-focused companies. 
+Another example is an investment option’s SFDR disclosure showing two different percentages 
+of sustainable investments, one in the first page and another one in the allocation table figure.  
+ 
+In the disclosure, several products disclosing under Article 8 simply state that they will make 
+investments considering ESG characteristics. There is no explanation as to what environmental 
+and/or social characteristics the products promote, nor how they will promote them.  
+ 
+Some investment options use sustainability-related names such as “sustainable”, “climate” 
+while disclosing under Article 8 and having a 0% commitment to make sustainable investments 
+and 0% taxonomy-aligned investments. 
+ 
+Several Article 9 investment options fail to provide any information on their sustainable 
+investment objective. Other Article 9 investment options did not indicate any minimum 
+percentage commitment of sustainable investment. Moreover, some Article 9 disclosures 
+expressed sustainable investments as a range (e.g., from 10 to 50%).  
+ 
+All sections of the disclosure were filled in most of the reviewed SFDR disclosures. However, 
+some explanations were lengthy (e.g., beyond a page for one question) and unclear. Statements 
+about products’ social characteristics and social sustainable investments were found to be 
+particularly vague.  
+ 
+Several undertakings provided unclear explanations as to how their sustainable investments 
+under Article 2(17) meet the DNSH criterion. For example, in some cases it is unclear how the 
+PAI-indicators are taken into account for this purpose.  
+ 
+Formatting issues were also noticeable, as some disclosures omitted sections or icons set out 
+in the SFDR DR. Moreover, sections that should be removed from the disclosure – for example 
+where no specific index has been designated as a reference benchmark – have been kept in 
+certain disclosures. Further, a few cases were noticed where sections or graphs not set out in 
+SFDR DR were added to the disclosure.   
+ 
+Proposal 2 – Building a common EU supervisory approach in relation to sustainability claims and 
+greenwashing 
+ 
+In line with its mandate28, EIOPA will foster supervisory convergence in relation to greenwashing 
+and act as a forum for supervisors to share their experiences in supervising greenwashing 
+through EIOPA’s greenwashing workstream.  
+ 
+EIOPA will achieve this by implementing various initiatives at EU level: 
+ 
+28 Article 8(1)(a), Article 8(1)(b) and Article 29(1)(a) of EIOPA Regulation 
+
+
+===== PAGE 35/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 35/54 
+ 
+a) 
+An Opinion on sustainability claims and greenwashing, which EIOPA is publishing with this 
+Final Report. The Opinion aims to remedy a lack of a common EU approach to supervise 
+sustainability claims and greenwashing, and to ensure the effective and consistent 
+supervision of greenwashing in the EU insurance and pension sectors. EIOPA will monitor the 
+effective implementation of this Opinion by NCAs.  
+b) 
+EIOPA will explore the use of Suptech to help the supervision of greenwashing, particularly 
+in relation to disclosure supervision. This exploration also aims to mitigate NCAs’ resource 
+limitations. EIOPA’s has already started assisting 4 NCAs in developing Suptech tools and 
+guidance to identify potential greenwashing within the context of a technical support project 
+promoted by the European Commission – DG REFORM. Other activities may be undertaken, 
+also based on lessons learned from the DG REFORM project.  
+c) 
+EIOPA may work on a paper setting out how sustainability claims are made across all stages 
+of the insurance and pension lifecycles, and include a list of examples of good/bad practices. 
+This paper would leverage work already covering sustainability claims, which are EIOPA’s 
+Progress Report, this Final Report, as well as the aforementioned Opinion.  
+ 
+EIOPA may undertake more initiatives to further develop the supervision of sustainability claims 
+and greenwashing. Moreover, to facilitate enforcement, EIOPA may develop further internal 
+guidance on the use of product intervention powers also in relation to greenwashing for 
+products within the remit of PRIIPs, taking into account that the product intervention provisions 
+in PRIIPs Regulation refer to the marketing of IBIPs and not just the distribution or sale, and also 
+the criteria laid down in Article 1 and 2 of Commission Delegated Regulation (EU) 2016/1904 
+on product intervention refer to “the information, marketing or other promotional material 
+associated with the investment”. 
+ 
+Proposal 3 – Tackling greenwashing through enhanced supervision and targeted supervisory 
+activities 
+ 
+EIOPA will use its mandates to monitor and tackle greenwashing:   
+a) 
+EIOPA will use its mandate to carry out mystery shopping exercises throughout the EU to 
+ensure compliance with requirements in the advice process, including sustainability 
+requirements. EIOPA is currently coordinating a mystery shopping exercise in 8 Member 
+States and while this does not focus solely on sustainability requirements, it covers them.   
+b) 
+EIOPA will continue to carry out market monitoring activities on greenwashing.  
+c) 
+EIOPA will continue to carry out consumer research also in relation to sustainability (e.g., 
+inclusion of sustainability-related questions in EIOPA’s Eurobarometer Survey).  
+d) 
+EIOPA will continue to support NCAs in their supervisory activities, by organising capacity 
+building initiatives related to sustainability.   
+
+
+===== PAGE 36/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 36/54 
+ 
+ 
+Within their respective mandates, NCAs are recommended to continue enhancing their efforts 
+to tackle greenwashing by:  
+a) 
+Verifying insurance and pension providers’ compliance with sustainability-related 
+requirements (e.g., SFDR, IDD sustainability-related requirements, Taxonomy regulation).  
+b) 
+Monitoring that when insurance and pension providers make sustainability claims they abide 
+by the 4 principles set out in the Opinion on greenwashing and sustainability claims.  
+c) 
+Where relevant, monitoring the evolution and availability of life and non-life products 
+claiming to have sustainability features in their market.  
+d) 
+Where appropriate, evaluating the use of Suptech tools to support risk-based supervision of 
+sustainability claims, and particularly of sustainability-related disclosure.  
+e) 
+Where relevant, NCAs are encouraged to share with EIOPA lessons learned stemming from 
+their supervisory activities on greenwashing or good supervisory practices used by the NCA 
+to identify greenwashing.  
+f) 
+Where relevant and if the NCA collects complaints directly from consumers, or if it has a 
+whistleblower section on its website, NCAs are encouraged to allow consumers/private 
+individuals to submit complaints or tips about potential greenwashing in an anonymised 
+manner.  
+g) 
+Where appropriate and relevant, NCAs are recommended to take enforcement measures 
+against providers that have been found to have done greenwashing, this includes cease and 
+desist measures, as envisaged in IDD, and other relevant measures available at the national 
+level. This includes, where NCAs have competence under the Unfair Commercial Practices 
+Directive, to ensure claims which may amount to greenwashing are addressed and act as a 
+deterrent against misleading sustainability claims. 
+h) 
+Where appropriate and relevant in addition to the abovementioned measures, NCAs should 
+make use of their supervisory and investigatory powers under SFDR to ensure that providers’ 
+marketing communications do not contradict the information disclosed pursuant to SFDR. 
+ 
+Proposal 4 – Preventing greenwashing 
+ 
+To ensure that their sustainability claims do not lead to greenwashing, insurance and pension 
+providers are recommended to:  
+a) 
+Follow the 4 principles set out in the Opinion on sustainability claims and greenwashing. 
+b) 
+Include greenwashing risk considerations as part of their internal governance structure 
+around sustainability.  
+c) 
+Ensure that entity-level decarbonisation/transition commitments, if any, are substantiated 
+with concrete plans, intermediary targets, clear and granular data and that progress is 
+regularly reported to the relevant stakeholders.  
+
+
+===== PAGE 37/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 37/54 
+ 
+d) 
+Where there are no clear criteria defining what has sustainability features and what does not 
+have sustainability features, ensure that information is fair, clear, and not misleading. 
+e) 
+Under internal control and reporting systems, include and implement appropriate 
+sustainability control and reporting arrangements.  
+ 
+6. SUPERVISORY EXPERIENCES 
+Supervising greenwashing and ensuring compliance with the relevant sustainable finance 
+requirements is necessary to prevent and mitigate greenwashing as well as to prevent consumer 
+detriment in the insurance and pensions sectors. Conscious of this, EIOPA and its Members (NCAs) 
+have started to integrate greenwashing risk in their supervision. In this context, EIOPA conducted 
+two NCA surveys requesting input on aspects related to the supervision of greenwashing. The first 
+survey closed in January 2023 (please refer to page 35-46 of the progress report for a summary of 
+this survey), and a second, shorter survey closed in January 2024.  
+The main takeaway from these surveys is that there was a noticeable increase in supervisory 
+attention around sustainability-related requirements and greenwashing from the 2023 to the 
+2024 survey. In the 2024 survey, more NCAs reported occurrences of potential greenwashing (from 
+3 to 5 NCAs). NCAs also reported more supervisory activities around greenwashing (from 15 to 21 
+NCAs), more resources dedicated to greenwashing supervision (from 22 FTEs to 30 FTEs), as well as 
+more internal supervisory tools developed around greenwashing. This could be attributed to the 
+gradual implementation of sustainability-related requirements, coupled with a growing consumer 
+interest in sustainable offerings and providers expanding their sustainability offerings. However, 
+several challenges in the supervision of greenwashing remain, notably: resource constraints, lack of 
+sustainability-related data, the complexity of the regulatory framework and a lack of common 
+approach to supervise greenwashing.  
+6.1. NCAS’ SUPERVISORY ACTIVITIES AROUND GREENWASHING 
+There was an important increase in NCAs that reported carrying out supervisory activities around 
+greenwashing, from 15 NCAs in the 2023 survey to 21 NCAs in the 2024 survey. Of these 21 NCAs, 
+14 NCAs did so for both the insurance and pensions sectors, whereas 6 did so exclusively in relation 
+to the insurance sector and 1 NCA exclusively for the pensions sector. 
+
+
+===== PAGE 38/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 38/54 
+ 
+The most common supervisory activities included regulatory disclosure compliance checks (13 
+NCAs) and thematic reviews/surveys related to sustainability requirements such as SFDR and IDD 
+sustainability requirements (14 NCAs) (Figure 6). 10 NCAs provided guidance to the industry, and 11 
+reported carrying out workshops with the industry. Consumer financial literacy initiatives were 
+carried out by 7 NCAs, market monitoring activities by 8 NCAs, and on-site/off-site inspections were 
+undertaken by 6 NCAs. Additionally, 2 NCAs noted supervisory activities related to the monitoring 
+of pension and insurance-related content via social media and press monitoring. Some of the key 
+highlights stemming from these activities are listed below:  
+ 
+In addition to the SFDR pre-contractual disclosure analysis outlined in section 5.2 of this report, 
+a number of NCAs undertook independent SFDR compliance assessments. Some of them 
+published the results of their assessments29. To address the issues identified in these 
+assessments, several NCAs issued recommendations to providers. Moreover, one NCA reported 
+taking supervisory measures against three pension providers after identifying issues relating to 
+SFDR periodic disclosure. Another NCA, after identifying issues in pre-contractual and website 
+disclosures, took supervisory measures against one insurance undertaking.  
+ 
+A number of NCAs reported that their market is still in the process of fully implementing 
+sustainability-related requirements, and therefore some of their supervisory activity is geared 
+towards guidance to the industry. For example, BaFin provided detailed guidance on SFDR 
+product-related information and organised regular workshops with the industry and auditors, 
+focusing on their implementation of the SFDR. Additionally, several NCAs have issued/are 
+planning to issue ‘Dear CEO’ letters asking the industry not to engage in greenwashing30. 
+ 
+After noting an increase in misleading sustainability claims in life insurance advertisements, 
+ACPR issued a recommendation aimed at improving sustainability claims made in life insurance 
+advertising31. Following the entry into force of this recommendation in April 2023, the French 
+NCA noticed a decline in the use of vague or unclear sustainability claims in life insurance 
+advertising.  
+ 
+The AFM published in October 2023 a set of guidelines on sustainability claims32 which provide 
+guidance to market participants on how to avoid making misleading sustainability claims.  
+ 
+The Swedish FSA followed up the ESAs Consumer Factsheet on sustainable finance with a video 
+providing further information to consumers on how to allocate their money sustainably33.  
+ 
+One NCA has updated the conduct-related data it requests from undertakings in its market to 
+include data on the provision of sustainable products, on marketing campaigns with sustainable 
+elements and on complaints related to greenwashing.  
+ 
+29 MFSA’s analysis – link ; AFM’s pension analysis – link ; AFM’s insurance analysis – link; DFSA’s analysis - link 
+30 CBI’s “Dear CEO” letter – link  
+31 ACPR’s recommendation on sustainability claims in life insurance advertising - link 
+32 AFM’s guidelines on sustainability claims – link 
+33 FI-SE’s consumer financial literacy initiative - link 
+
+
+===== PAGE 39/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 39/54 
+ 
+Figure 6 – NCAs that carried out supervisory activities aimed at tackling greenwashing – January 
+2024 
+ 
+Source: Survey to NCAs 
+Supervisory tools to tackle greenwashing 
+Tools aimed at guiding supervisory teams help ensure the adequate supervision of greenwashing. 
+There was an increase from 2 NCAs in the 2023 survey to 6 NCAs in the 2024 survey which have 
+developed internal guidelines related to the supervision of greenwashing. One NCA focused on 
+preparing educational material on sustainability requirements for their supervisory teams, while 
+three other NCAs developed internal supervision policies focused on sustainability. Yet another NCA 
+noted developing internal methodologies and checklists for sustainability-related supervisory 
+analyses. Another NCA reported working on an internal methodology to evaluate the sustainability 
+features of IBIPs. 6 NCAs are currently in the process of, or are planning to insert greenwashing-
+related considerations in supervisory guidelines or other tools. 12 NCAs have not yet developed 
+supervisory guidelines on greenwashing and are looking to EIOPA for further guidance. Some NCAs 
+emphasise that guidance provided by EIOPA should be concrete and use examples where possible. 
+4 NCAs noted not foreseeing the development of such tools in the future. 
+EIOPA’s progress report already highlighted that 21 NCAs saw value in the use of Suptech to tackle 
+greenwashing. NCAs reiterated their interest in Suptech, particularly as a mean to alleviate resource 
+constraints and address data availability issues. Indeed, several NCAs reported building or planning 
+to build new Suptech tools and seeking out ESG data providers to close data gaps.  
+6.2. OCCURENCES OF POTENTIAL GREENWASHING  
+
+
+===== PAGE 40/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 40/54 
+ 
+In carrying out the supervisory activities outlined in the section above, some NCAs identified 
+occurrences of greenwashing. From the 2023 survey to the 2024 survey, there was an increase in 
+the number of NCAs that identified one or more occurrences of greenwashing from 3 NCAs to 5 
+NCAs. Most of the greenwashing occurrences related to insurance at product level (4 NCAs), 
+followed by pension at entity/product-level (3 NCAs) and insurance at entity-level (1 NCA). These 
+occurrences share some commonalities. 3 of the 5 NCAs noted that sustainability claims were made 
+without adequate substantiation. 2 NCAs highlighted that unclear aspects and inconsistencies 
+present in the current sustainable finance regulatory framework gave rise to these occurrences. 
+Finally, issues around the understandability and accessibility of the sustainability claims were 
+highlighted by all 5 NCAs.  
+There was also an increase in the number of NCAs that did not identify greenwashing occurrences 
+but are currently investigating potential greenwashing occurrences from 5 NCAs in the 2023 survey 
+to 6 NCAs in the 2024 survey. These related to the use of sustainability-related words in IBIPs names, 
+sustainability claims about non-life insurance products, and potential non-compliance with 
+sustainability-related requirements (e.g., SFDR, POG DR). 
+The NCAs that did not identify occurrences of greenwashing are the majority, however this 
+number decreased from 21 NCAs in the 2023 survey to 19 NCAs in the 2024 survey. The lack of 
+greenwashing occurrences, according to 13 NCAs, is likely due to the limited availability of products 
+with sustainability features in their markets. Some NCAs indicated that insurers and pension 
+providers took a cautious approach when branding their products/investments as having 
+sustainability features, engaging in so-called “green-bleaching”. Other reasons raised include the 
+novelty of the sustainability-related requirements (5 out 19 NCAs), resource constraints limiting the 
+supervisory activities conducted in this area (4 out of 19 NCAs) and the inadequacy of the regulatory 
+framework aimed at tackling greenwashing (4 out of 19 NCAs).  
+6.3. SUPERVISORY CAPACITIES, CHALLENGES AND POWERS 
+6.3.1. Supervisory capacities 
+In the January 2024 survey, NCAs reported a total of 30 FTEs dedicated to sustainability-related 
+supervisory tasks in the insurance and pension sector. This represents an increase of 8 FTEs from 
+the 2023 survey, which is slightly less than the planned increase reported in the 2023 survey of an 
+additional 11 FTEs. In addition to the 30 FTEs dedicated to sustainability aspects, NCAs also reported 
+58 FTEs working on the supervision of sustainability aspects as part of general conduct supervision, 
+but not dedicated to sustainability.  
+16 NCAs reported that they have enough resources and expertise to adequately tackle 
+greenwashing. Several noted considerable investments both in resources dedicated to supervising 
+
+
+===== PAGE 41/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 41/54 
+ 
+greenwashing and in fostering sustainable finance expertise within their institutions. A few NCAs 
+currently see low risk of greenwashing in their market, and therefore consider their resources and 
+expertise sufficient. As sustainability requirements are clarified and implemented, some of these 16 
+NCAs anticipate facing pressures in terms of resources and expertise. Hence, they are adopting a 
+forward-looking approach, intending to hire more sustainable finance experts (16 FTEs in the next 
+two years) and initiate capacity-building programmes in the upcoming years.  
+14 NCAs reported that they do not have enough resources and expertise to adequately tackle 
+greenwashing. Several of these NCAs noted that they have to carry out additional supervisory tasks 
+without additional resources. Moreover, several NCAs highlighted a shortage of staff with expertise 
+in sustainability. However, efforts are underway to address this through capacity-building initiatives. 
+Figure 7 – FTEs dedicated to sustainability-related supervisory tasks, January 2024 
+ 
+FTEs dedicated to sustainability 
+ 
+Current 
+Increase in next 2 
+years 
+FTEs solely supervising sustainability requirement in 
+general [Total] 
+30 
+16 
+o/w FTEs supervising sustainability related 
+disclosure requirements 
+14 
+9 
+o/w FTEs supervising sustainability related POG 
+requirements 
+1 
+2 
+o/w FTEs supervising sustainability related IDD 
+requirements for distributors  
+1 
+2 
+o/w FTEs supervision sustainability requirements 
+for pension providers 
+2 
+2 
+Source: Survey to NCAs 
+6.3.2. Supervisory challenges 
+One of the main challenges reported by NCAs in supervising greenwashing are resource 
+constraints (8 NCAs). The section on supervisory capacities above (6.3.1) shows that there is a total 
+of 30 FTEs dedicated to sustainability-related tasks – this is an average of 1 FTE per NCA dedicated 
+to sustainability topics. Moreover, there are significant differences among NCAs, with 5 NCAs having 
+3 FTEs or more and others having none. While there is also some staff working on the supervision 
+of sustainability aspects as part of general conduct supervision, as noted by some NCAs, such staff 
+might not always have the adequate expertise to supervise sustainability requirements and claims.  
+This leads to another key challenge reported by NCAs, which is a lack of expertise in sustainable 
+finance (9 NCAs), especially given the complexity of the current regulatory framework. An 
+additional challenge reported by NCAs is the complexity and lack of clarity of the current regulatory 
+
+
+===== PAGE 42/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 42/54 
+ 
+framework – some NCAs also noted that these requirements are often changing, which does not 
+allow them to build enough expertise before newer requirements come into force.  
+In order to lessen resource constraints and expertise-related issues, many NCAs recognise the 
+necessity to not only enhance the sustainable finance knowledge among their staff – by way of 
+workshops or trainings – but also to recruit sustainable finance experts. 
+Another point mentioned by some NCAs is the lack of data related to sustainability and that 
+assessing the compliance of disclosures can be quite resource intensive. Moreover, some NCAs 
+note that given that insurance and pension providers are not required to submit their sustainability-
+related disclosures to NCAs (e.g., SFDR disclosure), they have to carry out resource-intensive data-
+collection efforts, reducing the time dedicated to the assessment of the disclosure. Finally, NCAs 
+pointed to a lack of an EU common approach in supervising greenwashing. 
+6.3.3. Supervisory mandates and powers 
+24 NCAs believe that their supervisory mandates and powers allow them to sufficiently tackle 
+greenwashing. However, they note that the “NCA supervisory toolkit” to measure, monitor, analyse 
+and remediate greenwashing (i.e., supervisory knowledge, supervisory practices, supervisory tools) 
+needs further development. According to many of these NCAs, focus should now be on the 
+practical implementation of the supervision of greenwashing. Two NCAs note that while they can 
+address greenwashing when it has been assessed as such, they do not have the mandate to take 
+preventive supervisory activities in relation to greenwashing.  
+6 NCAs noted not having sufficient supervisory mandates and powers to adequately tackle 
+greenwashing. A few of these NCAs noted that they only have a specific mandate to identify, 
+prevent and sanction greenwashing practices in information mandated by regulatory requirements 
+such as SFDR. However, they note a gap with respect to other information made available to the 
+consumers, such as advertising or other mediums in which sustainability claims are made. 
+Proposal 5 – Enhancing supervisory resources and expertise to tackle greenwashing 
+ 
+Where feasible given budgetary constraints, NCAs that indicated not having sufficient 
+resources/expertise to adequately tackle greenwashing are encouraged to increase resources 
+dedicated to sustainability-related supervisory tasks, and to organise capacity building 
+initiatives for staff on sustainable finance.  
+ 
+Given the cross-sectoral nature of greenwashing, (non-integrated) NCAs are encouraged to 
+closely cooperate with the securities and/or banking supervisory authorities of their Member 
+State in their approach to tackling greenwashing. 
+ 
+For both integrated and non-integrated authorities, where relevant, NCAs are encouraged to 
+set up one internal horizontal group/unit/function within their current governance structure 
+
+
+===== PAGE 43/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 43/54 
+ 
+that is tasked with high-level coordination of sustainability aspects – including greenwashing – 
+and that facilitates information sharing across the authority.  
+7. POSSIBLE IMPROVEMENTS TO THE REGULATORY 
+FRAMEWORK 
+Based on the issues and gaps already identified in EIOPA’s progress report, as well as additional 
+issues identified in this final report, in this section EIOPA proposes improvements to the regulatory 
+framework that would enhance the tackling and supervision of greenwashing in the insurance and 
+pensions sectors.  
+7.1. NON-LIFE INSURANCE PRODUCTS WITH SUSTAINABILITY FEATURES 
+Significant efforts – both policy as well as supervisory – have gone into defining and disclosing the 
+sustainability features of investment products such as IBIPs, pension schemes, PEPPs and other 
+pension products. While EIOPA believes that investments, specifically retail investments, are crucial 
+to finance the transition to a sustainable economy, non-life insurance products also have an 
+important role to play in the transition:  
+ 
+According to EIOPA’s Solvency II database at the end of 2022, non-life insurance accounted for 
+€476 Billion in terms of gross written premium (6% increase since 2021) in the EEA with the 
+‘Fire and other damage to property’ amounting to €112 Billion in gross written premium (GWP) 
+alone34.  
+ 
+According to EIOPA’s Eurobarometer survey conducted in July 2023, the penetration of non-life 
+insurance is greater than that of life insurance, showing its important place in the lives of EU 
+consumers.    
+ 
+53% of EU consumers have bought or considered buying sustainable insurance or pension 
+products or would be interested to know more about them in 2023.  
+Looking at the current EU sustainability-related framework, two pieces of legislation refer to the 
+sustainability features of non-life insurance products:  
+ 
+The POG delegated regulation does so implicitly as it introduces the concept of “sustainability 
+factors” of an insurance product (POG DR Article 5) and the consideration of consumer’s 
+ 
+34 While it is true that not all of the line of business (LoB) ‘Fire and other damage to property’ is related to sustainability factors, this LoB 
+includes damage stemming from natural catastrophes (e.g., droughts leading to wildfires). 
+
+
+===== PAGE 44/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 44/54 
+ 
+sustainability objectives (POG DR Article 5, 6, 7, 8 10, 11) in the manufacturing of a product. 
+While left unspecified, these considerations are not limited to insurance investment products, 
+but also cover non-life insurance products.  
+ 
+The Climate Delegated Act under the Taxonomy regulation provides a clear way to measure 
+taxonomy alignment when underwriting climate-related perils.  
+EIOPA is of the view that the current framework does not set explicit standards for non-life 
+products that can claim to have sustainability features and those that cannot, giving rise to a risk 
+of greenwashing. Indeed, POG only requires that sustainability be considered in product 
+manufacturing, and the Climate Delegated Act, given its scope, only offers measurement of 
+taxonomy alignment for the underwriting of climate-related perils. In addition, the IDD includes 
+general rules around ensuring that marketing communications are clear, fair and not misleading and 
+that marketing communications are always clearly identifiable as such, but these requirements are 
+not specific to sustainability-related marketing communications. As mentioned in EIOPA’s progress 
+report on greenwashing, this is a gap in the current sustainability-related framework. 
+Moreover, as highlighted in the section on the survey to undertakings (5.1.3), 16 insurance 
+undertakings reported selling products with sustainability features, and their understandings of a 
+non-life product with sustainability features varies. Further, 18 NCAs reported being aware of 
+“green” or “sustainable” non-life insurance products in their markets, while 10 NCAs indicated not 
+being aware of such products in their market. 
+7.1.1. Clarifying what are non-life products with sustainability features 
+EIOPA sees merit in addressing the identified gap and tackling greenwashing in non-life insurance 
+products. Towards that goal, EIOPA offers insights on potential approaches, focusing on 7.1.1.1 – 
+potential sustainability features of non-life products and on 7.1.1.2 – potential product-level 
+disclosure. If an approach for non-life products with sustainability feature were to be developed, 
+EIOPA sees merit in developing these two steps jointly.  
+The ideas presented here are preliminary indications, requiring further elaboration as well as 
+stakeholders’ input, for example by way of a public consultation. 
+7.1.1.1. Potential sustainability features of non-life products  
+Categorizing sustainability features of non-life insurance products should consider current 
+sustainability requirements, work previously done by EIOPA (e.g., impact underwriting), as well as 
+current market practices. 
+Current sustainability-related requirements such as SFDR and the Taxonomy Regulation, indicate 
+that to have sustainability features, a product –  or an economic activity in the case of the Taxonomy 
+
+
+===== PAGE 45/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 45/54 
+ 
+– must benefit the environment or society (e.g., ‘promote environmental or social characteristics’, 
+‘have a sustainable investment objective’, ‘contribute to an environmental objective’, ‘consider 
+principal adverse impacts’, ‘not significantly harm’).  
+Beyond taxonomy-aligned insurance of climate-related perils, EIOPA looked at current market 
+practices of products with sustainability features. It did so via a survey to NCAs, desk research, 
+publications35, a survey to undertakings (see 5.1.3) and a request for input to the IRSG. Below are 
+presented some of these products, which are bundled by type of product attribute which in the 
+providers’ view allows them to achieve a sustainability benefit.  
+ 
+Some non-life products link the subscription/renewal of a non-life policy with an action by the 
+insurer that benefits the environment or society. For instance, some non-life products indicate 
+that they allocate a portion of the premium paid by consumers to sustainable causes. They do 
+this by directly giving a portion of the premium to certain charities – in some cases, the 
+policyholder can select the charity of their choosing. Another way is by investing a portion of 
+the premium in investments that consider sustainability aspects. Another practice observed is 
+a commitment by the insurer to plant a tree for every new non-life policy subscribed. Yet 
+another practice observed is an insurer offering its policyholders with electric vehicles the 
+possibility to earn money by selling their carbon credits. 
+ 
+EIOPA also observed non-life products that provide rewards to consumers when they adopt 
+sustainable behaviours – these include both consumer risk reduction behaviours as well as 
+behaviour that positively impacts the environment and/or society. These rewards can be 
+premium reductions as well as other types of reward such as receiving free health-tracking 
+watches. Examples of such products are outlined below:  
+• 
+A property insurance that offers premium discounts for policyholders who implement 
+energy-efficient home upgrades.  
+• 
+A property insurance that offers higher indemnity to rebuild the house with more 
+sustainable materials. 
+• 
+Health insurance that offers medication to stop smoking for free to consumers. 
+• 
+Motor insurance that incorporates telematics to charge lower premiums to consumers 
+that drive less.  
+ 
+Other products indicate that they take measures to benefit the environment in their claims 
+handling processes. For example, a motor insurance product which uses second-hand parts 
+when fixing cars. 
+ 
+Finally, some insurance products insure green assets, for example products that insure a 
+taxonomy-aligned, energy-efficient residential building. Other examples are insurance products 
+that cover electric vehicles or wind farms.  
+ 
+35 “Compendium of market practices” report of the Platform on sustainable finance - Link;  AAE discussion paper “Sustainable Products 
+in insurance” – Link 
+
+
+===== PAGE 46/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 46/54 
+ 
+At this stage, EIOPA does not provide a view as to whether these products should be considered as 
+having sustainability features or not, but finds it useful to list current market practices. 
+Considerations may be made in the future as to whether some or all these product types should be 
+considered as having sustainability features. While more analysis is need, the potential 
+categorisation of the sustainability features of non-life products could be implemented by setting 
+out a product categorisation in a dedicated legal text. It may also be done in relation to the 
+“sustainability-related objectives” set out under the POG DR.  
+7.1.1.2. Potential product-level disclosure 
+While further analysis should be carried out, EIOPA is of the view that there may be merit in 
+developing jointly product categorisation and product disclosure. Therefore, provided that a simple 
+and clear but rigorous product categorisation is defined, EIOPA believes that products fitting into 
+the categories should be able to claim in disclosure or marketing material (e.g., advertisements, 
+product name) that they have sustainability features. It follows that those that do not fit in the 
+categories should not be able to claim in any disclosure or marketing material that they have 
+sustainability features.  
+EIOPA does not currently see the need for a dedicated pre-contractual document giving consumers 
+information on the sustainability features of non-life products. Such an approach could put a 
+disproportionate burden on the industry and further increase the amount of pre-contractual 
+documentation that consumers currently receive.  
+However, EIOPA sees merit in requiring that products show their sustainability features in the 
+existing Insurance Product Information Document (IPID), which has been, since 2017, the primary 
+standardized consumer-facing pre-contractual disclosure document for non-life products in the EU. 
+This could be done via the inclusion of a specific sustainability section in the IPID which would 
+inform consumers in a concise and understandable manner about the sustainability features of the 
+non-life product (see Figure 8). To ensure the appropriateness of this section, it is important to 
+define what information should be disclosed in it. Any change to the IPID should be behaviourally 
+informed to ensure it remains succinct and easy to understand (e.g., by way of consumer testing as 
+set down already in Article 20 IDD).   
+Given the succinct nature of the IPID, EIOPA would expect the new sustainability section to be short 
+and clear. While the focus should be on understandability in the IPID, there may also be need for 
+granular substantiation of the categorisation of the product as having sustainability features 
+outside. Again, EIOPA does not currently believe it to be necessary to have a dedicated sustainability 
+disclosure document, however, to ensure appropriate substantiation, it could be envisaged to clarify 
+(in line with POG DR) that upon request by the CA or the consumer, the insurer should make 
+
+
+===== PAGE 47/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 47/54 
+ 
+available the relevant documentation substantiating the categorisation of the product as having 
+sustainability features.  
+The inclusion of a new sustainability section in the IPID would require the amendment of Article 
+20(8) of IDD, as well as Commission Implementing Regulation (EU) 2017/1469 on the IPID.  
+Figure 8 – Potential new sustainability features section in the IPID 
+ 
+ 
+Source: EIOPA’s own elaboration 
+7.1.1.3. Other considerations 
+Should a new approach to categorize and disclose the sustainability features of non-life products be 
+developed, EIOPA believes that efforts should be made to ensure that this disclosure reduces 
+
+
+===== PAGE 48/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 48/54 
+ 
+information asymmetry for consumers, but also mitigates compliance burden for insurers and limit 
+market disruptions. To that extent, there should be an evaluation as to how existing non-life 
+products should be treated.     
+7.1.2. Pros and cons of the implementation of a potential approach for non-life products 
+with sustainability features  
+Below are presented the pros and cons of the implementation of a potential approach for non-life 
+products with sustainability features. Should the ideas and approaches outlined in the section above 
+be further developed, a comprehensive impact assessment should be carried out. 
+ 
+Consumers: There would be a lower risk of consumers being greenwashed given that there 
+would be standards for non-life products with sustainability features. Moreover, consumers 
+would be able to make more informed choices with standardized sustainability information on 
+non-life products – specifically through the IPID. However, the IPID disclosure would be longer, 
+as there would be an additional sustainability section.  
+ 
+NCAs: NCAs would have a set of rules as to what is and what is not a non-life product with 
+sustainability features. They would have access to information and documentation 
+substantiating the categorisation of the product as having sustainability features. However, 
+these would be additional requirements that NCAs would need to supervise.  
+ 
+Insurers: Insurers would be able to claim that their products meeting the sustainability 
+standards have sustainability features both in marketing material as well as in the IPID. However, 
+this would entail higher compliance costs for their products with sustainability features.  
+Proposal 6 – Closing the gap related to non-life insurance products with sustainability features 
+ 
+A potential gap in the sustainable finance regulatory framework has been identified around 
+non-life insurance products with sustainability features. EIOPA may make further considerations 
+in relation to non-life insurance products with sustainability features.  
+7.2. INSURANCE DISTRIBUTION DIRECTIVE (IDD) 
+Proposal 7 – Consumer-centric sustainability preferences 
+ 
+The consumer testing carried out in the context of the ESAs Final Report on the draft RTS on the 
+review of PAI and financial product disclosures in the SFDR Delegated Regulation36 shows that 
+most consumers do not understand, due to their complexity, what ‘taxonomy-aligned 
+investments’, ‘sustainable investments’ and ‘consideration of principal adverse impact on 
+ 
+36 Final Report on draft Regulatory Technical Standards on the review of PAI and financial product disclosures in the SFDR Delegated 
+Regulation - Link 
+
+
+===== PAGE 49/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 49/54 
+ 
+sustainability factors’ are, i.e., the three IDD sustainability preferences criteria. The lack of 
+consumer understanding of these criteria increases the risk of greenwashing and misselling. The 
+IDD sustainability preferences criteria were developed based on existing SFDR principles and 
+concepts. Consequently, should the European Commission review SFDR, particularly in 
+alignment with the Joint ESAs Opinion on SFDR, the IDD sustainability preferences criteria 
+should also be reassessed. In reviewing the IDD sustainability preferences criteria, EIOPA asks 
+that the European Commission take a consumer-centric approach, for example by consumer 
+testing these criteria, to ensure a high level of understanding of these criteria by all types of 
+consumers, including more vulnerable consumers.   
+ 
+Another issue identified in the IDD is the unclear link between ‘sustainability-related objectives’ 
+in product manufacturing (POG DR) and ‘sustainability preferences’ in the advice process (IDD 
+suitability assessment DR). While EIOPA partially sought to address the link between 
+‘sustainability-related objectives’ and ‘sustainability-related preferences’ in the published Q&A 
+247937, there may be merit either in aligning the terminology or making the link clearer between 
+the two concepts. 
+7.3. SUSTAINABLE FINANCE DISCLOSURE REGULATION (SFDR) 
+Proposal 8 – A sustainability-related investment framework that works for insurance and pension 
+consumers and providers  
+ 
+EIOPA’s Progress Report highlighted various issues related to the SFDR, such as unclarities 
+around the definition of sustainable investments under Article 2(17) SFDR, broadness of the 
+“promotion of environment or social characteristics” under Article 8, SFDR’s use as a labelling 
+regime, as well as issues around MOPs’ treatment in the SFDR. Against that background, and 
+given the cross-sectoral competence of SFDR, the ESAs are preparing a Joint ESAs Opinion on 
+SFDR, which is due to be published soon.  
+ 
+Therefore, EIOPA recommends the European Commission to consider the proposals included in 
+that Opinion, especially in the context of its assessment of SFDR.   
+7.4. IORP II DIRECTIVE 
+Proposal 9 – Enhancing sustainable finance and mitigating greenwashing in the occupational 
+pensions sector 
+ 
+37 Q&A 2479 
+
+
+===== PAGE 50/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 50/54 
+ 
+ 
+In September 2023, EIOPA published its Technical advice to the European Commission on the 
+review of the IORP II Directive38, which covered various sustainability aspects (e.g., inclusion of 
+sustainability aspects in the PBS, integration of sustainability aspects in IORPs investment 
+decisions). 
+ 
+EIOPA recommends the European Commission to consider that advice and more particularly 
+the section related to sustainability aspects, as they will contribute to the tackling of 
+greenwashing in the occupational pensions sector.  
+ 
+38 EIOPA’s technical advice for the review of the IORP II Directive – Link 
+
+
+===== PAGE 51/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 51/54 
+ 
+8. ANNEX  
+8.1. ACRONYMS AND ABBREVIATIONS 
+ACPR Autorité de contrôle prudentiel et de résolution. 
+AFM Autoriteit Financiële Markten 
+CBI Central Bank of Ireland 
+CFA Call for Advice 
+CfE Call for Evidence 
+CO2 carbon dioxide 
+DB defined benefit  
+DC defined contribution  
+DFSA Danish Financial Supervisory Authority 
+DR Delegated Regulation  
+EC European Commission  
+EEA European Economic Area 
+EIOPA European Insurance and Occupational Pensions Authority 
+ESAP European single access point 
+ESAs European Supervisory Authorities 
+FMPs financial markets participants 
+FI-SE Swedish Finansinspektionen 
+GHG Greenhouse gas 
+IBIPs insurance-based investment products 
+IDD Insurance Distribution Directive 
+IORP institution for occupational retirement provision 
+MFSA Malta Financial Services Authority 
+MOP multi-option product 
+MS   Member States 
+
+
+===== PAGE 52/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 52/54 
+ 
+NCAs National Competent Authorities 
+PAI  principal adverse impacts 
+POG product oversight and governance 
+PP with profit participation products 
+PRIIPS packaged retail and insurance-based investment products 
+SFDR Sustainable finance disclosure regulation 
+SI  Sustainable Investments under Article 2(17) of the SFDR 
+SII Solvency II Directive 
+TR Taxonomy Regulation 
+UL  unit-linked insurance 
+UN PRI United Nation Principles for Responsible Investment 
+UN SDGs  United Nations Sustainable Development Goals 
+8.2. STAKEHOLDER INTERACTION  
+In order to inform this Final Report and the Progress report, EIOPA interacted with various 
+stakeholders via structured interviews from June 2022 until December 2023. These interviews 
+focused on what greenwashing is, how greenwashing occurs, its impact, and the regulatory 
+framework around it. The stakeholders with which EIOPA held structured interviews were the 
+following:  2° Investing Initiative, BVI Bundesverband Investment und Asset Management e.V., 
+Better Finance, Zurich Insurance Group, France Assureurs, United Nations Development Programme 
+Sustainable Investment Forum, International Monetary Fund, Allianz, Carbon Disclosure Project, 
+AXA, Gesamtverband der Deutschen Versicherungswirtschaft, Credit Agricole and the UK Financial 
+Conduct Authority.  
+8.3. ESAS UNDERSTANDING OF GREENWASHING  
+In addition to the summary statement, the ESAs have identified several core characteristics that 
+help understand the potential scope of greenwashing: 
+A. Similarly to communication of other misleading claims there are several ways in which 
+sustainability-related statements, declarations or communications may be misleading. On the 
+one hand, communications can be misleading due to the omission of information relevant to 
+consumers, investors or other markets participants’ decisions (including but not limited to 
+
+
+===== PAGE 53/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 53/54 
+ 
+partial, selective, unclear, unintelligible, vague, oversimplistic, ambiguous or untimely 
+information, unsubstantiated statements). On the other hand, communications can be 
+misleading due to the actual provision of information, that is false, deceives or is likely to 
+deceive consumers, investors or other market participants (including but not limited to 
+mislabelling, misclassification, mis-targeted marketing, inconsistent information);  
+B. Similarly to other misleading actions, greenwashing is a type of misconduct which may not only 
+result in a direct claim, but in misleading actions or omissions. Potential examples include 
+identifying clients with sustainability preferences within the positive target market of a product 
+that does not have any sustainability features (in the product design phase) or not taking duly 
+into account clients’ sustainability preferences in the advice phase.   
+C. Sustainability-related misleading claims can occur and spread intentionally or unintentionally, 
+whereby intentionality, negligence, or the lack of robustness and appropriateness of due 
+diligence efforts could, where relevant, constitute aggravating factors in the context of 
+supervisory and enforcement actions.  
+D. Greenwashing can occur either at entity level (e.g., in relation to an entity’s sustainability 
+strategy or performance), at financial product level (e.g., in relation to products’ sustainability 
+strategy or performance) or at financial service level including advice39 (e.g., in relation to the 
+integration of sustainability-related preferences to the provision of financial advice).     
+E. Greenwashing can occur at any point where sustainability-related statements, declarations, 
+actions or communications are made, including at different stages of the business cycle of 
+financial products or services (e.g., manufacturing, delivery, marketing, sales, monitoring) or of 
+the sustainable finance value chain.  
+F. Greenwashing may occur in relation to the application of specific disclosures required by the 
+EU sustainable finance regulatory framework or in relation to general principles – as featured 
+either in the general EU financial legislation or more specifically in EU Sustainable Finance 
+legislation. In addition, greenwashing may occur in relation to entities that are outside of the 
+remit of the EU sustainable finance legislation as it currently stands. 
+G. Greenwashing can be triggered by the entity to which the sustainability communications relate, 
+by the entity responsible for the product, by the entity providing advice or information on the 
+product, or it can be triggered by third parties (e.g., ESG rating providers, or third-party 
+verifiers); 
+H. Greenwashing may or may not result in immediate damage to individual consumers or investors 
+(in particular through mis-selling40) or the gain of an unfair competitive advantage.  Regardless 
+of such outcomes, if not kept in check, greenwashing undermines trust in sustainable finance 
+markets and policies. 
+ 
+ 
+ 
+
+
+===== PAGE 54/54 =====
+
+ADVICE TO THE EUROPEAN COMMISSION ON GREENWASHING RISKS AND THE SUPERVISION OF 
+SUSTAINABLE FINANCE POLICIES – Final Report 
+Page 54/54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EIOPA 
+Westhafen Tower, Westhafenplatz 1 
+60327 Frankfurt – Germany 
+Tel. + 49 69-951119-20 
+info@eiopa.europa.eu 
+https://www.eiopa.europa.eu 
+ 

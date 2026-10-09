@@ -1,0 +1,230 @@
+{
+  "source_document": "Przepisy.docx",
+  "purpose": "Baza wiedzy: zapobieganie greenwashingowi (PL/UE)",
+  "items": [
+    {
+      "id": "upnpr",
+      "title": "Ustawa o przeciwdziałaniu nieuczciwym praktykom rynkowym",
+      "kind": "pl_law",
+      "sector": "horyzontalne",
+      "urls": [
+        "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=wdu20071711206",
+        "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20071711206/U/D20071206Lj.pdf"
+      ]
+    },
+    {
+      "id": "uokk",
+      "title": "Ustawa o ochronie konkurencji i konsumentów",
+      "kind": "pl_law",
+      "sector": "horyzontalne",
+      "urls": [
+        "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20070500331/U/D20070331Lj.pdf"
+      ]
+    },
+    {
+      "id": "uznk",
+      "title": "Ustawa o zwalczaniu nieuczciwej konkurencji",
+      "kind": "pl_law",
+      "sector": "horyzontalne",
+      "urls": [
+        "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19930470211/U/D19930211Lj.pdf"
+      ]
+    },
+    {
+      "id": "ecgt",
+      "title": "Dyrektywa (UE) 2024/825 ECGT",
+      "kind": "eu_law",
+      "sector": "horyzontalne",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32024L0825",
+        "https://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX:32024L0825"
+      ]
+    },
+    {
+      "id": "green_claims_swd",
+      "title": "Green Claims — dokument roboczy Komisji 52022SC0085 (link z Przepisy.docx)",
+      "kind": "eu_doc",
+      "sector": "horyzontalne",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52022SC0085"
+      ]
+    },
+    {
+      "id": "green_claims_proposal",
+      "title": "Wniosek Green Claims Directive COM(2023) 166",
+      "kind": "eu_doc",
+      "sector": "horyzontalne",
+      "note": "Faktyczny projekt dyrektywy; w Przepisy.docx podpięto SWD 52022SC0085",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52023PC0166"
+      ]
+    },
+    {
+      "id": "fir_1169",
+      "title": "Rozporządzenie (UE) nr 1169/2011 — informacje o żywności",
+      "kind": "eu_law",
+      "sector": "fmcg",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32011R1169"
+      ]
+    },
+    {
+      "id": "organic_834",
+      "title": "Rozporządzenie (WE) nr 834/2007 — produkcja ekologiczna (uchylone)",
+      "kind": "eu_law",
+      "sector": "fmcg",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32007R0834"
+      ]
+    },
+    {
+      "id": "organic_848",
+      "title": "Rozporządzenie (UE) 2018/848 — produkcja ekologiczna",
+      "kind": "eu_law",
+      "sector": "fmcg",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32018R0848",
+        "https://eur-lex.europa.eu/eli/reg/2018/848/oj?locale=pl"
+      ]
+    },
+    {
+      "id": "organic_pl",
+      "title": "Ustawa o rolnictwie ekologicznym",
+      "kind": "pl_law",
+      "sector": "fmcg",
+      "urls": [
+        "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001370",
+        "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20220001370/U/D20221370Lj.pdf"
+      ]
+    },
+    {
+      "id": "eudr",
+      "title": "Rozporządzenie EUDR (UE) 2023/1115",
+      "kind": "eu_law",
+      "sector": "fmcg",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32023R1115"
+      ]
+    },
+    {
+      "id": "sfdr",
+      "title": "Rozporządzenie SFDR (UE) 2019/2088",
+      "kind": "eu_law",
+      "sector": "finance",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32019R2088"
+      ]
+    },
+    {
+      "id": "taxonomy",
+      "title": "Taksonomia UE (UE) 2020/852",
+      "kind": "eu_law",
+      "sector": "finance",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32020R0852"
+      ]
+    },
+    {
+      "id": "knf_esa",
+      "title": "Wytyczne KNF / europejskich urzędów nadzoru",
+      "kind": "guidance",
+      "sector": "finance",
+      "urls": [
+        "https://www.knf.gov.pl/o_nas/wspolpraca_miedzynarodowa/unia/ESNF/wytyczne_europejskich_urzedow_nadzoru"
+      ]
+    },
+    {
+      "id": "esma_guidelines_hub",
+      "title": "ESMA — guidelines, recommendations and technical standards",
+      "kind": "guidance",
+      "sector": "finance",
+      "urls": [
+        "https://www.esma.europa.eu/publications-and-data/guidelines-recommendations-and-technical-standards"
+      ]
+    },
+    {
+      "id": "esma_fund_names",
+      "title": "Wytyczne ESMA w sprawie nazw funduszy z terminami ESG",
+      "kind": "guidance",
+      "sector": "finance",
+      "urls": [
+        "https://www.esma.europa.eu/sites/default/files/2024-08/ESMA34-1592494965-657_Guidelines_on_funds_names_using_ESG_or_sustainability_related_terms_PL.pdf"
+      ]
+    },
+    {
+      "id": "countemissions",
+      "title": "Rozporządzenie CountEmissionsEU 2026/1030",
+      "kind": "eu_law",
+      "sector": "transport",
+      "urls": [
+        "https://eur-lex.europa.eu/eli/reg/2026/1030/oj/eng",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32026R1030",
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32026R1030"
+      ]
+    },
+    {
+      "id": "textiles_strategy",
+      "title": "Strategia UE na rzecz zrównoważonych wyrobów włókienniczych (przewodnik Kampania 17 Celów)",
+      "kind": "guidance",
+      "sector": "textiles",
+      "urls": [
+        "https://kampania17celow.pl/raporty/zrownowazony-rynek-modowy-przewodnik-po-strategii-ue-na-rzecz-zrownowazonych-wyrobow-wlokienniczych-o-obiegu-zamknietym/"
+      ]
+    },
+    {
+      "id": "espr",
+      "title": "Rozporządzenie ESPR (UE) 2024/1781 — ekoprojektowanie",
+      "kind": "eu_law",
+      "sector": "textiles",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32024R1781"
+      ]
+    },
+    {
+      "id": "csddd",
+      "title": "CSDDD — strona MRiT + dyrektywa 2024/1760",
+      "kind": "eu_law",
+      "sector": "textiles",
+      "urls": [
+        "https://www.gov.pl/web/rozwoj-technologia/dyrektywa-w-sprawie-nalezytej-starannosci-przedsiebiorstw-w-zakresie-zrownowazonego-rozwoju-csddd",
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32024L1760"
+      ]
+    },
+    {
+      "id": "cpr",
+      "title": "Rozporządzenie CPR (UE) 2024/3110 — wyroby budowlane",
+      "kind": "eu_law",
+      "sector": "construction",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32024R3110"
+      ]
+    },
+    {
+      "id": "breeam",
+      "title": "BREEAM New Construction v7 downloads",
+      "kind": "standard",
+      "sector": "construction",
+      "urls": [
+        "https://breeam.com/breeam-newconstructionv7/downloads"
+      ]
+    },
+    {
+      "id": "leed",
+      "title": "LEED credits (USGBC)",
+      "kind": "standard",
+      "sector": "construction",
+      "urls": [
+        "https://www.usgbc.org/credits"
+      ]
+    },
+    {
+      "id": "epbd",
+      "title": "Dyrektywa EPBD (UE) 2024/1275",
+      "kind": "eu_law",
+      "sector": "construction",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32024L1275"
+      ]
+    }
+  ]
+}

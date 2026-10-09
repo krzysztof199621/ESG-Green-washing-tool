@@ -1,0 +1,1877 @@
+
+
+===== PAGE 1/31 =====
+
+ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (UE) 2020/852 
+z dnia 18 czerwca 2020 r. 
+w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniające rozporządzenie 
+(UE) 2019/2088 
+(Tekst mający znaczenie dla EOG) 
+PARLAMENT EUROPEJSKI I RADA UNII EUROPEJSKIEJ, 
+uwzględniając Traktat o funkcjonowaniu Unii Europejskiej, w szczególności jego art. 114, 
+uwzględniając wniosek Komisji Europejskiej, 
+po przekazaniu projektu aktu ustawodawczego parlamentom narodowym, 
+uwzględniając opinię Europejskiego Komitetu Ekonomiczno-Społecznego (1), 
+stanowiąc zgodnie ze zwykłą procedurą ustawodawczą (2), 
+a także mając na uwadze, co następuje: 
+(1)
+Celem art. 3 ust. 3 Traktatu o Unii Europejskiej jest ustanowienie rynku wewnętrznego działającego na rzecz trwa­
+łego rozwoju Europy, którego podstawą jest, między innymi, zrównoważony wzrost gospodarczy oraz wysoki 
+poziom ochrony i poprawy jakości środowiska. 
+(2) 
+W dniu 25 września 2015 r. Zgromadzenie Ogólne ONZ przyjęło nowe globalne ramy zrównoważonego rozwoju: 
+Agendę na rzecz zrównoważonego rozwoju 2030 (zwaną dalej „Agendą 2030”). Podstawowym elementem Agendy 
+2030 są cele zrównoważonego rozwoju obejmujące trzy wymiary zrównoważonego rozwoju: gospodarczy, spo-
+łeczny i środowiskowy. W komunikacie Komisji z dnia 22 listopada 2016 r. dotyczącym kolejnych kroków w kie-
+runku zrównoważonej przyszłości Europy powiązano cele zrównoważonego rozwoju z unijnymi ramami polityki 
+z myślą o zapewnieniu, by cele te od samego początku były uwzględniane we wszystkich unijnych działaniach i ini-
+cjatywach politycznych realizowanych zarówno w Unii, jak i na całym świecie. W konkluzjach z dnia 
+20 czerwca 2017 r. Rada potwierdziła zaangażowanie Unii i jej państw członkowskich we wdrażanie Agendy 2030 
+w pełni i w sposób spójny, kompleksowy, zintegrowany i skuteczny, w ścisłej współpracy z partnerami i innymi 
+zainteresowanymi stronami. W dniu 11 grudnia 2019 r. Komisja opublikowała komunikat w sprawie „Europej-
+skiego Zielonego Ładu”. 
+(3) 
+Porozumienie paryskie (3) przyjęte na mocy Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu 
+(zwane dalej „porozumieniem paryskim”) zostało zatwierdzone przez Unię w dniu 5 października 2016 r. Celem 
+art. 2 ust. 1 lit. c) porozumienia paryskiego jest podjęcie bardziej zdecydowanych działań w związku ze zmianą kli-
+matu, między innymi przez zapewnienie zgodności przepływów finansowych z dążeniem do niskiego poziomu 
+emisji gazów cieplarnianych i rozwoju odpornego na zmiany klimatu. W tym kontekście w dniu 12 grudnia 2019 
+r. Rada Europejska przyjęła konkluzje w sprawie zmian klimatu. W tym świetle niniejsze rozporządzenie stanowi 
+ważny krok na drodze do osiągnięcia przez Unię neutralności klimatycznej do 2050 r. 
+(4) 
+Zrównoważony rozwój oraz przejście na bezpieczną, neutralną dla klimatu, odporną na zmiany klimatu i bardziej 
+zasobooszczędną gospodarkę o obiegu zamkniętym mają kluczowe znaczenie dla zapewnienia długoterminowej 
+konkurencyjności gospodarki Unii. Zrównoważony rozwój jest od dawna centralnym elementem projektu, jakim 
+jest Unia, a jego wymiar społeczny i środowiskowy znajduje potwierdzenie w Traktacie o Unii Europejskiej i Trakta­
+cie o funkcjonowaniu Unii Europejskiej (TFUE). 
+(1) Dz.U. C 62 z 15.2.2019, s. 103. 
+(2) Stanowisko Parlamentu Europejskiego z dnia 28 marca 2019 r. (dotychczas nieopublikowane w Dzienniku Urzędowym) oraz stanowi-
+sko Rady w pierwszym czytaniu z dnia 15 kwietnia 2020 r. (Dz.U. C 184 z 3.6.2020, s. 1). Stanowisko Parlamentu Europejskiego z 
+dnia 17 czerwca 2020 r. (dotychczas nieopublikowane w Dzienniku Urzędowym). 
+(3) Decyzja Rady (UE) 2016/1841 z dnia 5 października 2016 r. w sprawie zawarcia, w imieniu Unii Europejskiej, porozumienia pary-
+skiego przyjętego na mocy Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu (Dz.U. L 282 z 19.10.2016, s. 1). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/13   
+
+
+===== PAGE 2/31 =====
+
+(5) 
+W grudniu 2016 r. Komisja zleciła grupie ekspertów wysokiego szczebla opracowanie nadrzędnej i kompleksowej 
+strategii Unii w zakresie zrównoważonego finansowania. W swoim sprawozdaniu opublikowanym w dniu 31 sty 
+cznia 2018 r. grupa ekspertów wysokiego szczebla wzywa do utworzenia na poziomie Unii solidnego technicznie 
+systemu klasyfikacji, aby zapewnić jasność co do tego, która działalność kwalifikuje się jako „ekologiczna” lub „zrów-
+noważona”, począwszy od łagodzenia zmian klimatu. 
+(6) 
+W swoim komunikacie z dnia 8 marca 2018 r. Komisja opublikowała swój plan działania w sprawie finansowania 
+zrównoważonego wzrostu gospodarczego, rozpoczynając ambitną i kompleksową strategię w zakresie zrównowa-
+żonego finansowania. Jednym z celów wyznaczonych w tym planie działania jest przekierowanie przepływów kapi-
+tału na zrównoważone inwestowanie w celu osiągnięcia zrównoważonego wzrostu gospodarczego sprzyjającego 
+włączeniu społecznemu. Utworzenie systemu jednolitej klasyfikacji zrównoważonej działalności jest najważniej-
+szym i najpilniejszym działaniem przewidzianym w planie działania. W planie tym uznano, że przekierowanie prze-
+pływów kapitału w stronę bardziej zrównoważonej działalności powinno opierać się na wspólnym, całościowym 
+rozumieniu pojęcia „zrównoważenia środowiskowego” działalności i inwestycji. W pierwszym kroku jasne wska-
+zówki dotyczące działalności kwalifikującej się jako działalność przyczyniająca się do realizacji celów środowisko-
+wych pomogłyby–inwestorom w uzyskaniu informacji o inwestycjach finansujących zrównoważoną środowiskowo 
+działalność gospodarczą. Dalsze wskazówki dotyczące działalności przyczyniającej się do realizacji innych celów 
+dotyczących zrównoważonego rozwoju, w tym celów społecznych, mogą zostać opracowane na późniejszym eta-
+pie. 
+(7)
+Ze względu na systemowy charakter globalnych wyzwań środowiskowych potrzebne jest systematyczne i perspekty­
+wiczne podejście do zrównoważenia środowiskowego, które uwzględnia rozwój negatywnych tendencji, takich jak 
+zmiany klimatu, utrata bioróżnorodności, nadmierne zużycie zasobów w skali światowej, niedobór żywności, zubo­
+żenie warstwy ozonowej, zakwaszanie oceanów, pogorszenie się systemu wody słodkiej oraz zmiany użytkowania 
+gruntów, jak również pojawianie się nowych zagrożeń, w tym niebezpiecznych substancji chemicznych i ich połą­
+czonych efektów. 
+(8)
+W decyzji Parlamentu Europejskiego i Rady nr 1386/2013/UE (4) apeluje się o zwiększenie wkładu sektora prywat­
+nego w finansowanie wydatków związanych ze środowiskiem i klimatem, w szczególności poprzez ustanowienie 
+zachęt i metod pobudzających przedsiębiorstwa do pomiaru środowiskowych kosztów ich działalności i zysków 
+pochodzących z korzystania z usług środowiskowych. 
+(9)
+Osiągnięcie celów zrównoważonego rozwoju w Unii wymaga przekierowania przepływów kapitału w stronę zrów­
+noważonych inwestycji. Ważne jest, aby dążąc do realizacji tych celów w pełni wykorzystywać potencjał rynku wew­
+nętrznego. W tym kontekście kluczowe jest usunięcie przeszkód utrudniających efektywny przepływ kapitału w kie­
+runku zrównoważonych inwestycji na rynku wewnętrznym oraz zapobieganie powstawaniu nowych przeszkód. 
+(10)
+Z uwagi na skalę wyzwań i kosztów związanych z zaniechaniem działań lub ich opóźnieniem konieczne jest stop­
+niowe dostosowanie systemu finansowego tak, by wspomagał on funkcjonowanie gospodarki w sposób zrównowa­
+żony. W tym celu należy włączyć zrównoważone finansowanie do głównego nurtu działań, a także wziąć pod 
+uwagę wpływ produktów i usług finansowych na zrównoważony rozwój. 
+(11) 
+Udostępnianie produktów finansowych służących realizacji celów zrównoważonych środowiskowo jest skutecznym 
+sposobem przekierowywania inwestycji prywatnych w stronę zrównoważonej działalności. Wymogi dotyczące 
+wprowadzania do obrotu produktów finansowych lub obligacji korporacyjnych jako zrównoważonych środowis­
+kowo inwestycji, w tym wymogi ustanowione przez państwa członkowskie i Unię w celu umożliwienia uczestnikom 
+rynków finansowych i emitentom korzystania z oznakowania krajowego, mają na celu zwiększenie zaufania inwes­
+torów i ich świadomości na temat skutków dla środowiska tych produktów finansowych lub obligacji korporacyj­
+nych, zapewnienie widoczności i rozwiązanie problemów związanych z „pseudoekologicznym marketingiem”. W 
+kontekście niniejszego rozporządzenia „pseudoekologiczny marketing” oznacza praktykę pozyskiwania nieuczciwej 
+przewagi konkurencyjnej polegającą na wprowadzeniu do obrotu produktu finansowego jako przyjaznego dla śro­
+dowiska, kiedy w rzeczywistości nie zostały spełnione podstawowe normy środowiskowe. Obecnie tylko kilka pań­
+stw członkowskich dysponuje systemami oznakowania. Systemy te opierają się na różnych systematykach klasyfiku­
+jących rodzaje zrównoważonej środowiskowo działalności gospodarczej. Z uwagi na zobowiązania polityczne 
+(4) Decyzja Parlamentu Europejskiego i Rady nr 1386/2013/UE z dnia 20 listopada 2013 r. w sprawie ogólnego unijnego programu dzia-
+łań 
+w 
+zakresie 
+środowiska 
+do 
+2020 
+r. 
+„Dobra 
+jakość 
+życia 
+z 
+uwzględnieniem 
+ograniczeń 
+naszej 
+planety” 
+(Dz.U. L 354 z 28.12.2013, s. 171). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/14                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 3/31 =====
+
+podjęte na mocy porozumienia paryskiego oraz na poziomie Unii prawdopodobnie coraz więcej państw członkow­
+skich będzie ustanawiać systemy oznakowania lub nałoży inne wymogi na uczestników rynku finansowego lub emi­
+tentów, dotyczące produktów finansowych lub obligacji korporacyjnych promowanych jako zrównoważone środo­
+wiskowo. W takich przypadkach państwa członkowskie stosowałyby własne krajowe systematyki klasyfikujące w 
+celu ustalenia, które inwestycje kwalifikują się jako zrównoważone. Jeśli te krajowe systemy oznakowania lub 
+wymogi używałyby różnych kryteriów do ustalenia, która działalność gospodarcza kwalifikuje się jako zrównowa­
+żona środowiskowo, inwestorzy byliby zniechęceni do inwestowania w innych państwach ze względu na trudności 
+w porównywaniu różnych możliwości inwestycyjnych. Ponadto podmioty gospodarcze, które chciałyby przyciągać 
+inwestycje z całej Unii, musiałyby spełniać różne kryteria w różnych państwach członkowskich, aby ich działalność 
+mogła zostać zakwalifikowana jako zrównoważona środowiskowo. Brak jednolitych kryteriów zwiększyłby zatem 
+koszty i stanowiłby istotny czynnik zniechęcający podmioty gospodarcze do dostępu do transgranicznych rynków 
+kapitałowych dla celów zrównoważonych inwestycji. 
+(12) 
+Należy na poziomie Unii zharmonizować kryteria stosowane podczas ustalania, czy dana działalność gospodarcza 
+kwalifikuje się jako zrównoważona środowiskowo, aby zlikwidować bariery w funkcjonowaniu rynku wewnętrz­
+nego pod względem pozyskiwania środków na projekty związane ze zrównoważonym rozwojem oraz zapobiec 
+pojawianiu się barier w stosunku do tych projektów. Dzięki takiej harmonizacji podmiotom gospodarczym łatwiej 
+byłoby pozyskiwać środki na swoją zrównoważoną środowiskowo działalność prowadzoną w innych państwach, 
+ponieważ w oparciu o jednolite kryteria możliwe byłoby porównywanie działalności gospodarczej poszczególnych 
+podmiotów w celu dokonania wyboru, która z tych działalności ma stać się aktywami bazowymi zrównoważonych 
+środowiskowo inwestycji. Taka harmonizacja ułatwiłaby zatem transgraniczne zrównoważone inwestycje w Unii. 
+(13)
+Jeżeli uczestnicy rynku finansowego nie wyjaśnią inwestorom, w jaki sposób działalność, w którą inwestorzy inwes­
+tują, przyczynia się do realizacji celów środowiskowych, lub jeśli uczestnicy rynku finansowego w swoich wyjaśnie­
+niach używają różnych pojęć w odniesieniu do tego, czym jest zrównoważona środowiskowo działalność gospodar­
+cza, sprawdzenie i porównanie różnych produktów finansowych będzie dla inwestorów nieproporcjonalnie 
+uciążliwe. Stwierdzono, że takie praktyki zniechęcają inwestorów do inwestowania w zrównoważone środowiskowo 
+produkty finansowe. Ponadto brak zaufania inwestorów ma istotny negatywny wpływ na rynek zrównoważonych 
+inwestycji. Wykazano również, że krajowe przepisy lub inicjatywy rynkowe mające na celu rozwiązanie tego prob­
+lemu na poziomie krajowym prowadzą do rozdrobnienia rynku wewnętrznego. Jeżeli uczestnicy rynku finanso­
+wego ujawnialiby, w jaki sposób i w jakim zakresie produkty finansowe udostępniane jako zrównoważone środo­
+wiskowo są inwestowane w działalność, która spełnia kryteria dotyczące zrównoważonej środowiskowo 
+działalności gospodarczej na podstawie niniejszego rozporządzenia, i jeśli uczestnicy rynku finansowego używaliby 
+do tego wspólnych kryteriów w całej Unii, pomogłoby to inwestorom w porównywaniu możliwości inwestycyjnych 
+w poszczególnych państwach oraz zachęciłoby to spółki, w których dokonano inwestycji, do przyjęcia bardziej 
+zrównoważonych środowiskowo modeli biznesowych. Inwestorzy inwestowaliby ponadto z większym przekona­
+niem w zrównoważone środowiskowo produkty finansowe w całej Unii, usprawniając tym samym funkcjonowanie 
+rynku wewnętrznego. 
+(14) 
+Aby zlikwidować istniejące przeszkody w funkcjonowaniu rynku wewnętrznego i zapobiec pojawianiu się takich 
+przeszkód w przyszłości, państwa członkowskie i Unia powinny mieć obowiązek stosowania wspólnego pojęcia 
+zrównoważonych środowiskowo inwestycji przy wprowadzaniu wymogów na poziomie krajowym i na poziomie 
+Unii dotyczących uczestników rynku finansowego lub emitentów do celów oznakowania produktów finansowych 
+lub obligacji korporacyjnych wprowadzanych do obrotu jako zrównoważone środowiskowo. Aby uniknąć rozdrob­
+nienia rynku oraz wyrządzenia szkód interesom konsumentów i inwestorów z powodu zróżnicowanych pojęć 
+zrównoważonej środowiskowo działalności gospodarczej, wymogi krajowe, które muszą spełniać uczestnicy rynku 
+finansowego lub emitenci, aby wprowadzać do obrotu produkty finansowe lub obligacje korporacyjne jako pro­
+dukty lub obligacje zrównoważone środowiskowo, należy oprzeć na jednolitych kryteriach dotyczących zrównowa­
+żonej środowiskowo działalności gospodarczej. Do takich uczestników rynku finansowego oraz emitentów należą 
+uczestnicy rynku finansowego udostępniający zrównoważone środowiskowo produkty finansowe oraz przedsię­
+biorstwa niefinansowe emitujące zrównoważone środowiskowo obligacje korporacyjne. 
+(15)
+Ustanowienie kryteriów dotyczących zrównoważonej środowiskowo działalności gospodarczej może zachęcić pod­
+mioty gospodarcze nieobjęte zakresem stosowania niniejszego rozporządzenia do dobrowolnego publikowania i 
+ujawniania na ich stronach internetowych informacji o prowadzonej przez nich zrównoważonej środowiskowo 
+działalności gospodarczej. Te informacje nie tylko pomogą uczestnikom rynku finansowego i innym odpowiednim 
+podmiotom na rynkach finansowych łatwo stwierdzić, które podmioty gospodarcze prowadzą zrównoważoną śro­
+dowiskowo działalność gospodarczą, ale również ułatwią tym podmiotom gospodarczym pozyskiwanie środków 
+na swoją zrównoważoną środowiskowo działalność. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/15   
+
+
+===== PAGE 4/31 =====
+
+(16)
+Klasyfikacja zrównoważonej środowiskowo działalności gospodarczej na poziomie Unii powinna umożliwić opra­
+cowanie przyszłych polityk unijnych wspierających zrównoważone finansowanie, w tym ogólnounijnych norm dla 
+zrównoważonych środowiskowo produktów finansowych, i w efekcie powinna umożliwić wprowadzenie oznako­
+wań formalnie stwierdzających zgodność z tymi normami w całej Unii. Może ona również stanowić podstawę 
+innych środków gospodarczych i regulacyjnych. Jednolite wymogi prawne określające stopień zrównoważenia śro­
+dowiskowego inwestycji, w oparciu o jednolite kryteria dotyczące zrównoważonej środowiskowo działalności gos­
+podarczej, są niezbędne jako punkt odniesienia dla przyszłego prawa Unii, którego celem jest ułatwianie przekiero­
+wywania inwestycji w stronę zrównoważonej środowiskowo działalności gospodarczej. 
+(17)
+W kontekście osiągania celów zrównoważonego rozwoju w Unii decyzje polityczne, na przykład utworzenie Euro­
+pejskiego Funduszu na rzecz Inwestycji Strategicznych, skutecznie przyczyniają się do przekierowywania inwestycji 
+sektora prywatnego – obok wydatków publicznych – w stronę zrównoważonych inwestycji. Rozporządzenie Parla­
+mentu Europejskiego i Rady (UE) 2015/1017 (5) przewiduje, że docelowy udział inwestycji związanych z klimatem 
+na rzecz projektów infrastrukturalnych i innowacyjnych w ramach Europejskiego Funduszu na rzecz Inwestycji Stra­
+tegicznych ma wynieść 40 %. Wspólne kryteria określające czy działalność gospodarcza kwalifikuje się jako zrówno­
+ważona, w tym jakie wywołuje skutki dla środowiska, mogą stanowić podstawę przyszłych podobnych inicjatyw 
+Unii mobilizujących inwestycje, które przyczyniają się do realizacji celów związanych z klimatem lub innych celów 
+środowiskowych. 
+(18)
+Aby uniknąć szkodzenia interesom inwestorów, zarządzający funduszami i inwestorzy instytucjonalni udostępnia­
+jący produkty finansowe powinni ujawniać, w jaki sposób i w jakim stopniu stosują oni kryteria dotyczące zrówno­
+ważonej środowiskowo działalności gospodarczej w celu ustalenia zrównoważenia środowiskowego ich inwestycji. 
+Dzięki ujawnionym informacjom inwestorzy powinni dysponować wiedzą na temat tego, jaki jest udział procen­
+towy inwestycji w ramach produktu finansowego w zrównoważoną środowiskowo działalność gospodarczą we 
+wszystkich inwestycjach w ramach tego produktu finansowego, co umożliwiłoby inwestorom pozyskanie wiedzy 
+co do stopnia zrównoważenia środowiskowego inwestycji. W przypadku gdy inwestycje w ramach produktu finan­
+sowego dokonywane są w działalność gospodarczą przyczyniającą się do celu środowiskowego, w ujawnianych 
+informacjach należy określić dany cel lub cele środowiskowe, do których przyczynia się inwestycja w ramach pro­
+duktu finansowego, a także w jaki sposób i w jakim stopniu inwestycje w ramach produktu finansowego finansują 
+zrównoważoną środowiskowo działalność gospodarczą, w tym szczegółowe informacje dotyczące odnośnych 
+odsetków działalności wspomagającej i działalności na rzecz przejścia. Komisja powinna określić, jakie informacje 
+należy w tym celu ujawniać. Takie informacje powinny umożliwiać właściwym organom krajowym łatwą weryfika­
+cję przestrzegania obowiązku ujawniania informacji oraz egzekwowanie takiego przestrzegania zgodnie z mającym 
+zastosowanie prawem krajowym. W przypadku gdy uczestnicy rynku finansowego nie biorą pod uwagę kryteriów 
+dotyczących zrównoważonych środowiskowo inwestycji powinni oni przedstawić stosowne oświadczenie. Aby 
+uniknąć obchodzenia obowiązku ujawniania informacji, obowiązek ten powinien mieć również zastosowanie w 
+przypadku, gdy produkty finansowe są wprowadzane do obrotu jako promujące aspekt środowiskowy, w tym jako 
+produkty finansowe, mające na celu ochronę środowiska w szerokim znaczeniu. 
+(19) 
+Obowiązek ujawniania informacji ustanowiony w niniejszym rozporządzeniu stanowi uzupełnienie przepisów 
+dotyczących ujawniania informacji związanych ze zrównoważonym rozwojem ustanowionych w rozporządzeniu 
+Parlamentu Europejskiego i Rady (UE) 2019/2088 (6). W celu zwiększenia przejrzystości i zapewnienia przez uczest­
+ników rynku finansowego obiektywnych porównań dla inwestorów końcowych w zakresie udziału procentowego 
+inwestycji finansujących zrównoważoną środowiskowo działalność gospodarczą, niniejsze rozporządzenie uzupeł­
+nia przepisy dotyczące przejrzystości w informacjach ujawnianych przed zawarciem umowy i w sprawozdaniach 
+okresowych, ustanowione w rozporządzeniu (UE) 2019/2088. Definicja „zrównoważonej inwestycji” zawarta w 
+rozporządzeniu (UE) 2019/2088 obejmuje inwestycje w działalność gospodarczą, która przyczynia się do realizacji 
+celu środowiskowego, które powinny obejmować między innymi inwestycje w „zrównoważoną środowiskowo dzia­
+łalność gospodarczą” w rozumieniu niniejszego rozporządzenia. Ponadto rozporządzenie (UE) 2019/2088 uznaje 
+inwestycję za zrównoważoną inwestycję, tylko wtedy, gdy nie wyrządza ona poważnej szkody któremukolwiek z 
+celów środowiskowych lub społecznych określonych w tym rozporządzeniu. 
+(5) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2015/1017 z dnia 25 czerwca 2015 r. w sprawie Europejskiego Funduszu na 
+rzecz Inwestycji Strategicznych, Europejskiego Centrum Doradztwa Inwestycyjnego i Europejskiego Portalu Projektów Inwestycyjnych 
+oraz zmieniającego rozporządzenia (UE) nr 1291/2013 i (UE) nr 1316/2013 – Europejski Fundusz na rzecz Inwestycji Strategicznych 
+(Dz.U. L 169 z 1.7.2015, s. 1). 
+(6) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji zwią-
+zanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz.U. L 317 z 9.12.2019, s. 1). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/16                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 5/31 =====
+
+(20) 
+Aby zapewnić wiarygodność, spójność i porównywalność informacji związanych ze zrównoważonym rozwojem 
+ujawnianych w sektorze usług finansowych, informacje ujawniane zgodnie z niniejszym rozporządzaniem powinny, 
+w miarę możliwości, korzystać z istniejących wskaźników zrównoważonego rozwoju, zgodnie propozycją Parla­
+mentu Europejskiego zawartą w rezolucji z dnia 29 maja 2018 r. w sprawie zrównoważonych finansów (7). W tym 
+kontekście techniczne kryteria kwalifikacji powinny być w miarę możliwości oparte na wskaźnikach zrównoważo-
+nego rozwoju, o których mowa w rozporządzeniu (UE) 2019/2088. 
+(21) 
+W odniesieniu do działalności gospodarczej prowadzonej przez przedsiębiorstwa, które nie są zobowiązane do 
+ujawniania informacji na mocy niniejszego rozporządzenia, można przewidzieć wyjątkowe sytuacje, w których 
+uczestnicy rynku finansowego nie będą mogli w racjonalny sposób uzyskać stosownych informacji, aby w sposób 
+wiarygodny stwierdzić zgodność z technicznymi kryteriami kwalifikacji ustanowionymi na podstawie niniejszego 
+rozporządzenia. W takich wyjątkowych przypadkach i tylko w odniesieniu do działalności gospodarczej, co do któ­
+rej nie można uzyskać pełnych, wiarygodnych i terminowych informacji, uczestnicy rynku finansowego powinni 
+mieć możliwość dokonywania uzupełniających ocen i szacunków na podstawie informacji z innych źródeł. Takie 
+oceny i szacunki należy stosować tylko w ograniczonym zakresie i tylko w odniesieniu do konkretnych części pożą­
+danych elementów danych, a ich rezultaty powinny mieć ostrożny charakter. W celu zapewnienia, aby ujawniane 
+inwestorom informacje były jasne i niewprowadzające w błąd, uczestnicy rynku finansowego powinni w zrozumiały 
+sposób wyjaśniać podstawy swoich wniosków a także powody, dla których musieli dokonywać takich uzupełniają­
+cych ocen i szacunków na potrzeby ujawniania informacji inwestorom końcowym. 
+(22)
+W swoim komunikacie z dnia 20 czerwca 2019 r. w sprawie „Wytycznych dotyczących sprawozdawczości w zakre-
+sie informacji niefinansowych: Suplement dotyczący zgłaszania informacji związanych z klimatem” Komisja, zaleca, 
+by niektóre duże przedsiębiorstwa przedstawiały niektóre kluczowe wskaźniki wyników związane z klimatem na 
+podstawie ram ustanowionych w niniejszym rozporządzeniu. W szczególności informacje o udziale procentowym 
+obrotu, nakładów inwestycyjnych (CapEx) lub wydatków operacyjnych (OpEx) takich dużych przedsiębiorstw niefi-
+nansowych, który jest związany ze zrównoważoną środowiskowo działalnością gospodarczą, a także o kluczowych 
+wskaźnikach wyników dostosowanych do potrzeb dużych przedsiębiorstw finansowych, są użyteczne dla inwesto-
+rów zainteresowanych przedsiębiorstwami, których produkty i usługi wnoszą istotny wkład w realizację dowolnego 
+z celów środowiskowych określonych w niniejszym rozporządzeniu. W związku z tym właściwe jest nałożenie na 
+takie duże przedsiębiorstwa wymogu corocznej publikacji takich kluczowych wskaźników wyników oraz dalsze 
+doprecyzowanie tego wymogu w aktach delegowanych, w szczególności w odniesieniu do dużych przedsiębiorstw 
+finansowych. Jakkolwiek objęcie tym wymogiem mniejszych przedsiębiorstw byłoby nieproporcjonalnie uciążliwe, 
+przedsiębiorstwa takie mogą jednak dobrowolnie podjąć decyzję o publikowaniu takich informacji. 
+(23)
+Należy sporządzić wyczerpującą listę celów środowiskowych na potrzeby ustalania, czy dana działalność gospodar­
+cza jest zrównoważona środowiskowo. Niniejsze rozporządzenie powinno obejmować następujących sześć celów 
+środowiskowych: łagodzenie zmian klimatu, adaptacja do zmian klimatu, zrównoważone wykorzystywanie i 
+ochrona zasobów wodnych i morskich, przejście na gospodarkę o obiegu zamkniętym, zapobieganie zanieczyszcze­
+niu i jego kontrola oraz ochrona i odbudowa bioróżnorodności i ekosystemów. 
+(24)
+Działalność gospodarcza, która prowadzi do realizacji celu środowiskowego polegającego na łagodzeniu zmian kli­
+matu, powinna wnosić istotny wkład w ustabilizowanie emisji gazów cieplarnianych poprzez niedopuszczanie do 
+powstania emisji, ograniczanie ich lub zwiększanie pochłaniania gazów cieplarnianych. Działalność ta powinna być 
+zgodna z długoterminowym celem dotyczącym temperatury określonym w porozumieniu paryskim. Ten cel środo­
+wiskowy należy interpretować zgodnie ze stosownym prawem Unii, w tym z dyrektywą Parlamentu Europejskiego i 
+Rady 2009/31/WE (8). 
+(25)
+Działalność gospodarcza, która prowadzi do realizacji celu środowiskowego polegającego na adaptacji do zmian kli­
+matu powinna wnosić istotny wkład w ograniczanie lub powstrzymywanie niekorzystnych skutków obecnych lub 
+oczekiwanych przyszłych warunków klimatycznych albo ryzyka związanego z takimi niekorzystnymi skutkami, 
+wywieranymi na samą działalność lub na ludzi, przyrodę lub aktywa. Ten cel środowiskowy należy interpretować 
+zgodnie ze stosownym prawem Unii oraz z ramami z Sendai dotyczącymi ograniczania ryzyka klęsk żywiołowych 
+w latach 2015–2030. 
+(7) Dz.U. C 76 z 9.3.2020, s. 23. 
+(8) Dyrektywa Parlamentu Europejskiego i Rady 2009/31/WE z dnia 23 kwietnia 2009 r. w sprawie geologicznego składowania dwu-
+tlenku węgla oraz zmieniająca dyrektywę Rady 85/337/EWG, Euratom, dyrektywy Parlamentu Europejskiego i Rady 2000/60/WE, 
+2001/80/WE, 2004/35/WE, 2006/12/WE, 2008/1/WE i rozporządzenie (WE) nr 1013/2006 (Dz.U. L 140 z 5.6.2009, s. 114). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/17   
+
+
+===== PAGE 6/31 =====
+
+(26) 
+Cel środowiskowy polegający na zrównoważonym wykorzystywaniu i ochronie zasobów wodnych i morskich 
+należy interpretować zgodnie ze stosownym prawem Unii, w tym z rozporządzeniem Parlamentu Europejskiego i 
+Rady (UE) nr 1380/2013 (9), dyrektywami Parlamentu Europejskiego i Rady 2000/60/WE (10), 2006/7/WE (11), 
+2006/118/WE (12), 2008/56/WE (13) i 2008/105/WE (14), dyrektywami Rady 91/271/EWG (15), 91/676/EWG (16) 
+i 98/83/WE (17), decyzją Komisji (UE) 2017/848 (18) oraz komunikatami Komisji z dnia 18 lipca 2007 r. pt. „Rozwią-
+zanie problemu dotyczącego niedoboru wody i susz w Unii Europejskiej”, z dnia 14 listopada 2012 r. pt. „Plan 
+ochrony zasobów wodnych Europy” i z dnia 11 marca 2019 r. pt. „Strategiczne podejście Unii Europejskiej do sub-
+stancji farmaceutycznych w środowisku”. 
+(27) 
+Cel środowiskowy polegający na przejściu na gospodarkę o obiegu zamkniętym należy interpretować zgodnie ze 
+stosownym prawem Unii w dziedzinach gospodarki o obiegu zamkniętym, odpadów i chemikaliów, w tym z rozpo­
+rządzeniami Parlamentu Europejskiego i Rady (WE) nr 1013/2006 (19), (WE) nr 1907/2006 (20) i (UE) 
+2019/1021 (21) dyrektywami Parlamentu Europejskiego i Rady 94/62/WE (22), 2000/53/WE (23), 2006/66/WE (24), 
+2008/98/WE (25), 2010/75/UE (26),2011/65/UE (27), 2012/19/UE (28), (UE) 2019/883 (29) i (UE) 2019/904 (30), dyrek­
+(9) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1380/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej polityki rybołów-
+stwa, zmieniające rozporządzenia Rady (WE) nr 1954/2003 i (WE) nr 1224/2009 oraz uchylające rozporządzenia Rady (WE) 
+nr 2371/2002 i (WE) nr 639/2004 oraz decyzję Rady 2004/585/WE (Dz.U. L 354 z 28.12.2013, s. 22). 
+(10) Dyrektywa 2000/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2000 r. ustanawiająca ramy wspólnotowego działa-
+nia w dziedzinie polityki wodnej (Dz.U. L 327 z 22.12.2000, s. 1). 
+(11) Dyrektywa 2006/7/WE Parlamentu Europejskiego i Rady z dnia 15 lutego 2006 r. dotycząca zarządzania jakością wody w kąpielis-
+kach i uchylająca dyrektywę 76/160/EWG (Dz.U. L 64 z 4.3.2006, s. 37). 
+(12) Dyrektywa 2006/118/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. w sprawie ochrony wód podziemnych przed 
+zanieczyszczeniem i pogorszeniem ich stanu (Dz.U. L 372 z 27.12.2006, s. 19). 
+(13) Dyrektywa Parlamentu Europejskiego i Rady 2008/56/WE z dnia 17 czerwca 2008 r. ustanawiająca ramy działań Wspólnoty w dzie-
+dzinie polityki środowiska morskiego (dyrektywa ramowa w sprawie strategii morskiej) (Dz.U. L 164 z 25.6.2008, s. 19). 
+(14) Dyrektywa Parlamentu Europejskiego i Rady 2008/105/WE z dnia 16 grudnia 2008 r. w sprawie środowiskowych norm jakości w 
+dziedzinie polityki wodnej, zmieniająca i w następstwie uchylająca dyrektywy Rady 82/176/EWG, 83/513/EWG, 84/156/EWG, 
+84/491/EWG i 86/280/EWG oraz zmieniająca dyrektywę 2000/60/WE Parlamentu Europejskiego i Rady (Dz.U. L 348 z 24.12.2008, 
+s. 84). 
+(15) Dyrektywa Rady 91/271/EWG z dnia 21 maja 1991 r. dotycząca oczyszczania ścieków komunalnych (Dz.U. L 135 z 30.5.1991, 
+s. 40). 
+(16) Dyrektywa Rady 91/676/EWG z dnia 12 grudnia 1991 r. dotycząca ochrony wód przed zanieczyszczeniami powodowanymi przez 
+azotany pochodzenia rolniczego (Dz.U. L 375 z 31.12.1991, s. 1). 
+(17) Dyrektywa Rady 98/83/WE z dnia 3 listopada 1998 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi (Dz.U. L 330 z 
+5.12.1998, s. 32). 
+(18) Decyzja Komisji (UE) 2017/848 z dnia 17 maja 2017 r. ustanawiająca kryteria i standardy metodologiczne dotyczące dobrego stanu 
+środowiska wód morskich oraz specyfikacje i ujednolicone metody monitorowania i oceny, oraz uchylająca decyzję 2010/477/UE 
+(Dz.U. L 125 z 18.5.2017, s. 43). 
+(19) Rozporządzenie (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpa-
+dów (Dz.U. L 190 z 12.7.2006, s. 1). 
+(20) Rozporządzenie (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udziela-
+nia zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmienia-
+jące dyrektywę 1999/45/WE oraz uchylające rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak 
+również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz.U. L 396 z 
+30.12.2006, s. 1). 
+(21) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1021 z dnia 20 czerwca 2019 r. dotyczące trwałych zanieczyszczeń 
+organicznych (Dz.U. L 169 z 25.6.2019, s. 45). 
+(22) Dyrektywa 94/62/WE Parlamentu Europejskiego i Rady z dnia 20 grudnia 1994 r. w sprawie opakowań i odpadów opakowaniowych 
+(Dz.U. L 365 z 31.12.1994, s. 10). 
+(23) Dyrektywa Parlamentu Europejskiego i Rady 2000/53/WE z dnia 18 września 2000 r. w sprawie pojazdów wycofanych z eksploatacji 
+(Dz.U. L 269 z 21.10.2000, s. 34). 
+(24) Dyrektywa 2006/66/WE Parlamentu Europejskiego i Rady z dnia 6 września 2006 r. w sprawie baterii i akumulatorów oraz zużytych 
+baterii i akumulatorów oraz uchylająca dyrektywę 91/157/EWG (Dz.U. L 266 z 26.9.2006, s. 1). 
+(25) Dyrektywa Parlamentu Europejskiego i Rady 2008/98/WE z dnia 19 listopada 2008 r. w sprawie odpadów oraz uchylająca niektóre 
+dyrektywy (Dz.U. L 312 z 22.11.2008, s. 3). 
+(26) Dyrektywa Parlamentu Europejskiego i Rady 2010/75/UE z dnia 24 listopada 2010 r. w sprawie emisji przemysłowych (zintegrowane 
+zapobieganie zanieczyszczeniom i ich kontrola) (Dz.U. L 334 z 17.12.2010, s. 17). 
+(27) Dyrektywa Parlamentu Europejskiego i Rady 2011/65/UE z dnia 8 czerwca 2011 r. w sprawie ograniczenia stosowania niektórych 
+niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym (Dz.U. L 174 z 1.7.2011, s. 88). 
+(28) Dyrektywa Parlamentu Europejskiego i Rady 2012/19/UE z dnia 4 lipca 2012 r. w sprawie zużytego sprzętu elektrycznego i elektro-
+nicznego (WEEE) (Dz.U. L 197 z 24.7.2012, s. 38). 
+(29) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/883 z dnia 17 kwietnia 2019 r. w sprawie portowych urządzeń do odbioru 
+odpadów ze statków, zmieniająca dyrektywę 2010/65/UE i uchylająca dyrektywę 2000/59/WE (Dz.U. L 151 z 7.6.2019, s. 116). 
+(30) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/904 z dnia 5 czerwca 2019 r. w sprawie zmniejszenia wpływu niektórych 
+produktów z tworzyw sztucznych na środowisko (Dz.U. L 155 z 12.6.2019, s. 1). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/18                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 7/31 =====
+
+tywą 
+Rady 
+1999/31/WE (31), 
+rozporządzeniem 
+Komisji 
+(UE) 
+nr 
+1357/2014 (32), 
+decyzjami 
+Komisji 
+2000/532/WE (33) i 2014/955/UE (34) oraz komunikatami Komisji z dnia 2 grudnia 2015 r. pt. „Zamknięcie obiegu 
+– plan działania UE dotyczący gospodarki o obiegu zamkniętym” i z dnia 16 stycznia 2018 r. pt. „Europejska strate-
+gia na rzecz tworzyw sztucznych w gospodarce o obiegu zamkniętym”. 
+(28) 
+Działalność gospodarcza może wnieść istotny wkład w realizację celu środowiskowego polegającego na przejściu na 
+gospodarkę o obiegu zamkniętym na wiele sposobów. Może ona na przykład zwiększać trwałość produktów, możli­
+wości ich naprawy i ulepszenia oraz ponowne użycie lub może zmniejszać zużycie zasobów poprzez odpowiednie 
+projektowanie i wybór materiałów, ułatwianie zmiany przeznaczenia oraz demontażu i rozbiórki w sektorze 
+budowlanym, w szczególności w celu ograniczenia zużycia i promowania powtórnego wykorzystania materiałów 
+budowlanych. Może ona także wnieść istotny wkład w realizację celu środowiskowego polegającego na przejściu na 
+gospodarkę o obiegu zamkniętym poprzez rozwijanie modeli biznesowych „produkt jako usługa” oraz łańcuchów 
+wartości opartych na obiegu zamkniętym, z myślą o zapewnieniu jak największej użyteczności i wartości produk­
+tów, komponentów i materiałów tak długo, jak to możliwe. Każde ograniczenie zawartości substancji niebezpiecz­
+nych w materiałach i produktach w całym cyklu życia, w tym poprzez zastąpienie ich bezpieczniejszymi alternaty­
+wami, powinno być co najmniej zgodne z prawem Unii. Działalność gospodarcza może wnieść istotny wkład w 
+realizację celu środowiskowego polegającego na przejściu na gospodarkę o obiegu zamkniętym również poprzez 
+zmniejszenie odpadów żywnościowych wytwarzanych podczas produkcji, przetwarzania lub dystrybucji żywności. 
+(29)
+Cel środowiskowy polegający na zapobieganiu zanieczyszczeniu i jego kontroli należy interpretować zgodnie ze sto­
+sownym prawem Unii, w tym z dyrektywami Parlamentu Europejskiego i Rady 2000/60/WE, 2004/35/WE (35), 
+2004/107/WE (36), 2006/118/WE, 2008/50/WE (37), 2008/105/WE, 2010/75/UE, (UE) 2016/802 (38) i (UE) 
+2016/2284 (39). 
+(30) 
+Cel środowiskowy polegający na ochronie i odbudowie bioróżnorodności i ekosystemów należy interpretować 
+zgodnie ze stosownym prawem Unii, w tym z rozporządzeniami Parlamentu Europejskiego i Rady (UE) 
+nr 995/2010 (40), (UE) nr 511/2014 (41) i (UE) nr 1143/2014 (42), dyrektywą Parlamentu Europejskiego i Rady 
+2009/147/WE (43), rozporządzeniem Rady (WE) nr 338/97 (44), dyrektywami Rady 91/676/EWG i 92/43/EWG (45) 
+oraz komunikatami Komisji z dnia 21 maja 2003 r. pt. „Egzekwowanie prawa, zarządzanie i handel w dziedzinie leś-
+(31) Dyrektywa Rady 1999/31/WE z dnia 26 kwietnia 1999 r. w sprawie składowania odpadów (Dz.U. L 182 z 16.7.1999, s. 1). 
+(32) Rozporządzenie Komisji (UE) nr 1357/2014 z dnia 18 grudnia 2014 r. zastępujące załącznik III do dyrektywy Parlamentu Europej-
+skiego i Rady 2008/98/WE w sprawie odpadów oraz uchylającej niektóre dyrektywy (Dz.U. L 365 z 19.12.2014, s. 89). 
+(33) Decyzja Komisji 2000/532/WE z dnia 3 maja 2000 r. zastępująca decyzję 94/3/WE ustanawiającą wykaz odpadów zgodnie z art. 1 
+lit. a) dyrektywy Rady 75/442/EWG w sprawie odpadów oraz decyzję Rady 94/904/WE ustanawiającą wykaz odpadów niebezpiecz-
+nych zgodnie z art. 1 ust. 4 dyrektywy Rady 91/689/EWG w sprawie odpadów niebezpiecznych (Dz.U. L 226 z 6.9.2000, s. 3). 
+(34) Decyzja Komisji 2014/955/UE z dnia 18 grudnia 2014 r. zmieniająca decyzję 2000/532/WE w sprawie wykazu zgodnie z dyrektywą 
+Parlamentu Europejskiego i Rady 2008/98/WE (Dz.U. L 370 z 30.12.2014, s. 44). 
+(35) Dyrektywa 2004/35/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie odpowiedzialności za środowisko w 
+odniesieniu do zapobiegania i zaradzania szkodom wyrządzonym środowisku naturalnemu (Dz.U. L 143 z 30.4.2004, s. 56). 
+(36) Dyrektywa 2004/107/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie arsenu, kadmu, rtęci, niklu i wielo-
+pierścieniowych węglowodorów aromatycznych w otaczającym powietrzu |(Dz.U. L 23 z 26.1.2005, s. 3). 
+(37) Dyrektywa Parlamentu Europejskiego i Rady 2008/50/WE z dnia 21 maja 2008 r. w sprawie jakości powietrza i czystszego powietrza 
+dla Europy (Dz.U. L 152 z 11.6.2008, s. 1). 
+(38) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/802 z dnia 11 maja 2016 r. odnosząca się do redukcji zawartości siarki w nie-
+których paliwach ciekłych (Dz.U. L 132 z 21.5.2016, s. 58). 
+(39) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2284 z dnia 14 grudnia 2016 r. w sprawie redukcji krajowych emisji niektó-
+rych rodzajów zanieczyszczeń atmosferycznych, zmieniająca dyrektywę 2003/35/WE oraz uchylająca dyrektywę 2001/81/WE (Dz. 
+U. L 344 z 17.12.2016, s. 1). 
+(40) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 995/2010 z dnia 20 października 2010 r. ustanawiające obowiązki pod-
+miotów wprowadzających do obrotu drewno i produkty z drewna (Dz.U. L 295 z 12.11.2010, s. 23). 
+(41) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 511/2014 z dnia 16 kwietnia 2014 r. w sprawie środków zapewniających 
+zgodność użytkowników w Unii z wymogami wynikającymi z Protokołu z Nagoi dotyczącego dostępu do zasobów genetycznych 
+oraz uczciwego i sprawiedliwego podziału korzyści wynikających z wykorzystania tych zasobów (Dz.U. L 150 z 20.5.2014, s. 59). 
+(42) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiega-
+wczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz.U. L 317 z 4.11.2014, 
+s. 35). 
+(43) Dyrektywa Parlamentu Europejskiego i Rady 2009/147/WE z dnia 30 listopada 2009 r. w sprawie ochrony dzikiego ptactwa (Dz.U. L 
+20 z 26.1.2010, s. 7). 
+(44) Rozporządzenie Rady (WE) nr 338/97 z dnia 9 grudnia 1996 r. w sprawie ochrony gatunków dzikiej fauny i flory w drodze regulacji 
+handlu nimi (Dz.U. L 61 z 3.3.1997, s. 1). 
+(45) Dyrektywa Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Dz.U. L 
+206 z 22.7.1992, s. 7). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/19   
+
+
+===== PAGE 8/31 =====
+
+nictwa (FLEGT)”, z dnia 3 maja 2011 r. pt. „Nasze ubezpieczenie na życie i nasz kapitał naturalny – unijna strategia 
+ochrony różnorodności biologicznej na okres do 2020 r.”, z dnia 6 maja 2013 r. pt. „Zielona infrastruktura — 
+zwiększanie kapitału naturalnego Europy”, z dnia 26 lutego 2016 r. pt. „Plan działania UE przeciwko nielegalnemu 
+handlowi dziką fauną i florą” i z dnia 23 lipca 2019 r. pt. „Zintensyfikowanie działań UE na rzecz ochrony i odtwa-
+rzania światowych lasów”. 
+(31) 
+Działalność gospodarcza może wnieść istotny wkład w realizację celu środowiskowego polegającego na ochronie i 
+odbudowie bioróżnorodności i ekosystemów na wiele sposobów, w tym poprzez ochronę, zachowanie lub odbu­
+dowę bioróżnorodności i ekosystemów, a tym samym poprzez rozwój usług ekosystemowych. Takie usługi dzielą 
+się na cztery kategorie: usługi zaopatrzeniowe, takie jak zaopatrzenie w żywność i wodę; usługi regulowania, takie 
+jak kontrola w zakresie klimatu i chorób; usługi wspierania, takie jak obiegi składników pokarmowych i produkcja 
+tlenu; oraz usługi kulturalne, takie jak zapewnianie korzyści duchowych i rekreacyjnych. 
+(32)
+Do celów niniejszego rozporządzenia pojęcie „zrównoważonej gospodarki leśnej” należy interpretować z uwzględ­
+nieniem praktyk i sposobów wykorzystywania lasów i gruntów leśnych, które przyczyniają się do zwiększenia bio­
+różnorodności lub do powstrzymania degradacji ekosystemów, wylesiania i utraty siedlisk lub do zapobiegania tym 
+procesom, z uwzględnieniem gospodarowania lasami i gruntami leśnymi i wykorzystywania ich w taki sposób i z 
+taką intensywnością, które pozwalają utrzymać ich bioróżnorodność, produktywność, potencjał regeneracyjny, 
+żywotność oraz potencjał w zakresie spełniania – obecnie, jak i w przyszłości – odpowiednich funkcji ekologicz­
+nych, gospodarczych i społecznych, na poziomie lokalnym, krajowym i globalnym, oraz które nie powodują szkód 
+w innych ekosystemach, zgodnie z rezolucją H1 przyjętą na drugiej konferencji ministerialnej w sprawie ochrony 
+lasów w Europie w dniach 16–17 czerwca 1993 r. w Helsinkach dotyczącą ogólnych wytycznych trwale zrównowa-
+żonego zagospodarowania lasów w Europie, z uwzględnieniem rozporządzeń Parlamentu Europejskiego i Rady (UE) 
+nr 995/2010 i (UE) 2018/841 (46), dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/2001 (47) oraz komuni-
+katu Komisji z dnia 20 września 2013 r. „Nowa strategia leśna UE na rzecz lasów i sektora leśno-drzewnego”. 
+(33) 
+Do celów niniejszego rozporządzenia pojęcie „efektywności energetycznej” należy stosować w szerokim rozumieniu 
+i interpretować z uwzględnieniem stosownego prawa Unii, w tym rozporządzenia Parlamentu Europejskiego i Rady 
+(UE) 2017/1369 (48) i dyrektyw Parlamentu Europejskiego i Rady (UE) 2012/27/UE (49) oraz (UE) 2018/844 (50), a 
+także środków wykonawczych przyjętych na mocy dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE (51). 
+(34)
+W odniesieniu do każdego celu środowiskowego należy określić jednolite kryteria pozwalające ustalić czy działal­
+ność gospodarcza wnosi istotny wkład w realizację danego celu. Jednym z elementów takich jednolitych kryteriów 
+powinno być unikanie poważnych szkód któremukolwiek z celów środowiskowych określonych w niniejszym roz­
+porządzeniu. Ma to na celu uniknięcie sytuacji, w której inwestycje kwalifikują się jako zrównoważone środowis­
+kowo w przypadkach, gdy działalność gospodarcza, która czerpie korzyści z tych inwestycji, wyrządza środowisku 
+szkody w zakresie przekraczającym jej wkład w realizację celu środowiskowego. Takie kryteria powinny uwzględ­
+niać cykl życia produktów dostarczanych i usług świadczonych w ramach tej działalności gospodarczej obok skut­
+ków samej działalności gospodarczej dla środowiska, w tym dane pochodzące z istniejących ocen cyklu życia, ze 
+szczególnym naciskiem na ich wytwarzanie, użytkowanie i zakończenie cyklu życia 
+(46) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/841 z dnia 30 maja 2018 r. w sprawie włączenia emisji i pochłaniania 
+gazów cieplarnianych w wyniku działalności związanej z użytkowaniem gruntów, zmianą użytkowania gruntów i leśnictwem do ram 
+polityki klimatyczno-energetycznej do roku 2030 i zmieniające rozporządzenie (UE) nr 525/2013 oraz decyzję nr 529/2013/UE (Dz. 
+U. L 156 z 19.6.2018, s. 1). 
+(47) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2018/2001 z dnia 11 grudnia 2018 r. w sprawie promowania stosowania energii ze 
+źródeł odnawialnych (Dz.U. L 328 z 21.12.2018, s. 82). 
+(48) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiające ramy etykietowania energe-
+tycznego i uchylające dyrektywę 2010/30/UE (Dz.U. L 198 z 28.7.2017, s. 1). 
+(49) Dyrektywa Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, 
+zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz.U. L 315 z 14.11.2012, s. 1). 
+(50) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2018/844 z dnia 30 maja 2018 r. zmieniająca dyrektywę 2010/31/UE w sprawie cha-
+rakterystyki energetycznej budynków i dyrektywę 2012/27/UE w sprawie efektywności energetycznej (Dz.U. L 156 z 19.6.2018, s. 75). 
+(51) Dyrektywa Parlamentu Europejskiego i Rady 2009/125/WE z dnia 21 października 2009 r. ustanawiająca ogólne zasady ustalania 
+wymogów dotyczących ekoprojektu dla produktów związanych z energią (Dz.U. L 285 z 31.10.2009, s. 10). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/20                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 9/31 =====
+
+(35)
+Przypominając wspólne zobowiązanie Parlamentu Europejskiego, Rady i Komisji dotyczące realizacji zasad zapisa­
+nych w Europejskim filarze praw socjalnych w celu wsparcia zrównoważonego wzrostu gospodarczego sprzyjają­
+cego włączeniu społecznemu oraz uznając znaczenie międzynarodowych minimalnych norm w zakresie praw czło­
+wieka i praw pracowniczych, należy zapewnić, aby jednym z warunków kwalifikowania działalności gospodarczej 
+jako zrównoważonej środowiskowo było przestrzeganie minimalnych gwarancji. Z tego powodu działalność gospo­
+darcza powinna kwalifikować się jako zrównoważona środowiskowo tylko wówczas, gdy prowadzona jest zgodnie z 
+Wytycznymi OECD dla przedsiębiorstw wielonarodowych i Wytycznymi ONZ dotyczącymi biznesu i praw czło­
+wieka, w tym Deklaracją Międzynarodowej Organizacji Pracy (MOP) dotyczącą podstawowych zasad i praw w 
+pracy, ośmioma podstawowymi konwencjami MOP i Międzynarodową kartą praw człowieka. W podstawowych 
+konwencjach MOP określono prawa człowieka i prawa pracownicze, których przedsiębiorstwa powinny przestrze­
+gać. Szereg tych międzynarodowych norm, w szczególności zakaz niewolnictwa i pracy przymusowej oraz zasada 
+niedyskryminacji, jest także zapisanych w Karcie praw podstawowych Unii Europejskiej. Te minimalne gwarancje 
+nie wykluczają stosowania – w odpowiednich przypadkach – surowszych wymogów dotyczących środowiska, zdro­
+wia, bezpieczeństwa oraz zrównoważonego rozwoju społecznego określonych w prawie Unii. Przestrzegając tych 
+minimalnych gwarancji, przedsiębiorstwa powinny stosować się do zasady „nie czyń poważnych szkód” określonej 
+w rozporządzeniu (UE) 2019/2088 oraz uwzględniać regulacyjne standardy techniczne przyjęte na podstawie tego 
+rozporządzenia, które doprecyzowują tę zasadę. 
+(36)
+Aby zapewnić spójność między niniejszym rozporządzeniem a rozporządzeniem (UE) 2019/2088, niniejsze rozpo­
+rządzenie powinno zmienić rozporządzenie (UE) 2019/2088 w celu upoważnienia Europejskich Urzędów Nadzoru, 
+ustanowionych na mocy rozporządzeń Parlamentu Europejskiego i Rady (UE) nr 1093/2010 (52), (UE) 
+nr 1094/2010 (53) i (UE) nr 1095/2010 (54) (łącznie zwanych „Europejskimi Urzędami Nadzoru”) do wspólnego 
+opracowania regulacyjnych standardów technicznych służących doprecyzowaniu szczegółów treści i prezentacji 
+informacji w odniesieniu do zasady „nie czyń poważnych szkód”. Te regulacyjne standardy techniczne powinny być 
+spójne z treścią, metodami i sposobem prezentacji wskaźników zrównoważonego rozwoju w odniesieniu do nieko­
+rzystnych skutków, o czym mowa w rozporządzeniu (UE) 2019/2088. Powinny one być również zgodne z zasadami 
+zapisanymi w Europejskim filarze praw socjalnych, Wytycznych OECD dla przedsiębiorstw wielonarodowych, 
+Wytycznych ONZ dotyczących biznesu i praw człowieka, w tym Deklaracji MOP dotyczącej podstawowych zasad i 
+praw w pracy, ośmiu podstawowych konwencjach MOP i Międzynarodowej karcie praw człowieka. 
+(37)
+Należy dodatkowo zmienić rozporządzenie (UE) 2019/2088 aby upoważnić Europejskie Urzędy Nadzoru do opra­
+cowania, za pośrednictwem Wspólnego Komitetu, projektów regulacyjnych standardów technicznych w celu uzu­
+pełnienia przepisów dotyczących przejrzystości promowania aspektów środowiskowych i zrównoważonych środo­
+wiskowo inwestycji w informacjach ujawnianych przed zawarciem umowy i sprawozdaniach okresowych. 
+(38)
+Biorąc pod uwagę konkretne szczegóły techniczne, które są niezbędne do oceny skutków danej działalności gospo­
+darczej dla środowiska, oraz szybko zmieniający się charakter zarówno nauki, jak i techniki, należy regularnie dosto­
+sowywać kryteria dotyczące zrównoważonej środowiskowo działalności gospodarczej, by odzwierciedlały one te 
+zmiany. Aby kryteria były aktualne oraz opierały się na dowodach naukowych i informacjach przekazywanych 
+przez ekspertów i przez właściwe zainteresowane strony, warunki dotyczące „istotnego wkładu” i „poważnych 
+szkód” powinny być określane bardziej szczegółowo dla różnych rodzajów działalności gospodarczej i podlegać 
+regularnej aktualizacji. W tym celu Komisja powinna ustanowić szczegółowe i odpowiednio dostosowane tech­
+niczne kryteria kwalifikacji dotyczące różnych rodzajów działalności gospodarczej na podstawie informacji tech­
+nicznych przekazanych w ramach wielostronnej platformy ds. zrównoważonego finansowania. 
+(39) 
+Niektóre rodzaje działalności gospodarczej mają negatywne skutki dla środowiska, w związku z czym istotny wkład 
+w realizację co najmniej jednego celu środowiskowego można zapewnić poprzez ograniczenie tych negatywnych 
+skutków. W odniesieniu do takich rodzajów działalności gospodarczej należy ustanowić techniczne kryteria kwalifi­
+kacji, które wymagałyby, aby uzyskiwano dużo lepsze wyniki środowiskowe w porównaniu do, między innymi, 
+(52) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europej-
+skiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komi-
+sji 2009/78/WE (Dz.U. L 331 z 15.12.2010, s. 12). 
+(53) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europej-
+skiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych), zmiany decyzji 
+nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz.U. L 331 z 15.12.2010, s. 48). 
+(54) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1095/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europej-
+skiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych), zmiany decyzji nr 716/2009/WE i uchyle-
+nia decyzji Komisji 2009/77/WE (Dz.U. L 331 z 15.12.2010, s. 84). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/21   
+
+
+===== PAGE 10/31 =====
+
+średniej branżowej, przy jednoczesnym unikaniu szkodliwych dla środowiska efektów uzależnienia (lock-in), w tym 
+efektów polegających na uzależnieniu od wysokoemisyjności podczas ekonomicznego cyklu życia finansowanej 
+działalności gospodarczej. Kryteria te powinny również uwzględniać długoterminowe skutki konkretnej działalności 
+gospodarczej. 
+(40)
+Nie powinno się kwalifikować działalności gospodarczej jako zrównoważonej środowiskowo, jeśli przynosi ona wię­
+cej szkód niż korzyści dla środowiska. W technicznych kryteriach kwalifikacji należy wskazać minimalne wymogi 
+niezbędne do uniknięcia poważnych szkód dla innych celów, w tym opierając się na wszelkich minimalnych wymo­
+gach ustanowionych na mocy prawa Unii. Podczas ustanawiania i aktualizacji technicznych kryteriów kwalifikacji 
+Komisja powinna zapewnić, aby kryteria te opierały się na dostępnych dowodach naukowych, zostały opracowane 
+z uwzględnieniem aspektów związanych z cyklem życia, w tym istniejących ocen cyklu życia, i były regularnie aktu­
+alizowane. W przypadku gdy ocena naukowa nie pozwala na określenie ryzyka z dostateczną pewnością, zastosowa­
+nie, zgodnie z art. 191 TFUE, powinna mieć zasada ostrożności. 
+(41) 
+Ustanawiając i aktualizując techniczne kryteria kwalifikacji w odniesieniu do celu środowiskowego dotyczącego 
+łagodzenia zmian klimatu, Komisja powinna uwzględniać bieżący i konieczny proces przejścia do gospodarki neu­
+tralnej dla klimatu, a także wprowadzić stosowne zachęty w tym celu, zgodnie z art. 10 ust. 2 niniejszego rozporzą­
+dzenia. Przejście to wymaga – obok wykorzystania energii neutralnej dla klimatu oraz zwiększenia inwestycji w 
+rodzaje działalności gospodarczej i sektory gospodarki, które już teraz są niskoemisyjne – znacznego ograniczenia 
+emisji gazów cieplarnianych pochodzących z innych rodzajów działalności gospodarczej i sektorów, dla których nie 
+istnieją alternatywne niskoemisyjne rozwiązania, które byłyby wykonalne pod względem technologicznym i ekono­
+micznym. Te przejściowe rodzaje działalności gospodarczej powinny kwalifikować się jako wnoszące istotny wkład 
+w łagodzenie zmian klimatu, jeżeli pochodzące z nich emisje gazów cieplarnianych są znacznie niższe od średniej 
+sektorowej lub branżowej, nie utrudniają rozwoju i wprowadzania alternatywnych niskoemisyjnych rozwiązań oraz 
+nie prowadzą do uzależnienia od aktywów niezgodnych z celem neutralności klimatycznej, z uwzględnieniem eko­
+nomicznego cyklu życia tych aktywów. Techniczne kryteria kwalifikacji dotyczące takich przejściowych rodzajów 
+działalności gospodarczej powinny zapewnić, by te przejściowe rodzaje działalności miały wiarygodną ścieżkę 
+osiągnięcia neutralności klimatycznej, oraz powinny być odpowiednio dostosowywane w regularnych odstępach 
+czasu. 
+(42)
+Dana działalność gospodarcza powinna kwalifikować się jako wnosząca istotny wkład w realizację co najmniej jed­
+nego z celów środowiskowych określonych w niniejszym rozporządzeniu, jeżeli bezpośrednio umożliwia innym 
+rodzajom działalności wnoszenie istotnego wkładu w realizację co najmniej jednego z tych celów. Taka działalność 
+wspomagająca nie powinna prowadzić do uzależnienia od aktywów podważających długoterminowe cele środowis­
+kowe, z uwzględnieniem ekonomicznego cyklu życia tych aktywów, oraz powinna mieć istotne pozytywne skutki 
+dla środowiska na podstawie względów związanych z cyklem życia. 
+(43) 
+Podczas ustanawiania i aktualizacji technicznych kryteriów kwalifikacji Komisja powinna uwzględniać stosowne 
+prawo Unii, w tym rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1221/2009 (55) i (WE) 
+nr 66/2010 (56), a także zalecenie Komisji 2013/179/UE (57) i komunikat Komisji z dnia 16 lipca 2018 r. pt. „Zamó-
+wienia publiczne na rzecz poprawy stanu środowiska”. Aby uniknąć niepotrzebnych niespójności z klasyfikacjami 
+działalności gospodarczej obowiązującymi już do innych celów, Komisja powinna również uwzględniać klasyfikacje 
+statystyczne dotyczące sektora towarów i usług środowiskowych, a mianowicie klasyfikację działalności związanych 
+z ochroną środowiska (CEPA) oraz klasyfikację działalności związanych z gospodarką zasobami (CReMA) rozporzą-
+dzenia Parlamentu Europejskiego i Rady (UE) nr 538/2014 (58). Podczas ustanawiania i aktualizacji technicznych 
+kryteriów kwalifikacji Komisja powinna uwzględniać istniejące wskaźniki środowiskowe i ramy sprawozdawczości, 
+opracowane m.in. przez Komisję i Europejską Agencję Środowiska, oraz standardy międzynarodowe, takie jak stan-
+dardy opracowane m.in. przez OECD. 
+(55) Rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1221/2009 z dnia 25 listopada 2009 r. w sprawie dobrowolnego udziału 
+organizacji w systemie ekozarządzania i audytu we Wspólnocie (EMAS), uchylające rozporządzenie (WE) nr 761/2001 oraz decyzje 
+Komisji 2001/681/WE i 2006/193/WE (Dz.U. L 342 z 22.12.2009, s. 1). 
+(56) Rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 66/2010 z dnia 25 listopada 2009 r. w sprawie oznakowania ekologicz-
+nego UE (Dz.U. L 27 z 30.1.2010, s. 1). 
+(57) Zalecenie Komisji 2013/179/UE z dnia 9 kwietnia 2013 r. w sprawie stosowania wspólnych metod pomiaru efektywności środowis-
+kowej w cyklu życia produktów i organizacji oraz informowania o niej (Dz.U. L 124 z 4.5.2013, s. 1). 
+(58) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 538/2014 z dnia 16 kwietnia 2014 r. zmieniające rozporządzenie (UE) 
+nr 691/2011 w sprawie europejskich rachunków ekonomicznych środowiska (Dz.U. L 158 z 27.5.2014, s. 113). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/22                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 11/31 =====
+
+(44)
+Podczas ustanawiania i aktualizacji technicznych kryteriów kwalifikacji Komisja powinna uwzględniać również spe­
+cyfikę sektora infrastruktury oraz powinna uwzględniać środowiskowe, społeczne i gospodarcze efekty zewnętrzne 
+w ramach analizy kosztów i korzyści. W tym względzie Komisja powinna wziąć pod uwagę stosowne prawo Unii, 
+w tym dyrektywy Parlamentu Europejskiego i Rady 2001/42/WE (59), 2011/92/UE (60), 2014/23/UE (61), 
+2014/24/UE (62) i2014/25/UE (63), normy i aktualną metodologię, jak również prace prowadzone przez organizacje 
+międzynarodowe, takie jak OECD. W tym kontekście techniczne kryteria kwalifikacji powinny promować odpo­
+wiednie ramy zarządzania uwzględniające czynniki środowiskowe, społeczne i związane z zarządzaniem, o których 
+mowa w popieranych przez ONZ zasadach odpowiedzialnego inwestowania, na wszystkich etapach cyklu życia pro­
+jektu. 
+(45)
+Techniczne kryteria kwalifikacji powinny zapewniać, by odpowiednie rodzaje działalności gospodarczej prowadzo­
+nej w danym sektorze można było zakwalifikować jako zrównoważone środowiskowo i by były one traktowane jed­
+nakowo, jeśli w równym stopniu przyczyniają się do realizacji co najmniej jednego celu środowiskowego określo­
+nego w niniejszym rozporządzeniu. Potencjalne możliwości przyczynienia się do realizacji tych celów 
+środowiskowych mogą różnić się między sektorami, co powinno zostać odzwierciedlone w tych kryteriach. Nie­
+mniej jednak – w ramach każdego sektora – kryteria te nie powinny powodować sytuacji, w której określone rodzaje 
+działalności gospodarczej będą traktowane gorzej niż inne rodzaje działalności gospodarczej, jeśli jedne i drugie w 
+takim samym stopniu przyczyniają się do realizacji celów środowiskowych. 
+(46) 
+Podczas ustanawiania i aktualizacji technicznych kryteriów dotyczących kwalifikacji zrównoważonej środowiskowo 
+działalności Komisja powinna ocenić, czy ustanowienie tych kryteriów spowodowałoby powstanie aktywów osiero­
+conych lub oferowanie niespójnych zachęt lub czy miałoby jakiekolwiek inne niekorzystne skutki dla rynków finan­
+sowych. 
+(47) 
+Aby uniknąć ponoszenia przez podmioty gospodarcze nadmiernych kosztów przestrzegania przepisów, Komisja 
+powinna ustanowić takie techniczne kryteria kwalifikacji, które zapewniają dostateczną jasność prawa, są możliwe 
+do zrealizowania, łatwe w stosowaniu, a ich przestrzeganie można zweryfikować w rozsądnych granicach koszto­
+wych, unikając w ten sposób zbędnych obciążeń administracyjnych. Techniczne kryteria kwalifikacji mogą wymagać 
+przeprowadzenia oceny cyklu życia, o ile jest to w dostatecznym stopniu możliwe do wykonania i potrzebne. 
+(48)
+W celu zapewnienia przekierowania inwestycji w stronę działalności gospodarczej, która wywiera największy pozy­
+tywny wpływ na realizację celów środowiskowych, Komisja powinna priorytetowo potraktować ustanowienie tech­
+nicznych kryteriów kwalifikacji dotyczących tych rodzajów działalności gospodarczej, które potencjalnie najbardziej 
+przyczyniają się do realizacji celów środowiskowych. 
+(49) 
+Należy ustanowić odpowiednie techniczne kryteria kwalifikacji dla sektora transportowego, w tym dla aktywów 
+ruchomych. Te kryteria kwalifikacji powinny uwzględnić fakt, że sektor transportowy, w tym przewozy międzynaro­
+dowe, generuje blisko 26 % łącznych emisji gazów cieplarnianych w Unii. Jak wykazano w planie działania w spra­
+wie finansowania zrównoważonego wzrostu gospodarczego, udział sektora transportowego w dodatkowych rocz­
+nych potrzebach inwestycyjnych w zakresie zrównoważonego rozwoju w Unii wynosi 30 %, na przykład w celu 
+zwiększenia elektryfikacji lub wsparcia w przejściu na czystsze rodzaje transportu poprzez promowanie przesunię­
+cia międzygałęziowego i lepszego zarządzania ruchem. 
+(50) 
+Szczególnie ważne jest, aby w trakcie opracowywania technicznych kryteriów kwalifikacji Komisja prowadziła 
+odpowiednie konsultacje, zgodnie z Programem lepszego stanowienia prawa. W proces ustanawiania i aktualizacji 
+technicznych kryteriów kwalifikacji powinny być zaangażowane właściwe zainteresowane strony i powinien się on 
+opierać się doradztwie ekspertów mających sprawdzoną wiedzę i doświadczenie w przedmiotowych obszarach. W 
+tym celu Komisja powinna utworzyć Platformę ds. zrównoważonego finansowania (zwaną dalej „platformą”). Plat­
+forma ta powinna składać się z ekspertów reprezentujących zarówno sektor publiczny, jak i prywatny. Wśród eks­
+pertów sektora publicznego powinni znaleźć się przedstawiciele Europejskiej Agencji Środowiska, Europejskich 
+(59) Dyrektywa 2001/42/WE Parlamentu Europejskiego i Rady z dnia 27 czerwca 2001 r. w sprawie oceny wpływu niektórych planów i 
+programów na środowisko (Dz.U. L 197 z 21.7.2001, s. 30). 
+(60) Dyrektywa Parlamentu Europejskiego i Rady 2011/92/UE z dnia 13 grudnia 2011 r. w sprawie oceny skutków wywieranych przez 
+niektóre przedsięwzięcia publiczne i prywatne na środowisko (Dz.U. L 26 z 28.1.2012, s. 1). 
+(61) Dyrektywa Parlamentu Europejskiego i Rady 2014/23/UE z dnia 26 lutego 2014 r. w sprawie udzielania koncesji (Dz.U. L 94 z 
+28.3.2014, s. 1). 
+(62) Dyrektywa Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylająca 
+dyrektywę 2004/18/WE (Dz.U. L 94 z 28.3.2014, s. 65). 
+(63) Dyrektywa Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty 
+działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylająca dyrektywę 2004/17/WE (Dz.U. L 
+94 z 28.3.2014, s. 243). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/23   
+
+
+===== PAGE 12/31 =====
+
+Urzędów Nadzoru, Europejskiego Banku Inwestycyjnego oraz Agencji Praw Podstawowych Unii Europejskiej. Wśród 
+ekspertów z sektora prywatnego powinni być przedstawiciele uczestników rynków finansowych i niefinansowych 
+oraz sektorów działalności gospodarczej, reprezentujący odpowiednie gałęzie przemysłu, a także eksperci posiada­
+jący wiedzę specjalistyczną w dziedzinie rachunkowości i sprawozdawczości. Uczestnikami platformy powinni być 
+również eksperci reprezentujący społeczeństwo obywatelskie, w tym eksperci posiadający wiedzę specjalistyczną w 
+dziedzinie środowiska, spraw społecznych, pracowniczych i zarządzania. Uczestników rynku finansowego należy 
+zachęcać, aby informowali Komisję w przypadku, gdy ich zdaniem daną działalność gospodarczą, która nie spełnia 
+technicznych kryteriów kwalifikacji lub wobec której takich kryteriów dotychczas nie ustanowiono, należy zakwali­
+fikować jako zrównoważoną środowiskowo celem ułatwienia Komisji dokonania oceny zasadności uzupełnienia lub 
+aktualizacji technicznych kryteriów kwalifikacji. 
+(51) 
+Platforma powinna zostać ustanowiona zgodnie z mającymi zastosowanie przepisami horyzontalnymi dotyczącymi 
+tworzenia i funkcjonowania grup ekspertów Komisji, w tym w odniesieniu do procesu wyboru. Proces wyboru 
+powinien mieć na celu zapewnienie wysokiego poziomu wiedzy specjalistycznej, równowagi geograficznej i równo­
+wagi płci, jak również wyważonej reprezentacji odpowiedniej wiedzy fachowej, z uwzględnieniem poszczególnych 
+zadań platformy. Podczas procesu wyboru Komisja powinna przeprowadzić ocenę zgodnie z przepisami horyzon­
+talnymi w celu ustalenia, czy istnieją potencjalne konflikty interesów i powinna podjąć stosowne działania w celu 
+zaradzenia wszelkim takim konfliktom. 
+(52)
+Platforma powinna doradzać Komisji w sprawie opracowywania, analizy i przeglądu technicznych kryteriów kwalifi­
+kacji, w tym potencjalnego wpływu takich kryteriów na wycenę tych aktywów, które kwalifikują się jako aktywa 
+zrównoważone środowiskowo na podstawie istniejących praktyk rynkowych. Platforma powinna również doradzać 
+Komisji w sprawie tego, czy techniczne kryteria kwalifikacji nadają się do zastosowania w ramach przyszłych inicja­
+tyw politycznych Unii ukierunkowanych na ułatwianie zrównoważonych inwestycji, oraz w sprawie ewentualnej roli 
+standardów rachunkowości i sprawozdawczości dotyczącej zrównoważonego rozwoju we wspieraniu stosowania 
+technicznych kryteriów kwalifikacji. Platforma powinna doradzać Komisji w sprawie opracowywania dalszych środ­
+ków służących poprawie dostępności i jakości danych, z uwzględnieniem celu, jakim jest uniknięcie nadmiernych 
+obciążeń administracyjnych, w sprawie uwzględniania innych celów dotyczących zrównoważonego rozwoju, w 
+tym celów społecznych, oraz w sprawie funkcjonowania minimalnych gwarancji i ewentualnej potrzeby ich uzupeł­
+nienia. 
+(53)
+Komisja powinna zadbać o kontynuację prac istniejącej grupy ekspertów z państw członkowskich ds. zrównoważo­
+nego finansowania i o nadanie jej formalnego statusu. Zadania tej grupy ekspertów będą polegać m.in. na doradza­
+niu Komisji co do oceny adekwatności technicznych kryteriów kwalifikacji i podejścia przyjmowanego przez plat­
+formę względem opracowywania tych kryteriów. Do tego celu Komisja powinna przekazywać państwom 
+członkowskim informacje na regularnych posiedzeniach grupy ekspertów z państw członkowskich ds. zrównowa­
+żonego finansowania. 
+(54)
+W celu sprecyzowania wymogów ustanowionych w niniejszym rozporządzeniu, a w szczególności w celu ustano­
+wienia i aktualizacji dla różnych rodzajów działalności gospodarczej szczegółowych i odpowiednio dostosowanych 
+technicznych kryteriów kwalifikacji, pozwalających ustalić, co stanowi „istotny wkład” w realizację celów środowis­
+kowych oraz „poważną szkodę” dla tych celów, należy przekazać Komisji uprawnienia do przyjmowania aktów 
+zgodnie z art. 290 TFUE w odniesieniu do informacji wymaganych w celu spełnienia obowiązków ujawniania infor­
+macji zgodnie z niniejszym rozporządzeniem, oraz w odniesieniu do technicznych kryteriów kwalifikacji. Szczegól­
+nie ważne jest, aby w czasie prac przygotowawczych Komisja prowadziła stosowne konsultacje, w tym na poziomie 
+ekspertów, np. za pośrednictwem platformy oraz grupy ekspertów z państw członkowskich ds. zrównoważonego 
+finansowania, oraz aby konsultacje te prowadzone były zgodnie z zasadami określonymi w Porozumieniu międzyin­
+stytucjonalnym z dnia 13 kwietnia 2016 r. w sprawie lepszego stanowienia prawa (64). W szczególności, aby zapew-
+nić Parlamentowi Europejskiemu i Radzie udział na równych zasadach w przygotowaniu aktów delegowanych, 
+instytucje te otrzymują wszelkie dokumenty w tym samym czasie co eksperci państw członkowskich, a eksperci 
+tych instytucji mogą systematycznie brać udział w posiedzeniach grup eksperckich Komisji zajmujących się przygo-
+towaniem aktów delegowanych. 
+(64) Dz.U. L 123 z 12.5.2016, s. 1. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/24                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 13/31 =====
+
+(55) 
+Niniejsze rozporządzenie stanowi uzupełnienie wymogów dotyczących ujawniania informacji ustanowionych w 
+rozporządzeniu (UE) 2019/2088. Aby zapewnić uporządkowane i skuteczne monitorowanie przestrzegania przez 
+uczestników rynku finansowego przepisów niniejszego rozporządzenia, państwa członkowskie powinny polegać 
+na właściwych organach wyznaczonych zgodnie z rozporządzeniem (UE) 2019/2088. W celu wyegzekwowania 
+przestrzegania przepisów państwa członkowskie powinny dodatkowo ustanowić przepisy dotyczące środków i 
+sankcji, które powinny być skuteczne, proporcjonalne i odstraszające. Właściwe organy krajowe i Europejskie 
+Urzędy Nadzoru powinny wykonywać uprawnienia do interwencji produktowej ustanowione w rozporządzeniach 
+Parlamentu Europejskiego i Rady (UE) nr 600/2014 (65), (UE) nr 1286/2014 (66) i (UE) 2019/1238 (67) również w 
+odniesieniu do praktyk w zakresie niewłaściwej sprzedaży lub wprowadzającego w błąd ujawniania informacji zwią­
+zanych ze zrównoważonym rozwojem, w tym informacji wymaganych na mocy niniejszego rozporządzenia. 
+(56) 
+Aby zapewnić sprawną i trwałą organizację prac i spotkań w odniesieniu do zarówno do platformy, jak i do grupy 
+ekspertów z państw członkowskich ds. zrównoważonego finansowania, a także aby umożliwić szerokie uczestnic­
+two i skuteczną interakcję w ramach grup, ich podgrup, Komisji i zainteresowanych stron, należy rozważyć zwięk­
+szone zastosowanie, w odpowiednich przypadkach, technologii cyfrowych, w tym wirtualnych. 
+(57)
+Aby zapewnić właściwym podmiotom dostateczną ilość czasu na zapoznanie się z kryteriami kwalifikacji dotyczą­
+cymi zrównoważonej środowiskowo działalności gospodarczej określonymi w niniejszym rozporządzeniu oraz na 
+przygotowanie się do ich stosowania, obowiązki przewidziane w niniejszym rozporządzeniu, powinny zacząć obo­
+wiązywać – w odniesieniu do poszczególnych celów środowiskowych – dwanaście miesięcy po ustanowieniu sto­
+sownych technicznych kryteriów kwalifikacji. 
+(58)
+Przepis niniejszego rozporządzenia odnoszący się do systemów zachęt podatkowych opartych na certyfikatach, ist­
+niejących przed wejściem w życie niniejszego rozporządzenia, pozostaje bez uszczerbku dla odpowiednich kompe­
+tencji Unii i państw członkowskich w odniesieniu do przepisów podatkowych, jak przewidziano w Traktatach. 
+(59) 
+Stosowanie niniejszego rozporządzenia powinno być regularnie poddawane przeglądowi w celu dokonania oceny 
+między innymi: postępów w odniesieniu do opracowywania technicznych kryteriów kwalifikacji dotyczących zrów­
+noważonej środowiskowo działalności gospodarczej; ewentualnej konieczności przeglądu i uzupełnienia tych kryte­
+riów do celów uznawania czy dana działalność gospodarcza kwalifikuje się jako zrównoważona środowiskowo; sku­
+teczności systemu klasyfikacyjnego dla zrównoważonej środowiskowo działalności gospodarczej w zakresie 
+przekierowywania inwestycji prywatnych w stronę takiej działalności, szczególnie w odniesieniu do przepływów 
+kapitału do przedsiębiorstw prywatnych i innych podmiotów prawnych; oraz dalszego opracowywania tego sys­
+temu klasyfikacyjnego, w tym poprzez poszerzenie jego zakresu poza zrównoważoną środowiskowo działalność 
+gospodarczą, tak aby objąć nim także działalność, która poważnie szkodzi środowisku, jak również inne cele doty­
+czące zrównoważonego rozwoju, w tym cele społeczne. 
+(60)
+Ponieważ cele niniejszego rozporządzenia nie mogą zostać osiągnięte w sposób wystarczający przez państwa człon­
+kowskie, natomiast ze względu na potrzebę wprowadzenia na poziomie Unii jednolitych kryteriów dotyczących 
+zrównoważonej środowiskowo działalności gospodarczej, możliwe jest ich lepsze osiągnięcie na poziomie Unii, 
+może ona podjąć działania zgodnie z zasadą pomocniczości określoną w art. 5 Traktatu o Unii Europejskiej. Zgod­
+nie z zasadą proporcjonalności określoną w tym artykule, niniejsze rozporządzenie nie wykracza poza to, co jest 
+konieczne do osiągnięcia tych celów, 
+PRZYJMUJĄ NINIEJSZE ROZPORZĄDZENIE: 
+ROZDZIAŁ I 
+PRZEDMIOT, ZAKRES STOSOWANIA I DEFINICJE 
+Artykuł 1 
+Przedmiot i zakres stosowania 
+1.
+Niniejsze rozporządzenie ustanawia kryteria służące ustaleniu, czy dana działalność gospodarcza kwalifikuje się jako 
+zrównoważona środowiskowo na potrzeby określenia stopnia, w jakim dana inwestycja jest zrównoważona środowiskowo. 
+(65) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finan-
+sowych oraz zmieniające rozporządzenie (EU) nr 648/2012 (Dz.U. L 173 z 12.6.2014, s. 84). 
+(66) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierają-
+cych kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwesty-
+cyjnych (PRIIP) (Dz.U. L 352 z 9.12.2014, s. 1). 
+(67) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indy-
+widualnego produktu emerytalnego (OIPE) (Dz.U. L 198 z 25.7.2019, s. 1). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/25   
+
+
+===== PAGE 14/31 =====
+
+2.
+Niniejsze rozporządzenie ma zastosowanie do: 
+a) przyjętych przez państwa członkowskie lub Unię środków określających wymogi dla uczestników rynku finansowego 
+lub emitentów w odniesieniu do produktów finansowych lub obligacji korporacyjnych, które są udostępniane jako 
+zrównoważone środowiskowo; 
+b) uczestników rynku finansowego, którzy udostępniają produkty finansowe; 
+c) przedsiębiorstw, które podlegają obowiązkowi publikacji oświadczenia na temat informacji niefinansowych lub skonso­
+lidowanego oświadczenia na temat informacji niefinansowych na mocy, odpowiednio, art. 19a lub 29a dyrektywy Par­
+lamentu Europejskiego i Rady 2013/34/UE (68). 
+Artykuł 2 
+Definicje 
+Do celów niniejszego rozporządzenia stosuje się następujące definicje: 
+1)
+„zrównoważona środowiskowo inwestycja” oznacza inwestycję, w ramach której finansuje się co najmniej jedną dzia­
+łalność gospodarczą, kwalifikującą się jako zrównoważona środowiskowo na podstawie niniejszego rozporządzenia; 
+2) 
+„uczestnik rynku finansowego” oznacza uczestnika rynku finansowego zdefiniowanego w art. 2 pkt 1 rozporządzenia 
+(UE) 2019/2088 i obejmuje twórcę produktu emerytalnego, do którego państwo członkowskie postanowiło zastoso­
+wać to rozporządzenie zgodnie z art. 16 tego rozporządzenia; 
+3) 
+„produkt finansowy” oznacza produkt finansowy zdefiniowany w art. 2 pkt 12 rozporządzenia (UE) 2019/2088; 
+4) 
+„emitent” oznacza emitenta zdefiniowanego w art. 2 lit. h) rozporządzenia Parlamentu Europejskiego i Rady (UE) 
+2017/1129 (69); 
+5)
+„łagodzenie zmian klimatu” oznacza proces polegający na utrzymaniu wzrostu średniej temperatury na świecie znacz­
+nie poniżej 2 °C i na dążeniu do ograniczenia wzrostu temperatury do 1,5 °C powyżej poziomów sprzed epoki prze­
+mysłowej, jak określono w porozumieniu paryskim; 
+6) 
+„adaptacja do zmian klimatu” oznacza proces przystosowywania się do rzeczywistych i oczekiwanych zmian klimatu i 
+ich skutków; 
+7) 
+„gaz cieplarniany” oznacza gaz cieplarniany wymieniony w załączniku I do rozporządzenia Parlamentu Europejskiego 
+i Rady (UE) nr 525/2013 (70); 
+8) 
+„hierarchia postępowania z odpadami” oznacza hierarchię postępowania z odpadami określoną w art. 4 dyrektywy 
+2008/98/WE; 
+9)
+„gospodarka o obiegu zamkniętym” oznacza system gospodarczy, w którym możliwie jak najdłużej utrzymuje się war­
+tości produktów, materiałów i innych zasobów w gospodarce, zwiększa ich wydajne wykorzystywanie w produkcji i 
+konsumpcji i tym samym ogranicza skutki środowiskowe ich wykorzystywania, a także minimalizuje się powstawanie 
+odpadów i uwalnianie substancji niebezpiecznych na wszystkich etapach ich cyklu życia, w tym poprzez stosowanie 
+hierarchii postępowania z odpadami; 
+10) „zanieczyszczenia” oznaczają substancje, wibracje, ciepło, hałas, światło lub inne czynniki zanieczyszczające obecne w 
+powietrzu, wodzie lub ziemi, które mogą być szkodliwe dla zdrowia ludzi lub środowiska, czego skutkiem mogą być 
+szkody materialne lub obniżenie walorów środowiskowych i utrudnienie korzystania ze środowiska w inny sposób 
+zgodny z prawem lub ingerencja w te walory i sposoby korzystania ze środowiska; 
+11) „gleba” oznacza wierzchnią warstwę skorupy ziemskiej usytuowaną między skałą macierzystą a powierzchnią, składa­
+jącą się z cząstek mineralnych, materii organicznej, wody, powietrza i organizmów żywych; 
+(68) Dyrektywa Parlamentu Europejskiego i Rady 2013/34/UE z dnia 26 czerwca 2013 r. w sprawie rocznych sprawozdań finansowych, 
+skonsolidowanych sprawozdań finansowych i powiązanych sprawozdań niektórych rodzajów jednostek, zmieniająca dyrektywę Parla-
+mentu Europejskiego i Rady 2006/43/WE oraz uchylająca dyrektywy Rady 78/660/EWG i 83/349/EWG (Dz.U. L 182 z 29.6.2013, 
+s. 19). 
+(69) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być 
+publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz 
+uchylenia dyrektywy 2003/71/WE (Dz.U. L 168 z 30.6.2017, s. 12). 
+(70) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 525/2013 z dnia 21 maja 2013 r. w sprawie mechanizmu monitorowania i 
+sprawozdawczości w zakresie emisji gazów cieplarnianych oraz zgłaszania innych informacji na poziomie krajowym i unijnym, mają-
+cych znaczenie dla zmiany klimatu, oraz uchylające decyzję nr 280/2004/WE (Dz.U. L 165 z 18.6.2013, s. 13). 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/26                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 15/31 =====
+
+12) „zanieczyszczenie” oznacza: 
+a) bezpośrednie lub pośrednie wprowadzenie zanieczyszczeń do powietrza, wody lub ziemi w wyniku działalności 
+człowieka; 
+b) w kontekście środowiska morskiego – zanieczyszczenie zdefiniowane art. 3 pkt 8 dyrektywy 2008/56/WE; 
+c) w kontekście środowiska wodnego – zanieczyszczenie zdefiniowane art. 2 pkt 33 dyrektywy 2000/60/WE; 
+13) „ekosystem” oznacza dynamiczne zgrupowanie roślin, zwierząt, mikroorganizmów oraz ich nieożywione środowisko 
+wspólnie tworzące jednostkę funkcjonalną; 
+14) „usługi ekosystemowe” oznaczają bezpośredni lub pośredni wkład ekosystemów w gospodarcze, społeczne, kulturalne 
+i inne korzyści, które ludzie czerpią z tych ekosystemów; 
+15) „bioróżnorodność” oznacza zróżnicowanie żywych organizmów, pochodzących ze wszystkich źródeł, w tym z eko­
+systemów lądowych, morskich i innych wodnych ekosystemów oraz zespołów ekologicznych, których są one częścią 
+i obejmuje różnorodność w obrębie gatunku, pomiędzy gatunkami oraz ekosystemami; 
+16) „dobry stan” oznacza, w odniesieniu do ekosystemu, że ekosystem jest w dobrym stanie fizycznym, chemicznym i bio­
+logicznym lub ma dobrą jakość fizyczną, chemiczną i biologiczną oraz ma zdolność do samoodtwarzania lub samo­
+odnowy oraz w którym skład gatunkowy, struktura ekosystemu i funkcje ekologiczne są niezakłócone; 
+17) „efektywność energetyczna” oznacza bardziej efektywne wykorzystywanie energii na wszystkich etapach łańcucha 
+energetycznego, od produkcji po końcowe zużycie; 
+18) „wody morskie” oznaczają wody morskie zdefiniowane w art. 3 pkt 1 dyrektywy 2008/56/WE; 
+19) „wody powierzchniowe” oznaczają wody powierzchniowe zdefiniowane w art. 2 pkt 1 dyrektywy 2000/60/WE; 
+20) „wody podziemne” oznaczają wody podziemne zdefiniowane w art. 2 pkt 2 dyrektywy 2000/60/WE; 
+21) „dobry stan środowiska” oznacza dobry stan środowiska zdefiniowany art. 3 pkt 5 dyrektywy 2008/56/WE; 
+22) „dobry stan” oznacza: 
+a) dla wód powierzchniowych – posiadanie zarówno „dobrego stanu ekologicznego" zdefiniowanego w art. 2 pkt 22 
+dyrektywy 2000/60/WE jak i „dobrego stanu chemicznego wód powierzchniowych” zdefiniowanego w art. 2 pkt 
+24 tej dyrektywy; 
+b) dla wód podziemnych – posiadanie zarówno „dobrego stanu chemicznego wód podziemnych" zdefiniowanego w 
+art. 2 pkt 25 dyrektywy 2000/60/WE oraz „dobrego stanu ilościowego” zdefiniowanego w art. 2 pkt 28 tej dyrek­
+tywy; 
+23) „dobry potencjał ekologiczny” oznacza dobry potencjał ekologiczny zdefiniowany w art. 2 pkt 23 dyrektywy 
+2000/60/WE. 
+ROZDZIAŁ II 
+ZRÓWNOWAŻONA ŚRODOWISKOWO DZIAŁALNOŚĆ GOSPODARCZA 
+Artykuł 3 
+Kryteria dotyczące zrównoważonej środowiskowo działalności gospodarczej 
+Do celów określenia stopnia, w jakim dana inwestycja jest zrównoważona środowiskowo, dana działalność gospodarcza 
+kwalifikuje się jako zrównoważona środowiskowo, jeżeli działalność ta: 
+a) wnosi istotny wkład w realizację co najmniej jednego z celów środowiskowych określonych w art. 9 zgodnie z art. 10–16; 
+b) nie wyrządza poważnych szkód dla żadnego z celów środowiskowych określonych w art. 9 zgodnie z art. 17; 
+c) jest prowadzona zgodnie z minimalnymi gwarancjami określonymi w art. 18; oraz 
+d) spełnia techniczne kryteria kwalifikacji, które zostały ustanowione przez Komisję zgodnie z art. 10 ust. 3, art. 11 ust. 3, 
+art. 12 ust. 2, art. 13 ust. 2, art. 14 ust. 2 lub art. 15 ust. 2. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/27   
+
+
+===== PAGE 16/31 =====
+
+Artykuł 4 
+Stosowanie kryteriów dotyczących zrównoważonej środowiskowo działalności gospodarczej w ramach 
+środków publicznych, norm i oznakowań 
+Państwa członkowskie i Unia stosują kryteria określone w art. 3 celem ustalenia czy dana działalność gospodarcza kwalifi­
+kuje się jako zrównoważona środowiskowo, na potrzeby wszelkich środków określających wymogi dla uczestników rynku 
+finansowego lub emitentów w odniesieniu do produktów finansowych lub obligacji korporacyjnych, które są udostępniane 
+jako zrównoważone środowiskowo. 
+Artykuł 5 
+Przejrzystość w zakresie zrównoważonych środowiskowo inwestycji w informacjach ujawnianych przed 
+zawarciem umowy i sprawozdaniach okresowych 
+W przypadku gdy produkt finansowy, o którym mowa w art. 9 ust. 1, 2 lub 3 rozporządzenia (UE) 2019/2088 służy do 
+inwestycji w działalność gospodarczą, która przyczynia się do realizacji celu środowiskowego w rozumieniu art. 2 pkt 17 
+tego rozporządzenia, informacje, jakie należy ujawnić zgodnie z art. 6 ust. 3 i art. 11 ust. 2 tego rozporządzenia, obejmują 
+następujące elementy: 
+a) informacje o celu środowiskowym lub celach środowiskowych, określonych w art. 9 niniejszego rozporządzenia, do 
+realizacji których przyczynia się inwestycja w ramach danego produktu finansowego; oraz 
+b) opis, w jaki sposób i w jakim stopniu inwestycje w ramach produktu finansowego są dokonywane w działalność gospo­
+darczą, kwalifikującą się jako zrównoważona środowiskowo na podstawie art. 3 niniejszego rozporządzenia. 
+W opisie, o którym mowa w akapicie pierwszym lit. b) niniejszego artykułu, określa się udział procentowy inwestycji w 
+zrównoważoną środowiskowo działalność gospodarczą wybranych dla produktu finansowego, w tym szczegółowe infor­
+macje o udziałach procentowych działalności wspomagającej i przejściowej działalności, o których mowa odpowiednio w 
+art. 16 i art. 10 ust. 2, wyrażony jako odsetek wszystkich inwestycji wybranych na potrzeby produktu finansowego. 
+Artykuł 6 
+Przejrzystość w zakresie produktów finansowych promujących aspekt środowiskowy w informacjach 
+ujawnianych przed zawarciem umowy i sprawozdaniach okresowych 
+W przypadku gdy produkt finansowy, o którym mowa w art. 8 ust. 1 rozporządzenia (UE) 2019/2088, promuje aspekt 
+środowiskowy, stosuje się odpowiednio art. 5 niniejszego rozporządzenia. 
+Informacjom, jakie należy ujawnić zgodnie z art. 6 ust. 3 i art. 11 ust. 2 rozporządzenia (UE) 2019/2088, towarzyszy 
+następujące oświadczenie: 
+„Zasada »nie czyń poważnych szkód« stosowana jest wyłącznie w odniesieniu do tych inwestycji w ramach produktu finan­
+sowego, które uwzględniają unijne kryteria dotyczące zrównoważonej środowiskowo działalności gospodarczej. 
+Inwestycje w ramach pozostałej części tego produktu finansowego nie uwzględniają unijnych kryteriów dotyczących zrów­
+noważonej środowiskowo działalności gospodarczej”. 
+Artykuł 7 
+Przejrzystość w zakresie innych produktów finansowych w informacjach ujawnianych przed zawarciem umowy 
+i sprawozdaniach okresowych 
+W przypadku gdy produkt finansowy nie podlega art. 8 ust. 1 lub art. 9 ust. 1, 2 lub 3 rozporządzenia (UE) 2019/2088, 
+informacjom, jakie należy ujawnić zgodnie z przepisami prawodawstwa sektorowego, o których mowa w art. 6 ust. 3 i 
+art. 11 ust. 2 tego rozporządzenia, towarzyszy następujące oświadczenie: 
+„Inwestycje w ramach tego produktu finansowego nie uwzględniają unijnych kryteriów dotyczących zrównoważonej śro­
+dowiskowo działalności gospodarczej”. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/28                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 17/31 =====
+
+Artykuł 8 
+Przejrzystość przedsiębiorstw w oświadczeniach na temat informacji niefinansowych przedsiębiorstw 
+1.
+Każde przedsiębiorstwo podlegające obowiązkowi publikowania informacji niefinansowych na mocy art. 19a lub 
+29a dyrektywy 2013/34/UE zawiera w swoim oświadczeniu na temat informacji niefinansowych lub w skonsolidowanym 
+oświadczeniu na temat informacji niefinansowych informacje na temat tego, w jaki sposób i w jakim stopniu działalność 
+tego przedsiębiorstwa jest związana z działalnością gospodarczą, która kwalifikuje się jako zrównoważona środowiskowo 
+na podstawie art. 3 i 9 niniejszego rozporządzenia. 
+2.
+Przedsiębiorstwa niefinansowe ujawniają w szczególności następujące informacje: 
+a) udział procentowy ich obrotu pochodzący z produktów lub usług związanych z działalnością gospodarczą, która kwali­
+fikuje się jako zrównoważona środowiskowo na podstawie art. 3 i 9; oraz 
+b) udział procentowy ich nakładów inwestycyjnych oraz wydatków operacyjnych odpowiadający aktywom lub procesom 
+związanym z działalnością gospodarczą, która kwalifikuje się jako zrównoważona środowiskowo na podstawie art. 3 i 9. 
+3.
+Jeżeli przedsiębiorstwo publikuje informacje niefinansowe na mocy art. 19a lub 29a dyrektywy 2013/34/UE w 
+odrębnym sprawozdaniu zgodnie z art. 19a ust. 4 lub art. 29a ust. 4 tej dyrektywy, informacje, o których mowa w ust. 1 
+i 2 niniejszego artykułu publikowane są w tym odrębnym sprawozdaniu. 
+4.
+Komisja przyjmuje akt delegowany zgodnie z art. 23, aby uzupełnić ust. 1 i 2 niniejszego artykułu w celu sprecyzo­
+wania treści i prezentacji informacji, które mają być ujawniane na podstawie tych ustępów, w tym metody użytej w celu 
+zapewnienia zgodności z nimi, z uwzględnieniem specyfiki zarówno przedsiębiorstw finansowych, jak i przedsiębiorstw 
+niefinansowych, oraz technicznych kryteriów kwalifikacji ustanowionych na podstawie niniejszego rozporządzenia. Komi­
+sja przyjmie ten akt delegowany do dnia 1 czerwca 2021 r. 
+Artykuł 9 
+Cele środowiskowe 
+Do celów niniejszego rozporządzenia określa się następujące cele środowiskowe: 
+a) łagodzenie zmian klimatu; 
+b) adaptacja do zmian klimatu; 
+c) zrównoważone wykorzystywanie i ochrona zasobów wodnych i morskich; 
+d) przejście na gospodarkę o obiegu zamkniętym; 
+e) zapobieganie zanieczyszczeniu i jego kontrola; 
+f) ochrona i odbudowa bioróżnorodności i ekosystemów. 
+Artykuł 10 
+Istotny wkład w łagodzenie zmian klimatu 
+1.
+Dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w łagodzenie zmian klimatu, jeżeli działal­
+ność ta wnosi istotny wkład w ustabilizowanie stężenia gazów cieplarnianych w atmosferze na poziomie pozwalającym 
+zapobiec groźnej antropogenicznej ingerencji w system klimatyczny, zgodnie z długoterminowym celem dotyczącym tem­
+peratury określonym w porozumieniu paryskim poprzez niedopuszczanie do powstania emisji gazów cieplarnianych lub 
+ich ograniczanie lub zwiększanie pochłaniania gazów cieplarnianych, w tym poprzez innowację procesową lub produk­
+tową, poprzez: 
+a) wytwarzanie, przekazywanie, przechowywanie, dystrybuowanie lub wykorzystywanie energii ze źródeł odnawialnych, 
+zgodnie z dyrektywą (UE) 2018/2001, również poprzez wykorzystywanie innowacyjnych technologii mogących przy­
+nieść znaczne oszczędności w przyszłości lub poprzez niezbędne wzmocnienie lub rozbudowę sieci; 
+b) poprawę efektywności energetycznej, z wyjątkiem działalności w zakresie wytwarzania energii elektrycznej, jak okreś­
+lono w art. 19 ust. 3; 
+c) zwiększenie czystej lub neutralnej dla klimatu mobilności; 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/29   
+
+
+===== PAGE 18/31 =====
+
+d) przejście na wykorzystywanie materiałów odnawialnych ze zrównoważonych źródeł; 
+e) zwiększenie wykorzystania bezpiecznych dla środowiska technologii wychwytywania i utylizacji dwutlenku węgla 
+(CCU) oraz wychwytywania i składowania dwutlenku węgla (CCS), które zapewniają redukcję netto emisji gazów cie­
+plarnianych; 
+f) wzmocnienie lądowych pochłaniaczy dwutlenku węgla, w tym poprzez przeciwdziałanie wylesianiu i degradacji lasów, 
+rekultywację lasów, zrównoważone gospodarowanie gruntami uprawnymi, obszarami trawiastymi i terenami podmo­
+kłymi oraz ich rekultywację, zalesianie oraz rolnictwo regeneracyjne; 
+g) stworzenie infrastruktury energetycznej wymaganej do obniżenia emisyjności systemów energetycznych; 
+h) produkowanie czystych i wydajnych paliw ze źródeł odnawialnych lub neutralnych pod względem emisji dwutlenku 
+węgla; lub 
+i) wspomaganie dowolnych działań wymienionych w lit. a)–h) niniejszego ustępu, zgodnie z art. 16. 
+2.
+Do celów ust. 1 działalność gospodarczą, dla której nie istnieją alternatywne niskoemisyjne rozwiązania wykonalne 
+pod względem technologicznym i ekonomicznym, kwalifikuje się jako wnoszącą istotny wkład w łagodzenie zmian kli­
+matu, jeżeli wspomaga ona przejście do gospodarki neutralnej dla klimatu zgodnie ze ścieżką prowadzącą do ograniczenia 
+wzrostu temperatury do 1,50C powyżej poziomów sprzed epoki przemysłowej, w tym poprzez stopniowe wycofywanie 
+emisji gazów cieplarnianych, w szczególności emisji ze stałych paliw kopalnych, oraz jeżeli taka działalność: 
+a) wytwarza emisje gazów cieplarnianych na poziomie odpowiadającym najlepszym wynikom w danym sektorze lub 
+danej gałęzi przemysłu; 
+b) nie utrudnia rozwoju i wdrażania alternatywnych niskoemisyjnych rozwiązań; oraz 
+c) nie prowadzi do uzależnienia od aktywów wysokoemisyjnych, z uwzględnieniem ekonomicznego cyklu życia tych akty­
+wów. 
+Do celów niniejszego ustępu oraz ustanowienia technicznych kryteriów kwalifikacji na mocy art. 19 Komisja ocenia poten­
+cjalny wkład i wykonalność wszystkich odpowiednich istniejących technologii. 
+3.
+Komisja przyjmuje akt delegowany zgodnie z art. 23 w celu: 
+a) uzupełnienia ust. 1 i 2 niniejszego artykułu poprzez ustanowienie technicznych kryteriów kwalifikacji służących okreś­
+leniu warunków, na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w łagodzenie 
+zmian klimatu; oraz 
+b) uzupełnienia art. 17, poprzez ustanowienie dla każdego odpowiedniego celu środowiskowego, technicznych kryteriów 
+kwalifikacji służących ustaleniu, czy dana działalność gospodarczą, w odniesieniu do której ustanowiono techniczne 
+kryteria kwalifikacji zgodnie z lit. a) niniejszego ustępu, wyrządza poważne szkody co najmniej jednemu z tych celów. 
+4.
+Przed przyjęciem aktu delegowanego, o którym mowa w ust. 3 niniejszego artykułu, Komisja konsultuje się z plat­
+formą, o której mowa w art. 20, w odniesieniu do technicznych kryteriów kwalifikacji, o których mowa w ust. 3 niniej­
+szego artykułu. 
+5.
+Komisja ustanawia techniczne kryteria kwalifikacji, o których mowa w ust. 3 niniejszego artykułu, w jednym akcie 
+delegowanym, biorąc pod uwagę wymogi art. 19. 
+6.
+Komisja przyjmie akt delegowany, o którym mowa w ust. 3, do dnia 31 grudnia 2020 r. w celu zapewnienia rozpo-
+częcia jego stosowania od dnia 1 stycznia 2022 r. 
+Artykuł 11 
+Istotny wkład w adaptację do zmian klimatu 
+1.
+Dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w adaptację do zmian klimatu, jeżeli dzia­
+łalność ta: 
+a) obejmuje rozwiązania w zakresie adaptacji, które istotnie ograniczają ryzyko niekorzystnych skutków obecnych i ocze­
+kiwanych przyszłych warunków klimatycznych dla tej działalności gospodarczej albo istotnie ograniczają te nieko­
+rzystne skutki bez zwiększania ryzyka niekorzystnych skutków wywieranych na ludzi, przyrodę lub aktywa; lub 
+b) zapewnia rozwiązania w zakresie adaptacji, które – oprócz tego, że spełniają warunki określone w art. 16 – wnoszą 
+istotny wkład w zapobieganie ryzyku niekorzystnych skutków obecnych i oczekiwanych przyszłych warunków klima­
+tycznych wywieranych na ludzi, przyrodę lub aktywa, lub w ograniczanie tego ryzyka, bez zwiększania ryzyka nieko­
+rzystnych skutków wywieranych na ludzi, przyrodę lub aktywa. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/30                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 19/31 =====
+
+2.
+Rozwiązania w zakresie adaptacji, o których mowa w ust. 1 lit. a), podlegają ocenie i uszeregowaniu pod względem 
+priorytetów z wykorzystaniem najlepszych dostępnych prognoz klimatycznych oraz co najmniej: 
+a) zapobiegają niekorzystnym skutkom zmian klimatu dla danej działalności gospodarczej związanym z lokalizacją i kon­
+tekstem lub ograniczają te skutki; lub 
+b) zapobiegają potencjalnym niekorzystnym skutkom zmian klimatu wywieranym na środowisko, w którym prowadzona 
+jest dana działalność gospodarcza, lub ograniczają te skutki. 
+3.
+Komisja przyjmuje akt delegowany zgodnie z art. 23 w celu: 
+a) uzupełnienia ust. 1 i 2 niniejszego artykułu poprzez ustanowienie technicznych kryteriów kwalifikacji służących okreś­
+leniu warunków na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w adaptację do 
+zmian klimatu; oraz 
+b) uzupełnienia art. 17 poprzez ustanowienie dla każdego odpowiedniego celu środowiskowego technicznych kryteriów 
+kwalifikacji służących ustaleniu czy dana działalność gospodarczą, w odniesieniu do której ustanowiono techniczne 
+kryteria kwalifikacji zgodnie z lit. a) niniejszego ustępu, wyrządza poważne szkody co najmniej jednemu z tych celów. 
+4.
+Przed przyjęciem aktu delegowanego, o którym mowa w ust. 3 niniejszego artykułu, Komisja konsultuje się z plat­
+formą, o której mowa w art. 20, w odniesieniu do technicznych kryteriów kwalifikacji, o których mowa w ust. 3 niniej­
+szego artykułu. 
+5.
+Komisja ustanawia techniczne kryteria kwalifikacji, o których mowa w ust. 3 niniejszego artykułu, w jednym akcie 
+delegowanym, biorąc pod uwagę wymogi określone w art. 19. 
+6.
+Komisja przyjmie akt delegowany, o którym mowa w ust. 3, do dnia 31 grudnia 2020 r. w celu zapewnienia rozpo-
+częcia jego stosowania od dnia 1 stycznia 2022 r. 
+Artykuł 12 
+Istotny wkład w zrównoważone wykorzystywanie i ochronę zasobów wodnych i morskich 
+1.
+Dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w zrównoważone wykorzystywanie i 
+ochronę zasobów wodnych i morskich, jeżeli działalność ta wnosi istotny wkład w osiąganie dobrego stanu jednolitych 
+części wód, w tym jednolitych części wód powierzchniowych i wód podziemnych, albo w zapobieganie pogorszeniu się 
+dotychczas dobrego stanu jednolitych części wód, lub wnosi istotny wkład w osiąganie dobrego stanu środowiska wód 
+morskich lub w zapobieganie pogorszeniu ich dotychczas dobrego stanu, za pomocą: 
+a) ochrony środowiska przed niekorzystnymi skutkami przepływu zrzutów ścieków komunalnych i przemysłowych, w 
+tym nowo pojawiających się zanieczyszczeń powodujących niepokój, takich jak produkty farmaceutyczne i mikrodro­
+biny plastiku, na przykład poprzez zapewnienie odpowiedniego zbierania, oczyszczania i odprowadzania ścieków 
+komunalnych i przemysłowych; 
+b) ochrony zdrowia ludzkiego przed niekorzystnymi skutkami wszelkiego zanieczyszczenia wody przeznaczonej do spo­
+życia przez ludzi dzięki zapewnieniu, by woda była wolna od wszelkich mikroorganizmów, pasożytów i substancji, 
+które stanowią potencjalne zagrożenie dla zdrowia ludzi, a także zwiększenie dostępu narodów do czystej wody pitnej; 
+c) poprawy gospodarki wodnej i efektywności zużycia wody, w tym poprzez ochronę i poprawę stanu ekosystemów wod­
+nych, poprzez promowanie zrównoważonego zużycia wody dzięki długoterminowej ochronie dostępnych zasobów 
+wodnych, między innymi dzięki zastosowaniu takich środków, jak ponowne wykorzystanie wody, poprzez zapewnianie 
+stopniowego ograniczania emisji zanieczyszczeń do wód powierzchniowych i wód podziemnych, poprzez przyczynia­
+nie się do łagodzenia skutków powodzi i susz lub poprzez jakąkolwiek inną działalność, która chroni lub prowadzi do 
+poprawy stanu jakościowego i ilościowego jednolitych części wód; 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/31   
+
+
+===== PAGE 20/31 =====
+
+d) zapewniania zrównoważonego wykorzystania morskich usług ekosystemowych lub przyczyniania się do dobrego stanu 
+środowiska wód morskich, w tym poprzez ochronę, zachowanie lub odbudowę środowiska morskiego oraz poprzez 
+zapobieganie zanieczyszczeniu środowiska morskiego lub ograniczenie go; lub 
+e) wspomagania dowolnych działań wymienionych w lit. a)–d) niniejszego ustępu zgodnie z art. 16. 
+2.
+Komisja przyjmuje akt delegowany zgodnie z art. 23 w celu: 
+a) uzupełnienia ust. 1 niniejszego artykułu poprzez ustanowienie technicznych kryteriów kwalifikacji służących określe­
+niu warunków na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w zrównoważone 
+wykorzystywanie i ochronę zasobów wodnych i morskich; oraz 
+b) uzupełniania art. 17, poprzez ustanowienie dla każdego odpowiedniego celu środowiskowego technicznych kryteriów 
+kwalifikacji służących ustaleniu, czy dana działalność gospodarcza, w odniesieniu do której ustanowiono techniczne 
+kryteria kwalifikacji zgodnie z lit. a) niniejszego ustępu wyrządza poważne szkody co najmniej jednemu z tych celów. 
+3.
+Przed przyjęciem aktu delegowanego, o którym mowa w ust. 2 niniejszego artykułu, Komisja konsultuje się z plat­
+formą, o której mowa w art. 20, w odniesieniu do technicznych kryteriów kwalifikacji, o których mowa w ust. 2 niniej­
+szego artykułu. 
+4.
+Komisja ustanawia techniczne kryteria kwalifikacji, o których mowa w ust. 2 niniejszego artykułu, w jednym akcie 
+delegowanym, biorąc pod uwagę wymogi określone w art. 19. 
+5.
+Komisja przyjmie akt delegowany, o którym mowa w ust. 2, do dnia 31 grudnia 2021 r. w celu zapewnienia rozpo-
+częcia jego stosowania od dnia 1 stycznia 2023 r. 
+Artykuł 13 
+Istotny wkład w przejście na gospodarkę o obiegu zamkniętym 
+1.
+Dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w przejście na gospodarkę o obiegu 
+zamkniętym, w tym zapobieganie powstawaniu odpadów oraz ich ponowne użycie i recykling, jeżeli działalność ta: 
+a) wykorzystuje bardziej efektywnie w produkcji zasoby naturalne, w tym pochodzące ze zrównoważonych źródeł 
+surowce pochodzenia biologicznego i inne surowce, w tym poprzez: 
+(i) ograniczenie zużycia surowców pierwotnych lub zwiększenie wykorzystywania produktów ubocznych i surowców 
+wtórnych; lub 
+(ii) środki w zakresie efektywnego gospodarowania zasobami i efektywności energetycznej; 
+b) zwiększa trwałość produktów, a także możliwości ich naprawy, ulepszenia lub ponownego użycia, szczególnie w proce­
+sie projektowania i produkcji; 
+c) zwiększa możliwości recyklingu produktów, w tym możliwości recyklingu poszczególnych materiałów zawartych w 
+tych produktach, między innymi poprzez zastąpienie lub ograniczone stosowanie produktów i materiałów, które nie 
+nadają się do recyklingu, szczególnie w procesie projektowania i produkcji; 
+d) istotnie ogranicza zawartość substancji niebezpiecznych oraz prowadzi do zastąpienia substancji wzbudzających szcze­
+gólnie duże obawy w materiałach i produktach w całym ich cyklu życia, zgodnie z celami określonymi w prawie Unii, w 
+tym poprzez zastąpienie takich substancji bezpieczniejszymi alternatywami i zapewnienie identyfikowalności; 
+e) przedłuża okres użytkowania produktów, w tym poprzez ich ponowne wykorzystanie, projektowanie z myślą o długim 
+użytkowaniu, zmianę przeznaczenia, demontowanie, regenerację, ulepszenie oraz naprawę i wspólne użytkowanie pro­
+duktów; 
+f) zwiększa wykorzystywanie surowców wtórnych i podniesienia ich jakości, również poprzez wysokiej jakości recykling 
+odpadów; 
+g) zapobiega wytwarzaniu odpadów, w tym wytwarzaniu odpadów pochodzących z wydobywania minerałów oraz odpa­
+dów z budowy i rozbiórki budynków, lub ogranicza ich wytwarzanie; 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/32                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 21/31 =====
+
+h) intensyfikuje działania w zakresie przygotowania do ponownego użycia i recyklingu odpadów; 
+i)
+pobudza rozwój infrastruktury gospodarowania odpadami niezbędnej do zapobiegania ich powstawaniu, do przygoto­
+wania do ponownego użycia i recyklingu odpadów, przy jednoczesnym zapewnieniu, by odzyskane w ten sposób mate­
+riały zostały poddane recyklingowi jako surowiec wtórny stanowiący wysokiej jakości czynnik produkcji, tym samym 
+unikając downcyklingu; 
+j) minimalizuje spalanie odpadów i prowadzi do uniknięcia unieszkodliwiania odpadów, w tym składowania, zgodnie z 
+zasadami hierarchii postępowania z odpadami; 
+k) unika wytwarzania śmieci i ogranicza je; lub 
+l) wspomaga dowolne działania wymienione w lit. a)–k) niniejszego ustępu zgodnie z art. 16. 
+2.
+Komisja przyjmuje akt delegowany zgodnie z art. 23 w celu: 
+a) uzupełnienia ust. 1 niniejszego artykułu poprzez ustanowienie technicznych kryteriów kwalifikacji służących określe­
+niu warunków na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w przejście na gos­
+podarkę o obiegu zamkniętym; oraz 
+b) uzupełnienia art. 17 poprzez ustanowienie dla każdego odpowiedniego celu środowiskowego technicznych kryteriów 
+kwalifikacji służących ustaleniu, czy dana działalność gospodarczą, w odniesieniu do której ustanowiono techniczne 
+kryteria kwalifikacji zgodnie z lit. a) niniejszego ustępu, wyrządza poważne szkody co najmniej jednemu z tych celów. 
+3.
+Przed przyjęciem aktu delegowanego, o którym mowa w ust. 2 niniejszego artykułu, Komisja konsultuje się z plat­
+formą, o której mowa w art. 20, w odniesieniu do technicznych kryteriów kwalifikacji, o których mowa w ust. 2 niniej­
+szego artykułu. 
+4.
+Komisja ustanawia techniczne kryteria kwalifikacji, o których mowa w ust. 2 niniejszego artykułu, w jednym akcie 
+delegowanym, biorąc pod uwagę wymogi określone w art. 19. 
+5.
+Komisja przyjmie akt delegowany, o którym mowa w ust. 2, do dnia 31 grudnia 2021 r. w celu zapewnienia rozpo-
+częcia jego stosowania od dnia 1 stycznia 2023 r. 
+Artykuł 14 
+Istotny wkład w zapobieganie zanieczyszczeniu i jego kontrolę 
+1.
+Dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w zapobieganie zanieczyszczeniu i jego 
+kontrolę, jeżeli działalność ta wnosi istotny wkład w ochronę środowiska przed zanieczyszczeniem za pomocą: 
+a) zapobiegania lub, gdy nie jest to możliwe do zrealizowania, ograniczania emisji zanieczyszczeń – innych niż emisje 
+gazów cieplarnianych – do powietrza, wody lub ziemi; 
+b) poprawy jakości powietrza, wody lub gleby na obszarach, na których prowadzona jest dana działalność gospodarcza, 
+przy jednoczesnym minimalizowaniu wszelkich niekorzystnych skutków lub zagrożeń dla zdrowia ludzi i dla środowi­
+ska; 
+c) zapobiegania wszelkim niekorzystnym skutkom dla zdrowia ludzi i dla środowiska wynikającym z produkcji, stosowa­
+nia lub unieszkodliwiania chemikaliów lub minimalizowania takich niekorzystnych skutków; 
+d) usuwania śmieci i innych rodzajów zanieczyszczenia, lub 
+e) wspomagania dowolnych działań wymienionych w lit. a)–d) niniejszego ustępu zgodnie z art. 16. 
+2.
+Komisja przyjmuje akt delegowany zgodnie z art. 23 w celu: 
+a) uzupełnienia ust. 1 niniejszego artykułu poprzez ustanowienie technicznych kryteriów kwalifikacji służących określe­
+niu warunków na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w zapobieganie 
+zanieczyszczeniu i jego kontrolę; oraz 
+b) uzupełnienia art. 17 poprzez ustanowienie dla każdego odpowiedniego celu środowiskowego technicznych kryteriów 
+kwalifikacji służących ustaleniu czy dana działalność gospodarcza, w odniesieniu do której ustanowiono techniczne 
+kryteria kwalifikacji zgodnie z lit. a) niniejszego ustępu, wyrządza poważne szkody co najmniej jednemu z tych celów. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/33   
+
+
+===== PAGE 22/31 =====
+
+3.
+Przed przyjęciem aktu delegowanego, o którym mowa w ust. 2 niniejszego artykułu, Komisja konsultuje się z plat­
+formą, o której mowa w art. 20, w odniesieniu do technicznych kryteriów kwalifikacji, o których mowa w ust. 2 niniej­
+szego artykułu. 
+4.
+Komisja ustanawia techniczne kryteria kwalifikacji, o których mowa w ust. 2 niniejszego artykułu, w jednym akcie 
+delegowanym, biorąc pod uwagę wymogi określone w art. 19. 
+5.
+Komisja przyjmie akt delegowany, o którym mowa w ust. 2, do dnia 31 grudnia 2021 r. w celu zapewnienia rozpo-
+częcia jego stosowania od dnia 1 stycznia 2023 r. 
+Artykuł 15 
+Istotny wkład w ochronę i odbudowę bioróżnorodności i ekosystemów 
+1.
+Dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w ochronę i odbudowę bioróżnorodności 
+i ekosystemów, jeżeli działalność ta wnosi istotny wkład w ochronę, zachowanie lub odbudowę bioróżnorodności lub w 
+osiąganie dobrego stanu ekosystemów, lub w ochronę ekosystemów będących dotychczas w dobrym stanie, poprzez: 
+a) zachowanie przyrody i bioróżnorodności, w tym osiągnięcie korzystnego stanu zachowania siedlisk naturalnych i pół­
+naturalnych oraz gatunków lub zapobieganie pogorszeniu ich dotychczas korzystnego stanu zachowania, oraz ochronę 
+i odbudowę ekosystemów lądowych, morskich i innych ekosystemów wodnych w celu poprawy ich stanu i zwiększenia 
+ich zdolności do świadczenia usług ekosystemowych; 
+b) zrównoważone użytkowanie gruntów i gospodarowanie nimi, w tym odpowiednią ochronę bioróżnorodności gleby, 
+neutralność degradacji gruntów i remediację terenów zanieczyszczonych; 
+c) zrównoważone praktyki rolnicze, w tym praktyki, które przyczyniają się do zwiększenia bioróżnorodności lub do 
+powstrzymania degradacji gleby i innych ekosystemów, wylesiania i utraty siedlisk lub do zapobiegania tym procesom; 
+d) zrównoważoną gospodarkę leśną, w tym praktyki i sposoby wykorzystywania lasów i gruntów leśnych, które przyczy­
+niają się do zwiększenia bioróżnorodności lub do powstrzymania degradacji ekosystemów, wylesiania i utraty siedlisk 
+lub do zapobiegania tym procesom; lub 
+e) wspomaganie dowolnych działań wymienionych w lit. a)–d) niniejszego ustępu zgodnie z art. 16. 
+2.
+Komisja przyjmuje akt delegowany zgodnie z art. 23 w celu: 
+a) uzupełnienia ust. 1 niniejszego artykułu poprzez ustanowienie technicznych kryteriów kwalifikacji służących określe­
+niu warunków na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w ochronę i w odbu­
+dowę bioróżnorodności i ekosystemów; oraz 
+b) uzupełnienia art. 17 poprzez ustanowienie dla każdego odpowiedniego celu środowiskowego technicznych kryteriów 
+kwalifikacji służących ustaleniu, czy dana działalność gospodarczą, w odniesieniu do której ustanowiono techniczne 
+kryteria kwalifikacji zgodnie z lit. a) niniejszego ustępu, wyrządza poważne szkody co najmniej jednemu z tych celów. 
+3.
+Przed przyjęciem aktu delegowanego, o którym mowa w ust. 2 niniejszego artykułu, Komisja konsultuje się z plat­
+formą, o której mowa w art. 20, w odniesieniu do technicznych kryteriów kwalifikacji, o których mowa w ust. 2 niniej­
+szego artykułu. 
+4.
+Komisja ustanawia techniczne kryteria kwalifikacji, o których mowa w ust. 2 niniejszego artykułu, w jednym akcie 
+delegowanym, biorąc pod uwagę wymogi określone w art. 19. 
+5.
+Komisja przyjmie akt delegowany, o którym mowa w ust. 2, do dnia 31 grudnia 2021 r. w celu zapewnienia rozpo-
+częcia jego stosowania od dnia 1 stycznia 2023 r. 
+Artykuł 16 
+Działalność wspomagająca 
+Działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w realizację co najmniej jednego z celów środowisko­
+wych określonych w art. 9, jeżeli bezpośrednio wspomaga inne rodzaje działalności we wnoszeniu istotnego wkładu w rea­
+lizację co najmniej jednego z tych celów pod warunkiem że taka działalność gospodarcza: 
+a) nie prowadzi do uzależnienia od aktywów, które podważają długoterminowe cele środowiskowe, z uwzględnieniem 
+ekonomicznego cyklu życia tych aktywów; oraz 
+b) ma istotne pozytywne skutki dla środowiska na podstawie względów związanych z cyklem życia. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/34                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 23/31 =====
+
+Artykuł 17 
+Poważne szkody dla celów środowiskowych 
+1.
+Do celów art. 3 lit. b) daną działalność gospodarczą uznaje się – z uwzględnieniem cyklu życia produktów dostarcza­
+nych i usług świadczonych w ramach tej działalności gospodarczej, w tym danych pochodzących z istniejących ocen cyklu 
+życia – za wyrządzającą poważne szkody: 
+a) łagodzeniu zmian klimatu, jeżeli działalność ta prowadzi do znaczących emisji gazów cieplarnianych; 
+b) adaptacji do zmian klimatu, jeżeli działalność ta prowadzi do nasilenia niekorzystnych skutków obecnych i oczekiwa­
+nych, przyszłych warunków klimatycznych, wywieranych na tę działalność lub na ludzi, przyrodę lub aktywa; 
+c) zrównoważonemu wykorzystywaniu i ochronie zasobów wodnych i morskich, jeżeli działalność ta szkodzi: 
+(i)
+dobremu stanowi lub, dobremu potencjałowi ekologicznemu jednolitych części wód, w tym wód powierzchnio­
+wych i wód podziemnych; lub 
+(ii) dobremu stanowi środowiska wód morskich; 
+d) gospodarce o obiegu zamkniętym, w tym zapobieganiu powstawaniu odpadów i recyklingowi, jeżeli: 
+(i) 
+działalność ta prowadzi do znaczącego braku efektywności w wykorzystywaniu materiałów lub w bezpośrednim 
+lub pośrednim wykorzystywaniu zasobów naturalnych, takich jak nieodnawialne źródła energii, surowce, woda i 
+grunty, na co najmniej jednym z etapów cyklu życia produktów, w tym pod względem trwałości produktów, a 
+także możliwości ich naprawy, ulepszenia, ponownego użycia lub recyklingu; 
+(ii)
+działalność ta prowadzi do znacznego zwiększenia wytwarzania, spalania lub unieszkodliwiania odpadów, z wyjąt­
+kiem spalania odpadów niebezpiecznych nienadających się do recyklingu; lub 
+(iii) długotrwałe składowanie odpadów może wyrządzać poważne i długoterminowe szkody dla środowiska; 
+e) zapobieganiu zanieczyszczeniu i jego kontroli, jeżeli działalność ta prowadzi do znaczącego wzrostu emisji zanieczy­
+szczeń do powietrza, wody lub ziemi w porównaniu z sytuacją sprzed rozpoczęcia tej działalności; lub 
+f) ochronie i odbudowie bioróżnorodności i ekosystemów, jeżeli działalność ta: 
+(i) w znacznym stopniu szkodzi dobremu stanowi i odporności ekosystemów; lub 
+(ii) jest szkodliwa dla stanu zachowania siedlisk i gatunków, w tym siedlisk i gatunków objętych zakresem zaintereso­
+wania Unii. 
+2.
+Przy ocenie działalności gospodarczej na podstawie kryteriów określonych w ust. 1 uwzględnia się zarówno skutki 
+środowiskowe samej działalności, jak również wpływ, jaki na środowisko mają produkty dostarczane i usługi świadczone 
+w ramach tej działalności przez cały cykl ich życia, szczególnie z uwzględnieniem wytwarzania, użytkowania i zakończenia 
+cyklu życia tych produktów i usług. 
+Artykuł 18 
+Minimalne gwarancje 
+1.
+Minimalnymi gwarancjami, o których mowa w art. 3 lit. c), są procedury stosowane przez przedsiębiorstwo prowa­
+dzące działalność gospodarczą, które mają zapewnić przestrzeganie Wytycznych OECD dla przedsiębiorstw wielonarodo­
+wych oraz Wytycznych ONZ dotyczących biznesu i praw człowieka, w tym zasad i praw określonych w ośmiu podstawo­
+wych konwencjach wskazanych w Deklaracji Międzynarodowej Organizacji Pracy dotyczącej podstawowych zasad i praw 
+w pracy oraz zasad i praw określonych w Międzynarodowej karcie praw człowieka. 
+2.
+Stosując procedury, o których mowa w ust. 1 niniejszego artykułu, przedsiębiorstwa przestrzegają zasady „nie czyń 
+poważnych szkód”, o której mowa w art. 2 pkt 17 rozporządzenia (UE) 2019/2088. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/35   
+
+
+===== PAGE 24/31 =====
+
+Artykuł 19 
+Wymogi dotyczące technicznych kryteriów kwalifikacji 
+1.
+Techniczne kryteria kwalifikacji ustanowione na podstawie art. 10 ust. 3, art. 11 ust. 3, art. 12 ust. 2, art. 13 ust. 2, 
+art. 14 ust. 2 i art. 15 ust. 2 muszą: 
+a) określać najistotniejsze potencjalne wkłady w realizację danego celu środowiskowego, z poszanowaniem zasady neu­
+tralności technologicznej i z uwzględnieniem krótko- i długoterminowych skutków danej działalności gospodarczej; 
+b) określać minimalne wymogi, które należy spełnić, aby uniknąć poważnej szkody dla któregokolwiek z odnośnych 
+celów środowiskowych, z uwzględnieniem krótko- i długoterminowych skutków danej działalności gospodarczej; 
+c) być ilościowe i w miarę możliwości określać progi, a w przeciwnym razie mieć charakter jakościowy; 
+d) w stosownych przypadkach opierać się na unijnych systemach oznakowania i certyfikacji, unijnych metodach oceny 
+śladu środowiskowego oraz unijnych systemach klasyfikacji statystycznej, oraz uwzględniać wszelkie odpowiednie obo­
+wiązujące ustawodawstwo Unii; 
+e) w miarę możliwości wykorzystywać wskaźniki zrównoważonego rozwoju, o czym mowa w art. 4 ust. 6 rozporządze­
+nia (UE) 2019/2088; 
+f) opierać się na jednoznacznych dowodach naukowych oraz na zasadzie ostrożności określonej w art. 191 TFUE; 
+g) uwzględniać cykl życia, w tym dane pochodzące z istniejących ocen cyklu życia, z naciskiem zarówno na skutki środo­
+wiskowe samej działalności gospodarczej, jak również wpływ, jaki na środowisko mają produkty dostarczane i usługi 
+świadczone w ramach tej działalności gospodarczej, szczególnie z uwzględnieniem wytwarzania, użytkowania i zakoń­
+czenia cyklu życia tych produktów i usług; 
+h) uwzględniać charakter i skalę działalności gospodarczej, w tym: 
+(i) to, czy stanowi ona działalność wspomagającą, jak określono w art. 16; lub 
+(ii) to, czy stanowi ona przejściową działalność, jak określono w art. 10 ust. 2; 
+i) uwzględniać wpływ, jaki może wywrzeć na rynek przejście na bardziej zrównoważoną gospodarkę, w tym ryzyko, że 
+wskutek tego przejścia niektóre aktywa mogą zostać osierocone, a także ryzyko stworzenia niespójnych zachęt do 
+zrównoważonego inwestowania; 
+j)
+obejmować wszystkie istotne rodzaje działalności gospodarczej w danym sektorze i zapewniać, aby były one trakto­
+wane jednakowo, jeśli wnoszą taki sam wkład netto w realizację celów środowiskowych określonych w art. 9 niniej­
+szego rozporządzenia, z myślą o uniknięciu zakłóceń konkurencji na rynku; oraz 
+k) być łatwe w użyciu i sformułowane w sposób ułatwiający weryfikację ich przestrzegania. 
+W przypadku gdy dana działalność gospodarcza należy do jednej z kategorii, o których mowa w lit. h), techniczne kry­
+teria kwalifikacji wyraźnie wskazują na ten fakt. 
+2.
+Techniczne kryteria kwalifikacji, o których mowa w ust. 1, obejmują również kryteria dotyczące działalności związa­
+nej z przejściem na czystą energię, zgodnie ze ścieżką prowadzącą do ograniczenia wzrostu temperatury do 1,50 C powyżej 
+poziomów sprzed epoki przemysłowej, w szczególności w dziedzinie efektywności energetycznej i energii ze źródeł odna­
+wialnych, w takim zakresie, w jakim działalność ta wnosi istotny wkład w realizację któregokolwiek z celów środowisko­
+wych. 
+3.
+Techniczne kryteria kwalifikacji, o których mowa w ust. 1, zapewniają, by działalność w zakresie wytwarzania energii 
+elektrycznej z użyciem stałych paliw kopalnych, nie kwalifikowała się jako zrównoważona środowiskowo działalność gos­
+podarcza. 
+4.
+Techniczne kryteria kwalifikacji, o których mowa w ust. 1, obejmują również kryteria dotyczące działalności związa­
+nej z przejściem na czystą lub neutralną dla klimatu mobilność, w szczególności dzięki przesunięciom międzygałęziowym, 
+środkom w zakresie efektywności i paliwom alternatywnym, w zakresie, w jakim działalność ta wnosi istotny wkład w rea­
+lizację któregokolwiek z celów środowiskowych. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/36                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 25/31 =====
+
+5.
+Komisja regularnie dokonuje przeglądu technicznych kryteriów kwalifikacji, o których mowa w ust. 1, oraz w sto­
+sownych przypadkach zmienia akty delegowane przyjęte zgodnie z niniejszym rozporządzeniem w świetle postępu nauko­
+wego i technicznego. 
+W tym kontekście przed zmianą lub zastąpieniem aktu delegowanego Komisja ocenia wdrożenie tych kryteriów z uwzględ­
+nieniem wyników ich stosowania przez uczestników rynku finansowego oraz ich wpływu na rynki kapitałowe, w tym na 
+przekierowywanie inwestycji w stronę zrównoważonej środowiskowo działalności gospodarczej. 
+Aby zapewnić utrzymanie działalności gospodarczej, o której mowa w art. 10 ust. 2, na wiarygodnej ścieżce ku przejściu 
+zgodnej z gospodarką neutralną dla klimatu Komisja dokonuje przeglądu technicznych kryteriów kwalifikacji dotyczących 
+tej działalności co najmniej co trzy lata i w stosownych przypadkach zmienia akt delegowany, o którym mowa w art. 10 
+ust. 3, w świetle postępu naukowego i technicznego. 
+Artykuł 20 
+Platforma ds. zrównoważonego finansowania 
+1.
+Komisja ustanawia platformę ds. zrównoważonego finansowania (zwaną dalej „platformą”). Jej skład musi być wywa­
+żony i obejmować następujące grupy: 
+a) przedstawicieli: 
+(i) 
+Europejskiej Agencji Środowiska; 
+(ii) Europejskich Urzędów Nadzoru; 
+(iii) Europejskiego Banku Inwestycyjnego oraz Europejskiego Funduszu Inwestycyjnego; oraz 
+(iv) Agencji Praw Podstawowych Unii Europejskiej; 
+b) ekspertów reprezentujących odpowiednie zainteresowane strony z sektora prywatnego, w tym uczestników rynków 
+finansowych i niefinansowych oraz sektory działalności gospodarczej, reprezentujących odpowiednie gałęzie przemy­
+słu, a także osoby posiadające wiedzę specjalistyczną w dziedzinie rachunkowości i sprawozdawczości. 
+c) ekspertów reprezentujących społeczeństwo obywatelskie, w tym osoby posiadające wiedzę specjalistyczną w dziedzinie 
+środowiska, spraw społecznych, pracowniczych i zarządzania; 
+d) ekspertów działających we własnym imieniu, posiadających udokumentowaną wiedzę i doświadczenie w dziedzinach 
+objętych niniejszym rozporządzeniem; 
+e) ekspertów reprezentujących środowiska akademickie, w tym uniwersytety, instytuty badawcze i inne organizacje 
+naukowe, w tym osoby z globalną wiedzą specjalistyczną. 
+2.
+Platforma: 
+a) doradza Komisji w kwestii technicznych kryteriów kwalifikacji, o których mowa w art. 19, a także w kwestii ewentual­
+nej potrzeby aktualizacji tych kryteriów; 
+b) analizuje skutki technicznych kryteriów kwalifikacji pod względem potencjalnych kosztów i korzyści płynących z ich 
+stosowania; 
+c) pomaga Komisji w analizie wniosków zainteresowanych stron w sprawie opracowania lub zmiany technicznych kryte­
+riów kwalifikacji dotyczących danej działalności gospodarczej; 
+d) doradza Komisji, w stosownych przypadkach, w kwestii ewentualnej roli standardów rachunkowości i sprawozda­
+wczości dotyczącej zrównoważonego rozwoju we wspieraniu stosowania technicznych kryteriów kwalifikacji; 
+e) monitoruje tendencje w zakresie przepływów kapitału w kierunku zrównoważonych inwestycji na poziomie Unii i pań­
+stw członkowskich oraz składa Komisji regularne sprawozdania na ten temat; 
+f)
+doradza Komisji w kwestii ewentualnej potrzeby opracowywania dalszych środków mających na celu poprawę dostęp­
+ności i jakości danych; 
+g) doradza Komisji w kwestii przydatności technicznych kryteriów kwalifikacji, z uwzględnieniem potrzeby unikania nad­
+miernych obciążeń administracyjnych; 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/37   
+
+
+===== PAGE 26/31 =====
+
+h) doradza Komisji w kwestii ewentualnej konieczności zmiany niniejszego rozporządzenia; 
+i)
+doradza Komisji w kwestii oceny i opracowywania polityki w zakresie zrównoważonego finansowania, w tym odniesie­
+niu do spójności polityki; 
+j)
+doradza Komisji w kwestii uwzględniania innych celów dotyczących zrównoważonego rozwoju, w tym celów społecz­
+nych; 
+k) doradza Komisji w kwestii stosowania art. 18 i ewentualnej potrzeby uzupełnienia zawartych tam wymogów. 
+3.
+Platforma uwzględnia szeroki zakres opinii zainteresowanych stron. 
+4.
+Platformie przewodniczy Komisja; platforma zostaje utworzona zgodnie z przepisami horyzontalnymi dotyczącymi 
+tworzenia i funkcjonowania grup eksperckich Komisji. W tym kontekście Komisja może zapraszać na zasadzie ad hoc eks­
+pertów posiadających wiedzą specjalistyczną w określonych dziedzinach. 
+5.
+Platforma wykonuje swoje zadania zgodnie z zasadą przejrzystości. Komisja publikuje na swojej stronie internetowej 
+protokoły posiedzeń platformy i inne odnośne dokumenty. 
+6.
+W przypadku gdy uczestnicy rynku finansowego uznają, że działalność gospodarcza, która nie spełnia technicznych 
+kryteriów kwalifikacji ustanowionych zgodnie z niniejszym rozporządzeniem lub w odniesieniu do której takie kryteria 
+nie zostały jeszcze ustanowione, powinna kwalifikować się jako zrównoważona środowiskowo, mogą oni o tym powiado­
+mić platformę. 
+Artykuł 21 
+Właściwe organy 
+1.
+Państwa członkowskie zapewniają, by właściwe organy, o których mowa w art. 14 ust. 1 rozporządzenia (UE) 
+2019/2088 monitorowały przestrzeganie przez uczestników rynku finansowego wymogów określonych w art. 5, 6 i 7 
+niniejszego rozporządzenia. Państwa członkowskie zapewniają, by ich właściwe organy posiadały wszelkie uprawnienia 
+nadzorcze i uprawnienia w zakresie prowadzenia postępowań wyjaśniających niezbędne do wykonywania ich funkcji w 
+ramach niniejszego rozporządzenia. 
+2.
+Do celów niniejszego rozporządzenia wszystkie właściwe organy współpracują ze sobą i bez zbędnej zwłoki przeka­
+zują sobie nawzajem informacje mające znaczenie do celów wykonywania ich obowiązków w ramach niniejszego rozpo­
+rządzenia. 
+Artykuł 22 
+Środki i sankcje 
+Państwa członkowskie ustanawiają przepisy dotyczące środków i sankcji mających zastosowanie w przypadku naruszenia 
+art. 5, 6 i 7. Przewidziane środki i sankcje muszą być skuteczne, proporcjonalne i odstraszające. 
+Artykuł 23 
+Wykonywanie przekazanych uprawnień 
+1.
+Powierzenie Komisji uprawnień do przyjmowania aktów delegowanych podlega warunkom określonym w niniej­
+szym artykule. 
+2.
+Uprawnienia do przyjmowania aktów delegowanych, o których mowa w art. 8 ust. 4, art. 10 ust. 3, art. 11 ust. 3, art. 12 
+ust. 2, art. 13 ust. 2, art. 14 ust. 2 oraz art. 15 ust. 2, powierza się Komisji na czas nieokreślony od dnia 12 lipca 2020 r. 
+3.
+Przekazanie uprawnień, o którym mowa w art. 8 ust. 4, art. 10 ust. 3, art. 11 ust. 3, art. 12 ust. 2, art. 13 ust. 2, 
+art. 14 ust. 2 i art. 15 ust. 2, może zostać w dowolnym momencie odwołane przez Parlament Europejski lub przez Radę. 
+Decyzja o odwołaniu kończy przekazanie określonych w niej uprawnień. Decyzja o odwołaniu staje się skuteczna następ­
+nego dnia po jej opublikowaniu w Dzienniku Urzędowym Unii Europejskiej lub w późniejszym terminie określonym w tej 
+decyzji. Nie wpływa ona na ważność już obowiązujących aktów delegowanych. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/38                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 27/31 =====
+
+4.
+Przed przyjęciem i podczas opracowywania aktów delegowanych Komisja gromadzi wszelką niezbędną wiedzę spe­
+cjalistyczną, w tym w drodze konsultacji z ekspertami należącymi do grupy ekspertów z państw członkowskich ds. zrów­
+noważonego finansowania, o której mowa w art. 24. Przed przyjęciem aktu delegowanego Komisja działa zgodnie z zasa­
+dami i procedurami określonymi w Porozumieniu międzyinstytucjonalnym z dnia 13 kwietnia 2016 r. w sprawie lepszego 
+stanowienia prawa. 
+5.
+Niezwłocznie po przyjęciu aktu delegowanego Komisja przekazuje go równocześnie Parlamentowi Europejskiemu i 
+Radzie. 
+6.
+Akt delegowany przyjęty na podstawie art. 8 ust. 4, art. 10 ust. 3, art. 11 ust. 3, art. 12 ust. 2, art. 13 ust. 2, art. 14 
+ust. 2 lub art. 15 ust. 2 wchodzi w życie tylko wówczas, gdy ani Parlament Europejski, ani Rada nie wyraziły sprzeciwu w 
+terminie czterech miesięcy od przekazania tego aktu Parlamentowi Europejskiemu i Radzie, lub gdy, przed upływem tego 
+terminu, zarówno Parlament Europejski, jak i Rada poinformowały Komisję, że nie wniosą sprzeciwu. Termin ten przed­
+łuża się o dwa miesiące z inicjatywy Parlamentu Europejskiego lub Rady. 
+Artykuł 24 
+Grupa ekspertów z państw członkowskich ds. zrównoważonego finansowania 
+1.
+Grupa ekspertów z państw członkowskich ds. zrównoważonego finansowania (zwana dalej „grupą ekspertów z pań­
+stw członkowskich”) doradza Komisji w kwestii adekwatności technicznych kryteriów kwalifikacji oraz podejścia przyję­
+tego przez platformę, co do opracowywania tych kryteriów zgodnie z art. 19. 
+2.
+Komisja przekazuje informacje państwom członkowskim w ramach posiedzeń grupy ekspertów z państw członkow­
+skich w celu ułatwienia terminowej wymiany poglądów między państwami członkowskimi a Komisją, w szczególności w 
+odniesieniu do najważniejszych rezultatów wypracowywanych przez platformę, takich jak nowe techniczne kryteria kwali­
+fikacji lub ich istotne aktualizacje, lub projektów sprawozdań. 
+ROZDZIAŁ III 
+PRZEPISY KOŃCOWE 
+Artykuł 25 
+Zmiany w rozporządzeniu (UE) 2019/2088 
+W rozporządzeniu (UE) 2019/2088 wprowadza się następujące zmiany: 
+1) dodaje się artykuł w brzmieniu: 
+„Artykuł 2a 
+Zasada »nie czyń poważnych szkód« 
+1.
+Europejskie urzędy nadzoru ustanowione rozporządzeniami Parlamentu Europejskiego i Rady (UE) 
+nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010 (łącznie zwane »europejskimi urzędami nadzoru«), poprzez 
+wspólny komitet, opracowują projekty regulacyjnych standardów technicznych w celu doprecyzowania szczegółów 
+treści i prezentacji informacji dotyczących zasady »nie czyń poważnych szkód«, o której mowa w art. 2 pkt 17 niniej­
+szego rozporządzenia, spójne z treścią, metodami i sposobem prezentacji w zakresie wskaźników zrównoważonego 
+rozwoju w odniesieniu do niekorzystnych skutków, o których mowa w art. 4 ust. 6 i 7 niniejszego rozporządzenia. 
+2.
+Europejskie urzędy nadzoru przedstawią Komisji projekty regulacyjnych standardów technicznych, o których 
+mowa w ust. 1, do dnia 30 grudnia 2020 r. 
+3.
+Komisji przekazuje się uprawnienia do uzupełnienia niniejszego rozporządzenia w drodze przyjmowania regula­
+cyjnych standardów technicznych, o których mowa w ust. 1 niniejszego artykułu, zgodnie z art. 10–14 rozporządzeń 
+(UE) nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010.”; 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/39   
+
+
+===== PAGE 28/31 =====
+
+2) w art. 8 wprowadza się następujące zmiany: 
+a) dodaje się ustęp w brzmieniu: 
+„2a.
+W przypadku gdy uczestnicy rynku finansowego udostępniają produkt finansowy, o którym mowa w art. 6 
+rozporządzenia Parlamentu Europejskiego i Rady (*) (UE) 2020/852, do informacji ujawnianych na podstawie art. 6 
+ust. 1 i 3 niniejszego rozporządzenia włączają informacje wymagane na podstawie art. 6 rozporządzenia (UE) 2020/ 
+852 
+_____________ 
+(*) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustano-
+wienia ram ułatwiających zrównoważone inwestycje, zmieniające rozporządzenie (UE) 2019/2088 
+(Dz.U. L 198 z 22.6.2020, s. 13).”; 
+b) ust. 3 akapit pierwszy otrzymuje brzmienie: 
+„3.
+Europejskie urzędy nadzoru, poprzez wspólny komitet, opracowują projekty regulacyjnych standardów tech­
+nicznych w celu doprecyzowania szczegółów treści i prezentacji informacji ujawnianych na podstawie z ust. 1 i 2 
+niniejszego artykułu.”; 
+c) dodaje się ustęp w brzmieniu: 
+„4.
+Europejskie urzędy nadzoru, poprzez wspólny komitet, opracowują projekty regulacyjnych standardów tech­
+nicznych w celu doprecyzowania szczegółów treści i prezentacji informacji, o których mowa w ust. 2a niniejszego 
+artykułu. 
+Przy opracowywaniu projektów regulacyjnych standardów technicznych, o których mowa w akapicie pierwszym 
+niniejszego ustępu, europejskie urzędy nadzoru biorą pod uwagę różne rodzaje produktów finansowych, ich cechy 
+oraz różnice pomiędzy nimi, a także cel polegający na ujawnianiu informacji, które mają być dokładne, rzetelne, 
+jasne, niewprowadzające w błąd, proste i zwięzłe, oraz – w razie potrzeby, z myślą o osiągnięciu tego celu – opraco­
+wują projekt zmian regulacyjnych standardów technicznych, o których mowa w ust. 3 niniejszego artykułu. W pro­
+jektach regulacyjnych standardów technicznych uwzględnia się odpowiednie daty rozpoczęcia stosowania określone 
+w art. 27 ust. 2 lit. a) i b) rozporządzenia (UE) 2020/852 w odniesieniu do celów środowiskowych, określonych w 
+art. 9 tego rozporządzenia. 
+Europejskie urzędy nadzoru przedstawią Komisji projekty regulacyjnych standardów technicznych, o których mowa 
+w akapicie pierwszym: 
+a) w odniesieniu do celów środowiskowych, o których mowa w art. 9 lit. a) i b) rozporządzenia (UE) 2020/852 do 
+dnia 1 czerwca 2021 r.; oraz 
+b) w odniesieniu do celów środowiskowych, o których mowa w art. 9 lit. c)–f) rozporządzenia (UE) 2020/852 do 
+dnia 1 czerwca 2022 r. 
+Komisji przekazuje się uprawnienia do uzupełnienia niniejszego rozporządzenia w drodze przyjmowania regulacyj­
+nych standardów technicznych, o których mowa w akapicie pierwszym niniejszego ustępu, zgodnie z art. 10–14 
+rozporządzeń (UE) nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010.”; 
+3) w art. 9 wprowadza się następujące zmiany: 
+a) dodaje się ustęp w brzmieniu: 
+„4a.
+Uczestnicy rynku finansowego włączają do informacji ujawnianych na podstawie art. 6 ust. 1 i 3 niniejszego 
+rozporządzenia informacje wymagane na podstawie art. 5 rozporządzenia (UE) 2020/852”; 
+b) ust. 5 akapit pierwszy otrzymuje brzmienie: 
+„5.
+Europejskie urzędy nadzoru, poprzez wspólny komitet, opracowują projekty regulacyjnych standardów tech­
+nicznych w celu doprecyzowania szczegółów treści i prezentacji informacji ujawnianych na podstawie z ust. 1 - 4 
+niniejszego artykułu.”; 
+c) dodaje się ustęp w brzmieniu: 
+6.
+Europejskie urzędy nadzoru, poprzez wspólny komitet, opracowują projekty regulacyjnych standardów tech­
+nicznych w celu doprecyzowania szczegółów treści i prezentacji informacji, o których mowa w ust. 4a niniejszego 
+artykułu. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/40                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 29/31 =====
+
+Przy opracowywaniu projektów regulacyjnych standardów technicznych, o których mowa w akapicie pierwszym 
+niniejszego ustępu, europejskie urzędy nadzoru biorą pod uwagę różne rodzaje produktów finansowych, ich cele, o 
+których mowa w ust. 4a niniejszego artykułu, oraz różnice pomiędzy nimi, a także cel polegający na ujawnianiu 
+informacji, które mają być dokładne, rzetelne, jasne, niewprowadzające w błąd, proste i zwięzłe, oraz – w razie 
+potrzeby, z myślą o osiągnięciu tego celu – opracowują projekt zmian regulacyjnych standardów technicznych, o 
+których mowa w ust. 5 niniejszego artykułu. W projektach regulacyjnych standardów technicznych uwzględnia się 
+odpowiednie daty rozpoczęcia stosowania określone w art. 27 ust. 2 lit. a) i b) rozporządzenia (UE) 2020/852 w 
+odniesieniu do celów środowiskowych, określonych w art. 9 tego rozporządzenia. 
+Europejskie urzędy nadzoru przedstawią Komisji projekty regulacyjnych standardów technicznych, o których mowa 
+w akapicie pierwszym: 
+a) w odniesieniu do celów środowiskowych, o których mowa w art. 9 lit. a) i b) rozporządzenia (UE) 2020/852 do 
+dnia 1 czerwca 2021 r.; oraz 
+b) w odniesieniu do celów środowiskowych, o których mowa w art. 9 lit. c)–f) rozporządzenia (UE) 2020/852 do 
+dnia 1 czerwca 2022 r. 
+Komisji przekazuje się uprawnienia do uzupełnienia niniejszego rozporządzenia w drodze przyjmowania regulacyj­
+nych standardów technicznych, o których mowa w akapicie pierwszym niniejszego ustępu, zgodnie z art. 10–14 
+rozporządzeń (UE) nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010.”; 
+4) w art. 11 wprowadza się następujące zmiany: 
+a) w ust. 1 dodaje się litery w brzmieniu: 
+„c) w przypadku produktu finansowego podlegającego art. 5 rozporządzenia (UE) 2020/852 – informacje wyma­
+gane na podstawie tego artykułu; 
+d)
+w przypadku produktu finansowego podlegającego art. 6 rozporządzenia (UE) 2020/852 – informacje wyma­
+gane na podstawie tego artykułu.”; 
+b) ust. 4 akapit pierwszy otrzymuje brzmienie: 
+„4.
+Europejskie urzędy nadzoru, poprzez wspólny komitet, opracowują projekty regulacyjnych standardów tech­
+nicznych w celu doprecyzowania szczegółów treści i prezentacji informacji ujawnianych na podstawie ust. 1 lit. a) i b)”; 
+c) dodaje się ustęp w brzmieniu 
+5.
+Europejskie urzędy nadzoru, poprzez wspólny komitet, opracowują projekty regulacyjnych standardów tech­
+nicznych w celu doprecyzowania szczegółów treści i prezentacji informacji, o których mowa w ust. 1 lit. c) i d). 
+Przy opracowywaniu projektów regulacyjnych standardów technicznych, o których mowa w akapicie pierwszym 
+niniejszego ustępu, europejskie urzędy nadzoru biorą pod uwagę różne rodzaje produktów finansowych, ich cechy 
+i cele oraz różnice pomiędzy nimi oraz, w razie potrzeby, opracowują projekt zmian regulacyjnych standardów 
+technicznych, o których mowa w ust. 4 niniejszego artykułu. W projektach regulacyjnych standardów technicznych 
+uwzględnia się odpowiednie daty rozpoczęcia stosowania określone w art. 27 ust. 2 lit. a) i b) rozporządzenia (UE) 
+2020/852 w odniesieniu do celów środowiskowych określonych w art. 9 tego rozporządzenia. Europejskie urzędy 
+nadzoru aktualizują regulacyjne standardy techniczne w świetle zmian w regulacjach i rozwoju technologicznego. 
+Europejskie urzędy nadzoru przedstawią Komisji projekty regulacyjnych standardów technicznych, o których mowa 
+w akapicie pierwszym: 
+a) w odniesieniu do celów środowiskowych, o których mowa w art. 9 lit. a) i b) rozporządzenia (UE) 2020/852 do 
+dnia 1 czerwca 2021 r.; oraz 
+b) w odniesieniu do celów środowiskowych, o których mowa w art. 9 lit. c)–f) rozporządzenia (UE) 2020/852 do 
+dnia 1 czerwca 2022 r. 
+Komisji przekazuje się uprawnienia do uzupełnienia niniejszego rozporządzenia w drodze przyjmowania regulacyj­
+nych standardów technicznych, o których mowa w akapicie pierwszym niniejszego ustępu, zgodnie z art. 10–14 
+rozporządzeń (UE) nr 1093/2010, (UE) nr 1094/2010 i (UE) nr 1095/2010.”; 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/41   
+
+
+===== PAGE 30/31 =====
+
+5) art. 20 ust. 3 otrzymuje brzmienie: 
+„3.
+Na zasadzie odstępstwa od ust. 2 niniejszego artykułu: 
+a) art. 4 ust. 6 i 7, art. 8 ust. 3, art. 9 ust. 5, art. 10 ust. 2, art. 11 ust. 4 i art. 13 ust. 2 stosuje się od dnia 29 grudnia 2019 r.; 
+b) art. 2a, art. 8 ust. 4, art. 9 ust. 6 i art. 11 ust. 5 stosuje się od dnia 12 lipca 2020 r.; 
+c) art. 8 ust. 2a i art. 9 ust. 4a stosuje się: 
+(i) w odniesieniu do celów środowiskowych, o których mowa w art. 9 lit. a) i b) rozporządzenia (UE) 2020/852 od 
+dnia 1 stycznia 2022 r.; oraz 
+(ii) w odniesieniu do celów środowiskowych, o których mowa w art. 9 lit. c)–f) rozporządzenia (UE) 2020/852 od 
+dnia 1 stycznia 2023 r.; 
+d) art. 11 ust. 1, 2 i 3 stosuje się od dnia 1 stycznia 2022 r.”. 
+Artykuł 26 
+Przegląd 
+1.
+Do dnia 13 lipca 2022 r. i następnie co trzy lata Komisja publikuje sprawozdanie dotyczące stosowania niniejszego 
+rozporządzenia. W sprawozdaniu tym ocenia się: 
+a) postępy w wykonywaniu niniejszego rozporządzenia w odniesieniu do opracowywania technicznych kryteriów kwalifi­
+kacji dotyczących zrównoważonej środowiskowo działalności gospodarczej; 
+b) ewentualną konieczność zmiany i uzupełnienia określonych w art. 3 kryteriów kwalifikowania danej działalności gos­
+podarczej jako zrównoważonej środowiskowo; 
+c) stosowanie definicji zrównoważonych środowiskowo inwestycji w prawie Unii, a także na poziomie państw członkow­
+skich, w tym przepisów wymaganych w celu utworzenia mechanizmu weryfikacji zgodności z kryteriami określonymi 
+w niniejszym rozporządzeniu; 
+d) skuteczność zastosowania technicznych kryteriów kwalifikacji ustanowionych na mocy niniejszego rozporządzenia w 
+zakresie przekierowywania inwestycji prywatnych w stronę zrównoważonej środowiskowo działalności gospodarczej, 
+szczególnie w odniesieniu do przepływów kapitału, łącznie z udziałem kapitałowym, do przedsiębiorstw prywatnych i 
+innych podmiotów prawnych zarówno poprzez produkty finansowe, objęte zakresem stosowania niniejszego rozpo­
+rządzenia, jak i inne produkty finansowe; 
+e) dostęp uczestników rynku finansowego objętych zakresem stosowania niniejszego rozporządzenia, oraz inwestorów do 
+wiarygodnych, terminowych i możliwych do zweryfikowania informacji i danych dotyczących przedsiębiorstw prywat­
+nych i innych podmiotów prawnych, z uwzględnieniem spółek, w których dokonano inwestycji, objętych zakresem sto­
+sowania niniejszego rozporządzenia i nim nieobjętych oraz – w obu przypadkach – w odniesieniu do kapitału własnego 
+i kapitału obcego, z uwzględnieniem związanych z tym obciążeń administracyjnych, a także procedur dotyczących 
+weryfikacji danych niezbędnych do określenia stopnia dostosowania do technicznych kryteriów kwalifikacji i zapewnie­
+nia zgodności z tymi procedurami; 
+f) zastosowanie art. 21 i 22. 
+2.
+Do dnia 31 grudnia 2021 r. Komisja opublikuje sprawozdanie opisujące przepisy, które byłyby wymagane do rozsze-
+rzenia zakresu stosowania niniejszego rozporządzenia poza zrównoważoną środowiskowo działalność gospodarczą oraz 
+opisujące przepisy niezbędne do objęcia tym zakresem: 
+a) działalności gospodarczej, która nie ma istotnego wpływu na zrównoważenie środowiskowe, oraz działalności gospo­
+darczej, która wyrządza poważne szkody zrównoważeniu środowiskowemu, jak również przegląd adekwatności szcze­
+gólnych wymogów dotyczących ujawniania informacji w odniesieniu do przejściowej działalności i działalności wspo­
+magającej; oraz 
+b) innych celów dotyczących zrównoważonego rozwoju, w tym celów społecznych. 
+3.
+Do dnia 13 lipca 2022 r. Komisja oceni skuteczność procedur doradczych do celów opracowywania technicznych 
+kryteriów kwalifikacji ustanowionych na mocy niniejszego rozporządzenia. 
+PL
+Dziennik Urzędowy Unii Europejskiej 
+L 198/42                                                                                                                                         
+22.6.2020   
+
+
+===== PAGE 31/31 =====
+
+Artykuł 27 
+Wejście w życie i stosowanie 
+1.
+Niniejsze rozporządzenie wchodzi w życie dwudziestego dnia po jego opublikowaniu w Dzienniku Urzędowym Unii 
+Europejskiej. 
+2.
+Art. 4, 5, 6 i 7 oraz art. 8 ust. 1, 2 i 3 stosuje się: 
+a) w odniesieniu do celów środowiskowych, o których mowa w art. 9 lit. a) i b), od dnia 1 stycznia 2022 r.; oraz 
+b) w odniesieniu do celów środowiskowych, o których mowa w art. 9 lit. c)–f), od dnia 1 stycznia 2023 r. 
+3.
+Art. 4 nie stosuje się do systemów zachęt podatkowych opartych na certyfikatach, które istnieją przed wejściem w 
+życie niniejszego rozporządzenia i które określają wymogi w odniesieniu do produktów finansowych, których celem jest 
+finansowanie zrównoważonych projektów. 
+Niniejsze rozporządzenie wiąże w całości i jest bezpośrednio stosowane we wszystkich pań­
+stwach członkowskich. 
+Sporządzono w Brukseli dnia 18 czerwca 2020 r. 
+W imieniu Parlamentu Europejskiego 
+D. M. SASSOLI 
+Przewodniczący 
+W imieniu Rady 
+N. BRNJAC 
+Przewodniczący     
+PL
+Dziennik Urzędowy Unii Europejskiej 
+22.6.2020                                                                                                                                         
+L 198/43   

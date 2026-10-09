@@ -1,0 +1,8 @@
+USGBC 
+
+By clicking logout button below, you will be logged out of all the USGBC and GBCI applications in this browser. 
+
+Click the logout button below to continue logging out or cancel button to stay logged in. 
+
+Logout Cancel 
+

@@ -1,0 +1,446 @@
+[
+  {
+    "text": "Skip to main content",
+    "href": "#main-content"
+  },
+  {
+    "text": "About ESMA",
+    "href": "/about-esma"
+  },
+  {
+    "text": "Governance Structure",
+    "href": "/about-esma/governance-structure"
+  },
+  {
+    "text": "Board of Supervisors",
+    "href": "/about-esma/governance-structure/board-of-supervisors"
+  },
+  {
+    "text": "Management Board",
+    "href": "/about-esma/governance-structure/management-board"
+  },
+  {
+    "text": "Senior Management",
+    "href": "/about-esma/governance-structure/senior-management"
+  },
+  {
+    "text": "Joint Committee",
+    "href": "/about-esma/governance-structure/joint-committee"
+  },
+  {
+    "text": "CCP Supervisory Committee",
+    "href": "/about-esma/governance-structure/ccp-supervisory-committee"
+  },
+  {
+    "text": "CCP Resolution Committee",
+    "href": "/about-esma/governance-structure/ccp-resolution-committee"
+  },
+  {
+    "text": "Joint Monitoring Mechanism",
+    "href": "/about-esma/governance-structure/joint-monitoring-mechanism"
+  },
+  {
+    "text": "Standing Committees",
+    "href": "/about-esma/governance-structure/standing-committees"
+  },
+  {
+    "text": "SMSG",
+    "href": "/about-esma/stakeholder-engagement/smsg"
+  },
+  {
+    "text": "Board of Appeal",
+    "href": "/about-esma/governance-structure/board-appeal"
+  },
+  {
+    "text": "Ethics and Conflicts of interest",
+    "href": "/about-esma/governance-structure/ethics-and-conflict-interests"
+  },
+  {
+    "text": "Internal Organisation",
+    "href": "/about-esma/internal-organisation"
+  },
+  {
+    "text": "Strategy and Work Programme",
+    "href": "/about-esma/internal-organisation/strategy-and-work-programme"
+  },
+  {
+    "text": "Working Methods",
+    "href": "/about-esma/internal-organisation/working-methods"
+  },
+  {
+    "text": "Diversity, Equity and Inclusion",
+    "href": "/about-esma/internal-organisation/diversity-equity-and-inclusion"
+  },
+  {
+    "text": "International Cooperation",
+    "href": "/about-esma/international-cooperation"
+  },
+  {
+    "text": "Legal Notice and Data Protection",
+    "href": "/about-esma/governance-structure/legal-notice-data-protection"
+  },
+  {
+    "text": "Transparency and Access to Documents",
+    "href": "/about-esma/transparency-and-access-documents"
+  },
+  {
+    "text": "Agenda",
+    "href": "/press-news/key-dates"
+  },
+  {
+    "text": "Careers",
+    "href": "/about-esma/careers"
+  },
+  {
+    "text": "Procurement Opportunities",
+    "href": "/about-esma/procurements"
+  },
+  {
+    "text": "ESMA's Activities",
+    "href": "/esmas-activities"
+  },
+  {
+    "text": "Investors and Issuers",
+    "href": "/esmas-activities/investors-and-issuers"
+  },
+  {
+    "text": "Benchmark Administrators",
+    "href": "/esmas-activities/investors-and-issuers/benchmark-administrators"
+  },
+  {
+    "text": "Credit Rating Agencies",
+    "href": "/esmas-activities/investors-and-issuers/credit-rating-agencies"
+  },
+  {
+    "text": "ESG Rating Providers",
+    "href": "/esmas-activities/investors-and-issuers/esg-rating-providers"
+  },
+  {
+    "text": "External Reviewers of European Green Bonds",
+    "href": "/esmas-activities/investors-and-issuers/external-reviewers-european-green-bonds"
+  },
+  {
+    "text": "Fund Management",
+    "href": "/esmas-activities/investors-and-issuers/fund-management"
+  },
+  {
+    "text": "Issuer Disclosure",
+    "href": "/esmas-activities/investors-and-issuers/issuer-disclosure"
+  },
+  {
+    "text": "Investment Services and Crowdfunding",
+    "href": "/esmas-activities/investors-and-issuers/investment-services-and-crowdfunding"
+  },
+  {
+    "text": "Markets and Infrastructure",
+    "href": "/esmas-activities/markets-and-infrastructure"
+  },
+  {
+    "text": "Central Counterparties",
+    "href": "/esmas-activities/markets-and-infrastructure/central-counterparties"
+  },
+  {
+    "text": "Data Reporting Services Providers",
+    "href": "/esmas-activities/markets-and-infrastructure/data-reporting-services-providers"
+  },
+  {
+    "text": "Trading",
+    "href": "/esmas-activities/markets-and-infrastructure/trading"
+  },
+  {
+    "text": "Consolidated Tape Providers",
+    "href": "/esmas-activities/markets-and-infrastructure/consolidated-tape-providers"
+  },
+  {
+    "text": "Post-trading",
+    "href": "/esmas-activities/markets-and-infrastructure/post-trading"
+  },
+  {
+    "text": "Shortening the settlement cycle to T+1 in the EU",
+    "href": "/esmas-activities/markets-and-infrastructure/shortening-settlement-cycle-t1-eu"
+  },
+  {
+    "text": "Market Integrity",
+    "href": "/esmas-activities/markets-and-infrastructure/market-integrity"
+  },
+  {
+    "text": "Short Selling",
+    "href": "/esmas-activities/markets-and-infrastructure/short-selling"
+  },
+  {
+    "text": "Central Securities Depositories",
+    "href": "/esmas-activities/markets-and-infrastructure/central-securities-depositories"
+  },
+  {
+    "text": "Securitisation",
+    "href": "/esmas-activities/markets-and-infrastructure/securitisation"
+  },
+  {
+    "text": "Trade Repositories",
+    "href": "/esmas-activities/markets-and-infrastructure/trade-repositories"
+  },
+  {
+    "text": "Risk Analysis",
+    "href": "/esmas-activities/risk-analysis"
+  },
+  {
+    "text": "Risk Monitoring",
+    "href": "/esmas-activities/risk-analysis/risk-monitoring"
+  },
+  {
+    "text": "Topical Analysis",
+    "href": "/esmas-activities/risk-analysis/topical-analysis"
+  },
+  {
+    "text": "Interactive Dashboards",
+    "href": "/esmas-activities/risk-analysis/interactive-dashboards"
+  },
+  {
+    "text": "Sustainable Finance",
+    "href": "/esmas-activities/sustainable-finance"
+  },
+  {
+    "text": "Climate benchmarks and ESG disclosure",
+    "href": "/esmas-activities/sustainable-finance/climate-benchmarks-and-esg-disclosure"
+  },
+  {
+    "text": "CRAs and Sustainability",
+    "href": "/esmas-activities/sustainable-finance/cras-and-sustainability"
+  },
+  {
+    "text": "Investment Services and Fund Management",
+    "href": "/esmas-activities/sustainable-finance/investment-services-and-fund-management"
+  },
+  {
+    "text": "Sustainability Reporting",
+    "href": "/esmas-activities/sustainable-finance/sustainability-reporting"
+  },
+  {
+    "text": "Digital Finance and Innovation",
+    "href": "/esmas-activities/digital-finance-and-innovation"
+  },
+  {
+    "text": "Digital Operational Resilience Act (DORA)",
+    "href": "/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora"
+  },
+  {
+    "text": "DLT Pilot Regime",
+    "href": "/esmas-activities/digital-finance-and-innovation/dlt-pilot-regime"
+  },
+  {
+    "text": "Markets in Crypto-Assets Regulation (MiCA)",
+    "href": "/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica"
+  },
+  {
+    "text": "Supervision",
+    "href": "/esmas-activities/supervision"
+  },
+  {
+    "text": "Registration with ESMA",
+    "href": "/esmas-activities/supervision-and-convergence/registration-with-ESMA"
+  },
+  {
+    "text": "Investigations and Inspections",
+    "href": "/esmas-activities/supervision-and-convergence/investigations-and-inspections"
+  },
+  {
+    "text": "Sanctions and Enforcement",
+    "href": "/esmas-activities/supervision-and-convergence/sanctions-and-enforcement"
+  },
+  {
+    "text": "Supervisory Convergence",
+    "href": "/esmas-activities/supervisory-convergence"
+  },
+  {
+    "text": "Supervisory Convergence Tools",
+    "href": "/esmas-activities/supervision-and-convergence/supervisory-convergence-tools"
+  },
+  {
+    "text": "Enforcement Convergence Initiatives",
+    "href": "/esmas-activities/supervision-and-convergence/enforcement-convergence-initiatives"
+  },
+  {
+    "text": "Peer Reviews",
+    "href": "/publications-and-data/peer-reviews"
+  },
+  {
+    "text": "Breach of Union Law",
+    "href": "/supervisory-convergence-tools/breach-union-law"
+  },
+  {
+    "text": "Data",
+    "href": "/esmas-activities/data"
+  },
+  {
+    "text": "Data Reporting",
+    "href": "/data-reporting"
+  },
+  {
+    "text": "Databases and Registers",
+    "href": "/publications-and-data/databases-and-registers"
+  },
+  {
+    "text": "Data Quality and Use",
+    "href": "/esmas-activities/data/data-quality-and-use"
+  },
+  {
+    "text": "Statistical Information",
+    "href": "/esmas-activities/data/statistical-information"
+  },
+  {
+    "text": "European Single Access Point (ESAP)",
+    "href": "/esmas-activities/data/european-single-access-point-esap"
+  },
+  {
+    "text": "Listing Act",
+    "href": "/esmas-activities/listing-act"
+  },
+  {
+    "text": "Simplification and Burden Reduction",
+    "href": "/esmas-activities/simplification-and-burden-reduction"
+  },
+  {
+    "text": "News & Publications",
+    "href": "/publications-and-data"
+  },
+  {
+    "text": "News",
+    "href": "/press-news/esma-news"
+  },
+  {
+    "text": "Documents",
+    "href": "/databases-library/esma-library"
+  },
+  {
+    "text": "Speeches",
+    "href": "/about-esma/esma-speeches"
+  },
+  {
+    "text": "Newsletter",
+    "href": "/contact-help/newsletter"
+  },
+  {
+    "text": "Interactive Single Rulebook",
+    "href": "/publications-and-data/interactive-single-rulebook"
+  },
+  {
+    "text": "Guidelines, Recommendations and Technical  Standards",
+    "href": "/publications-and-data/guidelines-recommendations-and-technical-standards"
+  },
+  {
+    "text": "Questions and Answers",
+    "href": "/publications-and-data/questions-answers"
+  },
+  {
+    "text": "Investor Corner",
+    "href": "/investor-corner"
+  },
+  {
+    "text": "Is the firm regulated?",
+    "href": "/investor-corner/is-the-firm-regulated"
+  },
+  {
+    "text": "Get ready to invest",
+    "href": "/investor-corner/get-ready-invest"
+  },
+  {
+    "text": "Frauds and Scams related to ESMA Logo and ID",
+    "href": "/investor-corner/frauds-and-scams"
+  },
+  {
+    "text": "Publications for Investors",
+    "href": "/investor-corner/publications-investors"
+  },
+  {
+    "text": "Product Intervention",
+    "href": "/investor-corner/product-intervention"
+  },
+  {
+    "text": "Make a complaint",
+    "href": "/investor-corner/make-complaint"
+  },
+  {
+    "text": "Cost of Investment Products",
+    "href": "/investor-corner/cost-investment-products"
+  },
+  {
+    "text": "Interact With ESMA",
+    "href": "/interact-with-esma"
+  },
+  {
+    "text": "Media Corner",
+    "href": "/contact-help/media-corner"
+  },
+  {
+    "text": "Speaking Requests",
+    "href": "/about-esma/stakeholder-engagement/speaking-requests"
+  },
+  {
+    "text": "Stakeholder Engagement",
+    "href": "/about-esma/stakeholder-engagement"
+  },
+  {
+    "text": "Stakeholder Relations",
+    "href": "/stakeholder-relations"
+  },
+  {
+    "text": "Consultations",
+    "href": "/press-news/consultations"
+  },
+  {
+    "text": "Events",
+    "href": "/press-news/hearings"
+  },
+  {
+    "text": "Whistleblowers",
+    "href": "/about-esma/whistleblowers"
+  },
+  {
+    "text": "Contact & Help",
+    "href": "/contact-help"
+  },
+  {
+    "text": "Contact Information",
+    "href": "/contact-help/esma-contact-information"
+  },
+  {
+    "text": "FAQs",
+    "href": "/contact-help/faqs"
+  },
+  {
+    "text": "Glossary",
+    "href": "/publications-and-data/glossary"
+  },
+  {
+    "text": "Home",
+    "href": "/"
+  },
+  {
+    "text": "News and Publications",
+    "href": "/news-publications"
+  },
+  {
+    "text": "annual work programme",
+    "href": "/databases-library/esma-library?search_api_fulltext=work+programme&search_api_fulltext_1=&items_per_page=20"
+  },
+  {
+    "text": "List of guidelines",
+    "href": "/sites/default/files/library/guidelines_tracker.xlsx"
+  },
+  {
+    "text": "Notifications of Compliance with Guidelines - Overview Table",
+    "href": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.esma.europa.eu%2Fsites%2Fdefault%2Ffiles%2Flibrary%2Fesma42-110-812_compliance_with_guidelines_overview_table.xlsx&wdOrigin=BROWSELINK"
+  },
+  {
+    "text": "recommendations",
+    "href": "/sites/default/files/library/compliance_table_on_esma_recommendations_on_cross-border_activities.pdf"
+  },
+  {
+    "text": "Careers",
+    "href": "/about-esma/internal-organisation/careers"
+  },
+  {
+    "text": "Cookie Policy",
+    "href": "/cookie-policy"
+  }
+]

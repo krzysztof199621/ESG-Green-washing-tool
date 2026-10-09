@@ -1,0 +1,234 @@
+[
+  {
+    "file": "breeam.html",
+    "chars": 8782,
+    "links": 132,
+    "out": "breeam.txt"
+  },
+  {
+    "file": "countemissions.html",
+    "chars": 87738,
+    "links": 283,
+    "out": "countemissions.txt"
+  },
+  {
+    "file": "countemissions_2.pdf",
+    "pages": 22,
+    "chars": 81661,
+    "out": "countemissions_2.txt"
+  },
+  {
+    "file": "countemissions_3.pdf",
+    "pages": 22,
+    "chars": 87977,
+    "out": "countemissions_3.txt"
+  },
+  {
+    "file": "cpr.pdf",
+    "pages": 106,
+    "chars": 389849,
+    "out": "cpr.txt"
+  },
+  {
+    "file": "csddd.html",
+    "chars": 11324,
+    "links": 133,
+    "out": "csddd.txt"
+  },
+  {
+    "file": "csddd_2.pdf",
+    "pages": 58,
+    "chars": 291415,
+    "out": "csddd_2.txt"
+  },
+  {
+    "file": "ecgt.pdf",
+    "pages": 16,
+    "chars": 69007,
+    "out": "ecgt.txt"
+  },
+  {
+    "file": "ecgt_2.html",
+    "chars": 81071,
+    "links": 303,
+    "out": "ecgt_2.txt"
+  },
+  {
+    "file": "ecgt_html.html",
+    "chars": 67503,
+    "links": 53,
+    "out": "ecgt_html.txt"
+  },
+  {
+    "file": "ecgt_oj.pdf",
+    "pages": 3,
+    "chars": 6513,
+    "out": "ecgt_oj.txt"
+  },
+  {
+    "file": "epbd.pdf",
+    "pages": 68,
+    "chars": 270118,
+    "out": "epbd.txt"
+  },
+  {
+    "file": "esa_greenwashing_final_2024.pdf",
+    "skip": "not_pdf"
+  },
+  {
+    "file": "esa_greenwashing_progress_2023.pdf",
+    "skip": "not_pdf"
+  },
+  {
+    "file": "esma_fund_names.pdf",
+    "pages": 10,
+    "chars": 17274,
+    "out": "esma_fund_names.txt"
+  },
+  {
+    "file": "esma_guidelines_hub.html",
+    "chars": 5268,
+    "links": 111,
+    "out": "esma_guidelines_hub.txt"
+  },
+  {
+    "file": "espr.pdf",
+    "pages": 89,
+    "chars": 360895,
+    "out": "espr.txt"
+  },
+  {
+    "file": "eudr.pdf",
+    "pages": 42,
+    "chars": 186681,
+    "out": "eudr.txt"
+  },
+  {
+    "file": "fir_1169.pdf",
+    "pages": 46,
+    "chars": 166404,
+    "out": "fir_1169.txt"
+  },
+  {
+    "file": "green_claims_proposal.pdf",
+    "pages": 80,
+    "chars": 241875,
+    "out": "green_claims_proposal.txt"
+  },
+  {
+    "file": "green_claims_swd.pdf",
+    "pages": 265,
+    "chars": 693280,
+    "out": "green_claims_swd.txt"
+  },
+  {
+    "file": "knf_esa.html",
+    "chars": 1707,
+    "links": 19,
+    "out": "knf_esa.txt"
+  },
+  {
+    "file": "leed.html",
+    "chars": 230,
+    "links": 1,
+    "out": "leed.txt"
+  },
+  {
+    "file": "organic_834.pdf",
+    "pages": 23,
+    "chars": 103982,
+    "out": "organic_834.txt"
+  },
+  {
+    "file": "organic_848.pdf",
+    "pages": 92,
+    "chars": 388181,
+    "out": "organic_848.txt"
+  },
+  {
+    "file": "organic_848_2.html",
+    "chars": 393472,
+    "links": 394,
+    "out": "organic_848_2.txt"
+  },
+  {
+    "file": "organic_pl.html",
+    "chars": 699,
+    "links": 1,
+    "out": "organic_pl.txt"
+  },
+  {
+    "file": "organic_pl.pdf",
+    "pages": 21,
+    "chars": 91668,
+    "out": "organic_pl.txt"
+  },
+  {
+    "file": "organic_pl_2.html",
+    "chars": 699,
+    "links": 1,
+    "out": "organic_pl_2.txt"
+  },
+  {
+    "file": "organic_pl_du.html",
+    "chars": 910,
+    "links": 14,
+    "out": "organic_pl_du.txt"
+  },
+  {
+    "file": "organic_pl_eli.pdf",
+    "pages": 21,
+    "chars": 91668,
+    "out": "organic_pl_eli.txt"
+  },
+  {
+    "file": "sfdr.pdf",
+    "pages": 16,
+    "chars": 75204,
+    "out": "sfdr.txt"
+  },
+  {
+    "file": "taxonomy.pdf",
+    "pages": 31,
+    "chars": 141279,
+    "out": "taxonomy.txt"
+  },
+  {
+    "file": "textiles_strategy.html",
+    "chars": 2217,
+    "links": 19,
+    "out": "textiles_strategy.txt"
+  },
+  {
+    "file": "textiles_strategy_com.pdf",
+    "skip": "not_pdf"
+  },
+  {
+    "file": "textiles_strategy_com_en.pdf",
+    "skip": "not_pdf"
+  },
+  {
+    "file": "uokk.pdf",
+    "pages": 127,
+    "chars": 269993,
+    "out": "uokk.txt"
+  },
+  {
+    "file": "upnpr.html",
+    "chars": 699,
+    "links": 1,
+    "out": "upnpr.txt"
+  },
+  {
+    "file": "upnpr_2.pdf",
+    "pages": 14,
+    "chars": 28100,
+    "out": "upnpr_2.txt"
+  },
+  {
+    "file": "uznk.pdf",
+    "pages": 19,
+    "chars": 39883,
+    "out": "uznk.txt"
+  }
+]

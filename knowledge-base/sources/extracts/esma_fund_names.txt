@@ -1,0 +1,504 @@
+
+
+===== PAGE 1/10 =====
+
+ 
+21/08/2024 
+ESMA34-1592494965-657 
+ 
+ 
+ 
+ 
+ 
+Wytyczne 
+w sprawie stosowania terminów związanych z ESG lub zrównoważonym 
+rozwojem w nazewnictwie funduszy 
+ 
+
+
+===== PAGE 2/10 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ESMA – 201-203 rue de Bercy – CS 80910 – 75589 Paris Cedex 12 – Francja – www.esma.europa.eu 
+ 2 
+ 
+ 
+Spis treści 
+1. 
+Zakres stosowania ...................................................................................................... 3 
+2. 
+Odniesienia do przepisów prawa, skróty i definicje ...................................................... 4 
+2.1. 
+Odniesienia do aktów prawnych ........................................................................... 4 
+2.2. 
+Skróty ................................................................................................................... 5 
+2.3. 
+Definicje ............................................................................................................... 6 
+3. 
+Cel .............................................................................................................................. 6 
+4. 
+Zgodność i obowiązki sprawozdawcze ........................................................................ 6 
+4.1 
+Status wytycznych ................................................................................................ 6 
+4.2 
+Wymogi sprawozdawcze ...................................................................................... 7 
+5. 
+Wytyczne w sprawie stosowania terminów związanych z ESG lub zrównoważonym 
+rozwojem w nazewnictwie funduszy UCITS i AFI ............................................................... 7 
+5.1 
+Objaśnienia kluczowych terminów zawartych w niniejszych wytycznych .............. 7 
+5.2 
+Zalecenia dla zarządzających funduszami dotyczące stosowania terminów w 
+nazewnictwie funduszy ................................................................................................... 8 
+ 
+
+
+===== PAGE 3/10 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+1. Zakres stosowania 
+Kto? 
+1. Niniejsze wytyczne mają zastosowanie do spółek zarządzających UCITS, w tym 
+UCITS, które nie wyznaczyły spółki zarządzającej, zarządzających alternatywnymi 
+funduszami inwestycyjnymi, w tym wewnętrznie zarządzanych AFI, EuVECA, EuSEF i 
+ELTIF oraz zarządzających FRP, a także właściwych organów. 
+Co? 
+2. Niniejsze wytyczne mają zastosowanie w związku z art. 14 ust. 1 lit. a) dyrektywy 
+2009/65/WE, art. 12 ust. 1 lit. a) dyrektywy 2011/61/UE i art. 4 ust. 1 rozporządzenia 
+(UE) 2019/1156. W szczególności mają one zastosowanie w odniesieniu do obowiązku 
+uczciwego i godziwego postępowania w prowadzeniu działalności gospodarczej, a 
+także obowiązku, aby wszystkie informacje zawarte w informacjach reklamowych były 
+rzetelne, przejrzyste i niewprowadzające w błąd. 
+3. Obowiązki te odnoszą się do całej dokumentacji funduszu i wszystkich informacji 
+reklamowych skierowanych do inwestorów lub potencjalnych inwestorów UCITS i AFI, 
+w tym funduszy prowadzących działalność jako EuVECA, EuSEF, ELTIF i FRP. 
+Kiedy? 
+4. Niniejsze wytyczne wchodzą w życie po upływie trzech miesięcy od dnia ich publikacji 
+na stronie internetowej ESMA we wszystkich językach urzędowych UE. 
+5. Zarządzający funduszami utworzonymi po dniu wejścia w życie wytycznych powinni 
+niezwłocznie stosować je w działalności tych funduszy. 
+6. Zarządzający funduszami istniejącymi przed dniem wejścia w życie wytycznych 
+powinni stosować je w odniesieniu do tych funduszy po upływie sześciu miesięcy od 
+dnia wejścia w życie wytycznych. 
+
+
+===== PAGE 4/10 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+2. Odniesienia do przepisów prawa, skróty i definicje 
+2.1. 
+Odniesienia do aktów prawnych 
+dyrektywa UCITS 
+Dyrektywa Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 
+2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i 
+administracyjnych odnoszących się do przedsiębiorstw zbiorowego 
+inwestowania w zbywalne papiery wartościowe (UCITS)1 
+dyrektywa w sprawie ZAFI 
+Dyrektywa Parlamentu Europejskiego i Rady 2011/61/UE z dnia 
+8 czerwca 2011 r. w sprawie zarządzających alternatywnymi funduszami 
+inwestycyjnymi i zmiany dyrektyw 2003/41/WE i 2009/65/WE oraz 
+rozporządzeń (WE) nr 1060/2009 i (UE) nr 1095/20102 
+rozporządzenie (UE) 
+nr 2019/2088 
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 
+27 listopada 2019 r. w sprawie ujawniania informacji związanych ze 
+zrównoważonym rozwojem w sektorze usług finansowych3 
+rozporządzenie (UE) 
+nr 345/2013 
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 345/2013 z dnia 
+17 kwietnia 2013 r. w sprawie europejskich funduszy venture capital4 
+rozporządzenie (UE) 
+nr 346/2013  
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 346/2013 z dnia 
+17 kwietnia 2013 r. w sprawie europejskich funduszy na rzecz 
+przedsiębiorczości społecznej5 
+rozporządzenie delegowane 
+Komisji (UE) 2020/1818 
+Rozporządzenie delegowane Komisji (UE) 2020/1818 z dnia 17 lipca 
+2020 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady 
+(UE) 2016/1011 w odniesieniu do minimalnych norm dotyczących unijnych 
+wskaźników 
+referencyjnych 
+transformacji 
+klimatycznej 
+i unijnych 
+wskaźników referencyjnych dostosowanych do porozumienia paryskiego6 
+rozporządzenie 
+delegowane 
+Komisji (UE) 2022/1288 
+Rozporządzenie delegowane Komisji (UE) 2022/1288 z dnia 6 kwietnia 
+2022 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady 
+(UE) 2019/2088 w zakresie regulacyjnych standardów technicznych 
+określających szczegóły dotyczące treści i sposobu prezentacji informacji 
+w odniesieniu do zasady „nie czyń poważnych szkód”, określających treść, 
+metody i sposób prezentacji informacji w odniesieniu do wskaźników 
+zrównoważonego rozwoju i niekorzystnych skutków dla zrównoważonego 
+rozwoju, a także określających treść i sposób prezentacji informacji w 
+odniesieniu do promowania aspektów środowiskowych lub społecznych i 
+celów 
+dotyczących 
+zrównoważonych 
+inwestycji 
+w 
+dokumentach 
+ 
+1 Dz.U. L 302 z 17.11.2009, s. 32. 
+2 Dz.U. L 174 z 1.7.2011, s. 1. 
+3 Dz.U. L 317 z 9.12.2019, s. 1. 
+4 Dz.U. L 115 z 25.4.2013, s. 1. 
+5 Dz.U. L 115 z 25.4.2013, s. 18. 
+6 Dz. U. L 406 z 3.12.2020, s. 17. 
+
+
+===== PAGE 5/10 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+udostępnianych przed zawarciem umowy, na stronach internetowych i w 
+sprawozdaniach okresowych7 
+rozporządzenie KIID 
+Rozporządzenie Komisji (UE) nr 583/2010 z dnia 1 lipca 2010 r. w sprawie 
+wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w 
+zakresie kluczowych informacji dla inwestorów i warunków, które należy 
+spełnić w przypadku dostarczania kluczowych informacji dla inwestorów 
+lub prospektu emisyjnego na trwałym nośniku innym niż papier lub za 
+pośrednictwem strony internetowej8 
+rozporządzenie w sprawie 
+ustanowienia ESMA 
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1095/2010 z 
+dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu 
+Nadzoru 
+(Europejskiego 
+Urzędu 
+Nadzoru 
+Giełd 
+i 
+Papierów 
+Wartościowych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji 
+Komisji 2009/77/WE9 
+2.2. 
+Skróty 
+CTB 
+unijny wskaźnik referencyjny transformacji klimatycznej 
+ELTIF 
+europejski długoterminowy fundusz inwestycyjny 
+ESMA  
+Europejski Urząd Nadzoru Giełd i Papierów Wartościowych 
+EuSEF 
+europejski fundusz na rzecz przedsiębiorczości społecznej 
+EuVECA 
+europejski fundusz venture capital 
+FRP 
+fundusz rynku pieniężnego 
+PAB 
+unijny wskaźnik referencyjny dostosowany do porozumienia paryskiego 
+SFDR 
+rozporządzenie w sprawie ujawniania informacji związanych ze 
+zrównoważonym rozwojem w sektorze usług finansowych (rozporządzenie 
+(UE) 2019/2088) 
+UCITS 
+przedsiębiorstwo 
+zbiorowego 
+inwestowania 
+w 
+zbywalne 
+papiery 
+wartościowe 
+ZAFI 
+zarządzający alternatywnymi funduszami inwestycyjnymi 
+ 
+7 Dz.U. L 196 z 25.7.2022, s. 1. 
+8 Dz.U. L 176 z 10.7.2010, s. 1. 
+9 Dz.U. L 331 z 15.12.2010, s. 84. 
+
+
+===== PAGE 6/10 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+2.3. 
+Definicje 
+fundusz 
+przedsiębiorstwo zbiorowego inwestowania (zgodnie z definicją w art. 1 
+ust. 2 lit. a-b) dyrektywy UCITS i art. 4 ust. 1 lit. a) dyrektywy w sprawie 
+ZAFI); 
+wskaźnik referencyjny 
+indeks rynkowy, na podstawie którego można ocenić wyniki funduszu; 
+zarządzający funduszem 
+a) spółka zarządzająca (w rozumieniu w art. 2 ust. 1 lit. b) dyrektywy 
+UCITS); 
+b) spółka inwestycyjna, która nie wyznaczyła spółki zarządzającej 
+posiadającej zezwolenie na działalność zgodnie z dyrektywą UCITS; 
+c) ZAFI (w rozumieniu art. 4 ust. 1 lit. b) dyrektywy w sprawie ZAFI) 
+zarządzający AFI; oraz 
+d) wewnętrznie zarządzany AFI zgodnie z art. 5 ust. 1 lit. b) dyrektywy w 
+sprawie ZAFI 
+3. Cel 
+7. Niniejsze wytyczne są oparte na art. 23 ust. 7 dyrektywy w sprawie ZAFI, art. 69 ust. 6 
+dyrektywy UCITS i art. 16 ust. 1 rozporządzenia w sprawie ustanowienia ESMA. Celem 
+niniejszych wytycznych jest określenie przypadków, w których nazwy funduszy 
+wykorzystujące terminy związane z ESG lub zrównoważonym rozwojem są 
+nieuczciwe, niejasne lub wprowadzające w błąd. 
+8. Nazwa funduszu jest sposobem przekazywania informacji o funduszu inwestorom, a 
+także ważnym narzędziem marketingowym. Nazwa funduszu jest często pierwszą 
+informacją o funduszu, którą widzą inwestorzy, i chociaż inwestorzy powinni brać pod 
+uwagę inne okoliczności niż sama nazwa i dokładnie analizować informacje ujawniane 
+przez fundusz, nazwa funduszu może mieć znaczący wpływ na ich decyzje 
+inwestycyjne. 
+4. Zgodność i obowiązki sprawozdawcze 
+4.1 Status wytycznych 
+9. Zgodnie z art. 16 ust. 3 rozporządzenia w sprawie ustanowienia ESMA właściwe 
+organy i uczestnicy rynku finansowego muszą dołożyć wszelkich starań, aby 
+zastosować się do niniejszych wytycznych. 
+
+
+===== PAGE 7/10 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+10. Właściwe organy, do których odnoszą się niniejsze wytyczne, powinny stosować się 
+do nich poprzez włączenie ich do swoich krajowych porządków prawnych lub 
+nadzorczych, również w przypadku, gdy poszczególne wytyczne są skierowane 
+głównie do uczestników rynku finansowego. W takim przypadku właściwe organy 
+powinny w ramach sprawowanego nadzoru zadbać o to, by uczestnicy rynku 
+finansowego przestrzegali wytycznych. 
+4.2 Wymogi sprawozdawcze 
+11. W terminie dwóch miesięcy od daty publikacji niniejszych wytycznych na stronie ESMA 
+we wszystkich językach urzędowych UE właściwe organy, do których niniejsze 
+wytyczne mają zastosowanie, muszą zawiadomić ESMA, czy (i) stosują wytyczne, (ii) 
+nie stosują wytycznych, ale zamierzają zastosować się do nich lub (iii) nie stosują 
+wytycznych i nie zamierzają się do nich zastosować. 
+12. W przypadku nieprzestrzegania wytycznych właściwe organy muszą również 
+przekazać ESMA, w terminie dwóch miesięcy od daty publikacji wytycznych na stronie 
+ESMA we wszystkich językach urzędowych UE, informację o powodach 
+nieprzestrzegania wytycznych. 
+13. Szablon zawiadomienia jest dostępny na stronie internetowej ESMA. Po wypełnieniu 
+formularza należy przekazać go do ESMA. 
+14. Uczestnicy rynku finansowego nie mają obowiązku zawiadamiania, czy stosują się do 
+niniejszych wytycznych. 
+5. Wytyczne w sprawie stosowania terminów związanych z 
+ESG lub zrównoważonym rozwojem w nazewnictwie 
+funduszy UCITS i AFI 
+5.1 Objaśnienia kluczowych terminów zawartych w niniejszych 
+wytycznych 
+15. Poniższe wyjaśnienia są istotne w odniesieniu do kluczowych terminów wymienionych 
+w dalszych sekcjach niniejszych wytycznych. 
+ 
+- Terminy związane z „przejściem” obejmują wszelkie terminy wywodzące się od 
+podstawowego słowa „przejście”, np. „przechodzenie”, „przejściowy” itp. oraz terminy 
+wywodzące się od słów „poprawa”, „postęp”, „ewolucja”, „transformacja”, „neutralny 
+emisyjnie” itp. 
+
+
+===== PAGE 8/10 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+- Terminy związane ze „środowiskiem” oznaczają wszelkie słowa wywołujące u 
+inwestora 
+wrażenie 
+promowania 
+cech 
+środowiskowych, 
+np. 
+„zielony”, 
+„środowiskowy”, „klimat” itp. Terminy te mogą również obejmować skróty „ESG10” i 
+„SRI11”. 
+- Terminy „społeczne” oznaczają wszelkie słowa wywołujące u inwestora wrażenie 
+promowania cech społecznych, np. „społeczny”, „równość” itp. 
+- Terminy związane z „ładem korporacyjnym” oznaczają wszelkie słowa wywołujące u 
+inwestora wrażenie skupienia się na ładzie korporacyjnym, np. „ład korporacyjny”, 
+„kwestie sporne” itp. 
+- Terminy związane z „oddziaływaniem” oznaczają wszelkie terminy pochodzące od 
+podstawowego słowa „oddziaływać”, np. „oddziałujący”, „oddziaływanie” itp. 
+- Terminy związane ze „zrównoważonym rozwojem” oznaczają wszelkie terminy 
+wywodzące się od słów „zrównoważony rozwój” albo od słowa „zrównoważony”, 
+jednak wyłącznie w kontekście zrównoważonego rozwoju 
+5.2 Zalecenia dla zarządzających funduszami dotyczące stosowania 
+terminów w nazewnictwie funduszy 
+16. Fundusze wykorzystujące terminy związane z „działalnością na rzecz przejścia”, 
+aspektem społecznym i ładem korporacyjnym powinny: 
+- osiągnąć próg ilościowy w wysokości 80% odnoszący się do odsetka inwestycji 
+uwzględniającego aspekt środowiskowy lub społeczny lub spełniającego cele 
+zrównoważonego inwestowania zgodnie z wiążącymi elementami strategii 
+inwestycyjnej, które mają zostać ujawnione w załącznikach II i III do rozporządzenia 
+delegowanego Komisji (UE) 2022/1288; oraz 
+- wykluczyć inwestycje w spółki, o których mowa w art. 12 ust. 1 lit. a)-c) 
+rozporządzenia delegowanego Komisji (UE) 2020/1818. 
+ 
+10 „ESG” oznacza aspekty środowiskowe, społeczne oraz z zakresu ładu korporacyjnego. 
+11 „SRI” oznacza inwestowanie odpowiedzialne społecznie. 
+
+
+===== PAGE 9/10 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+17. Fundusze wykorzystujące terminy związane z aspektem środowiskowym lub 
+oddziaływaniem powinny: 
+- osiągnąć próg ilościowy w wysokości 80% odnoszący się do odsetka inwestycji 
+uwzględniającego aspekt środowiskowy lub społeczny lub spełniającego cele 
+zrównoważonego inwestowania zgodnie z wiążącymi elementami strategii 
+inwestycyjnej, które mają zostać ujawnione w załącznikach II i III do rozporządzenia 
+delegowanego Komisji (UE) 2022/1288; oraz 
+- wykluczyć inwestycje w spółki, o których mowa w art. 12 ust. 1 lit. a)-g) 
+rozporządzenia delegowanego Komisji (UE) 2020/1818. 
+18. Fundusze wykorzystujące terminy związane ze zrównoważonym rozwojem powinny: 
+ 
+- osiągnąć próg ilościowy w wysokości 80% odnoszący się do odsetka inwestycji 
+uwzględniających aspekt środowiskowy lub społeczny lub spełniającego cele 
+zrównoważonego inwestowania zgodnie z wiążącymi elementami strategii 
+inwestycyjnej, które należy ujawnić w załącznikach II i III do rozporządzenia 
+delegowanego Komisji (UE) 2022/1288; 
+- wykluczyć inwestycje w przedsiębiorstwa, o których mowa w art. 12 ust. 1 lit. a)-g) 
+rozporządzenia delegowanego Komisji (UE) 2020/1818; oraz 
+- zobowiązać się do znaczącego inwestowania w zrównoważone inwestycje, o 
+których mowa w art. 2 pkt 17 SFDR. 
+19. Jeżeli nazwa funduszu łączy w sobie terminy z pkt 16 i 17, postanowienia tych punktów 
+stosuje się łącznie, z wyjątkiem nazw nawiązujących do „działalności na rzecz 
+przejścia”, w przypadku których zastosowanie powinny mieć wyłącznie pkt 16 i 21. 
+Dodatkowe zalecenia dotyczące szczególnych rodzajów funduszy 
+20. Fundusze wyznaczające indeks jako wskaźnik referencyjny powinny stosować w 
+swojej nazwie terminy, o których mowa w pkt 16–18, wyłącznie wówczas, gdy fundusz 
+przestrzega wytycznych określonych w tych punktach. 
+21.  Fundusze używające w swoich nazwach terminów związanych z „działalnością na 
+rzecz przejścia” lub „oddziaływaniem” powinny również zapewnić, że inwestycje 
+wykorzystywane do osiągnięcia progu, o którym mowa odpowiednio w pkt 16 i 17, 
+znajdują się na jasnej i mierzalnej ścieżce transformacji społecznej lub środowiskowej 
+lub są dokonywane w celu wygenerowania pozytywnego i mierzalnego wpływu 
+społecznego lub środowiskowego w połączeniu z wypracowaniem zysku finansowego. 
+
+
+===== PAGE 10/10 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+Oczekiwania nadzorcze 
+22. Właściwe organy powinny brać pod uwagę pkt 16–21 przez cały okres funkcjonowania 
+funduszu. Inwestorzy mogliby zweryfikować te informacje poprzez okresowe 
+ujawnianie informacji zgodnie z rozporządzeniem delegowanym Komisji (UE) 
+2022/1288. Tymczasowe odstępstwo od progu i wyłączeń powinno być traktowane 
+jako naruszenie pasywne i korygowane w najlepszym interesie inwestorów, pod 
+warunkiem że odstępstwo to nie wynika ze świadomego wyboru dokonanego przez 
+zarządzającego funduszem. 
+23. W stosownych okolicznościach właściwe organy powinny uznać, że czynniki 
+uzasadniające dalsze dochodzenie i dialog nadzorczy z zarządzającym funduszem 
+obejmują następujące elementy: 
+- Rozbieżności w poziomie progu ilościowego, które nie są naruszeniami 
+pasywnymi; 
+- Fundusz, który nie wykazuje wystarczająco wysokiego poziomu inwestycji, aby 
+stosować w swojej nazwie terminy związane z „działalnością na rzecz przejścia”, 
+ESG, oddziaływaniem lub zrównoważonym rozwojem; lub 
+- W przypadku gdy właściwy organ uzna, że użycie w nazwie funduszu terminów 
+związanych z „działalnością na rzecz przejścia”, ESG, oddziaływaniem lub 
+zrównoważonym rozwojem spowodowałoby, że inwestorzy otrzymaliby nieuczciwe 
+lub niejasne informacje lub gdy zarządzający nie działałby uczciwie lub rzetelnie, 
+wprowadzając tym samym inwestorów w błąd. 

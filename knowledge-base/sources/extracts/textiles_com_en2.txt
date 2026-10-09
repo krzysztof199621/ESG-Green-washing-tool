@@ -1,0 +1,557 @@
+EUR-Lex - 52022DC0141 - EN - EUR-Lex 
+
+× 
+
+Skip to main content 
+
+Log in My EUR-Lex 
+
+My EUR-Lex 
+Sign in 
+Register 
+
+My recent searches (0) 
+English English 
+
+Select your language 
+
+Official EU languages: 
+bg български 
+es Español 
+cs Čeština 
+da Dansk 
+de Deutsch 
+et Eesti keel 
+el Ελληνικά 
+en English 
+fr Français 
+ga Gaeilge 
+hr Hrvatski 
+it Italiano 
+lv Latviešu valoda 
+lt Lietuvių kalba 
+hu Magyar 
+mt Malti 
+nl Nederlands 
+pl Polski 
+pt Português 
+ro Română 
+sk Slovenčina 
+sl Slovenščina 
+fi Suomi 
+sv Svenska 
+
+EUR-Lex 
+Access to European Union law 
+
+<a href="https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html" target="_blank">More about the experimental features corner</a> Experimental features 
+
+× 
+Choose the experimental features you want to try 
+
+Do you want to help improving EUR-Lex ? This is a list of experimental features that you can enable. These features are still under development; they are not fully tested, and might reduce EUR-Lex stability. Don't forget to give your feedback! 
+Warning! Experimental feature conflicts detected. 
+
+Replacement of CELEX identifiers by short titles - experimental feature. It replaces clickable CELEX identifiers of treaties and case-law by short titles. 
+Visualisation of document relationships. It displays a dynamic graph with relations between the act and related documents. It is currently only available for legal acts. 
+
+Deep linking. It enables links to other legal acts referred to within the documents. It is currently only available for documents smaller than 900 KB. 
+Apply 
+
+EUR-Lex 
+Access to European Union law 
+
+This document is an excerpt from the EUR-Lex website 
+
+You are here 
+EUROPA 
+EUR-Lex home 
+EUR-Lex - 52022DC0141 - EN 
+
+Help 
+Print 
+
+Menu 
+
+EU law 
+Treaties 
+Treaties currently in force 
+Founding Treaties 
+Accession Treaties 
+Other treaties and protocols 
+Chronological overview 
+Legal acts 
+Consolidated texts 
+International agreements 
+Preparatory documents 
+EFTA documents 
+Lawmaking procedures 
+Summaries of EU legislation 
+Browse by EU institutions 
+European Parliament 
+European Council 
+Council of the European Union 
+European Commission 
+Court of Justice of the European Union 
+European Central Bank 
+European Court of Auditors 
+European Economic and Social Committee 
+European Committee of the Regions 
+Browse by EuroVoc 
+
+EU case-law 
+Case-law 
+Reports of cases 
+Directory of case-law 
+
+Official Journal 
+Access to the Official Journal 
+Official Journal L series daily view 
+Official Journal C series daily view 
+Browse the Official Journal 
+Legally binding printed editions 
+Special edition 
+
+National law and case-law 
+National transposition 
+National case-law 
+JURE case-law 
+
+Information 
+Themes in focus 
+EUR-Lex developments 
+Statistics 
+ELI register 
+What is ELI? 
+ELI background 
+Why implement ELI? 
+Countries implementing ELI 
+Testimonials 
+How to implement ELI 
+Glossary 
+EU budget online 
+
+Quick search 
+
+Use quotation marks to search for an "exact phrase". Append an asterisk ( * ) to a search term to find variations of it (transp * , 32019R * ). Use a question mark ( ? ) instead of a single character in your search term to find variations of it (ca ? e finds case, cane, care). 
+
+Search tips 
+Need more search options? Use the Advanced search 
+
+Document 52022DC0141 
+
+Help 
+Print 
+
+Text 
+Document information 
+Internal procedure 
+Permanent link 
+Download notice 
+Save to My items 
+Create an email alert 
+Create an RSS alert 
+
+​ 
+COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS EU Strategy for Sustainable and Circular Textiles 
+COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS EU Strategy for Sustainable and Circular Textiles 
+COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS EU Strategy for Sustainable and Circular Textiles 
+COM/2022/141 final 
+
+Expand all Collapse all 
+
+Languages and formats available 
+
+Language 
+
+BG 
+ES 
+CS 
+DA 
+DE 
+ET 
+EL 
+EN 
+FR 
+GA 
+HR 
+IT 
+LV 
+LT 
+HU 
+MT 
+NL 
+PL 
+PT 
+RO 
+SK 
+SL 
+FI 
+SV 
+
+HTML 
+EN Toggle Dropdown 
+BG 
+ES 
+CS 
+DA 
+DE 
+ET 
+EL 
+EN 
+FR 
+GA 
+HR 
+IT 
+LV 
+LT 
+HU 
+MT 
+NL 
+PL 
+PT 
+RO 
+SK 
+SL 
+FI 
+SV 
+
+DOC 
+EN Toggle Dropdown 
+BG 
+ES 
+CS 
+DA 
+DE 
+ET 
+EL 
+EN 
+FR 
+GA 
+HR 
+IT 
+LV 
+LT 
+HU 
+MT 
+NL 
+PL 
+PT 
+RO 
+SK 
+SL 
+FI 
+SV 
+
+PDF 
+EN Toggle Dropdown 
+BG 
+ES 
+CS 
+DA 
+DE 
+ET 
+EL 
+EN 
+FR 
+GA 
+HR 
+IT 
+LV 
+LT 
+HU 
+MT 
+NL 
+PL 
+PT 
+RO 
+SK 
+SL 
+FI 
+SV 
+
+Multilingual display 
+
+Language 1 English (en) Bulgarian (bg) Spanish (es) Czech (cs) Danish (da) German (de) Estonian (et) Greek (el) English (en) French (fr) Irish (ga) Croatian (hr) Italian (it) Latvian (lv) Lithuanian (lt) Hungarian (hu) Maltese (mt) Dutch (nl) Polish (pl) Portuguese (pt) Romanian (ro) Slovak (sk) Slovenian (sl) Finnish (fi) Swedish (sv) 
+Language 2 Please choose Bulgarian (bg) Spanish (es) Czech (cs) Danish (da) German (de) Estonian (et) Greek (el) English (en) French (fr) Irish (ga) Croatian (hr) Italian (it) Latvian (lv) Lithuanian (lt) Hungarian (hu) Maltese (mt) Dutch (nl) Polish (pl) Portuguese (pt) Romanian (ro) Slovak (sk) Slovenian (sl) Finnish (fi) Swedish (sv) 
+Language 3 Please choose Bulgarian (bg) Spanish (es) Czech (cs) Danish (da) German (de) Estonian (et) Greek (el) English (en) French (fr) Irish (ga) Croatian (hr) Italian (it) Latvian (lv) Lithuanian (lt) Hungarian (hu) Maltese (mt) Dutch (nl) Polish (pl) Portuguese (pt) Romanian (ro) Slovak (sk) Slovenian (sl) Finnish (fi) Swedish (sv) Display 
+
+Text 
+
+EUROPEAN COMMISSION 
+Brussels, 30.3.2022 
+COM(2022) 141 final 
+
+COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS 
+EU Strategy for Sustainable and Circular Textiles 
+
+1. Introduction 
+Textiles are in the fabrics of everyone’s daily lives. They are used as apparel, household textiles and in furniture, and also in products such as medical and protective equipment, buildings and vehicles. Textiles enable products’ functionalities and performance but are also chosen for aesthetics and comfort purposes. 
+T he production and consumption of textile products continue to grow and so does their impact on climate , on water and energy consumption and on the environment . Global textiles production almost doubled between 2000 and 2015 1 , and the consumption of clothing and footwear is expected to increase by 63% by 2030, from 62 million tonnes now to 102 million tonnes in 2030 2 . In the EU, the consumption of textiles, most of which are imported, now account s on average for the fourth highest negative impact on the environment and on climate change and third highest for water and land use from a global life cycle perspective 3 . About 5.8 million tonnes of textiles are discarded every year in the EU, approximately 11kg per person 4 , and every second somewhere in the world a truckload of textiles is landfilled or incinerated 5 . 
+As clothing comprise s the largest share of EU textile consumption (81%) 6 , the trend s of using garments for ever short er periods before throwing them away contribut e the most to unsustainable patterns of overproduction and over consumption . Such trends have become known as fast fashion , enticing consumers to keep on buying clothing of inferior quality and lower price, produced rapidly in response to the latest trends . Although between 1996 and 2018 clothing prices in the EU decreased by over 30% relative to inflation 7 , average household expenditure on clothing increased 8 , indicating that such unsustainable patterns have not allow ed citizens to benefit fully from cost-saving opportunities. Moreover, t he growing demand for textiles is fueling the inefficient use of non-renewable resources, including the production of synthetic fibers from fossil-fuels . 
+These negative impacts have their roots in a linear model that is characterised by low rates of use, reuse, repair and fibre-to-fibre recycling of textiles, and that often does not put quality, durability and recyclability as priorities for the design and manufacturing of apparel. The shedding of microplastics from synthetic textiles and footwear during all stages of their lifecycle further adds to the environmental impacts of the sector. 
+The complex and diverse global textile value chain is also faced with social challenges , in part driven by pressures to minimize production costs to meet consumer demand for affordable products. Child labour in the apparel industry is a grave source of concern. As women make up the majority of the low-wage and unskilled textile workforce 9 , improving the sustainability of the supply chain has also an important gender equality dimension. With its increased attention to social and environmental sustainability, the EU seeks to strengthen global value chains, thus contributing to the Sustainable Development Goals worldwide. 
+In the EU, the textiles and clothing sector is economically significant and can play a prominent role in the circular economy. It comprises more than 160.000 companies and employs 1.5 million people, generating a turnover of EUR 162 billion in 2019 10 . The C OVID -19 pandemic has negatively impacted the sector . In 2020, EU turnover contracted by 9. 2 % in textiles and by 1 8 . 1 % in clothing compared to 2019 11 . At the same time, during the pandemic the textiles ecosystem demonstrated its resourcefulness and ingenuity by managing to shift production lines in a record time and supply masks and other protective equipment that were greatly needed but not available in sufficient quantities . 
+The unprovoked and unjustified Russian military aggression of Ukraine with its consequences in terms of increased energy prices, security of raw material supply and impacts on the exporting segments of the textiles ecosystem is yet another reminder of the vulnerabilities of global supply chains. 
+The EU textile ecosystem needs to recover from the sequence of sudden drops in demand, disruptions of value chains and price hikes of the last two years, that have created significant challenges for companies both in their daily operations and for their long-term survival, and withstand not only fierce global competition but also future shocks. Composed essentially of small and medium size enterprises (SMEs), it needs to strengthen its resilience, in particular, in terms of energy and raw material supply; tap into new markets for more sustainable products; and increase its attractiveness to a talented and skilled workforce. Europe has always been and should remain home to innovative brands, creativity, know-how and quality textile products. 
+The se challenges and opportunities call for more systemic solutions in line with the European Green Deal ambition to mak e growth sustainable, climate-neutral, energy - and resource - efficient and respectful of nature, and built around a clean and circular economy . The 2020 Circular Economy Action Plan 12 and the 202 1 update of the EU Industrial Strategy 13 identify textiles as a key product value chain with an urgent need and a strong potential for the transition to sustainable and circular production , consumption and business models. Businesses, consumers and public authorities in the EU are already focussing on increasing the sustainability and circularity of this sector, but the transition is slow and the environmental and climate footprint of the sector remains high. 
+By building on the work already done, securing the green and digital transition, addressing social challenges and ensuring that sustainability requirements are complied with, the EU can become a global trailblazer in sustainable and circular textile value chains, new technological solutions and innovative business models. This would allow to reduce the environmental footprint of textiles along their life cycle, increase the sector’s resilience and competitiveness, improve working conditions according to international labour standards and ensure the value of textiles is retained in the economy for as long as possible, reducing dependencies on virgin raw materials. 
+This Strategy for Sustainable and Circular Textiles aims to create a coherent framework and a vision for the transition of the textiles sector whereby: 
+
+By 2030 textile products placed on the EU market are long-lived and recyclable, to a great extent made of recycled fibres, free of hazardous substances and produced in respect of social rights and the environment. Consumers benefit longer from high quality affordable textiles, fast fashion is out of fashion, and economically profitable re-use and repair services are widely available. In a competitive, resilient and innovative textiles sector, producers take responsibility for their products along the value chain, including when they become waste. The circular textiles ecosystem is thriving, driven by sufficient capacities for innovative fibre-to-fibre recycling, while the incineration and landfilling of textiles is reduced to the minimum. 
+
+2. A new pattern for Europe : key actions for sustainable and circular textiles 
+2.1. Introducing mandatory E codesign requirements 
+Extending the life of textile products is the most effective way of significantly reducing their impact on the climate and the environment . To achieve this, p roduct design has a key role. Failures in quality such as colour fastness, tear strength or the quality of zipper s and seam s are among the main reasons for consumers to discard textiles 14 . Increased durability will enable consumers to use clothing for longer and at the same time support circular business models such as reuse, renting and repair, take-back services and second-hand retail, in a way that creat es cost-saving opportunities to citizens. 
+Other design aspects affecting the environmental performance of textiles include their m aterial composition , including the fibres used and their blending , or the presence of c hemicals of concern that hamper the recycling of textile waste, l ess than 1% of which feeds into new textiles 15 globally . I n factories , 25-40% of al l fabric used is either leftover or becomes waste 16 . Around 20% of the separately collected used textiles in Europe are downcycled for use as industry wipes or other applications 17 , while the rest is lost. 
+While sorting and advanced recycling technologies need to be further developed, improving product design is the first step to address t echnical challenges. For instance, fibres are often blended with others , (e.g. polyester with cotton) , which makes recycling more difficult due to low availability of technologies to separate textile waste by fibre. Moreover, e lastane , often added to increase the functionalities of fabrics, can act as a contaminant in almost all textile fibres recycling technologies, impacting the economical feasibility and environmental cost of the recycling process . For thermo-mechanical recycling, b lending of different types of polyester can also adversely affect the processing of textile waste and the quality of the recycling output 18 . 
+
+Voluntary schemes developed by the Commission , such as the EU Ecolabel criteria for Textile Products 19 and the EU GPP criteria for textiles products and services 20 , already include requirements related to environmental aspects of textiles products. They encompass, for example, detailed criteria for good quality and durable products, restrictions of hazardous chemicals, as well as requirements on environmentally sustainable sourcing of textile fibres . Work on the environmental footprint of apparel and footwear products with representatives of the textile industry is ongoing and due for completion by 202 4 . 
+Building on this knowledge, under the Ecodesign for Sustainable Products Regulation 21 , subject to its approval by the co-legislators and a dedicated impact assessment , the Commission will develop binding product-specific ecodesign requirements to increase textiles’ performance in terms of durability, reusability, reparability , fibre-to-fibre recyclability and mandatory recycled fibre content , to minimise and track the presence of substances of concern and to reduce the adverse impact s on climate and the environment . In doing so, specific attention will be paid to the cost-effectiveness and proportionality of measures , as well as the affordability of textiles. A s part of the requirements and subject to the impact assessment to define their scope , the Commission will introduce mandatory criteria for green public procurement , the scope of which will be defined following an impact assessment , as well as requirements regarding Member States’ incentives concerning textile products . 
+The Commission will prioritise products with the highest potential and impacts in terms of environmental sustainability. The initial assessment of the Commission shows that this should include for example personal and household textiles, carpets and mattresses. The final list will be defined on the basis of a consultation for adopting the first work programme under the Ecodesign for Sustainable Products Regulation, to be launched by the end of 2022. 
+T he presence of hazardous substances used in textile products placed on the EU market, around 60 of which are considered as carcinogenic, mutagenic or toxic to reproduction, is a source of concern that the Commission is addressing under REACH 22 . Furthermore, by developing criteria for safe and sustainable by design chemicals and materials , the Commission will support industry to substitute as much as possible and otherwise minimise the substances of concern in textile products placed on the EU market , as announced in the Chemicals Strategy for Sustainability 23 . This is in line with the actions to increas e the protection of workers exposed to hazardous substances as defined in the EU strategic framework on health and safety at work 2021-2027 24 . 
+P ursuing the zero pollution ambition in the production of textiles guid es also the revision of the Industrial Emissions Directive 25 and the on-going review of the Best Available Techniques (BAT) Reference Document ( BREF ) for the Textile s Industry 26 . 
+2.2. Stoppin g the destruction of unsold or returned textiles 
+Destroying unsold or returned goods, including clothing, is a waste of value and resources. As a disincentive for this practice, under the Ecodesign for Sustainable Products Regulation, the Commission proposes a transparency obligation requiring large companies to publicly disclose the number of products they discard and destroy, including textiles , and their further treatment in terms of preparing for reuse, recycling, incineration or landfilling. Subject to receiving the empowerment under the proposed Regulation and a dedicated impact assessment, the Commission will also introduce bans on the destruction of unsold products, including as appropriate, unsold or returned textiles. 
+Furthermore, digital tools are changing how clothing is designed, manufactured and serviced around the world , enabling new ways for retailers and consumers to interact, creating a more dynamic reaction to consumer needs. The Commission will assess with industry, in particular in the context of the Transition Pathway for the Textiles Ecosystem, how emerging technologies, such as digital precision technologies, could reduce the high percentage of returns of clothing bought online, encourage on-demand custom manufacturing, and in this way improve the efficiencies of industrial processes and reduce the carbon footprint of e-commerce. 
+2.3. T ackling microplastics pollution 
+Microplastic s pollution has become widespread in nature , including in the marine environment , and is a source of serious and growing concern. One of the main sources of unintentional release of microplastics are textiles made of synthetic fibres. I t is estimated that about 60% of fibres used in clothing are synthetic, predominantly polyester 27 , and this amount is growing . 
+As the highest amount of microplastics are released in the first 5 to 10 washes, f ast fashion , which is associated with the growing use of fossil-based synthetic fibres, has a high impact on m icroplastic pollution . Up to 40,000 tonnes of synthetic fibres are released every year in the effluent of washing machines only 28 . 
+The Commission plans to address the different lifecycle stages at which synthetic fibres are shed into the environment by a set of prevention and reduction measures , notably through binding design requirements to be introduced under the Ecodesign for Sustainable Products Regulation , as well as under the forthcoming Commission initiative to address the unintentional release of microplastics in the environment , to be presented in the second half of 2022 . In addition to product design, measures will target manufacturing processes, pre-washing at industrial manufacturing plants, labelling and the promotion of innovative materials. Further options include washing machine filters, which can cut by up to 80% the volume release d from laundering 29 , development of mild detergents, caretaking and washing guidelines, end-of-life textile waste treatment, and regulations for improved wastewater and sewage sludge treatment. 
+The Commission will take into account the ongoing standardisation work on the establishment of test methods to measure microplastics release from washing of synthetic textiles 30 , as well as industry ’s technological and technical capabilities. 
+2.4. Introducing information requirements and a Digital Product Passport 
+Clear, structured and accessible information on the environmental sustainability characteristics of products empowers businesses and consumers to make better choices and improves communication between actors along value chains, including producers and recyclers, for example on substances of concern, on repair or on the fibre composition. Such information also boosts the visibility and credibility of sustainable companies and products. Therefore, as part of the measures under the new Ecodesign for Sustainable Products Regulation, the Commission will introduce a Digital Product Passport for textiles based on mandatory information requirements on circularity and other key environmental aspects. 
+To ensure consistency with this new piece of legislation, t he Commission will also review the Textile Labelling Regulation 31 , which requires textiles sold on the EU market to carry a label clearly identifying the fibre composition and indicating any non-textile parts of animal origin. As part of t his review and subject to an impact assessment , the Commission will in troduce mandatory disclosure of other types of information, such as sustainability and circularity parameters, products’ size and , where applicable, the country where manufacturing processes take place (‘ made in ’) . 
+In the context of the above proposals, the Commission will also consider the possibility of introducing a digital label . 
+2.5. G reen claims for truly sustainable textiles 
+Consumers willing to purchase more sustainable products are often discouraged from buy ing them by the unreliability of claims: a recent screening of sustainability claims in the textile, garment and shoe sector suggested that 39% c ould be false or deceptive 32 . People can also end up buying products that are less sustainable than they think as claims are made on certain characteristic s of textile products that in reality do not provid e significant environmental benefits . 
+The initiative on Empowering Consumers for the Green Transition 33 with which the Commission proposes to amend the U nfair C ommercial P ractices Directive 34 and the Consumer Rights Directive 2011/83/EU 35 will result in new requirements, which are highly relevant for textile products. The new EU rules will ensure that consumers are provided with informati on at the point of sale about a commercial guarantee of durability as well as information relevant to repair , including a reparability score, whenever this is available. G eneral environmental claims , such as “ green ”, “ eco-friendly ”, “ good for the environment ” , will be allowed only if underpinned by recognised excellen ce in environmental performance , notably based on the EU Ecolabel, type I e colabels , or specific EU legislation relevant to the claim . V oluntary sustainability labels covering environmental or social aspects must rely on a third party verification or be established by public authorities . Moreover, there will be conditions for making green claims related to future environmental performance , such as “ climate neutral by 2030 ” , and for compari ng to other products . 
+
+T o complement t hese provisions by more specific requirements , the Commission is also continuing to work on minimum criteria for all types of environmental claims in the context of the Green Claims Initiative , which is to be presented in the second half of 2022 . T he use of Environmental Footprint methods 36 is considered as a way to substantiate and communicate environmental claims , demonstrat ing compliance with the more general rules on consumer protection . The on-going work on the environmental footprint of apparel and footwear products will be taken into account in this context. 
+The Commission will also review the EU Ecolabel criteria for textiles and footwear to support its uptake among producers and offer consumers an easily recognisable and reliable way to choose eco-friendly textile products. 
+A specific source of growing concern is the accuracy of green claims made on using recycled plastic polymers in apparel where these polymers do not come from fibre-to-fibre recycling, but in particular from sorted PET bottles. Beyond the risk of misleading consumers, such a practice is not in line with the circular model for PET bottles, which are fit for being kept in a closed-loop recycling system for food contact materials and are subject to extended producer responsibility obligations, including fees, with a view to meeting the objectives of the EU rules on single-use plastic products 37 and on packaging 38 . These claims face further challenges given the role of synthetic fibres in microplastics pollution. Therefore, to ensure the accuracy of such green claims and the relevance of information provided to business es and consumers, while further promoting the recycling of plastic polymers and their markets, the Commission will pay specific attention to this issue in the context of upcoming initiatives such as the Green Claims Initiative, the review of the EU Ecolabel criteria for textiles and footwear, and in the development of binding product-specific ecodesign requirements. The Commission also encourages businesses to prioritise their efforts on fibre-to-fibre recycling and rather make claims on achievements to address this important challenge in closing the loop for textile products. 
+2.6. Extended producer responsibility and boosting reuse and recycling of textile waste 
+There is significant potential to reduc e textile waste and ensur e that it creates further value by boosting its prepar ation for reuse and recycling. Up to 2.1 million tonnes of post-consumer clothing and home textiles are separately collected each year in the EU for recycling or sale on global reuse markets, representing approximately 38% of textiles placed on the EU market. The remaining 62% are thought to be discarded in mixed waste streams 39 . 
+Making producers responsible for the waste that their products create is essential to decouple textile waste generation from the growth of the sector . Extended producer responsibility (EPR) requirements have proven to be effective in improving separate collection of waste and its subsequent management in line with the waste hierarchy. EPR can incentivise product design that promotes circularity throughout the material life cycle and takes account of the end of products’ life. Several EU Member States already have or are considering the introduction of EPR requirements for textiles, given the obligation under EU waste legislation to establish separate collection of textile waste by 1 January 2025. 
+In this context, the Commission will propose harmonised EU extended producer responsibility rules for textiles with eco-modulation of fees, as part of the forthcoming revision of the Waste Framework Directive in 2023. The key objective will be to create an economy for collection, sorting, reuse, preparation for reuse and recycling, as well as incentives for producers and brands to ensure that their products are designed in respect of circularity principles. To that end and subject to an impact assessment, the Commission will propose that a notable share of contributions made to EPR schemes will be dedicated to waste prevention measures and preparing for reuse . 
+The Commission will also consider requiring that separately collected textile waste from households and similar waste is prepared for reuse as a necessary first step , which will boost preparing for reuse, reuse and repair activities and reduce the volumes for types of waste treatment that are lower in the waste hierarchy. 
+The Commission will closely monitor the developments in textile waste generation, composition and treatment. The Commission has also launched a dedicated study with a view to proposing mandatory targets for preparing for re-use and recycling of textile waste as part of the review of the EU waste legislation foreseen for 2024. 
+
+3. Weaving the industry of tomorrow : creating the enabling conditions 
+3.1. Launching the Transition Pathway for the textiles ecosystem of the future 
+The update of the EU ’s Industrial Strategy 40 highlights the need to further accelerate the green and digital transitions and increase the resilience of EU industrial ecosystems. To do so, the Commission proposes the co-creation of transition pathways. These are essential collaborative tool s for the transformation of the industrial ecosystems. 
+Together with this strategy, the Commission services will publish scenarios towards the co-creation of a Transition Pathway for the Textiles Ecosystem 41 . 
+The process of co-creation with stakeholders will kick-off in the second quarter of 2022. By the end of 2022, this process should result in an agreed vision for the ecosystem and specific pledges. They may include commitments on circularity and circular business models, actions to strengthen sustainable competitiveness, digitalisation and resilience, and identification of specific investments needed for the twin transitions. 
+Once the Transition Pathway has been established, it will also allow to monitor the progress in achieving the twin transitions and bridging the investment and innovation gaps, thereby also boosting the textile ecosystem’s competitiveness. This collaborative tool can serve as a discussion forum in anticipation of actions under the Ecodesign for Sustainable Products Regulation, including the Digital Product Passport. 
+3.2. Reversing the overproduction and overconsumption of clothing: driving fast fashion out of fashion 
+The mandatory design requirements for sustainable and circular textiles that will be introduced under the Ecodesign for Sustainable Products Regulation will extend the lifetime of clothing and, together with new rules on extended producer responsibility under the Waste Framework Directive, will become the stepping stone to a new paradigm of attractive alternatives to fast changing fashion trends . 
+Companies should become the champions of this paradigm shift. Those who have built their business models over the last two decades by capitalising on bringing increasing numbers of fashion lines and micro collections to the market at an ever increasing pace, are strongly encouraged to internalise circularity principles and business models, reduce the number of collections per year, take responsibility and act to minimise their carbon and environmental footprints. 
+Re-shaping the purchasing habits of consumers is difficult unless companies provide for new circular business models, such as product-as-service models, take-back services, second-hand collections and repair services. Although these new models still represent a niche market, they have been shown to extend the lifetime of textile products, and are a cost effective and affordable alternative to fast fashion 42 . A s fast fashion is linked to the growing use of fossil-fuel based synthetic fibres, shifting to more sustainable business models will reduce both the dependency of clothing producers on fossil fuels and their impacts on climate change and microplastic pollution . 
+
+As mentioned above, the Commission will, in the context of the Transition Pathway , engage with stakeholders to facilitate the scaling up of resource-efficient manufacturing processes, reuse, repair and other new circular business models in the textiles sector . 
+Boosting social enterprises active in the reuse sector is particularly important, as they have considerable potential to create local, green and inclusive businesses and jobs in the EU 43 . On average, a social enterprise creates 20-35 jobs per 1,000 tonnes of collected textiles with a view re-use 44 . However, the sector faces many challenges to be competitive and become a mainstream player in the textiles sector. In order to support the reuse sector to scale up, build capacity and further internalise circularity principles, a number of measures are needed. The Transition Pathway on the Proximity and Social Economy offers an opportunity to discuss them with stakeholders. In addition , u nder the recently adopted EU Social Economy Action Plan 45 , th e Commission will adopt guidance on how to support uptake and partnerships for the circular economy between social enterprises and other actors , including mainstream businesses, that will in particular explore the opportunities that reuse and repair of textiles provide. 
+Member States also have an important role to play. In addition to measures to support the reuse and repair sector, including as part of the social economy , taxation measures, in line with State Aid and WTO rules, can be a particularly useful tool. The Commission encourages Member States to adopt favourable taxation measures for the reuse and repair sector. The Commission will develop guidance on promoting circular business models through investment, funding and other incentives, which will feature the opportunities to create circular value and jobs in the textiles ecosystem. 
+To a ccelerat e the change in consumption and production patterns , t he Commission will promote this transition under the motto #ReFashionNow , putting quality, durability, longer use, repair and reuse at the core. In the framework of the European Circular Economy Stakeholder Platform, i t will mobilise designers, producers, retailers, advertisers and citizens in re-defining fashion . Other EU initiatives will also serve as a springboard for concrete #ReFashionNow actions , notably the European Bauhaus, the Sustainable Consumption Pledge 46 , as well as t he European Year of Youth. 
+3.3. Ensuring fair competition and compliance in a well-functioning internal market 
+EU market surveillance legislation provides rules to ensure that national competent authorities can enforce EU legislation for products placed on the EU market irrespective of their origin. The challenges of the global market and increasingly complex supply chains, as well as the increase in products sold online within the EU, call for stronger enforcement measures, to ensure consumers’ safety and a well-functioning internal market. 
+To this end, it is necessary to enable structured coordination and cooperation between national enforcem ent authorities and to streamline market surveillance practices . The newly created EU Product Compliance Network 47 will coordinate and support cross-border market surveillance practices in the EU in priority areas to be proposed by the competent authorities and ensure cross -sectoral co ordination between different Administrative Cooperation Groups (AdCos), such as the AdCo on Chemicals and Textile Labelling . The Commission will provide support through joint initiatives and projects 48 to step up collaborations between all relevant actors, notably customs and market surveillance authorities, industry and testing laboratories in the textiles ecosystem , with capacity building under the Single Market Programme, ensuring the use of digital tools for market surveillance and setting uniform conditions and frequency of checks for certain products. 
+To fight IP infringements, the Commission will create by 2023 an EU Toolbox against counterfeiting , setting out principles for joint action, cooperation and information sharing among right-holders, intermediaries, both online and offline, and law enforcement authorities, such as customs, police and market surveillance authorities. 
+3.4. Supporting research, innovation and investments 
+Making the green and digital transition a story of success and resilience in the context of global value chains relies on the capacity of the textile ecosystem to reinvent itself. Enhancing research and innovation and promoting investments in the sector are essential to tap into its potential to create sustainable growth and local jobs and should be a priority at EU, national and regional level. 
+The New European Bauhaus translates the European Green Deal into tangible initiatives that promote sustainable lifestyles, including fashion. As part of this programme and under the #ReFashionNow motto, the Commission will support projects that increase sustainability of fashion while meeting demands related to aesthetics and inclusivity. 
+The Commission is also working on a common industrial technology roadmap on circularity , which aims at streamlining industrial research and innovation, including on textile recycling. Th is is supported by a recently published study 49 on the effectiveness of current recycling capabilities of textile waste, highlighting the need innovate further to strengthen them. 
+Public Private Partnerships will define future research initiatives and ensure leadership and excellence of the ecosystem. For instance, the Made in Europe Partnership 50 will champion the digitally enabled, competitive, green, socially sustainable and resilient manufacturing and use of textiles. Support also focuses on reducing industry’s dependence on fossil fuels with bio-based innovation in the textiles sector , through the Circular B io-based Europe Joint Undertaking 51 , which aims to boost inter alia the development of new types of textile fibres . The European Partnership Process4Planet aims at promoting circularity and an extensive decarbonisation of European process industries , including textiles industry, by developing and deploying the innovation needed through initiatives such as Hubs for Circularity (H4C). In addition to continued funding by existing programmes such as the European Institute of Innovation and Technology (EIT) , s pecific calls under Horizon Europe will be launched to further develop technologies and processes to scale up repair, improve collection and sorting , scale up textile recycling capacities of the EU industry 52 , and increase fibre -to- fibre recycling and the uptake of recycled fibre content . Social innovation will also be key , in particular to foster reuse-focussed enterprises. 
+The Commission will co-finance projects on technological innovation for circular fashion business models under LIFE 53 and support the uptake of partnerships within the social and circular economy . T he textile ecosystem can also benefit from the opportunities provided by the European Regional Development Fund , which supports transformation in regions and makes funding available for research and innovation, digitalisation, SME competitiveness, skills development, digital connectivity, circular product design and production processes. 
+The Commission will encourage companies of the textiles ecosystem to participate in initiatives to develop the European Green Deal Dataspace and the Manufacturing Dataspace , so as to more easily share and reuse data across companies. Broader support for digital innovation is provided by the Network of European Digital Innovation Hubs , which will develop the digital infrastructures needed to test new digital technologies and to help the sector's workforce to better understand the opportunities of digitalisation and update their technological expertise. 
+Member States have also a key role in providing support to research, innovation and investments, including by using loans and grants of the Recovery and Resilience Facility (RRF). For instance, Portugal has already indicated its plans to support investments aimed at modernising and developing a national circular bio-industry to increase the incorporation of bio-based materials in textiles. France plans to develop innovation in different areas, including recycling and reincorporation of recycled materials, with textiles identified among the five priority materials. Italy is considering to establish Recycling Hubs to collect, sort and process textile waste. In addition, many components on innovation and digitalisation in the national plans can provide support to the ecosystem, such as purchases of digital equipment. 
+Mobilising private investment in sustainable textiles is essential. Based on the work of the Sustainable Finance Platform of experts, the Commission is considering the adoption of technical screening criteria determining, among others, what constitutes a substantial contribution to circular economy in the manufacture of apparel under the Regulation on Taxonomy for Sustainable Investments , along with criteria regarding pollution from finishing of textiles. 
+3.5. Developing the skills needed for the green and digital transitions 
+The textiles ecosystem, requires a highly skilled workforce to unlock the potential for the employment opportunities brought by the digital and green transitions , as only 13% of the workforce has high-level qualifications 54 . The sector struggles to attract qualified young talents and SMEs in the textiles ecosystem are being held back by a lack of skilled employees . 55% of European companies reported difficulties in filling ICT vacancies 55 , and 40% of companies have a green skills gap. 56 Areas such as eco-design, fibre development , innovative textile production , repair and reuse are particularly important. Vocational education and training, both initial and continuous, including apprenticeships are essential for equipping people with the necessary skills. 
+Under the EU Pact for skills 57 the Commission supported the establishment of a large-scale skills partnership for the textiles ecosystem to promote upskilling, reskilling and the acquisition and transfer of green and digital skills , including knowledge on life cycle assessment and value chain assessment . In line with the New European Skills Agenda 58 , the Digital Compass 2030 59 and the objectives of the Porto summit 60 , the Pact for Skills for the textiles ecosystem, launched on 16 of December 2021, commits to specific key performance indicators , with a view to creating local partnerships between industry, public authorities and educational providers. Agreed actions include increasing diversification in company management by up to 5% each year, in particular access for women to higher positions ; supporting 10.000 SMEs in their digitalisation efforts ; designing 20 new educational processes and tools responding to green and digital skills ; increasing the offer of apprenticeships in the sector by 20% 61 ; and other commitments on upskilling and reskilling the workforce in the coming years. 
+
+4. Tying together a sustainable textiles value chains globally 
+The EU will pursue global progress towards more sustainable and circular textiles in international fora (G7, G20), in the context of the Global Alliance for Circular Economy and Resource Efficiency (GACERE) and the United Nations Environmental Assembly. The Commission will engage with other partners at global, regional and bilateral levels to promote cooperation and initiatives in support of sustainable textile value chains and sustainable fashion. UNEP’s EU-funded InTex project 62 to stimulate Innovative Business Practices and Economic Models in the Textile Value Chain is a practical example of such engagement. 
+4.1. Due diligence for environmental and social fairness 
+Most of the final clothing and household textiles consumed in Europe are imported from third countries. In 2019, the EU was one of the largest global importer s of clothing with a combined value of EUR 80 billion 63 . Promoting greener and fairer value chains across borders and continents will ensure that textile products consumed in the EU and beyond are manufactured taking into consideration both social and environmental aspects across the globe. 
+The Communication on decent work worldwide for a global just transition and a sustainable recovery 64 identifies textiles as a key sector where decent work conditions will be promoted through outreach in bilateral relations and multilateral fora. In this context, the textile industry has the potential to advance gender equality as it is estimated that 75% of global garment workers are women 65 . In addition, in the frame work of the Better Work Programme 66 , t he Commission supports third partner countries in improving working conditions and increasing the compliance with international labour standards . 
+In the context of textile value chains, the OECD due diligence guidance for the garment and footwear sector has identified a number of common risks of serious human and labour ri ght s violations , including child labour, discrimination, forced labour, occupational health and safety concerns, and unfair wage s 67 . The proposal for a Corporate Sustainability Due Diligence Directive 68 , introduces a horizontal due diligence obligation for big companies to identify, prevent, mitigate , bring to an end and account for actual and potential adverse impacts on human rights , including labour rights , and the environment in companies’ own operations and across their global va l ue chains. Midcaps (large companies with more than 250 employees and over EUR 40 million turnover) active in high-impact sectors , including textiles, are also within its scope. Third country companies involved in textile value chains of European buyers, or large buyers operating in the EU, that generate significant turnover in the EU, will also have to meet such obligations. Furthermore, t he EU Strategy on the Rights of the Child 69 underlines the “zero tolerance towards child labour” and calls on EU Member States to free their supply chains of child labour. T he Commission is also preparing a new legislative initiative to effectively prohibit the placing on the EU market of products made by forced labour, including forced child labour . 
+In addition , the on-going development and implementation of an international framework on transparency and traceability for sustainable value chains in the garment and footwear industry 70 will facilitate the management of value chains more effectively, identify and address labour and human rights violations and environmental impacts. 
+4.2. Addressing the challenges from the export of textile waste 
+E xports of textile waste outside the EU have been steadily increasing to reach 1.4 million tonnes in 2020 71 . Under the recent Commission proposal for new EU rules on the shipment of waste 72 , the export of textile waste to non-OECD countries would be allowed only under the condition that such countries notify to the Commission their willingness to import specific types of waste and demonstrate their ability to manage it sustainably. 
+To avoid that waste streams are falsely labelled as second-hand goods when exported from the EU and in this way escape the waste regime, on the basis of an empowerment foreseen in the proposal , the Commission will consider the develop ment of specific EU level criteria to make a distinction between waste and certain second-hand textile products . A call under LIFE has been launched 73 to improve the traceability of exports of used textiles and textile waste . 
+The Commission will also work to increase transparency and sustainability in global trade in textile waste and used textiles. At bilateral level, the EU will be intensifying its cooperation on issues of common interest related to textile waste shipment through its dialogues on the environment with third countries and regions, as well as in the context of the sustainable development chapters of the EU bilateral and region-to-region trade agreements, where relevant, in line with the overall EU objectives to increase the sustainability dimension of its trade policy. 
+
+5. Conclusion 
+Advancing towards greater sustainability of the textiles ecosystem requires deep changes in the currently prevailing linear way in which textile products are designed, produced, used and discarded, together with reducing its impacts on climate change, unsustainable resource use and environmental pollution, and halting the violation of human rights in the textile value chains. 
+The transition to a sustainable and circular textile industry, in synergy with a strong digitalisation and social fairness agenda, can help the sector recover from the COVID-19 crisis, enhance its resilience for the future and strengthen its competitive sustainability, and contribute positively to addressing the climate and biodiversity crises and social injustice. 
+The Commission invites EU institutions and bodies to endorse this Strategy and calls on Member States, the entire value chain and international partners to commit to resolute and concrete action for its implementation. 
+
+(1) Ellen MacArthur Foundation (EMF) ( 2017 ) A New Textiles Economy: Redesigning fashion’s future (2) E uropean E nvironment A gency (EEA) ( 2019 ) Textiles and the environment in a circular economy (3) EEA ( 2022 ) Textiles and the environment: the role of design in Europe’s circular economy (4) EEA ( 2019 ) Textiles and the environment in a circular economy (5) EMF A New Textiles Economy: Redesigning fashion’s future (6) JRC ( 2021 ) Circular economy perspectives in the EU Textile sector (7) EEA ( 2022 ) Textiles and the environment: the role of design in Europe’s circular economy (8) Household expenditure on clothing and household textiles respectively increased by 14 % and 17 % in real terms between 2000 and 2018, JRC (2021) Circular economy perspectives in t he EU Textile sector, p. 27 (9) ILO ( 2016 ) How Better Work is improving garment workers’ lives and boosting factory competitiveness (10) Euratex ( 2020 ) Key facts and Figures (11) https://ec.europa.eu/eurostat (12) COM(2020) 98 final (13) COM(2021) 350 final (14) ECOS ( 2021 ) How Ecodesign can make our textiles circular (15) EMF ( 2017 ) A New Textiles Economy: Redesigning fashion’s future (16) Designing for circular fashion: integrating upcycling into conventional garment manufacturing processes,Fashion and Textiles (17) JRC ( 2021 ) Circular economy perspectives in the EU Textile sector (18) European Commission (2021) Study on the technical, regulatory, economic and environmental effectiveness of textile fibres recycling (19) Commission Decision 2014/350/EU of 5 June 2014 establishing the ecological criteria for the award of the EU Ecolabel for textile products (OJ L 174, 13.6.2014, p. 45–83). (20) EU green public procurement criteria for textiles products and services, SWD (2017) 231 final (21) COM (2022) 142 (22) Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (23) COM (2020) 667 final (24) COM(2021) 323 final (25) https://ec.europa.eu/environment/industry/stationary/ied/evaluation.htm (26) https://eippcb.jrc.ec.europa.eu/reference/textiles-industry (27) EEA ( 2021 ) Plastic in textiles: towards a circular economy for synthetic textiles in Europe (28) Eunomia ( 2018 ) Investigating options for reducing releases in the aquatic environment of microplastics emitted by (but not Intentionally added in) products (29) I.E. Napper et al (20 20 ) The efficiency of devices intended to reduce microfibre release during clothes washing and HK McIlwraith et al. (2019) Capturing microfibers – marketed technologies reduce microfiber emissions from washing machine (30) The European Standardisation Organisation is work ing on a series of standards ( EN ISO 4484) related to specific release of microplastics from synthetic textiles (31) Regulation (EU) No 1007/2011 of the European Parliament and of the Council of 27 September 2011 on textile fibre names and related labelling and marking of the fibre composition of textile products and repealing Council Directive 73/44/EEC and Directives 96/73/EC and 2008/121/EC of the European Parliament and of the Council Text with EEA relevance ( OJ L 272, 18.10.2011, p. 1–64 ) (32) https://ec.europa.eu/info/live-work-travel-eu/consumer-rights-and-complaints/enforcement-consumer-protection/sweeps_en (33) COM (2022) 143 (34) Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council (Unfair Commercial Practices Directive) (OJ L 149, 11.6.2005, p. 22–39) (35) Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council ( OJ L 304, 22.11.2011, p. 64 ) (36) Commission Recommendation (EU) 2021/2279 of 15 December 2021 on the use of the Environmental Footprint methods to measure and communicate the life cycle environmental performance of products and organisations (37) Directive (EU) 2019/904 of the European Parliament and of the Council of 5 June 2019 on the reduction o f the impact of certain plastic products on the environment (Text with EEA relevance), PE/11/2019/REV/1, ( OJ L 155, 12.6.2019 ) (38) European Parliament and Council Directive 94/62/EC of 20 December 1994 on packaging and packaging waste (OJ L 365, 31.12.1994, p. 10–23) (39) JRC ( 2021 ) Circular economy perspectives in the EU Textile sector (40) COM (2021) 350 final (41) Textiles ecosystem refers to textile, clothing, leather and footwear industries in accordance with the de finition provided by the Annual Single Market Report 2021 (42) EEA ( 2021 ) Business Models in a Circular Economy (43) OECD/European Commission ( 2022 ) Policy brief on making the most of the social economy’s contribution to the circular economy (44) RREUSE ( 2021 ) Job creation in the re-use sector: data insights from social enterprises (45) COM (2021) 778 final (46) https://ec.europa.eu/info/policies/consumers/consumer-protection-policy/sustainable-consumption-pledge_en (47) Established under the Regulation (EU) n. 2019/1020 o f the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/ 2011, PE/45/2019/REV/1 ( OJ L 169, 25.6.2019, p. 1–44 ) (48) REACH4TEXTILES (49) European Commission (2021) Study on the technical, regulatory, economic and environmental effectiveness of textile fibres recycling (50) https://ec.europa.eu/info/sites/default/files/research_and_innovation/funding/documents/ec_rtd_he-partnership-made-in-europe.pdf (51) https://www.bbi.europa.eu/about/circular-bio-based-europe-joint-undertaking-cbe-ju (52) Including in support of the possible legislative target for textile recycling and reuse (53) https://cinea.ec.europa.eu/life_en (54) Eurostat(2019) Labour Force Survey (55) https://ec.europa.eu/eurostat/statistics-explained/index.php?title=ICT_specialists_-_statistics_on_hard-to-fill_vacancies_in_enterprises (56) https://euratex.eu/news/which-skills-companies-need-from-their-workforce/ (57) https://ec.europa.eu/social/main.jsp?catId=1517&langId=en (58) https://ec.europa.eu/social/main.jsp?catId=1223&langId=en (59) https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en (60) https://www.2021portugal.eu/en/porto-social-summit/ (61) https://ec.europa.eu/social/main.jsp?catId=1534&langId=en (62) https://www.unep.org/intex (63) https://ec.europa.eu/eurostat/web/products-eurostat-news/-/edn-20200424-1 (64) COM (2022) 66 final (65) SWD (2017) Sustainable garment value chains through EU development action (66) https://betterwork.org/about-us/the-programme/ (67) OECD Due Diligence Guidance for Responsible Supply Chains in the Garment and Footwear Sector (68) COM(2022) 71 final (69) COM (2021) 142 final (70) http://www.unece.org.net4all.ch/fr/tradewelcome/traceability-for-sustainable-garment-and-footwear.html (71) https://ec.europa.eu/eurostat/fr/web/products-eurostat-news/-/ddn-20210420-1 (72) COM (2021) 709 final (73) https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/life-2021-prep-environment Top 
+
+EUROPEAN COMMISSION 
+Brussels, 30.3.2022 
+COM(2022) 141 final 
+
+ANNEX 
+
+to the 
+COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS 
+EU Strategy for Sustainable and Circular Textiles 
+
+ANNEX 
+
+Key actions 
+Date 
+
+Actions under the Ecodesign for Sustainable Products Regulation following its adoption 
+
+Mandatory performance requirements for the environmental sustainability of textile products 
+2024 
+
+Digital Product Passport for textiles with information requirements on environmental sustainability 
+2024 
+
+Mandatory requirements concerning green public procurement and Member State incentives 
+2024 
+
+Disclosure of the number of discarded products by large enterprises and their subsequent treatment, and measures on banning the destruction of unsold textiles 
+2024 
+
+Other actions on sustainable production and consumption 
+
+Empowering consumers in the green transition and ensuring the reliability of green claims 
+2022 
+
+Review of the Textile Labelling Regulation and considering the introduction of a digital label 
+2023 
+
+Revision of the EU Ecolabel criteria for textiles and footwear 
+2024 
+
+Product Environmental Footprint Category Rules for apparel and footwear 
+2024 
+
+Initiative to address the unintentional release of microplastics from textile products 
+2022 
+
+Review of the Best Available Techniques Reference Document for the Textiles Industry 
+2022 
+
+Enforcing the Corporate Sustainability Due Diligence Directive in the textile sector 
+As of 2023 
+
+Actions on waste challenges 
+
+Extended Producer Responsibility requirements for textiles with eco-modulation of fees and measures to promote the waste hierarchy for textile waste 
+2023 
+
+Launch of work on the setting of preparing for re-use and recycling targets for textiles 
+2022 
+
+Enforcing the restrictions on exports of textile waste outside the OECD and developing criteria for distinguishing waste from second-hand textile products 
+As of 2023 
+
+Actions to enable the transition 
+
+Launch of the Transition Pathway for the Textiles Ecosystem 
+2022 
+
+Guidance on supporting uptake and partnerships for the circular economy between social enterprises and other actors, including in the textile sector 
+2022 
+
+Guidance on circular economy business models featuring the textile sector 
+2024 
+
+Launch of #ReFashionNow 
+As of 2022 
+
+New European Bauhaus to support sustainable textiles 
+As of 2022 
+
+Horizon Europe calls to support R&D in textiles 
+2021-2027 
+
+Adoption of common industrial technology roadmap on circularity 
+2022 
+
+Criteria for circular manufacturing of apparel under the Taxonomy Regulation 
+2022 
+
+Work on skills for the textiles ecosystem within the European Skills Agenda and the renewed European Alliance for Apprenticeships 
+As of 2022 
+
+Strengthening of market surveillance through cooperation between enforcement authorities and launch of EU Toolbox against counterfeiting 
+As of 2022 
+
+Top 
+
+This site is managed by the Publications Office of the European Union 
+
+Need help? 
+Help pages 
+Contact 
+Sitemap 
+
+Follow us 
+X 
+
+Legal 
+Legal notice 
+Cookies policy 
+Accessibility 
+Privacy statement 
+
+Information 
+About EUR-Lex 
+Newsletter 
+Useful links 
+
+Other services 
+European Data 
+EU tenders 
+EU research results 
+EU Whoiswho 
+EU publications 
+
+N-Lex 
+
+EU Law Tracker 
+
+Discover more on europa.eu 
+
+Contact the EU 
+Call us 00 800 6 7 8 9 10 11 
+Use other telephone options 
+Write to us via our contact form 
+Meet us at one of the EU centres 
+
+Social media 
+Search for EU social media channels 
+
+Legal 
+Languages on our websites 
+Privacy policy 
+Legal notice 
+Cookies 
+
+EU institutions 
+European Parliament 
+European Council 
+Council of the European Union 
+European Commission 
+Court of Justice of the European Union (CJEU) 
+European Central Bank (ECB) 
+European Court of Auditors 
+European External Action Service (EEAS) 
+European Economic and Social Committee 
+European Committee of Regions (CoR) 
+European Investment Bank 
+European Ombudsman 
+European Data Protection Supervisor (EDPS) 
+European Data Protection Board 
+European Personnel Selection Office 
+Publications Office of the European Union 
+Agencies 
+
+Switch to mobile 
+Switch to desktop 

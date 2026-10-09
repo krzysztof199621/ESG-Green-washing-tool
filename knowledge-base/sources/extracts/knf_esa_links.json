@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Strona główna",
+    "href": "/"
+  },
+  {
+    "text": "CO ROBIMY",
+    "href": "/co_robimy"
+  },
+  {
+    "text": "Współpraca międzynarodowa",
+    "href": "/o_nas/wspolpraca_miedzynarodowa"
+  },
+  {
+    "text": "Unia Europejska",
+    "href": "/o_nas/wspolpraca_miedzynarodowa/unia"
+  },
+  {
+    "text": "Europejski System Nadzoru Finansowego",
+    "href": "/o_nas/wspolpraca_miedzynarodowa/unia/ESNF"
+  },
+  {
+    "text": "Europejski System Nadzoru Finansowego - Informacje ogólne",
+    "href": "/o_nas/wspolpraca_miedzynarodowa/unia/ESNF/inf_ogol"
+  },
+  {
+    "text": "Europejski System Nadzoru Finansowego - Podstawa prawna",
+    "href": "/o_nas/wspolpraca_miedzynarodowa/unia/ESNF/podstawa_prawna"
+  },
+  {
+    "text": "Wytyczne Europejskich Urzędów Nadzoru",
+    "href": "/o_nas/wspolpraca_miedzynarodowa/unia/ESNF/wytyczne_europejskich_urzedow_nadzoru"
+  },
+  {
+    "text": "Wytyczne Europejskiego Urzędu Nadzoru Bankowego (ang. EBA Guidelines)",
+    "href": "https://www.eba.europa.eu/document-library"
+  },
+  {
+    "text": "Wytyczne Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych (ang. EIOPA Guidelines)",
+    "href": "https://eiopa.europa.eu/regulation-supervision/guidelines"
+  },
+  {
+    "text": "Wytyczne Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych (ang. ESMA Guidelines)",
+    "href": "http://www.esma.europa.eu/documents/overview/10?title=&doc_reference=&x=51&y=11&section=353&doc_type=All"
+  },
+  {
+    "text": "Wytyczne Wspólnego Komitetu (ang. Joint Committee Guidelines)",
+    "href": "https://esas-joint-committee.europa.eu/publications/guidelines"
+  },
+  {
+    "text": "Polityka Prywatności",
+    "href": "/polityka_prywatnosci"
+  },
+  {
+    "text": "Klauzula informacyjna",
+    "href": "/klauzula_informacyjna"
+  },
+  {
+    "text": "Nota prawna",
+    "href": "/o_nas/urzad_komisji/nota_prawna"
+  },
+  {
+    "text": "Mapa strony",
+    "href": "/mapa_strony"
+  },
+  {
+    "text": "Pomoc",
+    "href": "/pomoc"
+  },
+  {
+    "text": "RSS",
+    "href": "/api/rss"
+  },
+  {
+    "text": "Kontakt",
+    "href": "/o_nas/urzad_komisji/dane_teleadresowe"
+  }
+]

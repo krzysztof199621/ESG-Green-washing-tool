@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Skaner greenwashingu</title>
+  <style>
+    :root {
+      --ink: #1a1714;
+      --muted: #6a635b;
+      --rule: #d9d1c4;
+      --paper: #f6f1e8;
+      --card: #fffcf7;
+      --forest: #1b4a38;
+      --forest-soft: #e4eee8;
+      --amber: #7a4e10;
+      --amber-soft: #f3e6cf;
+      --rose: #8a1f45;
+      --rose-soft: #f5e3ea;
+      --gold: #c4a574;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; background: var(--paper); color: var(--ink); }
+    body {
+      font-family: "Avenir Next", "Segoe UI", system-ui, sans-serif;
+      min-height: 100vh;
+    }
+    .bar { height: 8px; background: var(--forest); }
+    header, main, footer { width: min(980px, calc(100% - 32px)); margin: 0 auto; }
+    header { padding: 28px 0 8px; }
+    .kicker {
+      font-size: 11px; letter-spacing: .12em; text-transform: uppercase;
+      color: var(--forest); font-weight: 700;
+    }
+    .kicker:after {
+      content: ""; display: block; width: 42px; height: 2px;
+      background: var(--gold); margin-top: 8px;
+    }
+    h1 {
+      font-family: "Iowan Old Style", Palatino, Georgia, serif;
+      font-weight: 400; font-size: clamp(28px, 4vw, 40px);
+      line-height: 1.15; margin: 16px 0 8px;
+    }
+    .lede { color: var(--muted); line-height: 1.5; max-width: 62ch; }
+    .pills { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 8px; }
+    .pill {
+      border-radius: 999px; padding: 4px 10px; font-size: 11px; font-weight: 700;
+    }
+    .pill.forest { background: var(--forest-soft); color: var(--forest); }
+    .pill.amber { background: var(--amber-soft); color: var(--amber); }
+    .pill.rose { background: var(--rose-soft); color: var(--rose); }
+    .layout { display: grid; grid-template-columns: 1fr; gap: 16px; padding-bottom: 48px; }
+    @media (min-width: 860px) {
+      .layout { grid-template-columns: 1fr 1.15fr; align-items: start; }
+    }
+    .card {
+      background: var(--card); border: 1px solid var(--rule);
+      border-radius: 14px; padding: 18px;
+    }
+    h2 { font-size: 15px; margin: 0 0 12px; }
+    .drop {
+      border: 1.5px dashed var(--rule); border-radius: 12px;
+      padding: 28px 16px; text-align: center; background: #faf6ef;
+      cursor: pointer;
+    }
+    .drop.drag { border-color: var(--forest); background: var(--forest-soft); }
+    .drop strong { display: block; margin-bottom: 6px; }
+    .drop span { color: var(--muted); font-size: 13px; }
+    input[type=file] { display: none; }
+    textarea {
+      width: 100%; min-height: 110px; margin-top: 12px; resize: vertical;
+      border: 1px solid var(--rule); border-radius: 10px; padding: 10px 12px;
+      font: inherit; background: white; color: var(--ink);
+    }
+    .row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+    button {
+      font: inherit; font-weight: 700; font-size: 13px; border: 0; cursor: pointer;
+      border-radius: 10px; padding: 10px 14px;
+    }
+    .primary { background: var(--forest); color: white; }
+    .ghost { background: var(--forest-soft); color: var(--forest); }
+    .quiet { background: transparent; color: var(--muted); padding-left: 4px; }
+    button:disabled { opacity: .5; cursor: wait; }
+    .err { color: var(--rose); font-size: 13px; margin-top: 10px; }
+    .verdict {
+      border-radius: 12px; padding: 16px 18px; margin-bottom: 14px;
+    }
+    .verdict h3 { margin: 0 0 6px; font-size: 18px; }
+    .verdict p { margin: 0; font-size: 14px; line-height: 1.45; }
+    .verdict.rose { background: var(--rose-soft); color: var(--rose); }
+    .verdict.amber { background: var(--amber-soft); color: var(--amber); }
+    .verdict.forest { background: var(--forest-soft); color: var(--forest); }
+    .meta {
+      display: flex; flex-wrap: wrap; gap: 10px 16px;
+      color: var(--muted); font-size: 12px; margin-bottom: 14px;
+    }
+    .finding {
+      border: 1px solid var(--rule); border-radius: 12px; padding: 12px 14px; margin-bottom: 10px;
+    }
+    .finding header { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+    .code {
+      font-size: 11px; font-weight: 700; border-radius: 999px; padding: 3px 8px;
+    }
+    .sev-high .code { background: var(--rose-soft); color: var(--rose); }
+    .sev-medium .code { background: var(--amber-soft); color: var(--amber); }
+    .sev-low .code { background: #e8ecf0; color: #3a4650; }
+    .finding h4 { margin: 0; font-size: 14px; }
+    .finding p { margin: 8px 0 0; font-size: 13px; line-height: 1.45; }
+    .snippet {
+      margin-top: 8px; font-size: 12px; color: var(--muted);
+      background: #f3eee4; border-radius: 8px; padding: 8px 10px;
+    }
+    .advice { color: var(--ink); }
+    .source { font-size: 11px; color: var(--muted); margin-top: 6px; }
+    .empty { color: var(--muted); font-size: 14px; }
+    footer {
+      padding: 8px 0 28px; color: var(--muted); font-size: 12px; line-height: 1.45;
+      border-top: 1px solid var(--rule); margin-top: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="bar"></div>
+  <header>
+    <div class="kicker">Green Washing Tool · skaner pliku</div>
+    <h1>Sprawdź komunikację pod kątem greenwashingu</h1>
+    <p class="lede">Wczytaj PDF, DOCX, PPTX, HTML albo TXT. Silnik reguł z bazy wiedzy (ECGT, UPNPR, praktyka UOKiK). Nie zastępuje oceny prawnej.</p>
+    <div class="pills">
+      <span class="pill forest">W mocy: UPNPR / UOKiK</span>
+      <span class="pill forest">ECGT od 27.09.2026</span>
+      <span class="pill amber">Soft law: FAQ + CPC</span>
+      <span class="pill rose">Green Claims nie jest prawem</span>
+    </div>
+  </header>
+  <main class="layout">
+    <section class="card">
+      <h2>1. Wczytaj albo wklej</h2>
+      <label class="drop" id="drop" for="file">
+        <strong>Upuść plik tutaj</strong>
+        <span>PDF, Word, PowerPoint, HTML, TXT · max 15 MB</span>
+      </label>
+      <input id="file" type="file" accept=".pdf,.docx,.pptx,.txt,.md,.html,.htm,.csv" />
+      <div class="row" id="fileName" style="display:none;color:var(--forest);font-size:13px;font-weight:700;"></div>
+      <textarea id="paste" placeholder="Albo wklej treść etykiety, reklamy, oferty…"></textarea>
+      <div class="row">
+        <button class="primary" id="run" type="button">Sprawdź</button>
+        <button class="ghost" id="exBad" type="button">Przykład ryzykowny</button>
+        <button class="ghost" id="exOk" type="button">Przykład konkretny</button>
+        <button class="quiet" id="clear" type="button">Wyczyść</button>
+      </div>
+      <div class="err" id="err" hidden></div>
+    </section>
+    <section class="card" id="out">
+      <h2>2. Wynik</h2>
+      <p class="empty" id="placeholder">Tu pojawi się werdykt, kody czarnej listy i cytaty z pliku.</p>
+      <div id="result" hidden></div>
+    </section>
+  </main>
+  <footer>
+    Stan bazy: 15 września 2026. Kara UOKiK: do 10% obrotu za każdą praktykę. Nowela PL (Senat 825) nieogłoszona — ECGT i tak od 27.09.2026. Plik nie jest wysyłany poza ten komputer (lokalny serwer).
+  </footer>
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const drop = $("drop");
+    const fileInput = $("file");
+    const paste = $("paste");
+    const err = $("err");
+    const runBtn = $("run");
+    let chosenFile = null;
+
+    function setError(msg) {
+      err.hidden = !msg;
+      err.textContent = msg || "";
+    }
+    function showFileName(name) {
+      const el = $("fileName");
+      if (!name) { el.style.display = "none"; el.textContent = ""; return; }
+      el.style.display = "block";
+      el.textContent = "Wybrany plik: " + name;
+    }
+
+    ["dragenter","dragover"].forEach((ev) => {
+      drop.addEventListener(ev, (e) => { e.preventDefault(); drop.classList.add("drag"); });
+    });
+    ["dragleave","drop"].forEach((ev) => {
+      drop.addEventListener(ev, (e) => { e.preventDefault(); drop.classList.remove("drag"); });
+    });
+    drop.addEventListener("drop", (e) => {
+      const f = e.dataTransfer.files[0];
+      if (f) { chosenFile = f; fileInput.files = e.dataTransfer.files; showFileName(f.name); }
+    });
+    fileInput.addEventListener("change", () => {
+      chosenFile = fileInput.files[0] || null;
+      showFileName(chosenFile ? chosenFile.name : "");
+    });
+
+    $("clear").onclick = () => {
+      chosenFile = null; fileInput.value = ""; paste.value = ""; showFileName("");
+      $("result").hidden = true; $("placeholder").hidden = false; setError("");
+    };
+
+    async function loadSample(name) {
+      setError("");
+      runBtn.disabled = true;
+      try {
+        const res = await fetch("/api/sample/" + name);
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.detail || "Błąd przykładu");
+        paste.value = "";
+        chosenFile = null; fileInput.value = ""; showFileName("przykład: " + data.filename);
+        render(data);
+      } catch (e) { setError(e.message); }
+      finally { runBtn.disabled = false; }
+    }
+    $("exBad").onclick = () => loadSample("ryzyko");
+    $("exOk").onclick = () => loadSample("ok");
+
+    runBtn.onclick = async () => {
+      setError("");
+      const fd = new FormData();
+      if (chosenFile) fd.append("file", chosenFile);
+      if (paste.value.trim()) fd.append("text", paste.value);
+      if (!chosenFile && !paste.value.trim()) {
+        setError("Wczytaj plik albo wklej treść.");
+        return;
+      }
+      runBtn.disabled = true;
+      try {
+        const res = await fetch("/api/analyze", { method: "POST", body: fd });
+        const data = await res.json();
+        if (!res.ok) throw new Error(typeof data.detail === "string" ? data.detail : JSON.stringify(data.detail));
+        render(data);
+      } catch (e) { setError(e.message); }
+      finally { runBtn.disabled = false; }
+    };
+
+    function render(data) {
+      $("placeholder").hidden = true;
+      const box = $("result");
+      box.hidden = false;
+      const v = data.verdict || {};
+      const findings = data.findings || [];
+      const sectors = (data.sectors || []).join(", ") || "nieoznaczony";
+      box.innerHTML = `
+        <div class="verdict ${v.color || "forest"}">
+          <h3>${escapeHtml(v.label || "Wynik")}</h3>
+          <p>${escapeHtml(v.why || "")}</p>
+        </div>
+        <div class="meta">
+          <span>${escapeHtml(data.filename || "")}</span>
+          <span>${data.chars || 0} znaków</span>
+          <span>trafienia: ${data.counts?.total ?? findings.length}</span>
+          <span>sektor: ${escapeHtml(sectors)}</span>
+        </div>
+        ${findings.length ? findings.map(f => `
+          <article class="finding sev-${f.severity}">
+            <header>
+              <span class="code">${escapeHtml(f.code)}</span>
+              <h4>${escapeHtml(f.title)}</h4>
+            </header>
+            <p>${escapeHtml(f.message)}</p>
+            ${f.snippet ? `<div class="snippet">${escapeHtml(f.snippet)}</div>` : ""}
+            <p class="advice">${escapeHtml(f.advice)}</p>
+            <div class="source">${escapeHtml(f.source)} · ${escapeHtml(f.rule_id)}</div>
+          </article>
+        `).join("") : `<p class="empty">Brak automatycznych trafień czarnej listy. To nie znaczy, że komunikat jest zgodny — sprawdź dowód 1:1.</p>`}
+      `;
+    }
+    function escapeHtml(s) {
+      return String(s ?? "").replace(/[&<>"']/g, (c) => ({
+        "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"
+      }[c]));
+    }
+  </script>
+</body>
+</html>

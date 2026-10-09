@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "title": "Reguły weryfikacji greenwashingu",
+    "as_of": "2026-09-15",
+    "source_list": "Przepisy.docx + ISAP PDFs + ECGT FAQ 2026 + CPC old stock + Sejm 2799/3043 + Senat 825 + UOKiK 2025-2026 + UCPD Guidance 2021 + LEED v4.1 BD+C",
+    "binding_core": ["UPNPR", "UOKiK", "UZNK", "ECGT-2024-825"],
+    "ecgt_apply_from": "2026-09-27",
+    "pl_transposition": {
+      "sejm_passed": "2026-09-04",
+      "senate_print": "825",
+      "senate_status": "in_committee_since_2026-09-09",
+      "art3_entry_into_force": "2027-09-27",
+      "note": "Not published in Dz.U.; ECGT still applies from 2026-09-27"
+    },
+    "green_claims_status": "proposal_paused_not_law",
+    "uokik_environmental_claims_guidelines": "unpublished_as_of_2026-09"
+  },
+  "immediate_reject": [
+    {
+      "id": "ECGT-2a",
+      "if": "sustainability_label_without_third_party_or_public_scheme",
+      "message": "Znak zrównoważoności bez systemu certyfikacji ani organu publicznego."
+    },
+    {
+      "id": "ECGT-4a",
+      "if": "generic_environmental_claim_without_recognised_excellent_performance",
+      "examples": ["eko", "bio (poza żywnością certyfikowaną)", "zielony", "zrównoważony", "przyjazny środowisku", "climate friendly", "green", "Join Life", "Conscious"],
+      "unless": "EU Ecolabel or recognised ISO 14024 Type I relevant to the claim, specified in the same medium",
+      "visuals": "leaf, water drop, green wash, planet may be an implicit claim or a sustainability label"
+    },
+    {
+      "id": "ECGT-4b",
+      "if": "claim_about_whole_product_or_trader_but_evidence_only_for_aspect",
+      "examples": [
+        "zrównoważona kolekcja przy niskim % recyklatu",
+        "zeroemisyjna firma przy jednym magazynie PV",
+        "zielona dostawa przy EV tylko na last mile",
+        "zero waste we własnych obiektach przy 1 z 40 sklepów",
+        "eko produkt przy 10% recyklatu"
+      ]
+    },
+    {
+      "id": "ECGT-4c",
+      "if": "ghg_neutral_reduced_or_positive_claim_based_on_offsets",
+      "message": "Zakaz bez wyjątków: offset nie uzasadnia claimu GHG o produkcie."
+    },
+    {
+      "id": "ECGT-10a",
+      "if": "legal_requirement_marketed_as_distinctive_feature",
+      "examples": ["bez substancji zakazanych w UE", "zgodny z obowiązującym prawem jako benefit"]
+    },
+    {
+      "id": "UPNPR-7-2",
+      "if": "uses_certificate_or_quality_mark_without_entitlement"
+    }
+  ],
+  "always_on_tests": [
+    {
+      "id": "UPNPR-5",
+      "test": "true_but_misleading_presentation_is_still_unlawful"
+    },
+    {
+      "id": "UPNPR-6",
+      "test": "material_omission_that_changes_meaning"
+    },
+    {
+      "id": "SCOPE-MATCH",
+      "test": "evidence_scope_equals_wording_scope"
+    },
+    {
+      "id": "CHANNEL-CONSISTENCY",
+      "test": "packaging_ads_web_report_must_tell_the_same_story"
+    },
+    {
+      "id": "SAME-MEDIUM-SPEC",
+      "test": "qualification_must_appear_in_the_same_medium_as_the_headline; QR_or_website_does_not_cure_a_generic_4a_claim; no_space_on_pack_means_no_claim"
+    },
+    {
+      "id": "LANGUAGE-OF-CONSUMER",
+      "test": "conditions_and_geographic_limits_must_be_in_the_language_of_the_targeted_consumer (UOKiK Tchibo Cafissimo)"
+    },
+    {
+      "id": "EAC-NOT-PHYSICAL-ENERGY",
+      "test": "100% renewable via EAC/GO without explanation is likely misleading (UOKiK Bolt)"
+    }
+  ],
+  "old_stock": {
+    "id": "CPC-OLD-STOCK-2026",
+    "applies_from": "2026-09-27",
+    "no_derogation": true,
+    "online_first": "correct immediately; no grace",
+    "physical_packaging": "stickers_or_POS_plus_inventory_of_actions; do_not_destroy_stock",
+    "enforcement": "guidance_and_corrective_measures_before_fines_where_documented_good_faith"
+  },
+  "sector_rules": {
+    "fmcg": [
+      {"id": "ORG-848-30", "reserved": ["eko", "bio", "organic", "ekologiczny"], "requires": "Regulation 2018/848 certification; processed food generally >=95% organic agricultural ingredients for sales description; lex specialis vs ECGT 4a on food"},
+      {"id": "PL-ORG-2022-1370", "requires": "authorised control body certificate under Dz.U. 2022 poz. 1370"},
+      {"id": "FIR-1169-7", "prohibits": "attributing properties the food does not have; presenting common features as special"},
+      {"id": "EUDR", "commodities": ["cattle", "cocoa", "coffee", "palm oil", "soya", "wood", "rubber"], "claim": "deforestation-free requires due diligence statement"},
+      {"id": "TCHIBO-LEAF", "reject_if": "eco_leaf_or_eko_badge_on_non-food_with_opaque_or_trivial_threshold"}
+    ],
+    "finance": [
+      {"id": "SFDR-8-vs-9", "do_not": "market art.8 as sustainable-objective art.9 product"},
+      {"id": "ESMA-NAMES-80", "threshold_pct": 80, "plus": "Paris-aligned benchmark exclusions depending on term"},
+      {"id": "TAXONOMY", "use": "alignment not mere eligibility; include DNSH"}
+    ],
+    "transport": [
+      {"id": "COUNTEMISSIONS-2026-1030", "if_disclose_ghg": "EN ISO 14083:2023; primary data preferred"},
+      {"id": "FLEET-CLAIM", "require": "denominator in vehicle-km or tkm not a photo of one EV"},
+      {"id": "UOKIK-COURIERS-2025", "patterns": ["eko Paczkomat", "zeroemisyjny e-commerce as future plan", "green fleet without LCA", "tree-planting as delivery offset"]},
+      {"id": "UOKIK-BOLT-2026", "patterns": ["zero-emission vehicles when ICE dominates", "100% renewable via EAC only"]}
+    ],
+    "textiles": [
+      {"id": "GREENLIGHTING", "reject_if": "sustainable collection claim based on small recycled share"},
+      {"id": "ESPR-DPP", "require": "advertising consistent with digital product passport data"},
+      {"id": "CSDDD", "note": "after Omnibus I: apply from 2029 for very large companies; SMEs indirectly via chain"},
+      {"id": "UOKIK-ZARA-2026", "reject_if": "Join Life / net-zero / zero-waste headline without store-level or product-level scope"}
+    ],
+    "construction": [
+      {"id": "EPBD-11", "zero_emission_building": "no on-site fossil CO2; energy demand threshold >=10% below nZEB threshold of 2024-05-28"},
+      {"id": "NO-CERT-TRANSFER", "forbid": "BREEAM/LEED/material EPD used as proof the whole investment is zero-emission"},
+      {"id": "EPD", "require": "same product variant and LCA modules as claimed"},
+      {"id": "BREEAM-V71", "note": "NC v7.1 is default registration; technical manual is login-only; whole-life carbon is a scheme aim not an EPBD status"},
+      {"id": "LEED-V41-BDC", "note": "public rating system PDF July 2020 is a credit catalogue, not EPBD art. 11"}
+    ]
+  },
+  "enforcement_pl": {
+    "uokik_max_fine": "10% turnover per practice, even unintentional (art. 106 + art. 24)",
+    "uokik_live_cases": ["InPost", "Allegro", "DHL", "DPD", "Bolt", "Tchibo", "Zara"],
+    "b2c": "UPNPR",
+    "b2b": "UZNK art. 10 and art. 16 advertising",
+    "financial_supervisor": "KNF applying ESA guidance"
+  }
+}

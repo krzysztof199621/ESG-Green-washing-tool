@@ -1,0 +1,1110 @@
+
+
+===== PAGE 1/19 =====
+
+ 
+ 
+Directorate-General for Justice and Consumers 
+ 
+ 
+European Commission 
+Questions & Answers 
+Brussels, June 2026 
+Disclaimer: 
+This document provides answers to frequently asked questions by stakeholders related to 
+Directive (EU) 2024/825 of the European Parliament and of the Council of 28 February 2024 
+amending Directives 2005/29/EC and 2011/83/EU as regards empowering consumers for 
+the green transition through better protection against unfair practices and through better 
+information. Any views expressed in this document are the preliminary views of the 
+European Commission (EC) services and may not under any circumstances be regarded as 
+stating an official position of the EC. Only the Court of Justice of the European Union is 
+competent to authoritatively interpret EU law.  
+ 
+General note  
+The new Directive on Empowering Consumers for the Green Transition (Directive (EU) 
+2024/825, ECGT Directive) amends two existing consumer directives: the Unfair 
+Commercial Practices Directive (Directive 2005/29/EC, UCPD) and the Consumer Rights 
+Directive (Directive 2011/83/EU, CRD).  
+The amendments do not change the scope and logic of intervention of these two existing 
+Directives but introduce targeted changes, to regulate vague and misleading environmental 
+claims and sustainability labels under the UCPD and mandating better and more harmonised 
+information at the point of sale on consumers’ legal guarantee rights, and on the repairability 
+and durability of goods under the CRD. This will ensure a strengthened horizontal ‘consumer 
+protection safety net’ (lex generalis), improving consumer protection and consumer 
+information in all sectors falling within the scope of the UCPD and the CRD, complementing 
+and filling gaps in sector-specific Union law that regulates specific aspects of unfair 
+commercial practices (lex specialis), but not taking precedence over it.  
+These answers to frequently asked questions do not constitute a formal Commission position 
+or legally binding interpretation of the ECGT Directive. The exclusive competence to provide 
+authoritative interpretation lies with the Court of Justice of the European Union. It is the 
+responsibility of the national competent bodies, including courts, to enforce the provisions 
+of the Directive.  
+ 
+For further information on the ECGT Directive, the UCPD, and the CRD please check also: 
+- 
+https://commission.europa.eu/live-work-travel-eu/consumer-rights-and-
+complaints/sustainable-consumption_en 
+- 
+https://eur-lex.europa.eu/eli/dir/2024/825/oj 
+- 
+https://commission.europa.eu/law/law-topic/consumer-protection-law/consumer-
+contract-law/consumer-rights-directive_en  
+- 
+https://commission.europa.eu/law/law-topic/consumer-protection-law/unfair-
+commercial-practices-and-price-indication/unfair-commercial-practices-
+directive_en. 
+ 
+
+
+===== PAGE 2/19 =====
+
+ 
+ 
+2 
+The Guidance Notices1 on the UCPD and CRD were updated and issued by the Commission 
+in 2021. Section 4.1.1 of the UCPD Guidance Notice covers the application of the UCPD to 
+environmental claims, i.e. prior to the adoption of Directive 2024/825. 
+ 
+Why this Questions & Answers document? 
+Recital 42 of the ECGT Directive states:  
+'To facilitate the proper application of this Directive, it is important that the Commission 
+keeps the guidance documents on Directives 2005/29/EC and 2011/83/EU updated to take 
+into account the content of this Directive.’ 
+Recital 42 of ECGT Directive did not set a specific timeline to update the Commission’s 
+guidance documents on the UCPD and the CRD. 
+As a general practice, the Commission updates these guidance documents after a certain 
+period of application has elapsed, allowing for the accumulation of relevant case law, 
+enforcement decisions, and practical experience. Given that transposition of the ECGT 
+Directive is still ongoing, and the date of application will be 27 September 2026, the 
+Commission will proceed to updating the current 2021 guidance notices at a later date. The 
+Commission issues this Questions & Answers document to facilitate a coherent application 
+of the ECGT Directive in the meantime. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52021XC1229(05)&from=EN; https://eur-
+lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52021XC1229(04)&from=EN  
+
+
+===== PAGE 3/19 =====
+
+ 
+ 
+3 
+Table of Contents 
+Questions in relation to the UCPD, as amended by ECGT Directive: .............................................. 5 
+1. Could you clarify the material scope of the ECGT Directive? For example, do corporate 
+communication, sustainability and corporate sustainability reporting fall within the scope of the 
+Directive? ......................................................................................................................................... 5 
+2. The definition of ‘environmental claim’ includes claims that ‘imply’ a positive or zero impact 
+on the environment. How should the term ‘imply’ be interpreted in this context? ...................... 6 
+3. How are existing brand names or product names that are protected by intellectual property 
+rights, affected by the new rules on environmental claims under the ECGT Directive? ................ 7 
+4. Could you provide further clarification on when an environmental claim is considered generic 
+and when it is not, under the ECGT Directive? ............................................................................... 8 
+5. When designing the artwork of packaging, should companies be aware of any elements (e.g. 
+art with green leaves or water drops) that would risk being considered to contain a generic 
+environmental claim or a sustainability label? ................................................................................ 9 
+6. How are generic claims of carbon neutrality regulated under the ECGT Directive? ................ 10 
+7. How can a trader demonstrate ‘recognised excellent environmental performance’ in order to 
+lawfully use a generic environmental claim under the ECGT Directive? ...................................... 10 
+8. What is meant by a ‘certification scheme’ under the ECGT Directive? .................................... 12 
+9. What types of social characteristics are referred to in the ECGT Directive? ............................ 13 
+10. Could you clarify the scope of the prohibition introduced by Annex I point 4c to the UCPD, 
+which prohibits claims that a product has a neutral, reduced or positive impact on the 
+environment in terms of greenhouse gas emissions when such claims are based on the 
+offsetting of greenhouse gas emissions? ...................................................................................... 13 
+11. Could you clarify the scope of the prohibition of advertising benefits to consumers that are 
+irrelevant and do not result from any feature of the product or business? ................................. 14 
+12. Could you clarify the prohibition of claims related to future environmental performance, in 
+particular concerning the verification by a third-party expert? .................................................... 15 
+13. To what extent must the method of comparison referred to in Article 7(7) of the UCPD be 
+explained? Should the explanation be understandable to the average consumer? .................... 16 
+14. Can you explain if the term ‘organic’ can be still used as a generic claim? ............................ 16 
+15. Do ‘vegan’/ ‘vegetarian’ labels also refer to environmental or social characteristics and 
+qualify as a sustainability label under the ECGT Directive? .......................................................... 16 
+16. Can traders present requirements imposed by law as a distinctive feature when not all 
+products are covered or when the law is from a third country? .................................................. 17 
+17. The display of sustainability labels is not forbidden if they are established by public 
+authorities. Can this be also third-country public authorities? .................................................... 17 
+18. How do the new rules on environmental claims and sustainability labels apply to existing 
+products? ....................................................................................................................................... 17 
+Questions in relation to the CRD, as amended by ECGT Directive:............................................... 18 
+19. What are the current EU rules on the reparability score for consumer goods? ..................... 18 
+
+
+===== PAGE 4/19 =====
+
+ 
+ 
+4 
+20. What are the requirements for information on durability and reparability of products to be 
+deemed available to traders and consumers under the CRD, as amended by the ECGT Directive?
+ ....................................................................................................................................................... 18 
+21. What is the relationship between the harmonised notice on the legal guarantee of 
+conformity and the harmonised label on the commercial guarantee of durability? .................... 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 5/19 =====
+
+ 
+ 
+5 
+QUESTIONS IN RELATION TO THE UCPD, AS AMENDED BY ECGT DIRECTIVE: 
+1. COULD YOU CLARIFY THE MATERIAL SCOPE OF THE ECGT DIRECTIVE? FOR EXAMPLE, DO 
+CORPORATE COMMUNICATION, SUSTAINABILITY AND CORPORATE SUSTAINABILITY REPORTING 
+FALL WITHIN THE SCOPE OF THE DIRECTIVE? 
+The UCPD establishes a harmonised legal framework to address unfair business-to-
+consumer (B2C) commercial practices across the European Union. Article 3(1) defines its 
+material scope, specifying that the Directive applies to ‘unfair business-to-consumer 
+commercial practices, as laid down in Article 5, before, during and after a commercial 
+transaction in relation to a product’.  Accordingly, the UCPD targets commercial practices 
+affecting consumers’ economic interests at any stage of a commercial transaction. Article 
+2(d) further clarifies that ‘commercial practices’ encompass any act, omission, or 
+communication directly connected with the promotion, sale, or supply of a product to 
+consumers. 
+The Directive is strictly limited to B2C practices. Business-to-business (B2B) commercial 
+practices fall outside its scope. Certain aspects of B2B practices are instead governed by 
+other EU instruments, notably the Misleading and Comparative Advertising Directive 
+(2006/114/EC), the EU Platform-to-Business Regulation (2019/1150) and, for the 
+agricultural and food supply chain, Directive (EU) 2019/633 on unfair trading practices. I 
+The UCPD does not prevent Member States from extending its protection to businesses in 
+B2B relations at the national level, however, such measures are not part of the harmonised 
+EU framework. 
+The UCPD is a cross-sectoral, in principle and subject to some exceptions, also a fully 
+harmonised legal instrument that safeguards consumers’ economic interests across the EU. 
+It applies to all sectors and addresses a broad spectrum of unfair B2C commercial practices 
+through its principle-based rules and the blacklist of prohibited practices in Annex I. By 
+establishing a uniform, overarching framework, the UCPD regulates unfair commercial 
+practices occurring before, during and after a B2C transaction. Its principle-based rules can 
+be applied to practices such as greenwashing and planned obsolescence already today, 
+before the amendments introduced by the ECGT Directive enter into application. 
+The general scope of the UCPD has not been modified by the ECGT Directive. It continues 
+to cover ‘…unfair business-to-consumer commercial practices, as laid down in Article 5, 
+before, during and after a commercial transaction in relation to a product.’ (Article 3(1) 
+UCPD).  
+The amendments of the ECGT Directive are both under the horizontal provisions and in 
+Annex I:  
+▪ 
+specific prohibitions in relation to greenwashing and early obsolescence, through 
+targeted amendments in Article 6 (on misleading actions) and Article 7 (on 
+misleading omission) which require a case-by-case assessment, i.e. a 
+“transactional decision test” should confirm that the practices concerned cause or 
+are likely to cause average consumers to take a transactional decision that they 
+would not have taken otherwise;  
+▪ 
+additional prohibitions in relation to greenwashing and early obsolescence in Annex 
+I, the so called “blacklist” of commercial practices that are prohibited under 
+all circumstances, for which there is no need to demonstrate the negative impact 
+of the practice on the average consumer’s transactional decision. 
+It is important to highlight that the UCPD does not regulate the intrinsic characteristics or 
+composition of goods, services, or companies, but focuses exclusively on how these are 
+presented to consumers, such as through marketing and commercial communications.  
+Corporate sustainability reporting, such as annual sustainability reports or disclosures 
+required under the Corporate Sustainability Reporting Directive (CSRD), is typically not in 
+scope of the UCPD/ECGT Directive, because these reports are often mandatory and 
+addressed to investors, rather than being part of B2C commercial practices. However, if a 
+company uses information from its sustainability report in voluntary advertising or 
+marketing directed at consumers, such communication falls under the UCPD/ECGT Directive, 
+
+
+===== PAGE 6/19 =====
+
+ 
+ 
+6 
+for example, if it constitutes an environmental claim concerning the product or the company 
+in general.   
+ 
+2. THE DEFINITION OF ‘ENVIRONMENTAL CLAIM’ INCLUDES CLAIMS THAT ‘IMPLY’ A POSITIVE OR 
+ZERO IMPACT ON THE ENVIRONMENT. HOW SHOULD THE TERM ‘IMPLY’ BE INTERPRETED IN THIS 
+CONTEXT?  
+The definition of ‘environmental claim’ in the ECGT Directive is broad in scope. This broad 
+interpretation is consistent with the approach already taken under the existing UCPD 
+regarding environmental claims.   
+According to Article 2(o) of the UCPD, as amended by Article 1(1)(b) of the ECGT Directive, 
+an ‘environmental claim’ means any message or representation which is not mandatory 
+under Union or national law, in any form, including text, pictorial, graphic or symbolic 
+representation, such as labels, brand names, company names or product names, in the 
+context of a commercial communication, and which states or implies that a product, product 
+category, brand or trader has a positive or zero impact on the environment or is less 
+damaging to the environment than other products, product categories, brands or traders, 
+or has improved its impact over time’. 
+The provision cited above does include both implicit or explicit messages or representations, 
+and as they are introduced in the same manner, they require the same assessment as to 
+whether they are misleading. Such a message or representation could constitute a 
+misleading ‘environmental claim’ if it contains false information and is therefore untruthful 
+or in any way, including its overall presentation, deceives or is likely to deceive the average 
+consumer, even if the information is factually correct, and in either case causes or is likely 
+to cause the average consumer to take a transactional decision that he or she would not 
+have taken otherwise. This applies in particular when the claim relates to one or more of 
+the elements set out in Article 6(1) of the UCPD, including the main characteristics of the 
+product. 
+The claim that implies that a product ‘[…] has a positive or zero impact on the environment’ 
+should therefore be assessed under the UCPD on a case-by-case basis, considering the 
+overall commercial context, including the use of visual elements, the wording and 
+presentation, and the likely impact on the average consumer.  
+As indicated in the UCPD Guidance Notice ‘accordingly, also the imagery and overall product 
+presentation (i.e. layout, choice of colours, images, pictures, sounds, symbols or labels), 
+should be a truthful and accurate representation of the scale of the environmental benefit, 
+and should not overstate the benefit achieved. Implicit claims may, depending on the 
+circumstances of the case, include the use of images (e.g. trees, rainforests, water, animals) 
+and colours (e.g. blue or green backgrounds or text) that are associated with environmental 
+sustainability.’ (UCPD Guidance Notice under 4.1.1.3. p.76).  
+Under the UCPD, as amended by the ECGT Directive, an environmental claim where ‘the 
+specification of the claim is not provided in clear and prominent terms on the same medium’ 
+constitutes a ‘generic environmental claim’ which, due to its inclusion under point 4a in 
+Annex I to the UCPD (‘blacklist’), as amended by Article 1(4) of the ECGT Directive, is 
+outright prohibited. By definition, generic environmental claims are ‘made in written or oral 
+form’. Therefore, implicit claims (colours or images) on their own, without written or spoken 
+text, cannot be considered generic environmental claims. However, claims made in written 
+form or orally combined with implicit claims could constitute a generic environmental claim.    
+Further to the definitions pertaining to environmental claims in Article 2(o), (p) of the UCPD, 
+as amended by Article 1(1)(b) of the ECGT Directive, examples can be found in Recitals 4, 
+8, 9, 11 and 13 of the ECGT Directive. Additional interpretation and practical examples are 
+provided in the current UCPD Guidance Notice, particularly in section 4.1.  
+ 
+
+
+===== PAGE 7/19 =====
+
+ 
+ 
+7 
+3. HOW ARE EXISTING BRAND NAMES OR PRODUCT NAMES THAT ARE PROTECTED BY INTELLECTUAL 
+PROPERTY RIGHTS, AFFECTED BY THE NEW RULES ON ENVIRONMENTAL CLAIMS UNDER THE ECGT 
+DIRECTIVE?  
+Commercial practices towards consumers that are implemented via brand names and 
+product names, regardless of their protection under intellectual property law, are not 
+excluded from the scope of the UCPD/ECGT Directive.  
+Article 2(o) of the UCPD as amended by Article 1(1)(b) of the ECGT Directive states that: 
+‘environmental claim' means any message or representation which is not mandatory under 
+Union or national law, in any form, including text, pictorial, graphic or symbolic 
+representation, such as labels, brand names, company names or product names, in 
+the context of a commercial communication, and which states or implies that a product, 
+product category, brand or trader has a positive or zero impact on the environment or is 
+less damaging to the environment than other products, product categories, brands or 
+traders, or has improved its impact over time:’ 
+The same Article 2 of the UCPD under point (p), as amended by Article 1(1)(b) of the ECGT 
+Directive defines ‘generic environmental claim’ as ‘any environmental claim made in written 
+or oral form, including through audiovisual media, that is not included on a sustainability 
+label or where the specification of the claim is not provided in clear and prominent terms on 
+the same medium.’    
+Article 1(4) of the ECGT Directive inserted a new point 4a in Annex I to the UCPD, which 
+lists unfair commercial practices that are prohibited under all circumstances:  
+‘4a. Making a generic environmental claim for which a trader is not able to demonstrate 
+recognised excellent environmental performance relevant to the claim.’  
+Article 2(s) of the UCPD as amended by Article 1(1)(b)(s) of the ECGT Directive states that  
+‘recognised excellent environmental performance means environmental performance 
+compliant with Regulation (EC) No 66/2010 of the European Parliament and of the Council 
+or with national or regional EN ISO 14024 type I ecolabelling schemes officially recognised 
+in the Member States, or top environmental performance in accordance with other applicable 
+Union law’.    
+Accordingly, brand names, and product names regardless of their protection under 
+intellectual property law may be assessed as environmental claims under the ECGT Directive 
+if they convey an environmental message, either explicitly or implicitly. This assessment 
+must be made on a case-by-case basis, considering the overall commercial context, 
+including visual elements, product packaging, marketing, and whether the presentation is 
+likely to lead the average consumer to believe the product or brand has a positive or zero 
+impact on the environment or is less damaging to the environment than other products, 
+product categories, brands or traders, or has improved its impact over time. This also means 
+that the use of terms such as ‘green’ or ‘blue’ in a brand name, company name or product 
+name, or the use of such colours, does not automatically constitute an environmental 
+claim under the ECGT Directive, where, in the relevant commercial context, those terms or 
+colours are unlikely to lead the average consumer to expect that the brand, product 
+or company offers an environmental benefit. 
+However, if  terms such as ‘green’, ‘blue’, ‘eco’ ‘natural’ or ‘climate neutral’ are used in a 
+brand name or product name in a way that is likely to create an environmental 
+association for the average consumer, even without any other explicit advertising on 
+the environmental benefits of the brand of product, then such use may constitute an 
+environmental claim under the ECGT Directive. In that case, the trader would need to specify 
+the environmental claim in clear and prominent terms on the same medium. If no such 
+specification is provided, the claim is considered a generic environmental claim and must 
+comply with the corresponding requirements, and the trader must demonstrate the 
+recognised excellent environmental performance relevant to the claim made. According to 
+Article 4(3)(a) and Recital 40 of the Directive (EU) 2015/2436 to approximate the laws of 
+the Member States relating to trade marks (Recast), provisions relating to unfair competition 
+or consumer protection are applicable to trade marks.  
+
+
+===== PAGE 8/19 =====
+
+ 
+ 
+8 
+‘Any Member State may provide that a trade mark is not to be registered or, if registered, 
+is liable to be declared invalid where and to the extent that the use of the trade mark may 
+be prohibited pursuant to provisions of law other than trade mark law of the Member State 
+concerned or of the Union.’ 
+This means that brand names and product names which are misleading or are (generic) 
+environmental claims, thereby in breach of substantive law, such as the UCPD, may be 
+refused registration or invalidated under trade mark law. The decision as to whether such 
+names can be validly registered and protected by intellectual property rights is left to the 
+discretion of Member States, including the management of pre-existing names already 
+protected by intellectual property rights. In principle, Member States should ensure that 
+national authorities are able to take action against traders using brand names and product 
+names that constitute misleading claims under the UCPD, without being hindered by existing 
+intellectual property rights.  
+It is generally unlikely that individual trade marks would be considered ‘sustainability labels' 
+(which is a ‘trust mark, quality mark or equivalent'), since trade marks are required to be 
+commercially distinctive from those of other traders or products. However, as clarified in 
+the recitals of the ECGT Directive, trade marks that are ‘certification marks’ (as defined in 
+Article 27 of the Trade Mark Directive (EU) 2015/2436) can function as sustainability labels 
+if they promote a product, process or business with reference to its environmental or social 
+characteristics or both. In such cases, traders may display these certification marks only if 
+the marks are established by public authorities or are based on a certification scheme. 
+ 
+4. COULD YOU PROVIDE FURTHER CLARIFICATION ON WHEN AN ENVIRONMENTAL CLAIM IS 
+CONSIDERED GENERIC AND WHEN IT IS NOT, UNDER THE ECGT DIRECTIVE?  
+A generic environmental claim is defined in Article 2(p) of the UCPD, as amended by Article 
+1(1)(b) of the ECGT Directive, as follows: ‘any environmental claim made in written or oral 
+form, including through audiovisual media, that is not included on a sustainability label and 
+where the specification of the claim is not provided in clear and prominent terms on the 
+same medium’.  
+This means that if a claim such as ‘gentle on the environment’, ‘nature’s friend’ or ‘green’ is 
+included on a sustainability label, it will not be considered as a generic environmental claim.  
+Such a sustainability label will be forbidden to be displayed if it is not based on a certification 
+scheme or not established by public authorities. However, as stated in Recital 8 of the ECGT 
+Directive, such labels can still be considered as constituting an environmental claim in the 
+sense of Article 2(o) of the UCPD, as amended by Article 1(1)(b) of the ECGT Directive, if it 
+is used in a way that suggests or creates the impression that a product has a positive or 
+zero impact on the environment, or is less damaging to the environment than competing 
+products. As such, claims made as part of a sustainability label can still be subject to other 
+relevant provisions of the UCPD. This should preclude traders from using sustainability labels 
+as a ‘safe haven’ for misleading or irrelevant claims.  
+Recital 9 of the ECGT Directive refers to examples of generic environmental claims such as 
+‘environmentally 
+friendly’, 
+‘eco-friendly’, 
+‘green’, 
+‘nature’s 
+friend’, 
+‘ecological’, 
+‘environmentally correct’, ‘climate friendly’, ‘gentle on the environment’, ‘carbon friendly’, 
+‘energy efficient’, ‘biodegradable’, ‘biobased’ or similar statements that suggest excellent 
+environmental performance. These generic environmental claims are prohibited if 
+recognised excellent environmental performance cannot be demonstrated (Annex I point 4a 
+to the UCPD, as amended by Article 1(4) of the ECGT Directive). Recital 9 further clarifies 
+that:  
+‘Whenever the specification of the environmental claim is provided in clear and prominent 
+terms on the same medium, such as the same advertising spot, the product’s packaging or 
+online selling interface, the environmental claim is not considered to be a generic 
+environmental claim.’ 
+For example, the claim ‘climate-friendly packaging’ (without further specifications) is 
+considered a generic environmental claim and would be subject to the prohibition on such 
+claims unless it is based on recognised excellent environmental performance. In contrast, a 
+
+
+===== PAGE 9/19 =====
+
+ 
+ 
+9 
+claim like ‘100% of energy used to produce this packaging comes from renewable sources’ 
+would be considered a specific environmental claim and does not fall under the prohibition 
+on generic environmental claims. However, whether such a claim is permitted ultimately 
+depends on the specific circumstances of the case, including how the claim is presented and 
+what evidence is provided to support it. The environmental claim must also comply with 
+other relevant provisions of the UCPD. 
+In practice, the specification of the claim should be provided next to, or as part of, the claim 
+in clear and prominent terms on the same medium (Recital 9 of the ECGT Directive and 
+Article 2(p) of the UCPD, as amended by Article 1(1)(b) of the ECGT Directive).  In the 
+current UCPD Guidance Notice, it is already highlighted that based on Article 7 of the UCPD 
+concerning misleading omissions ‘in case environmental claims are made on the packaging 
+of products or other communication channels (e.g. posters, billboards, magazines), which 
+have limited space for specifications, the location of the main environmental claim and 
+supplementary information about the claim should enable an average consumer to 
+understand the link between both’ and ‘If there is no space to specify the environmental 
+claim, then the claim should generally not be made.’ (2021/C 526/01, 4.1.1.4, page 80).  
+This remains valid and does not change through the ECGT Directive. 
+ 
+5. WHEN DESIGNING THE ARTWORK OF PACKAGING, SHOULD COMPANIES BE AWARE OF ANY 
+ELEMENTS (E.G. ART WITH GREEN LEAVES OR WATER DROPS) THAT WOULD RISK BEING CONSIDERED 
+TO CONTAIN A GENERIC ENVIRONMENTAL CLAIM OR A SUSTAINABILITY LABEL?  
+When designing packaging artwork, companies should be mindful that certain visual 
+elements, such as green leaves, water drops, or similar nature-related icons, may be 
+interpreted by consumers as implicit environmental claims, that in combination with a claim 
+made in written form or with a logo, depending on the context and presentation, could be 
+subject to the requirements of the ECGT Directive, such as related to generic environmental 
+claims or sustainability labels. 
+Overall, traders should exercise caution when using icons, symbols, images, or artwork that 
+could be perceived as (implicit) environmental claims or trust marks. For example, a green 
+leaf or water drop, when combined with logos or positioned next to statements about 
+sustainability or natural ingredients, may be seen by the average consumer as a voluntary 
+trust mark or quality mark.  
+Given the broad definition of sustainability labels in Article 2(1)(q) of the ECGT Directive 
+(‘any voluntary trust mark, quality mark or equivalent, either public or private, that aims to 
+set apart and promote a product, a process or a business by reference to its environmental 
+or social characteristics, or both, and excludes any mandatory label required under Union 
+or national law’), elements such as green leaves or water drops may fall within its scope 
+depending on the intended use, the overall context of the communication, and most 
+importantly, consumer perception.   
+Moreover, as already indicated in the current UCPD Guidance Notice ‘accordingly, also the 
+imagery and overall product presentation (i.e. layout, choice of colours, images, pictures, 
+sounds, symbols or labels), should be a truthful and accurate representation of the scale of 
+the environmental benefit, and should not overstate the benefit achieved. Implicit claims 
+may, depending on the circumstances of the case, include the use of images (e.g. trees, 
+rainforests, water, animals) and colours (e.g. blue or green backgrounds or text) that are 
+associated with environmental sustainability.’ (UCPD Guidance (2021/C 526/01) under 
+4.1.1.3. p.76).  
+The key benchmark of the UCPD for assessing whether a commercial practice is misleading 
+is the impact on the ‘average consumer’:‘…in order to determine whether a particular 
+description, trade mark or promotional description or statement is misleading, it is necessary 
+to take into account the presumed expectations of an average consumer who is reasonably 
+well informed and reasonably observant and circumspect.’  
+It is important to highlight that the average consumer test is not a statistical test. This 
+means that national authorities and courts can make this assessment based on their analysis 
+
+
+===== PAGE 10/19 =====
+
+ 
+ 
+10 
+of presumed consumer expectations, without necessarily having to commission expert 
+reports or consumer surveys.  
+ 
+6. HOW ARE GENERIC CLAIMS OF CARBON NEUTRALITY REGULATED UNDER THE ECGT DIRECTIVE? 
+Claims on carbon neutrality are covered through the following amendments:  
+• 
+Prohibitions added in Annex I to the UCPD, as amended by Article 1(4) of the ECGT 
+Directive: 
+a. Generic claims of carbon neutrality are subject to the rules applying to generic 
+environmental claims. Therefore, generic claims, such as ‘carbon-neutral’, ‘climate 
+neutral’, ‘carbon compensated’, or ‘carbon positive', are prohibited unless the trader 
+can demonstrate recognised excellent environmental performance relevant to the 
+claim (Annex I point 4a to the UCPD, as clarified by Recital 9 of the ECGT Directive).  
+b. Claims on products based on the offsetting of greenhouse gas emissions, such as 
+those asserting that a good or service is ‘carbon-neutral’ or has a ‘reduced, 
+compensated, or positive impact on the environment in terms of greenhouse gas 
+emissions’ based on offsetting, are prohibited under Annex I point 4c to the UCPD, 
+as clarified by Recital 12 of the ECGT Directive. Such claims can only be allowed 
+when they are based on the actual lifecycle impact of the product in question within 
+the product’s own value chain. 
+ 
+• 
+Amendments to Article 6 of the UCPD on misleading actions, subject to a case-by-case 
+assessment: 
+c. Claims on products or at company level related to future environmental 
+performance, including in the form of a transition to carbon or climate neutrality,  
+are prohibited on a case-by-case assessment without clear, objective, publicly 
+available and verifiable commitments set out in a detailed and realistic 
+implementation plan that includes measurable and time-bound targets and other 
+relevant elements necessary to support its implementation, such as allocation of 
+resources, and that is regularly verified by an independent third party expert, whose 
+findings are made available to consumers (Article 6(2)(d) of the UCPD, as amended 
+by Article 1(2)(b) of the ECGT Directive, clarified in Recital 4 of the ECGT Directive). 
+ 
+7. HOW CAN A TRADER DEMONSTRATE ‘RECOGNISED EXCELLENT ENVIRONMENTAL PERFORMANCE’ 
+IN ORDER TO LAWFULLY USE A GENERIC ENVIRONMENTAL CLAIM UNDER THE ECGT DIRECTIVE?  
+Under Article 2(p) and Annex I point 4a to the UCPD, as amended by Article 1(1)(b), (4) of 
+the ECGT Directive, a ‘generic environmental claim’ may only be used if it is based on 
+recognised excellent environmental performance.  If the specification of the environmental 
+claim is provided in clear and prominent terms on the same medium, such as the same 
+advertising spot, the product’s packaging or online selling interface, this will not be 
+considered a generic environmental claim.  
+According to Article 2(s) of the UCPD, as amended by Article 1(1)(b) of the ECGT Directive 
+‘recognised excellent environmental performance’ means ‘environmental performance 
+compliant with Regulation (EC) No 66/2010 of the European Parliament and of the Council 
+or with national or regional EN ISO 14024 type I ecolabelling schemes officially recognised 
+in the Member States, or top environmental performance in accordance with other applicable 
+Union law’ . 
+A trader has three possible ways to demonstrate ‘recognised excellent environmental 
+performance’:  1) by compliance with the EU Ecolabel (Regulation (EC) No 66/2010)2;  2)   
+by compliance with national or regional EN ISO 14024 type I ecolabelling schemes3, officially 
+ 
+2 Therefore the products should be awarded with the EU Ecolabel. 
+3 Therefore the products should be awarded with these national or regional ecolabels.  
+
+
+===== PAGE 11/19 =====
+
+ 
+ 
+11 
+recognised in the Member States, such as the Nordic Swan, Blue Angel, the Austrian 
+Ecolabel, or the Dutch Ecolabel (Milieukeur);  or 3) by compliance with top environmental 
+performance for a specific environmental characteristic in accordance with other applicable 
+Union laws, such as for example recognised excellent environmental performance in 
+accordance with the Energy Labelling Regulation.   
+It is important to highlight that the recognised excellent environmental performance in 
+question should be relevant to the claim. For example, a generic environmental claim on a 
+product such as ‘energy efficient’ could be made based on recognised excellent 
+environmental performance in accordance with, for example, the Energy Labelling 
+Regulation (Regulation (EU) 2017/1369). By contrast, a generic environmental claim such 
+as ‘biodegradable’ could not be made based on the EU Ecolabel, if there are no requirements 
+for biodegradability in the specific EU Ecolabel criteria related to the product in question. 
+As the scope of the EU Ecolabel is to promote products with a reduced environmental impact 
+during their entire life cycle, claims such as “better for the environment”, “environmentally 
+friendly”, “green”, “ecological” or “eco-friendly” can be used on products awarded with the 
+EU Ecolabel or national or regional EN ISO 14024 type I ecolabelling schemes officially 
+recognised in the Member States.  
+The only exception is for products that are mixtures (e.g. detergents, cosmetics, paints) 
+when they are labelled according to the Classification, Labelling and Packaging (CLP) 
+Regulation4, as they need to comply with Article 25 (4) of that Regulation, according to 
+which, statements such as ‘non-toxic’, ‘non-harmful’, ‘non-polluting’, ‘ecological’ or any 
+other statements indicating that the substance or mixture is not hazardous or any other 
+statements that are inconsistent with the classification of that substance or mixture shall 
+not appear on the label or packaging of any substance or mixture.  
+On the top of the claims “environmentally friendly”, etc., there are other generic claims that 
+could be used for EU Ecolabel products and products being awarded with national or regional 
+EN ISO 14024 type I ecolabelling schemes officially recognised in the Member States. 
+These claims are specific to the product groups and depend on the criteria that are set for 
+them. 
+ 
+Moreover, some (non-exhaustive) examples of product-group-specific generic claims based 
+on the text of the Commission Decisions establishing EU Ecolabel criteria for specific product 
+groups are:  
+• 
+For EU Ecolabel Textiles products: “assembled with minimal use of toxic chemicals” 
+• 
+For EU Ecolabel Furniture and Bed Mattress products: “easy to recycle” 
+• 
+For EU Ecolabel Tourist Accommodation: “use less energy and water and produce 
+less waste than traditional accommodation” 
+• 
+For EU Ecolabel Electronic Display: “products are easy to repair and upgrade” 
+• 
+For EU Ecolabel Coverings: “easy to repair, quick to dismantle and low emissions 
+guaranteed” 
+• 
+For EU Ecolabel Cleaning products “cleaning and sustainably sourced ingredients, 
+and recyclable packaging” 
+• 
+For EU Ecolabel Gardening products: “reduce soil and water pollution”  
+• 
+For EU Ecolabel Lubricants: “have a limited impact on the aquatic environment” 
+• 
+For EU Ecolabel Paper products: “made with recycled or sustainable sources” 
+• 
+For EU Ecolabel Personal Care products: “do not contain intentionally added 
+microplastics and limit packaging waste” 
+ 
+4 Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on 
+classification, labelling and packaging of substances and mixtures, amending and repealing Directives 
+67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 
+
+
+===== PAGE 12/19 =====
+
+ 
+ 
+12 
+ 
+Moreover, in the case of the EU Ecolabel, as the EU Ecolabel Regulation establishes a 
+horizontal restriction of hazardous chemicals in EU Ecolabel goods, it could be stated that 
+“the presence of hazardous chemicals in EU Ecolabel goods is strictly restricted”. 
+ 
+8. WHAT IS MEANT BY A ‘CERTIFICATION SCHEME’ UNDER THE ECGT DIRECTIVE?  
+Displaying a sustainability label that is not based on certification scheme or not established 
+by public authorities is prohibited under Annex I point 2a to the UCPD, as amended by Article 
+1(4) of the ECGT Directive. Pursuant to Article 2(r) of the UCPD, as amended by Article 
+1(1)(b) of the ECGT Directive, a ‘certification scheme’ is defined as a third-party verification 
+scheme that certifies a product, process, or business as compliant with specified 
+requirements. Sustainability labels that are not established by public authorities must be 
+based on such certification schemes. Its requirements must be publicly available and meet 
+specific criteria set out in the Directive.  
+According to Article 2(1)(s) of the ECGT Directive, these are the requirements for a 
+certification scheme: 
+• 
+Certification must be based on independent third-party verification. 
+• 
+The scheme’s requirements and terms must be publicly available. 
+• 
+Compliance must be monitored by a competent, independent third party, in line with 
+international, Union, or national standards (e.g. ISO 17065, or mechanisms provided 
+for in Regulation (EC) No 765/2008 etc). 
+• 
+The scheme must be transparent, credible, and open to all traders under fair and 
+non-discriminatory terms. 
+• 
+The scheme must be open to all traders willing and able to comply (non-exclusivity). 
+• 
+The scheme owner sets the requirements in consultation with relevant experts and 
+stakeholders. 
+• 
+The scheme must allow for the use of a corresponding sustainability label. 
+As clarified by Recital 7 of the ECGT Directive, before displaying a sustainability label the 
+trader must ensure that the sustainability label is based on a certification scheme that meets 
+the minimum conditions of transparency and credibility, including the existence of objective 
+monitoring of compliance with the requirements of the scheme. For that the trader has to 
+check the publicly available terms of the scheme. 
+It is not prohibited that the scheme owner and the trader (displaying the sustainability label) 
+is the same entity, as long as the certification scheme is compliant with the requirements 
+mentioned above, including its openness under transparent, fair and non-discriminatory 
+terms to all traders willing and able to comply with the scheme’s requirements. Likewise, it 
+is not prohibited for the scheme owner and the trader to be independent from each other. 
+In other words, the relationship between the scheme owner and the trader is not explicitly 
+stipulated in the definition provided by the ECGT Directive. This stands in contrast to the 
+requirements for the third party responsible for monitoring compliance whose competence 
+and independence from both the scheme owner and the trader must be ensured according 
+to international, Union or national standards and procedures. Even if there were certain 
+international standards that might allow for the scheme owner and third party to be the 
+same, compliance with the provisions of the ECGT Directive can only be achieved if the 
+scheme owner and the third party are legally separated, i.e. there are two different legal 
+entities.  
+Any sustainability label on the market as of 27 September 2026 must comply with these 
+provisions. Existing schemes that do not meet the requirements of Article 2(r) of the UCPD, 
+as amended by Article 1(1)(b) of the ECGT Directive must be adapted accordingly, otherwise 
+the associated labels must be removed from commercial communications. The ECGT 
+Directive does not provide for a transition period beyond this date.  
+There are no specific rules set by the ECGT Directive concerning the following: 
+
+
+===== PAGE 13/19 =====
+
+ 
+ 
+13 
+• 
+each certification scheme is responsible for setting its own requirements, which are 
+to be developed by the scheme owner in consultation with relevant experts and 
+stakeholders. This approach allows for flexibility and adaptation to sector-specific or 
+product-specific circumstances.  
+• 
+monitoring of compliance with the scheme’s requirements must be carried out by a 
+third party. This monitoring should be based on 'international, Union or national 
+standards and procedures’. This approach allows for flexibility and adaptation to 
+sector-specific or product-specific circumstances.  
+ 
+9. WHAT TYPES OF SOCIAL CHARACTERISTICS ARE REFERRED TO IN THE ECGT DIRECTIVE?  
+Article 6(1)(b) of the UCPD is amended by Article 1(2)(a) of the ECGT Directive to include 
+explicitly – among other – claims regarding ‘social characteristics’ to the list of main 
+characteristics of a product in respect of which a trader’s practices can be considered 
+misleading, following a case-by-case assessment. The concept of ‘social characteristics’ is 
+clarified in Recital 3 of the ECGT Directive. According to the ECGT Directive,  
+‘Information provided by traders on the social characteristics of a product throughout its 
+value chain can relate, for example, to the quality and fairness of working conditions of the 
+workforce involved, such as adequate wages, social protection, the safety of the work 
+environment and social dialogue. Such information can also relate to respect for human 
+rights, to equal treatment and opportunities for all, including gender equality, inclusion and 
+diversity, to contributions to social initiatives or to ethical commitments, such as animal 
+welfare. The environmental and social characteristics of a product can be understood in a 
+broad sense, encompassing the environmental and social aspects, impact and performance 
+of a product.’  
+The amendments introduced by the ECGT Directive clarify and emphasize - in both the 
+recitals and the enacting terms of the Directive - the relevance of social characteristics. 
+Specifically, Articles 6(1)(b) and 7(7) UCPD, as amended by ECGT Directive, now explicitly 
+refer to social characteristics, including them among the ‘main characteristics’ of a product, 
+that must not be misleadingly presented to consumers. Moreover, under Article 2(q) of the 
+UPCD, the definition of ‘sustainability labels’ explicitly refers to ‘set apart and promote a 
+product, a process or a business by reference to its environmental or social characteristics, 
+or both.’ Recitals 1, 3, 6, 7, and 10 of the ECGT Directive further elaborate on the policy 
+importance of these aspects. 
+Traders must refrain from providing misleading information about the social characteristics 
+of their products and businesses. Traders should be able to furnish evidence as to the 
+accuracy of factual claims in relation to a commercial practice (Article 12(a) of the UCPD). 
+Traders must also refrain from displaying a sustainability label that is not based on a 
+certification scheme or not established by public authorities.  
+ 
+10. COULD YOU CLARIFY THE SCOPE OF THE PROHIBITION INTRODUCED BY ANNEX I POINT 4C TO 
+THE UCPD, WHICH PROHIBITS CLAIMS THAT A PRODUCT HAS A NEUTRAL, REDUCED OR POSITIVE 
+IMPACT ON THE ENVIRONMENT IN TERMS OF GREENHOUSE GAS EMISSIONS WHEN SUCH CLAIMS ARE 
+BASED ON THE OFFSETTING OF GREENHOUSE GAS EMISSIONS?  
+Annex I point 4c to the UCPD, as introduced by Article 1(4) of the ECGT Directive, prohibits:  
+‘Claiming, based on the offsetting of greenhouse gas emissions, that a product has a neutral, 
+reduced or positive impact on the environment in terms of greenhouse gas emissions.’  
+As stated in Recital 12 of the ECGT Directive:  
+‘It is particularly important to prohibit the making of claims, based on the offsetting of 
+greenhouse gas emissions, that a product, either a good or service has a neutral, reduced, 
+or positive impact on the environment in terms of greenhouse gas emissions.’  
+The prohibition is intended to prevent consumers from being misled into believing that a 
+product, or its production and supply, has no environmental impact or that offsetting outside 
+
+
+===== PAGE 14/19 =====
+
+ 
+ 
+14 
+the product’s value chain is equivalent to actual emission reductions within it. Such claims 
+can falsely suggest that the consumption of the product itself has no environmental impact, 
+when in reality, the environmental impact is merely attempted to be compensated to a 
+certain extent elsewhere. 
+Recital 12 also gives examples of such claims: ‘climate neutral’, ‘CO2 neutral certified’, 
+‘carbon positive’, ‘climate net zero’, ‘climate compensated’, ‘reduced climate impact’ and 
+‘limited CO2 footprint’.  
+A typical example would be claiming that a specific flight is climate neutral because the 
+airline invests in a reforestation project in tropical rainforest, which will fall under this 
+prohibition. Recital 12 also states: ‘Such claims should only be allowed when they are based 
+on the actual lifecycle impact of the product in question, and not based on the offsetting of 
+greenhouse gas emissions outside the product’s value chain, as the former and the latter 
+are not equivalent. Such a prohibition should not prevent companies from advertising their 
+investments in environmental initiatives, including carbon credit projects, as long as they 
+provide such information in a way that is not misleading and that complies with the 
+requirements laid down in Union law.’  
+The prohibition in Annex I point 4c to the UCPD does not apply when a “climate neutral, 
+reduced or positive” claim is based on the actual emissions footprint of the product itself, 
+considering its value chain and actual lifecycle impact. For instance, certain biomass-based 
+products can lead to more CO2 being stored than is emitted along their value chain. Any 
+such claims would need to be substantiated through proper life cycle assessments. 
+While claims based on carbon offsetting outside the product’s value chain are prohibited, 
+companies may still make climate-related claims regarding their products, as long as these 
+are based on real, verifiable reductions in greenhouse gas emissions throughout the actual 
+product’s lifecycle. For instance, it is allowed to state that a product has a ‘reduced CO2 
+impact’, if this is specified in clear and prominent terms on the same medium, and based 
+on actual improvements in the production processes.  
+The prohibition in Annex I point 4c does not apply to claims based on offsetting at company 
+level, however such claims remain subject to other relevant provisions of the UCPD. 
+Finally, the above prohibition does not prevent companies from communicating about their 
+investments in environmental initiatives, including carbon credit projects, provided this 
+information is presented transparently and is not misleading, and complies with other 
+applicable Union law. 
+See also Q4. 
+ 
+11. COULD YOU CLARIFY THE SCOPE OF THE PROHIBITION OF ADVERTISING BENEFITS TO 
+CONSUMERS THAT ARE IRRELEVANT AND DO NOT RESULT FROM ANY FEATURE OF THE PRODUCT OR 
+BUSINESS?  
+According to Article 6(2)(e) of the UCPD, as amended by Article 1(2)(b) of the ECGT 
+Directive ‘advertising benefits to consumers that are irrelevant and do not result from any 
+feature of the product or business’ is considered misleading subject to a case-by-case 
+assessment.  
+This new misleading practice is of a cumulative nature. Advertising benefits to consumers 
+must be both irrelevant and not result from any feature of the product or the business. 
+Recital 5 of the ECGT Directive further clarifies that  
+‘Another potentially misleading commercial practice to be added to the specific practices 
+referred to in Article 6(2) of the UCPD is advertising benefits to consumers that are irrelevant 
+and not directly related to any feature of that specific product or business and which could 
+mislead consumers into believing that they are more beneficial to consumers, the 
+environment or society than other products or traders’ businesses of the same type, for 
+example, claiming that a particular brand of bottled water is gluten-free or claiming that 
+paper sheets do not contain plastic.’ 
+
+
+===== PAGE 15/19 =====
+
+ 
+ 
+15 
+In the examples provided in Recital 5 of the ECGT Directive, the advertised benefit, namely 
+that a particular brand of bottled water is gluten-free, has no relevance for the product itself, 
+as water does not normally contain gluten. It is in fact true that water is gluten-free by 
+nature, 
+meaning 
+all 
+bottled 
+water, 
+regardless 
+of 
+the 
+trader, 
+shares 
+this 
+characteristic. Therefore, ‘gluten-free’ is an irrelevant benefit, as it does not result from any 
+specific feature of the product and is common to all bottled water; it is not directly linked to 
+any particular brand. Similarly, paper sheets do not normally contain plastic. By contrast, 
+advertising a benefit such as ‘extra protein’ in a particular brand of yogurt is relevant, as 
+protein content varies between yogurts and may result from specific ingredients or 
+formulations unique to that brand.  
+Advertising a benefit that is shared by most products in a category is not automatically 
+misleading if the benefit is genuinely relevant to the product. For instance, the claim ‘nickel-
+free’ jewellery could be compliant with the UCPD, as amended by the ECGT Directive, subject 
+to the jewellery genuinely containing no nickel, as, some jewelleries do contain nickel which 
+can cause allergies for certain consumers, hence they are actively seeking to avoid it. 
+Similarly, in case certain shampoos would contain added microplastics, the advertising of a 
+shampoo as ‘without microplastics but equally effective’ may be a relevant benefit, as it 
+highlights a specific feature of a product and indicates it achieves the same texture coating 
+effect as microplastics but using ingredients that do not contain these. 
+ 
+12. COULD YOU CLARIFY THE PROHIBITION OF CLAIMS RELATED TO FUTURE ENVIRONMENTAL 
+PERFORMANCE, IN PARTICULAR CONCERNING THE VERIFICATION BY A THIRD-PARTY EXPERT? 
+Article 6 (2)(d) of the UCPD, as amended by Article 1(2)(b) of the ECGT Directive, prohibits 
+environmental claims related to future environmental performance, following a case-by-
+case assessment, where they are not supported by clear, objective, publicly available and 
+verifiable commitments and targets given by the trader and set out in a detailed and realistic 
+implementation plan that shows how those commitments and targets will be achieved and 
+that allocates resources to that end. The ECGT Directive requires that an independent third-
+party expert verifies claims related to future environmental performance. According to 
+Recital 4, this expert must be independent from the trader, free from conflicts of interest, 
+and possess experience and competence in environmental issues. While the Directive does 
+not specify whether the expert must be a public authority or a private entity, in practice, 
+private auditors or consultancy companies can serve this role.  
+The verification process must ensure that the expert is capable of monitoring the trader’s 
+progress towards environmental commitments and targets. The Directive does not prescribe 
+a specific verification methodology, but the expert must be able to provide credible, 
+objective, and regular assessments. The trader is responsible for ensuring that the chosen 
+expert fulfils all requirements set out in the Directive, particularly regarding independence 
+and competence. 
+The ECGT Directive states that monitoring should be conducted ‘regularly’ but does not 
+define a specific time interval. It is left to be determined what constitutes ‘regular’ 
+verification, taking into account the nature of the commitments and the specific 
+circumstances. Best practices would suggest annual or biennial reviews, or additional 
+verification if significant changes occur.  
+The ECGT Directive requires that the ‘regular findings’ of the third-party expert are made 
+available to consumers (Recital 4). However, it does not specify the exact means for making 
+the information accessible. Therefore, several options are possible as long as consumers 
+can easily access the information, e.g. via a QR code on product packaging or marketing 
+materials that guides consumers to the findings on the trader’s website.   
+Similarly, there are also no specific requirements under the ECGT Directive for the 
+implementation plan to be presented on the same medium as the environmental claim. It is 
+sufficient if the claim refers consumers to where the information can be found, e.g. through 
+a QR code guiding to the implementation plan on the - trader’s website.  
+ 
+ 
+
+
+===== PAGE 16/19 =====
+
+ 
+ 
+16 
+13. TO WHAT EXTENT MUST THE METHOD OF COMPARISON REFERRED TO IN ARTICLE 7(7) OF THE 
+UCPD BE EXPLAINED? SHOULD THE EXPLANATION BE UNDERSTANDABLE TO THE AVERAGE 
+CONSUMER? 
+Where a trader provides a service which compares products based on any of the factors 
+listed in Article 7(7) of the UCPD, as amended by Article 1(3) of the ECGT Directive, namely 
+on environmental or social characteristics or on circularity aspects, including durability, 
+reparability or recyclability and provides the consumer with information in this respect, to 
+be compliant with the requirements set out in this Article the trader must provide 
+information about the compared products and their suppliers, as well as the method of 
+comparison and the measures in place to keep that information up to date. 
+Omitting such information which is considered “material” will constitute a misleading 
+commercial practice if such practice causes or is likely to cause average consumers to take 
+a transactional decision that they would not have taken otherwise. Similarly, presenting 
+such information in an unclear or unintelligible manner based on the ‘average consumer 
+test’ may constitute a misleading commercial practice. Therefore, the method of comparison 
+must be explained to the extent that an average consumer would be able to fully 
+comprehend it. If the service compares products on these aspects in combination with other 
+product characteristics outside the scope of Article 7(7), such as technical characteristics or 
+product’s functionalities, then the ECGT Directive still applies to the characteristics falling 
+within the scope of Article 7(7).   
+ 
+14. CAN YOU EXPLAIN IF THE TERM ‘ORGANIC’ CAN BE STILL USED AS A GENERIC CLAIM? 
+It is important to clarify that the UCPD serves as a complementary framework and the 
+specific sectoral EU rules governing a particular issue are primarily applicable. In cases 
+where sector-specific EU legislation exists—such as Regulation (EU) 2018/848 on organic 
+food production — those sectoral rules take precedence over the UCPD in case of a conflict 
+within the meaning of Article 3(4) of the UCPD. If there is such a conflict, the UCPD does 
+not apply to the specific aspect of the commercial practice that is sectorally regulated. In 
+the absence of a conflict the UCPD complements other EU legislation that regulates specific 
+aspects of unfair commercial practices. More details on the relationship between UCPD and 
+sector-specific EU legislation can be found in the current UCPD Guidance Notice (e.g. in 
+Section 1.2 and Section 4.1.1.1).  
+The EU Organic Food Label may not be classified as an EN ISO 14024 Type 1 ecolabel, 
+however, this does not affect its validity for organic food labelling purposes, as it is regulated 
+under Regulation (EU) 2018/848. This means that, in accordance with Article 30 of 
+Regulation 2018/848 in conjunction with Article 3(4) of the UCPD, the terms referring to 
+organic food production (as listed in Annex IV to that Regulation) and their derivatives and 
+diminutives, such as ‘bio’ and ‘eco’, can be used throughout the European Union to 
+demonstrate compliance with the EU organic farming rules, even though they could be 
+considered as ‘generic environmental claims’ under the  UCPD, as amended by the ECGT 
+Directive. 
+ 
+15. DO ‘VEGAN’/ ‘VEGETARIAN’ LABELS ALSO REFER TO ENVIRONMENTAL OR SOCIAL 
+CHARACTERISTICS AND QUALIFY AS A SUSTAINABILITY LABEL UNDER THE ECGT DIRECTIVE? 
+The classification of such labels as sustainability labels under the ECGT Directive will depend 
+on the specific case, especially in which context and how they are communicated and how 
+the average consumer perceives them.  
+Recital 3 of the ECGT Directive in its description of social characteristics of a product refers 
+for example to animal welfare. If the trader implies environmental or social benefits when 
+using these terms or labels (e.g., ‘vegan = better for the planet’), then it could be considered 
+an environmental claim or sustainability label in accordance with the new definitions in the 
+UCPD. 
+ 
+
+
+===== PAGE 17/19 =====
+
+ 
+ 
+17 
+16. CAN TRADERS PRESENT REQUIREMENTS IMPOSED BY LAW AS A DISTINCTIVE FEATURE WHEN 
+NOT ALL PRODUCTS ARE COVERED OR WHEN THE LAW IS FROM A THIRD COUNTRY?    
+Annex I point 10a to the UCPD, as amended by Article 1(4) of the ECGT Directive and the 
+corresponding Recital 15 of the ECGT Directive safeguard consumer protection while 
+promoting competition. Presenting requirements imposed by law on all products within the 
+relevant product category on the Union market, including imported products, as a distinctive 
+feature of the trader’s offer, is prohibited in all circumstances under point 10a.  
+It is clarified in Recital 15 that this prohibition does not apply whenever the legal 
+requirements only apply to some products but not to other competing products of the same 
+category on the Union market, such as products of non-Union origin. This maintains a level 
+playing field between the competitors. The same logic would apply in case of legal 
+requirements from third countries. The prohibition does not apply when these legal 
+requirements only apply to some products but not to other competing products of the same 
+category on the Union market.  
+ 
+17. THE DISPLAY OF SUSTAINABILITY LABELS IS NOT FORBIDDEN IF THEY ARE ESTABLISHED BY 
+PUBLIC AUTHORITIES. CAN THIS BE ALSO THIRD-COUNTRY PUBLIC AUTHORITIES? 
+The UCPD applies to all commercial practices relevant for the protection of consumers in the 
+Single Market, regardless of whether the traders or products originate within the Union or 
+from third countries. According to the amended UCPD, sustainability labels must be based 
+on a certification scheme or established by public authorities. All other sustainability labels 
+are prohibited in accordance to Annex I point 2a to the UCPD, as amended by Article 1(4) 
+of the ECGT Directive.  
+The ECGT Directive does not define ‘public authority’. Recital 7 of the ECGT Directive 
+provides examples of sustainability labels established by public authorities, focusing on 
+those awarded when specific requirements are met. The examples and language used in 
+both the ECGT Directive and the UCPD indicate a primary focus on EU Member State public 
+authorities. The legislative context and the fact that the Directive is addressed to Member 
+States also suggest that only EU public authorities are intended. While distinctions are made 
+between international and national standards in several provisions, no such distinction 
+appears in the context of public authorities. 
+Consequently, the display of sustainability labels established by public authorities of non-EU 
+Member States will be prohibited under Annex I point 2a to the UCPD, as amended by Article 
+1(4) of the ECGT Directive, unless these labels are based on a certification scheme. 
+ 
+18. HOW DO THE NEW RULES ON ENVIRONMENTAL CLAIMS AND SUSTAINABILITY LABELS APPLY TO 
+EXISTING PRODUCTS? 
+The ECGT Directive introduces targeted amendments to the Unfair Commercial Practices 
+Directive (UCPD), the horizontal ‘consumer protection safety net’ to address misleading 
+business-to-consumer commercial practices, including greenwashing.  
+The ECGT Directive entered into force on 26 March 2024. Member States had to transpose 
+its provisions by 27 March 2026. The ECGT/UCPD does not regulate the intrinsic 
+characteristics or composition of goods, services, or companies, but focuses exclusively on 
+how these are presented to consumers, such as through marketing and commercial 
+communications.  
+The ECGT Directive shall apply from 27 September 2026. From that date, traders will need 
+to ensure that their environmental claims and sustainability labels in a business-to-
+consumer context comply with the new provisions, including for existing products or ‘old 
+stock’ situations, i.e. products or packaging already manufactured, ordered, distributed or 
+placed on retailers’ shelves before the application date. 
+Where traders identify environmental claims or sustainability labels on packaging that would 
+not comply with the new rules, they will have practical options to ensure compliance for 
+
+
+===== PAGE 18/19 =====
+
+ 
+ 
+18 
+existing products. These may include covering or correcting claims by stickers or adding 
+supplementary information at the point of sale. 
+Enforcement of the ECGT/UCPD lies with national competent authorities. They will normally 
+investigate, prioritise and sequence enforcement actions according to the gravity of 
+infringements and the specific circumstances of each case. Authorities may include in their 
+assessment, for example, whether traders have made reasonable and proportionate efforts 
+to comply, including for products already in the distribution chain, taking due account of 
+proportionality, legal certainty and legitimate expectations. 
+To support a coherent approach to the treatment of existing products, the national 
+competent authorities of the Consumer Protection Cooperation Network have developed a 
+Common Understanding concerning such ‘old stock’ situations.  
+ 
+QUESTIONS IN RELATION TO THE CRD, AS AMENDED BY ECGT DIRECTIVE: 
+19. WHAT ARE THE CURRENT EU RULES ON THE REPARABILITY SCORE FOR CONSUMER GOODS? 
+A ‘reparability score’ is defined in Article 2(14d) of the Consumers Rights Directive 
+2011/83/EU (CRD), as amended by Article 2(1) of the ECGT Directive, as  
+‘a score expressing the capacity of a good to be repaired, based on harmonised requirements 
+established at Union level.’ 
+According to Articles 5(1)(i) and 6(1)(u) of the CRD, as amended by Article 2(2)(c), (3)(d) 
+of the ECGT Directive, whenever harmonised EU requirements are established for a specific 
+product or product group, traders must provide the reparability score to consumers in a 
+clear and comprehensible manner before the consumer is bound by the contract.  
+These harmonised requirements may be established under various possible EU legal 
+instruments, the EU Energy Labelling Framework Regulation (EU) 2017/1369, the Ecodesign 
+Requirements for energy-related Products Directive 2009/125/EC, or its successor, the 
+Ecodesign for Sustainable Products Regulation (EU) 2024/1781 (ESPR) that will be 
+applicable to a wider range of products.  
+The ESPR, in particular, establishes the legal basis for reparability scores for specific 
+products or product groups. According to Recital 30 of the ESPR, the reparability score 
+should: 
+‘Be based on a harmonised methodology specified for the product or product group and 
+which aggregates parameters, such as the availability and price of spare parts, the ease of 
+disassembly and the availability of tools, into a single score'. 
+Since 20 June 2025, all new smartphones and tablets placed on the EU market must display 
+an energy label including a reparability score, along with other mandatory information. This 
+is the first product category subject to this obligation, with other product groups expected 
+to follow as implementing measures are developed under the ESPR and related 
+legislation. Therefore, all traders selling smartphones and tablets must provide the 
+reparability score to consumers in a clear and comprehensible way before the contract is 
+concluded.  
+20. WHAT ARE THE REQUIREMENTS FOR INFORMATION ON DURABILITY AND REPARABILITY OF 
+PRODUCTS TO BE DEEMED AVAILABLE TO TRADERS AND CONSUMERS UNDER THE CRD, AS AMENDED 
+BY THE ECGT DIRECTIVE?  
+Under Articles 5(1)(ea), 5(1)(ed), 5(1)(j), and 6(1)(la), 6(1)(lc), 6(1)(v) of the CRD, as 
+amended by Article 2(2) and Article 2(3) of the ECGT Directive, traders, who are the 
+consumers’ direct contractual party, have to provide consumers with specific information in 
+relation to the durability and reparability of products, and the minimum period of software 
+updates provided, where the producers make that information available to the traders.  
+While the CRD does not oblige the producers (when they do not act as a trader (seller)) to 
+provide that information to a trader, the producers would be interested to provide that 
+
+
+===== PAGE 19/19 =====
+
+ 
+ 
+19 
+information to a trader, as it will allow consumers to choose more durable and reparable 
+products from producers.  
+The ECGT Directive ensures flexibility to traders how this information can be provided to 
+consumers, as long it is provided in a clear, comprehensible and prominent manner, for 
+example directly on the good, on the packaging of a good, on the shelf or next to the picture 
+of the good in case of online sale. 
+Importantly, traders are not required to actively search for relevant information on product 
+specific websites or elsewhere. At the same time, it would be in the interest of the producers 
+to proactively provide such information to benefit from a commercial advantage, and they 
+can themselves provide this information on the particular good or on its packaging. 
+In cases where the producer acts also as a  trader (seller), that producer/trader has to 
+provide the information about the availability and estimated costs of, and procedure for 
+ordering, spare parts, and the repair and maintenance instructions only where the producer-
+trader has either decided to sell those spare parts or to provide repair and maintenance 
+manuals as part of its business model or alternatively is obliged to do so by law;. 
+Regarding repair restrictions, as there is no general obligation to repair a product, it does 
+not mean that the producer-trader is obliged to inform the consumer proactively if a product 
+cannot be repaired. However, in cases where the trader does proactively provide relevant 
+information on repair, it should also include the information on certain restrictions connected 
+with that repair or spare parts. 
+21. WHAT IS THE RELATIONSHIP BETWEEN THE HARMONISED NOTICE ON THE LEGAL GUARANTEE 
+OF CONFORMITY AND THE HARMONISED LABEL ON THE COMMERCIAL GUARANTEE OF DURABILITY?  
+The harmonised notice and harmonised label have been designed to complement each other 
+and include cross-references that highlight the differences between the legal guarantee and 
+commercial guarantees. They have been established through Commission Implementing 
+Regulation (EU) 2025/19605.  
+The harmonised notice is a mandatory notice at the point of sale, intended to raise consumer 
+awareness of their legal guarantee rights. It should be displayed in a prominent manner as 
+of 27 September 2026, for example, on a poster in an eye-catching way on a wall in the 
+shop, next to the checkout counter or, in cases of online sale, placed as a general reminder 
+on the website of the trader selling goods. 
+In contrast, the harmonised label represents a voluntary commercial guarantee of durability, 
+offered by producers at no additional cost, covering the entire good and with a duration of 
+more than two years, for producers who wish to assure consumers of the durability of their 
+goods. However, as clarified in Recital 26 of the ECGT Directive, displaying such a label is 
+required by traders, where the producer offers such commercial guarantees of durability 
+and makes the information available to the trader.  
+Furthermore, as clarified by Recital 28 of the ECGT Directive, the harmonised label should 
+be displayed in a prominent manner and used in a way that allows consumers to easily 
+identify which particular good benefits from such commercial guarantees of durability, for 
+example by placing the label directly on the packaging of a particular good, by displaying 
+the label in a prominent manner on the shelf where the goods covered by such a guarantee 
+are placed or by placing it directly next to the picture of the good in the case of online sale. 
+Producers offering such commercial guarantees of durability can themselves place the 
+harmonised label directly on the particular good or on its packaging, with the aim of 
+benefitting from a commercial advantage. Traders should ensure that the harmonised label 
+is clearly visible.  
+As of 27 September 2026, the harmonised label will become available for products and 
+visible at the point of sale. 
+ 
+5 More information is available here:  
+http://data.europa.eu/eli/reg_impl/2025/1960/oj 
+https://commission.europa.eu/live-work-travel-eu/consumer-rights-and-complaints/sustainable-
+consumption_en#harmonised-notice-and-label-on-product-guarantees  

@@ -1,0 +1,1214 @@
+[
+  {
+    "text": "Skip to main content",
+    "href": "#MainContent"
+  },
+  {
+    "text": "Log in",
+    "href": "#"
+  },
+  {
+    "text": "Sign in",
+    "href": "./../../../protected/homepage.html?url=%2Flegal-content%2FPL%2FALL%2F%3Furi%3DCELEX%253A32024L0825"
+  },
+  {
+    "text": "Register",
+    "href": "https://ecas.ec.europa.eu/cas/eim/external/register.cgi/"
+  },
+  {
+    "text": "My recent searches (0)",
+    "href": "./../../../my-eurlex/my-queries.html#recentQueries"
+  },
+  {
+    "text": "EUR-Lex",
+    "href": "./../../../homepage.html?lang=en"
+  },
+  {
+    "text": "EUROPA",
+    "href": "https://europa.eu/european-union/index_en"
+  },
+  {
+    "text": "EUR-Lex home",
+    "href": "./../../../homepage.html"
+  },
+  {
+    "text": "Help",
+    "href": "./../../../content/help.html"
+  },
+  {
+    "text": "Treaties currently in force",
+    "href": "./../../../collection/eu-law/treaties/treaties-force.html"
+  },
+  {
+    "text": "Founding Treaties",
+    "href": "./../../../collection/eu-law/treaties/treaties-founding.html"
+  },
+  {
+    "text": "Accession Treaties",
+    "href": "./../../../collection/eu-law/treaties/treaties-accession.html"
+  },
+  {
+    "text": "Other treaties and protocols",
+    "href": "./../../../collection/eu-law/treaties/treaties-other.html"
+  },
+  {
+    "text": "Chronological overview",
+    "href": "./../../../collection/eu-law/treaties/treaties-overview.html"
+  },
+  {
+    "text": "Legal acts",
+    "href": "./../../../collection/eu-law/legal-acts/recent.html"
+  },
+  {
+    "text": "Consolidated texts",
+    "href": "./../../../collection/eu-law/consleg.html"
+  },
+  {
+    "text": "International agreements",
+    "href": "./../../../collection/eu-law/inter-agree.html"
+  },
+  {
+    "text": "Preparatory documents",
+    "href": "./../../../collection/eu-law/pre-acts.html"
+  },
+  {
+    "text": "EFTA documents",
+    "href": "./../../../collection/eu-law/efta.html"
+  },
+  {
+    "text": "Lawmaking procedures",
+    "href": "./../../../collection/legislative-procedures.html"
+  },
+  {
+    "text": "Summaries of EU legislation",
+    "href": "./../../../browse/summaries.html"
+  },
+  {
+    "text": "European Parliament",
+    "href": "./../../../browse/institutions/eu-parliament.html"
+  },
+  {
+    "text": "European Council",
+    "href": "./../../../browse/institutions/eu-council.html"
+  },
+  {
+    "text": "Council of the European Union",
+    "href": "./../../../browse/institutions/council.html"
+  },
+  {
+    "text": "European Commission",
+    "href": "./../../../browse/institutions/eu-commission.html"
+  },
+  {
+    "text": "Court of Justice of the European Union",
+    "href": "./../../../browse/institutions/justice.html"
+  },
+  {
+    "text": "European Central Bank",
+    "href": "./../../../browse/institutions/bank.html"
+  },
+  {
+    "text": "European Court of Auditors",
+    "href": "./../../../browse/institutions/auditors.html"
+  },
+  {
+    "text": "European Economic and Social Committee",
+    "href": "./../../../browse/institutions/eco-social.html"
+  },
+  {
+    "text": "European Committee of the Regions",
+    "href": "./../../../browse/institutions/regions.html"
+  },
+  {
+    "text": "Browse by EuroVoc",
+    "href": "./../../../browse/eurovoc.html"
+  },
+  {
+    "text": "Case-law",
+    "href": "./../../../collection/eu-law/eu-case-law.html"
+  },
+  {
+    "text": "Reports of cases",
+    "href": "./../../../collection/eu-law/eu-case-law/reports.html"
+  },
+  {
+    "text": "Directory of case-law",
+    "href": "./../../../browse/directories/new-case-law.html"
+  },
+  {
+    "text": "Access to the Official Journal",
+    "href": "./../../../oj/direct-access.html"
+  },
+  {
+    "text": "Official Journal L series daily view",
+    "href": "./../../../oj/daily-view/L-series/default.html"
+  },
+  {
+    "text": "Official Journal C series daily view",
+    "href": "./../../../oj/daily-view/C-series/default.html"
+  },
+  {
+    "text": "Browse the Official Journal",
+    "href": "./../../../oj/browse-oj.html"
+  },
+  {
+    "text": "Legally binding printed editions",
+    "href": "./../../../oj/all/auth-direct-access.html"
+  },
+  {
+    "text": "Special edition",
+    "href": "./../../../eu-enlargement/special.html"
+  },
+  {
+    "text": "National transposition",
+    "href": "./../../../collection/n-law/mne.html"
+  },
+  {
+    "text": "National case-law",
+    "href": "./../../../collection/n-law/n-case-law.html"
+  },
+  {
+    "text": "JURE case-law",
+    "href": "./../../../collection/n-law/jure.html"
+  },
+  {
+    "text": "Themes in focus",
+    "href": "./../../../content/news/index.html"
+  },
+  {
+    "text": "EUR-Lex developments",
+    "href": "./../../../content/development/index.html"
+  },
+  {
+    "text": "Statistics",
+    "href": "./../../../statistics/statistics.html"
+  },
+  {
+    "text": "What is ELI?",
+    "href": "./../../../eli-register/what_is_eli.html"
+  },
+  {
+    "text": "ELI background",
+    "href": "./../../../eli-register/background.html"
+  },
+  {
+    "text": "Why implement ELI?",
+    "href": "./../../../eli-register/benefits.html"
+  },
+  {
+    "text": "Countries implementing ELI",
+    "href": "./../../../eli-register/implementing_countries.html"
+  },
+  {
+    "text": "Testimonials",
+    "href": "./../../../eli-register/testimonials.html"
+  },
+  {
+    "text": "How to implement ELI",
+    "href": "./../../../eli-register/implementing_eli.html"
+  },
+  {
+    "text": "Glossary",
+    "href": "./../../../eli-register/glossary.html"
+  },
+  {
+    "text": "EU budget online",
+    "href": "./../../../budget/www/index-en.htm"
+  },
+  {
+    "text": "Advanced search",
+    "href": "./../../../advanced-search-form.html"
+  },
+  {
+    "text": "Text",
+    "href": "./../../../legal-content/PL/TXT/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "Document information",
+    "href": "./../../../legal-content/PL/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "Procedure",
+    "href": "./../../../legal-content/PL/HIS/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "National transposition",
+    "href": "./../../../legal-content/PL/NIM/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "Document summary",
+    "href": "./../../../legal-content/PL/LSU/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "Up-to-date link",
+    "href": "http://data.europa.eu/eli/dir/2024/825"
+  },
+  {
+    "text": "Permanent link",
+    "href": "javascript:;"
+  },
+  {
+    "text": "Download notice",
+    "href": "./../../../download-notice.html?legalContentId=cellar:1391c6b2-db63-11ee-b9d9-01aa75ed71a1&noticeType=branch&callingUrl=%2Flegal-content%2FPL%2FALL%2F%3Furi%3DCELEX%253A32024L0825&lng=PL"
+  },
+  {
+    "text": "Save to My items",
+    "href": "./../../../error/authentication-required.html?callingUrl=%2Flegal-content%2FPL%2FALL%2F%3Furi%3DCELEX%253A32024L0825&towardUrl=%2Fprotected%2Fsave-document.html%3FlegalContentId%3Dcellar%3A1391c6b2-db63-11ee-b9d9-01aa75ed71a1%26callingUrl%3D%252Flegal-content%252FPL%252FALL%252F%253Furi%253DCELEX%25253A32024L0825"
+  },
+  {
+    "text": "Create an email alert",
+    "href": "./../../../error/authentication-required.html?callingUrl=%2Fhomepage.html&towardUrl=%2Fprotected%2Fsave-email-alert%2Fnotice-to-email.html%3FlegalContentId%3Dcellar%3A1391c6b2-db63-11ee-b9d9-01aa75ed71a1%26callingUrl%3D%252Flegal-content%252FPL%252FALL%252F%253Furi%253DCELEX%25253A32024L0825%26isAddNoticeRSS%3Dtrue%26celex%3D32024L0825"
+  },
+  {
+    "text": "Create an RSS alert",
+    "href": "./../../../error/authentication-required.html?callingUrl=%2Fhomepage.html&towardUrl=%2Fprotected%2Fsave-rss%2Fnotice-to-rss.html%3FlegalContentId%3Dcellar%3A1391c6b2-db63-11ee-b9d9-01aa75ed71a1%26callingUrl%3D%252Flegal-content%252FPL%252FALL%252F%253Furi%253DCELEX%25253A32024L0825%26isAddNoticeRSS%3Dtrue%26celex%3D32024L0825"
+  },
+  {
+    "text": "http://data.europa.eu/eli/dir/2024/825/oj",
+    "href": "http://data.europa.eu/eli/dir/2024/825/oj"
+  },
+  {
+    "text": "2022/0092/COD",
+    "href": "./../../../procedure/EN/2022_92"
+  },
+  {
+    "text": "European Parliament - Legislative observatory",
+    "href": "https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0092(COD)"
+  },
+  {
+    "text": "12016E114",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:12016E114"
+  },
+  {
+    "text": "52022PC0143",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:52022PC0143"
+  },
+  {
+    "text": "",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&DB_MENTIONING=32024L0825&lang=en"
+  },
+  {
+    "text": "32005L0029",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32005L0029"
+  },
+  {
+    "text": "32011L0083",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32011L0083"
+  },
+  {
+    "text": "32024L0825R(01)",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32024L0825R(01)"
+  },
+  {
+    "text": "12016M005",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:12016M005"
+  },
+  {
+    "text": "32008R0765",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32008R0765"
+  },
+  {
+    "text": "32009R1221",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32009R1221"
+  },
+  {
+    "text": "32010R0066",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32010R0066"
+  },
+  {
+    "text": "32011R0182",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32011R0182"
+  },
+  {
+    "text": "32011R1169",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32011R1169"
+  },
+  {
+    "text": "32015L2436",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32015L2436"
+  },
+  {
+    "text": "32017R1369",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32017R1369"
+  },
+  {
+    "text": "32019L0770",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32019L0770"
+  },
+  {
+    "text": "32019L0771",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32019L0771"
+  },
+  {
+    "text": "32019L0882",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32019L0882"
+  },
+  {
+    "text": "32019L2161",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:32019L2161"
+  },
+  {
+    "text": "52011XG1217(01)",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:52011XG1217(01)"
+  },
+  {
+    "text": "52019DC0640",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:52019DC0640"
+  },
+  {
+    "text": "52022AE1950",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:52022AE1950"
+  },
+  {
+    "text": "52025DC0848",
+    "href": "./../../../legal-content/EN/AUTO/?uri=CELEX:52025DC0848"
+  },
+  {
+    "text": "informacja konsumencka",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&DC_CODED=1425&lang=en"
+  },
+  {
+    "text": "oprogramowanie",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&DC_CODED=1696&lang=en"
+  },
+  {
+    "text": "reklama nieuczciwa",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&DC_CODED=2863&lang=en"
+  },
+  {
+    "text": "wpływ na środowisko",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&DC_CODED=3139&lang=en"
+  },
+  {
+    "text": "odpowiedzialność producenta",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&DC_CODED=3635&lang=en"
+  },
+  {
+    "text": "cykl życia produktu",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&DC_CODED=3642&lang=en"
+  },
+  {
+    "text": "obsługa posprzedażna",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&DC_CODED=4104&lang=en"
+  },
+  {
+    "text": "ekologiczny znak jakości",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&DC_CODED=5696&lang=en"
+  },
+  {
+    "text": "reklama porównawcza",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&DC_CODED=6134&lang=en"
+  },
+  {
+    "text": "prawo konsumenckie",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&DC_CODED=c_e5dbcb63&lang=en"
+  },
+  {
+    "text": "Ochrona konsumentów",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&CT_1_CODED=PROT&lang=en"
+  },
+  {
+    "text": "Zbliżanie ustawodawstw",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&CT_1_CODED=RAPL&lang=en"
+  },
+  {
+    "text": "Rynek wewnętrzny - Zasady",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&CT_1_CODED=MARI&lang=en"
+  },
+  {
+    "text": "Ochrona środowiska, konsumentów i zdrowia",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&CC_1_CODED=15&lang=en"
+  },
+  {
+    "text": "Konsumenci",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&CC_2_CODED=1520&lang=en"
+  },
+  {
+    "text": "Informowanie, edukowanie i reprezentowanie konsumentów",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&CC_3_CODED=152020&lang=en"
+  },
+  {
+    "text": "Ochrona interesów gospodarczych",
+    "href": "./../../../search.html?type=advanced&DTS_DOM=ALL&DTS_SUBDOM=ALL_ALL&SUBDOM_INIT=ALL_ALL&CC_3_CODED=152040&lang=en"
+  },
+  {
+    "text": "BG",
+    "href": "./../../../legal-content/BG/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "ES",
+    "href": "./../../../legal-content/ES/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "CS",
+    "href": "./../../../legal-content/CS/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "DA",
+    "href": "./../../../legal-content/DA/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "DE",
+    "href": "./../../../legal-content/DE/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "ET",
+    "href": "./../../../legal-content/ET/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "EL",
+    "href": "./../../../legal-content/EL/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "EN",
+    "href": "./../../../legal-content/EN/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "FR",
+    "href": "./../../../legal-content/FR/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "GA",
+    "href": "./../../../legal-content/GA/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "HR",
+    "href": "./../../../legal-content/HR/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "IT",
+    "href": "./../../../legal-content/IT/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "LV",
+    "href": "./../../../legal-content/LV/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "LT",
+    "href": "./../../../legal-content/LT/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "HU",
+    "href": "./../../../legal-content/HU/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "MT",
+    "href": "./../../../legal-content/MT/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "NL",
+    "href": "./../../../legal-content/NL/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "PT",
+    "href": "./../../../legal-content/PT/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "RO",
+    "href": "./../../../legal-content/RO/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "SK",
+    "href": "./../../../legal-content/SK/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "SL",
+    "href": "./../../../legal-content/SL/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "FI",
+    "href": "./../../../legal-content/FI/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "SV",
+    "href": "./../../../legal-content/SV/ALL/?uri=CELEX:32024L0825"
+  },
+  {
+    "text": "BG",
+    "href": "./../../../legal-content/BG/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "ES",
+    "href": "./../../../legal-content/ES/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "CS",
+    "href": "./../../../legal-content/CS/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "DA",
+    "href": "./../../../legal-content/DA/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "DE",
+    "href": "./../../../legal-content/DE/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "ET",
+    "href": "./../../../legal-content/ET/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "EL",
+    "href": "./../../../legal-content/EL/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "EN",
+    "href": "./../../../legal-content/EN/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "FR",
+    "href": "./../../../legal-content/FR/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "GA",
+    "href": "./../../../legal-content/GA/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "HR",
+    "href": "./../../../legal-content/HR/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "IT",
+    "href": "./../../../legal-content/IT/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "LV",
+    "href": "./../../../legal-content/LV/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "LT",
+    "href": "./../../../legal-content/LT/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "HU",
+    "href": "./../../../legal-content/HU/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "MT",
+    "href": "./../../../legal-content/MT/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "NL",
+    "href": "./../../../legal-content/NL/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "PL",
+    "href": "./../../../legal-content/PL/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "PT",
+    "href": "./../../../legal-content/PT/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "RO",
+    "href": "./../../../legal-content/RO/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "SK",
+    "href": "./../../../legal-content/SK/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "SL",
+    "href": "./../../../legal-content/SL/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "FI",
+    "href": "./../../../legal-content/FI/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "SV",
+    "href": "./../../../legal-content/SV/TXT/HTML/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "BG",
+    "href": "./../../../legal-content/BG/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "ES",
+    "href": "./../../../legal-content/ES/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "CS",
+    "href": "./../../../legal-content/CS/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "DA",
+    "href": "./../../../legal-content/DA/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "DE",
+    "href": "./../../../legal-content/DE/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "ET",
+    "href": "./../../../legal-content/ET/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "EL",
+    "href": "./../../../legal-content/EL/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "EN",
+    "href": "./../../../legal-content/EN/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "FR",
+    "href": "./../../../legal-content/FR/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "GA",
+    "href": "./../../../legal-content/GA/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "HR",
+    "href": "./../../../legal-content/HR/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "IT",
+    "href": "./../../../legal-content/IT/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "LV",
+    "href": "./../../../legal-content/LV/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "LT",
+    "href": "./../../../legal-content/LT/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "HU",
+    "href": "./../../../legal-content/HU/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "MT",
+    "href": "./../../../legal-content/MT/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "NL",
+    "href": "./../../../legal-content/NL/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "PL",
+    "href": "./../../../legal-content/PL/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "PT",
+    "href": "./../../../legal-content/PT/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "RO",
+    "href": "./../../../legal-content/RO/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "SK",
+    "href": "./../../../legal-content/SK/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "SL",
+    "href": "./../../../legal-content/SL/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "FI",
+    "href": "./../../../legal-content/FI/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "SV",
+    "href": "./../../../legal-content/SV/TXT/PDF/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "BG",
+    "href": "./../../../legal-content/BG/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "ES",
+    "href": "./../../../legal-content/ES/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "CS",
+    "href": "./../../../legal-content/CS/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "DA",
+    "href": "./../../../legal-content/DA/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "DE",
+    "href": "./../../../legal-content/DE/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "ET",
+    "href": "./../../../legal-content/ET/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "EL",
+    "href": "./../../../legal-content/EL/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "EN",
+    "href": "./../../../legal-content/EN/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "FR",
+    "href": "./../../../legal-content/FR/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "GA",
+    "href": "./../../../legal-content/GA/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "HR",
+    "href": "./../../../legal-content/HR/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "IT",
+    "href": "./../../../legal-content/IT/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "LV",
+    "href": "./../../../legal-content/LV/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "LT",
+    "href": "./../../../legal-content/LT/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "HU",
+    "href": "./../../../legal-content/HU/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "MT",
+    "href": "./../../../legal-content/MT/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "NL",
+    "href": "./../../../legal-content/NL/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "PL",
+    "href": "./../../../legal-content/PL/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "PT",
+    "href": "./../../../legal-content/PT/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "RO",
+    "href": "./../../../legal-content/RO/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "SK",
+    "href": "./../../../legal-content/SK/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "SL",
+    "href": "./../../../legal-content/SL/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "FI",
+    "href": "./../../../legal-content/FI/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "SV",
+    "href": "./../../../legal-content/SV/TXT/SIG/?uri=OJ:L_202400825"
+  },
+  {
+    "text": "How to verify the authenticity of the Official Journal",
+    "href": "https://eur-lex.europa.eu/content/help/oj/authenticity-eOJ.html"
+  },
+  {
+    "text": "(",
+    "href": "#ntr1-L_202400825PL.000101-E0001"
+  },
+  {
+    "text": "(",
+    "href": "#ntr2-L_202400825PL.000101-E0002"
+  },
+  {
+    "text": "(",
+    "href": "#ntr3-L_202400825PL.000101-E0003"
+  },
+  {
+    "text": "(",
+    "href": "#ntr4-L_202400825PL.000101-E0004"
+  },
+  {
+    "text": "(",
+    "href": "#ntr5-L_202400825PL.000101-E0005"
+  },
+  {
+    "text": "(",
+    "href": "#ntr6-L_202400825PL.000101-E0006"
+  },
+  {
+    "text": "(",
+    "href": "#ntr7-L_202400825PL.000101-E0007"
+  },
+  {
+    "text": "(",
+    "href": "#ntr8-L_202400825PL.000101-E0008"
+  },
+  {
+    "text": "(",
+    "href": "#ntr9-L_202400825PL.000101-E0009"
+  },
+  {
+    "text": "(",
+    "href": "#ntr10-L_202400825PL.000101-E0010"
+  },
+  {
+    "text": "(",
+    "href": "#ntr11-L_202400825PL.000101-E0011"
+  },
+  {
+    "text": "(",
+    "href": "#ntr12-L_202400825PL.000101-E0012"
+  },
+  {
+    "text": "(",
+    "href": "#ntr13-L_202400825PL.000101-E0013"
+  },
+  {
+    "text": "(",
+    "href": "#ntr14-L_202400825PL.000101-E0014"
+  },
+  {
+    "text": "(",
+    "href": "#ntr15-L_202400825PL.000101-E0015"
+  },
+  {
+    "text": "(",
+    "href": "#ntr16-L_202400825PL.000101-E0016"
+  },
+  {
+    "text": "(",
+    "href": "#ntr*1-L_202400825PL.000101-E0017"
+  },
+  {
+    "text": "(",
+    "href": "#ntc*1-L_202400825PL.000101-E0017"
+  },
+  {
+    "text": "Dz.U. L 136 z 22.5.2019, s. 28",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:L:2019:136:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntr*2-L_202400825PL.000101-E0018"
+  },
+  {
+    "text": "(",
+    "href": "#ntr*3-L_202400825PL.000101-E0019"
+  },
+  {
+    "text": "(",
+    "href": "#ntc*2-L_202400825PL.000101-E0018"
+  },
+  {
+    "text": "Dz.U. L 27 z 30.1.2010, s. 1",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:L:2010:027:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntc*3-L_202400825PL.000101-E0019"
+  },
+  {
+    "text": "(",
+    "href": "#ntr*4-L_202400825PL.000101-E0020"
+  },
+  {
+    "text": "(",
+    "href": "#ntc*4-L_202400825PL.000101-E0020"
+  },
+  {
+    "text": "Dz.U. L 55 z 28.2.2011, s. 13",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:L:2011:055:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntc1-L_202400825PL.000101-E0001"
+  },
+  {
+    "text": "Dz.U. C 443 z 22.11.2022, s. 75",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:C:2022:443:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntc2-L_202400825PL.000101-E0002"
+  },
+  {
+    "text": "(",
+    "href": "#ntc3-L_202400825PL.000101-E0003"
+  },
+  {
+    "text": "Dz.U. L 149 z 11.6.2005, s. 22",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:L:2005:149:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntc4-L_202400825PL.000101-E0004"
+  },
+  {
+    "text": "Dz.U. L 218 z 13.8.2008, s. 30",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:L:2008:218:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntc5-L_202400825PL.000101-E0005"
+  },
+  {
+    "text": "Dz.U. L 304 z 22.11.2011, s. 18",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:L:2011:304:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntc6-L_202400825PL.000101-E0006"
+  },
+  {
+    "text": "Dz.U. L 342 z 22.12.2009, s. 1",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:L:2009:342:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntc7-L_202400825PL.000101-E0007"
+  },
+  {
+    "text": "(",
+    "href": "#ntc8-L_202400825PL.000101-E0008"
+  },
+  {
+    "text": "Dz.U. L 336 z 23.12.2015, s. 1",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:L:2015:336:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntc9-L_202400825PL.000101-E0009"
+  },
+  {
+    "text": "Dz.U. L 198 z 28.7.2017, s. 1",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:L:2017:198:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntc10-L_202400825PL.000101-E0010"
+  },
+  {
+    "text": "Dz.U. L 328 z 18.12.2019, s. 7",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:L:2019:328:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntc11-L_202400825PL.000101-E0011"
+  },
+  {
+    "text": "(",
+    "href": "#ntc12-L_202400825PL.000101-E0012"
+  },
+  {
+    "text": "(",
+    "href": "#ntc13-L_202400825PL.000101-E0013"
+  },
+  {
+    "text": "(",
+    "href": "#ntc14-L_202400825PL.000101-E0014"
+  },
+  {
+    "text": "Dz.U. L 151 z 7.6.2019, s. 70",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:L:2019:151:TOC"
+  },
+  {
+    "text": "(",
+    "href": "#ntc15-L_202400825PL.000101-E0015"
+  },
+  {
+    "text": "(",
+    "href": "#ntc16-L_202400825PL.000101-E0016"
+  },
+  {
+    "text": "Dz.U. C 369 z 17.12.2011, s. 14",
+    "href": "./../../../legal-content/PL/AUTO/?uri=OJ:C:2011:369:TOC"
+  },
+  {
+    "text": "Top",
+    "href": "#document1"
+  },
+  {
+    "text": "Publications Office of the European Union",
+    "href": "http://op.europa.eu/en/home"
+  },
+  {
+    "text": "Contact",
+    "href": "./../../../contact.html"
+  },
+  {
+    "text": "Sitemap",
+    "href": "./../../../content/site-map/site-map.html"
+  },
+  {
+    "text": "X",
+    "href": "https://x.com/EUPublications"
+  },
+  {
+    "text": "Legal notice",
+    "href": "./../../../content/legal-notice/legal-notice.html"
+  },
+  {
+    "text": "Cookies policy",
+    "href": "./../../../content/legal-notice/legal-notice.html#5.%20Cookies%20notice"
+  },
+  {
+    "text": "Accessibility",
+    "href": "./../../../content/legal-notice/legal-notice.html#4.%20Accessibility%20statement"
+  },
+  {
+    "text": "Privacy statement",
+    "href": "./../../../content/legal-notice/legal-notice.html#3.%20protection"
+  },
+  {
+    "text": "About EUR-Lex",
+    "href": "./../../../content/welcome/about.html"
+  },
+  {
+    "text": "Newsletter",
+    "href": "./../../../newsletter/newsletterLatest.html"
+  },
+  {
+    "text": "Useful links",
+    "href": "./../../../content/links/links.html"
+  },
+  {
+    "text": "European Data",
+    "href": "https://data.europa.eu/euodp/en/data/"
+  },
+  {
+    "text": "EU tenders",
+    "href": "https://ted.europa.eu/TED/main/HomePage.do"
+  },
+  {
+    "text": "EU research results",
+    "href": "http://cordis.europa.eu/en/"
+  },
+  {
+    "text": "EU Whoiswho",
+    "href": "http://op.europa.eu/en/web/who-is-who"
+  },
+  {
+    "text": "EU publications",
+    "href": "http://op.europa.eu/en/web/general-publications/publications"
+  },
+  {
+    "text": "N-Lex",
+    "href": "http://n-lex.europa.eu/n-lex/index?lang=en"
+  },
+  {
+    "text": "EU Law Tracker",
+    "href": "http://law-tracker.europa.eu/homepage?lang=en"
+  },
+  {
+    "text": "europa.eu",
+    "href": "https://europa.eu"
+  },
+  {
+    "text": "Call us 00 800 6 7 8 9 10 11",
+    "href": "tel:0080067891011"
+  },
+  {
+    "text": "Use other telephone options",
+    "href": "https://european-union.europa.eu/contact-eu/call-us_en"
+  },
+  {
+    "text": "Write to us via our contact form",
+    "href": "https://european-union.europa.eu/contact-eu/write-us_en"
+  },
+  {
+    "text": "Meet us at one of the EU centres",
+    "href": "https://european-union.europa.eu/contact-eu/meet-us_en"
+  },
+  {
+    "text": "Search for EU social media channels",
+    "href": "https://european-union.europa.eu/contact-eu/social-media-channels_en#/search"
+  },
+  {
+    "text": "Languages on our websites",
+    "href": "https://european-union.europa.eu/languages-our-websites_en"
+  },
+  {
+    "text": "Privacy policy",
+    "href": "https://european-union.europa.eu/privacy-policy_en"
+  },
+  {
+    "text": "Legal notice",
+    "href": "https://european-union.europa.eu/legal-notice_en"
+  },
+  {
+    "text": "Cookies",
+    "href": "https://european-union.europa.eu/cookies_en"
+  },
+  {
+    "text": "European Parliament",
+    "href": "https://www.europarl.europa.eu/portal/"
+  },
+  {
+    "text": "European Council",
+    "href": "https://www.consilium.europa.eu/en/european-council/"
+  },
+  {
+    "text": "Council of the European Union",
+    "href": "https://www.consilium.europa.eu/en/home/"
+  },
+  {
+    "text": "European Commission",
+    "href": "https://commission.europa.eu/index_en"
+  },
+  {
+    "text": "Court of Justice of the European Union (CJEU)",
+    "href": "https://curia.europa.eu/jcms/jcms/j_6/en/"
+  },
+  {
+    "text": "European Central Bank (ECB)",
+    "href": "https://www.ecb.europa.eu/home/html/index.en.html"
+  },
+  {
+    "text": "European Court of Auditors",
+    "href": "https://www.eca.europa.eu/en"
+  },
+  {
+    "text": "European External Action Service (EEAS)",
+    "href": "https://eeas.europa.eu/headquarters/headquarters-homepage_en"
+  },
+  {
+    "text": "European Economic and Social Committee",
+    "href": "https://www.eesc.europa.eu/?i=portal.en.home"
+  },
+  {
+    "text": "European Committee of Regions (CoR)",
+    "href": "https://cor.europa.eu/en/"
+  },
+  {
+    "text": "European Investment Bank",
+    "href": "https://www.eib.org/en/index.htm"
+  },
+  {
+    "text": "European Ombudsman",
+    "href": "https://www.ombudsman.europa.eu/en/home"
+  },
+  {
+    "text": "European Data Protection Supervisor (EDPS)",
+    "href": "https://secure.edps.europa.eu/EDPSWEB/edps/EDPS?lang=en"
+  },
+  {
+    "text": "European Data Protection Board",
+    "href": "https://edpb.europa.eu/edpb_en"
+  },
+  {
+    "text": "European Personnel Selection Office",
+    "href": "https://epso.europa.eu/en"
+  },
+  {
+    "text": "Publications Office of the European Union",
+    "href": "https://op.europa.eu/en/home"
+  },
+  {
+    "text": "Agencies",
+    "href": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC&f%5B1%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EXEC&f%5B2%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_JU"
+  }
+]
