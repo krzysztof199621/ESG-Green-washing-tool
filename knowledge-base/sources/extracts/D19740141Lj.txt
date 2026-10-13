@@ -1,0 +1,109 @@
+# USTAWA z dnia 26 czerwca 1974 r. – Kodeks pracy
+# Tekst jednolity: Dz.U. 2023 poz. 1465, ze zm. (Dz.U. 2024 poz. 878, 1222, 1871, 1965)
+# Stan prawny: 2025/2026 (z uwzględnieniem nowelizacji wdrażających dyrektywy UE work-life balance oraz transparentnych warunków pracy)
+
+## DZIAŁ I. PRZEPISY OGÓLNE
+### Podstawowe zasady prawa pracy
+
+Art. 11[1]. Pracodawca jest obowiązany szanować godność i inne dobra osobiste pracownika.
+Art. 11[2]. Pracownicy mają równe prawa z tytułu jednakowego wypełniania takich samych obowiązków; dotyczy to w szczególności równego traktowania mężczyzn i kobiet w zatrudnieniu.
+Art. 11[3]. Jakakolwiek dyskryminacja w zatrudnieniu, bezpośrednia lub pośrednia, w szczególności ze względu na płeć, wiek, niepełnosprawność, rasę, religię, narodowość, przekonania polityczne, przynależność związkową, pochodzenie etniczne, wyznanie, orientację seksualną, zatrudnienie na czas określony lub nieokreślony, zatrudnienie w pełnym lub w niepełnym wymiarze czasu pracy – jest niedopuszczalna.
+Art. 13. Pracownik ma prawo do godziwego wynagrodzenia za pracę.
+Art. 15. Pracodawca jest obowiązany zapewnić pracownikom bezpieczne i higieniczne warunki pracy.
+
+### Równe traktowanie w zatrudnieniu (Rozdział IIa)
+Art. 18[3a]. § 1. Pracownicy powinni być równo traktowani w zakresie nawiązania i rozwiązania stosunku pracy, warunków zatrudnienia, awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych (...).
+§ 2. Równe traktowanie w zatrudnieniu oznacza niedyskryminowanie w jakikolwiek sposób, bezpośrednio lub pośrednio (...).
+§ 5. Przejawem dyskryminowania jest także molestowanie (naruszenie godności, zastraszająca/wroga atmosfera) oraz molestowanie seksualne.
+Art. 18[3b]. Zakaz różnicowania sytuacji pracownika z przyczyn dyskryminacyjnych (odmowa zatrudnienia, zaniżanie płacy, pominięcie przy awansie/szkoleniu) – chyba że pracodawca udowodni obiektywne powody.
+Art. 18[3c]. § 1. Pracownicy mają prawo do jednakowego wynagrodzenia za jednakową pracę lub za pracę o jednakowej wartości.
+§ 2. Wynagrodzenie obejmuje wszystkie składniki wynagrodzenia (...) oraz inne świadczenia związane z pracą przyznawane w formie pieniężnej lub innej.
+§ 3. Pracami o jednakowej wartości są prace, których wykonywanie wymaga porównywalnych kwalifikacji zawodowych, doświadczenia, a także porównywalnej odpowiedzialności i wysiłku.
+
+## DZIAŁ II. STOSUNEK PRACY
+### Stosunek pracy a formy zatrudnienia (Art. 22)
+Art. 22. § 1. Przez nawiązanie stosunku pracy pracownik zobowiązuje się do wykonywania pracy określonego rodzaju na rzecz pracodawcy i pod jego kierownictwem oraz w miejscu i czasie wyznaczonym przez pracodawcę, a pracodawca – do zatrudniania pracownika za wynagrodzeniem.
+§ 1[1]. Zatrudnienie w warunkach określonych w § 1 jest zatrudnieniem na podstawie stosunku pracy, bez względu na nazwę zawartej przez strony umowy.
+§ 1[2]. Nie jest dopuszczalne zastąpienie umowy o pracę umową cywilnoprawną przy zachowaniu warunków wykonywania pracy, określonych w § 1.
+Art. 25[1]. Limit umów na czas określony: łączny okres nie może przekraczać 33 miesięcy, a łączna liczba umów nie może przekraczać trzech. Czwarta umowa lub przekroczenie 33 miesięcy z mocy prawa staje się umową na czas nieokreślony.
+
+### Praca zdalna (Rozdział IIc, Art. 67[18] – 67[34])
+Art. 67[18]. Definicja pracy zdalnej (całkowicie lub częściowo poza zakładem pracy, z użyciem środków bezpośredniego porozumiewania się na odległość).
+Art. 67[19] § 6. Obowiązek pracodawcy uwzględnienia wniosku o pracę zdalną m.in. pracownicy w ciąży, pracownika wychowującego dziecko do ukończenia przez nie 4. roku życia, pracownika sprawującego opiekę nad osobą z niepełnosprawnością (odmowa możliwa tylko ze względu na organizację lub rodzaj pracy).
+Art. 67[24]. Obowiązki pracodawcy:
+§ 1 pkt 1: zapewnienie materiałów i narzędzi pracy, w tym urządzeń technicznych;
+§ 1 pkt 2: pokrycie kosztów instalacji, serwisu, eksploatacji, a także energii elektrycznej i usług telekomunikacyjnych;
+§ 1 pkt 4: zapewnienie szkoleń i pomocy technicznej;
+§ 3-4: wypłata ekwiwalentu pieniężnego lub ryczałtu.
+Art. 67[25]. Zwrot kosztów, ekwiwalent i ryczałt za pracę zdalną nie stanowią przychodu pracownika podlegającego PIT.
+
+## DZIAŁ III. WYNAGRODZENIE ZA PRACĘ
+Art. 85. § 1. Wypłaty wynagrodzenia za pracę dokonuje się co najmniej raz w miesiącu, w stałym i ustalonym z góry terminie.
+§ 2. Wypłata z dołu, nie później niż w ciągu pierwszych 10 dni następnego miesiąca kalendarzowego.
+Art. 86. § 2. Wypłata w formie pieniężnej na wskazany rachunek płatniczy.
+Art. 87. Ścisłe zasady dopuszczalnych potrąceń i kwot wolnych od potrąceń.
+
+## DZIAŁ IV. OBOWIĄZKI PRACODAWCY (Art. 94)
+Art. 94. Pracodawca jest obowiązany w szczególności:
+pkt 2b: przeciwdziałać dyskryminacji w zatrudnieniu;
+pkt 4: zapewniać bezpieczne i higieniczne warunki pracy oraz prowadzić systematyczne szkolenie pracowników w zakresie BHP;
+pkt 5: terminowo i prawidłowo wypłacać wynagrodzenie;
+pkt 9b: przechowywać dokumentację pracowniczą przez okres 10 lat;
+pkt 10: wpływać na kształtowanie w zakładzie pracy zasad współżycia społecznego.
+Art. 94[3]. § 1. Pracodawca jest obowiązany przeciwdziałać mobbingowi.
+§ 2. Definicja mobbingu (uporczywe, długotrwałe nękanie lub zastraszanie wywołujące zaniżoną ocenę przydatności, poniżenie, ośmieszenie lub izolację).
+§ 3–4. Roszczenia pracownika o zadośćuczynienie za rozstrój zdrowia oraz odszkodowanie (nie niższe niż minimalne wynagrodzenie).
+
+## DZIAŁ VI. CZAS PRACY
+Art. 129. Podstawowa norma czasu pracy: 8 godzin na dobę i przeciętnie 40 godzin w przeciętnie 5-dniowym tygodniu pracy (okres rozliczeniowy do 4 miesięcy, wyjątkowo do 12 miesięcy).
+Art. 131. Maksymalny tygodniowy czas pracy łącznie z nadgodzinami: przeciętnie 48 godzin.
+Art. 132. Dobowy nieprzerwany odpoczynek: co najmniej 11 godzin w każdej dobie.
+Art. 133. Tygodniowy nieprzerwany odpoczynek: co najmniej 35 godzin.
+Art. 134. Przerwy w pracy wliczane do czasu pracy (min. 15 minut przy pracy >= 6 godz., dodatkowe 15 min przy > 9 godz., kolejna przy > 16 godz.).
+Art. 148[1]. Zwolnienie od pracy z powodu siły wyższej w pilnych sprawach rodzinnych (spowodowanych chorobą lub wypadkiem): 2 dni albo 16 godzin w roku kalendarzowym (z prawem do 50% wynagrodzenia).
+Art. 151. Praca w godzinach nadliczbowych dopuszczalna tylko w razie akcji ratowniczej lub szczególnych potrzeb pracodawcy.
+Art. 151 § 3. Roczny limit nadgodzin ze szczególnych potrzeb pracodawcy: maksymalnie 150 godzin w roku kalendarzowym na pracownika (chyba że regulamin/układ stanowi inaczej).
+Art. 151[1]. Dodatki za nadgodziny: 100% za pracę w nocy, niedziele i święta; 50% w innych dniach.
+
+## DZIAŁ VII. URLOPY PRACOWNICZE
+Art. 152. Prawo do corocznego, nieprzerwanego, płatnego urlopu wypoczynkowego (zakaz zrzeczenia się urlopu).
+Art. 154. Wymiar urlopu wypoczynkowego: 20 dni (< 10 lat stażu) lub 26 dni (>= 10 lat stażu).
+Art. 162. Podział na części: co najmniej jedna część wypoczynku nie mniej niż 14 kolejnych dni kalendarzowych.
+Art. 167[2]. Urlop na żądanie: 4 dni w roku kalendarzowym.
+Art. 173[1]. Urlop opiekuńczy: 5 dni w roku kalendarzowym w celu zapewnienia osobistej opieki lub wsparcia członkowi rodziny lub osobie zamieszkującej w tym samym gospodarstwie z poważnych względów medycznych.
+
+## DZIAŁ VIII. RODZICIELSTWO I ELASTYCZNA ORGANIZACJA PRACY
+Art. 176. Ochrona kobiet w ciąży i karmiących przed pracami uciążliwymi, niebezpiecznymi lub szkodliwymi.
+Art. 177. Ochrona trwałości stosunku pracy: zakaz przygotowań do zwolnienia oraz zakaz wypowiedzenia i rozwiązania umowy w okresie ciąży, urlopu macierzyńskiego, rodzicielskiego i ojcowskiego.
+Art. 178. Zakaz zatrudniania kobiet w ciąży w nadgodzinach i w porze nocnej oraz delegowania bez zgody. Zakaz zatrudniania w nadgodzinach i w nocy pracownika wychowującego dziecko do lat 8 bez jego zgody.
+Art. 180. Urlop macierzyński (20 do 37 tygodni w zależności od liczby dzieci).
+Art. 180[2] (od 19.03.2025). Uzupełniający urlop macierzyński dla rodziców wcześniaków i dzieci hospitalizowanych.
+Art. 182[1a]. Urlop rodzicielski (do 41 lub 43 tygodni, w tym nieprzenoszalne 9 tygodni dla każdego z rodziców).
+Art. 182[3]. Urlop ojcowski (2 tygodnie, do ukończenia 12. miesiąca życia dziecka).
+Art. 188. Zwolnienie na opiekę nad dzieckiem do 14 lat: 16 godzin albo 2 dni w roku, z zachowaniem 100% wynagrodzenia.
+Art. 188[1]. Elastyczna organizacja pracy dla pracownika wychowującego dziecko do lat 8 (praca zdalna, ruchomy czas pracy, system weekendowy/skróconego tygodnia, obniżony wymiar etatu). Wniosek składany na 21 dni przed; odmowa wymaga pisemnego uzasadnienia; zakaz dyskryminacji i zwolnienia z powodu wniosku.
+
+## DZIAŁ X. BEZPIECZEŃSTWO I HIGIENA PRACY (BHP)
+Art. 207. § 1. Pracodawca ponosi odpowiedzialność za stan BHP w zakładzie pracy.
+§ 2[1]. KOSZTY DZIAŁAŃ PODEJMOWANYCH PRZEZ PRACODAWCĘ W ZAKRESIE BEZPIECZEŃSTWA I HIGIENY PRACY W ŻADEN SPOSÓB NIE MOGĄ OBCIĄŻAĆ PRACOWNIKÓW.
+Art. 211. Obowiązek pracownika przestrzegania przepisów i zasad BHP.
+Art. 215. Zapewnienie bezpiecznych maszyn, urządzeń i ergonomii.
+Art. 237[3]. § 2. Pracodawca jest obowiązany zapewnić szkolenie BHP przed dopuszczeniem do pracy oraz okresowe szkolenia.
+§ 3. Szkolenia BHP odbywają się w czasie pracy i NA KOSZT PRACODAWCY.
+Art. 237[6] § 1. Pracodawca jest obowiązany dostarczyć pracownikowi NIEODPŁATNIE środki ochrony indywidualnej.
+Art. 237[7] § 1. Pracodawca jest obowiązany dostarczyć pracownikowi NIEODPŁATNIE odzież i obuwie robocze.
+Art. 237[9] § 1. Zakaz dopuszczenia pracownika do pracy bez środków ochrony indywidualnej oraz odzieży i obuwia roboczego.
+Art. 237[9] § 2. Obowiązek pracodawcy prania, konserwacji, naprawy, odpylania i odkażania odzieży roboczej na koszt pracodawcy.
+
+## DZIAŁ XIII. ODPOWIEDZIALNOŚĆ ZA WYKROCZENIA PRZECIWKO PRAWOM PRACOWNIKA
+Art. 281. § 1. Kary grzywny od 1 000 zł do 30 000 zł m.in. za:
+pkt 1: zawieranie umowy cywilnoprawnej w warunkach, w których powinna być zawarta umowa o pracę (tzw. śmieciówki);
+pkt 2: brak pisemnego potwierdzenia umowy o pracę przed dopuszczeniem do pracy;
+pkt 2a: brak terminowej informacji o warunkach zatrudnienia (dyrektywa ws. przejrzystych warunków pracy);
+pkt 3: bezprawne wypowiedzenie lub rozwiązanie stosunku pracy;
+pkt 5: naruszenie przepisów o czasie pracy, rodzicielstwie i zatrudnianiu młodocianych;
+pkt 5a: naruszenie przepisów o elastycznej organizacji pracy (art. 188[1]);
+pkt 5b: naruszenie przepisów o urlopie opiekuńczym (art. 173[1]-173[3]);
+pkt 5d: naruszenie przepisów dotyczących pokrywania przez pracodawcę kosztów szkoleń (art. 94[13]).
+Art. 282. § 1. Kara grzywny od 1 000 zł do 30 000 zł za niewypłacanie w terminie wynagrodzenia, bezpodstawne obniżanie płacy lub odmowę udzielenia urlopu wypoczynkowego.
+Art. 283. § 1-2. Kary grzywny od 1 000 zł do 30 000 zł za nieprzestrzeganie przepisów BHP, niedostarczenie środków ochrony, niestosowanie procedur przy substancjach niebezpiecznych.

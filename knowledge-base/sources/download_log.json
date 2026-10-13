@@ -370,5 +370,17 @@
     "file": "cpr.pdf",
     "ok": true,
     "magic": "%PDF-1.7"
+  },
+  {
+    "slug": "sygnalisci",
+    "item_id": "sygnalisci",
+    "url": "https://dziennikustaw.gov.pl/D2024000092801.pdf",
+    "final_url": "https://dziennikustaw.gov.pl/D2024000092801.pdf",
+    "status": 200,
+    "bytes": 492507,
+    "content_type": "application/pdf;charset=UTF-8",
+    "file": "D20240928L.pdf",
+    "ok": true,
+    "magic": "%PDF-1.4"
   }
 ]

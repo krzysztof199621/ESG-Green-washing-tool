@@ -6,7 +6,9 @@
 
 | Data | Co się dzieje |
 |---|---|
-| **już teraz** | UPNPR + UOKiK art. 24/106. Zarzuty: Allegro, DHL, DPD, InPost (VII 2025); Bolt, Tchibo, Zara (19.01.2026). |
+| **25.09.2024** | **Wejście w życie Ustawy o ochronie sygnalistów (Dz.U. 2024 poz. 928):** procedury wewnętrzne podmiotów >=50 pracowników, ochrona przed odwetem, nieważność NDA i zniesienie tajemnicy przedsiębiorstwa w sprawach naruszeń prawa. |
+| **25.12.2024** | **Uruchomienie zgłoszeń zewnętrznych do organów publicznych:** Prezes UOKiK (ochrona konsumentów), KNF (rynki finansowe), GIOŚ (ochrona środowiska) i RPO przyjmują bezpośrednie zgłoszenia od sygnalistów z gwarancją poufności. |
+| **już teraz** | UPNPR + UOKiK art. 24/106. Zarzuty: Allegro, DHL, DPD, InPost (VII 2025); Bolt, Tchibo, Zara (19.01.2026). Zgłoszenia sygnalistów zasilają postępowania wyjaśniające UOKiK. |
 | **27.03.2026** | Termin transpozycji ECGT minął. Komisja wszczęła infringements wobec państw, które nie transponowały (w tym PL). |
 | **27.09.2026** | **ECGT stosuje się w UE.** CPC: od tego dnia B2C claims i etykiety muszą być zgodne. Brak zwolnienia dla „starych zapasów”. |
 | **04.09.2026** | Sejm uchwalił nowelizację (236:199:0). Tekst w druku Senatu **825**: Art. 3 = **27.09.2027** (rządowy 2799 miał 2026; poprawka w sprawozdaniu 3043). |
@@ -91,3 +93,15 @@ Od 27.09.2026 nie ma derogacji. Organy mogą jednak:
 Nadal aktualne do oceny art. 6–7–12 UCPD:
 
 twierdzenia ekologiczne muszą być **prawdziwe, jasne, konkretne, dokładne i jednoznaczne**; prezentacja (kolor, obraz) nie może wyolbrzymiać skali korzyści.
+
+## 7. Zgłoszenia sygnalistów a praktyka dochodzeniowa UOKiK i KNF
+
+Od 25 grudnia 2024 r. Prezes UOKiK oraz Komisja Nadzoru Finansowego (KNF) dysponują formalnymi procedurami przyjmowania zgłoszeń zewnętrznych od sygnalistów (Dz.U. 2024 poz. 928, art. 30–50). 
+
+Wpływ na postępowania w sprawach greenwashingu:
+
+1. **Źródło dowodowe ex-ante:** Zamiast opierać się wyłącznie na skargach konsumenckich czy monitoringu reklam, UOKiK uzyskuje bezpośredni wgląd w wewnętrzne arkusze kalkulacyjne, korespondencję z agencjami reklamowymi i audyty emisyjne przekazane przez sygnalistów.
+2. **Nieskuteczność korporacyjnych barier:** Sygnalista nie odpowiada za naruszenie tajemnicy przedsiębiorstwa ani klauzul poufności (art. 16, 19, 20 ustawy). Urząd otrzymuje twarde dowody, np. wykazujące, że udział recyklatu w partii wynosił 5%, podczas gdy na opakowaniu widniało hasło „eko-kolekcja”.
+3. **Zaostrzenie oceny umyślności / niedbalstwa:** Jeśli zarząd lub dział marketingu zignorował wcześniejsze zgłoszenie wewnętrzne od pracownika lub audytora ostrzegające przed greenwashingiem, UOKiK traktuje to jako okoliczność obciążającą przy wymiarze kary (do 10% obrotu).
+4. **Odpowiedzialność karna zarządu:** Obok kar administracyjnych dla spółki, kadra zarządzająca ryzykuje do 2–3 lat pozbawienia wolności za ewentualne próby represji lub utrudniania zgłoszeń (art. 54–55 ustawy o sygnalistach). Szczegóły: `12_sygnalisci_whistleblowing.md`.
+

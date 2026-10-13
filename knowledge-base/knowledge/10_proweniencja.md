@@ -16,6 +16,7 @@
 | ESPR, CSDDD | PDF 2024/1781 i 2024/1760 + strona MRiT (Omnibus I) |
 | CPR, BREEAM, LEED, EPBD | CPR i EPBD w całości; LEED v4.1 BD+C PDF publiczny; BREEAM — FAQ v7.1, manual za loginem |
 | UCPD Guidance 2021 | `extracts/ucpd_guidance_2021.txt` (§ 4.1.1); EUR-Lex PDF bywał pusty |
+| Ustawa o ochronie sygnalistów (Dz.U. 2024 poz. 928) | Pełny urzędowy PDF z Dziennika Ustaw (RCL/ISAP): `D20240928L.pdf` (17 s.) = `sygnalisci.pdf`; wyciąg `extracts/D20240928L.txt`. Wdrożenie dyrektywy 2019/1937. Kluczowy filar detekcji wewnętrznej i zewnętrznej w sprawach greenwashingu (art. 3, 16, 19–20, 30–34, 51, 54–55). |
 
 ## Korekty względem brzmienia maila w docx
 
@@ -25,6 +26,7 @@
 4. Manuale BREEAM NC v7.1 nie są publicznie pobieralne; jest FAQ + LEED v4.1 BD+C PDF.
 5. `D20071206L.pdf` z ISAP to **tekst ogłoszony 2007**, nie ujednolicony — do stosowania UPNPR używać `upnpr_2.pdf`.
 6. Wytyczne UOKiK o oświadczeniach środowiskowych (IX 2026) **nie są opublikowane** — nie wynajdywać ich treści.
+7. Ustawa o ochronie sygnalistów (Dz.U. z 2024 r. poz. 928) weszła w życie **25 września 2024 r.** (przepisy ogólne, ochrona, procedury wewnętrzne, przepisy karne) oraz **25 grudnia 2024 r.** (procedury zgłoszeń zewnętrznych do organów publicznych, w tym Prezesa UOKiK, KNF, GIOŚ) — jest aktem w pełni obowiązującym.
 
 ## Licencje i cytowanie
 

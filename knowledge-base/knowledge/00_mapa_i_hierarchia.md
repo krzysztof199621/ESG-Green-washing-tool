@@ -9,8 +9,9 @@
 ## Hierarchia stosowania (produkt / usługa / komunikacja)
 
 ```
-1. Czy twierdzenie jest obowiązkowe z mocy prawa?
-   TAK → to nie jest „green claim”; i tak nie wolno go przedstawiać jako cechy wyróżniającej (ECGT 10a).
+1. Czy twierdzenie dotyczy wymogu nałożonego przez prawo?
+   TAK → to nie jest cecha „zielona” ani przewaga CSR; bezwzględny zakaz przedstawiania go jako cechy wyróżniającej (ECGT zał. I pkt 10a / UPNPR art. 5).
+         Dotyczy to zarówno norm środowiskowych (np. brak substancji zakazanych w UE), jak i prawa pracy (Kodeks pracy: równe płace art. 18³c KP, legalne umowy o pracę art. 22 KP, bezpłatne BHP art. 207 § 2¹ KP, praca zdalna dla rodziców art. 67¹⁹ § 6 KP).
    NIE → idź dalej.
 
 2. Czy termin jest zastrzeżony sektorowo?
@@ -23,10 +24,11 @@
    Konsument (B2C)  → UPNPR (już) + ECGT od 27.09.2026 (UE) + nowela PL (Sejm: 27.09.2027, Senat w toku) + kary UOKiK.
    Kontrahent/B2B   → UZNK (oznaczenia, reklama) + roszczenia cywilne.
    Inwestor         → SFDR / Taksonomia / wytyczne ESA + „fair, clear and not misleading”.
+   Rynek pracy / Filar S (Social Washing) → Kodeks pracy (minimalne standardy bezwzględne) + ECGT 10a + ESRS S1 + CSDDD.
 
 4. Test ogólny (zawsze)
    Prawda + pełny zakres + istotność + dowód + brak offsetu jako „neutralności”
-   + certyfikat tylko z systemu spełniającego definicję ECGT.
+   + certyfikat tylko z systemu spełniającego definicję ECGT + additionality (ponad minimum prawne).
 ```
 
 ## Dwa reżimy UE na twierdzenia ekologiczne
@@ -45,6 +47,7 @@ W praktyce narzędzia anti-greenwashing od 27 września 2026 opierają się na *
 
 | Data | Co obowiązuje w narzędziu |
 |---|---|
+| 25.09.2024 / 25.12.2024 | **Ustawa o ochronie sygnalistów (Dz.U. 2024 poz. 928)** w pełnej mocy: kanały wewnętrzne (od IX 2024) oraz zewnętrzne do UOKiK/KNF/GIOŚ (od XII 2024). Przełamanie tajemnicy przedsiębiorstwa (art. 16) i nieważność NDA (art. 19–20) w sprawach greenwashingu/ESG. |
 | już teraz | UPNPR + UOKiK art. 24/106. Zarzuty: kurierzy (VII 2025), Bolt/Tchibo/Zara (I 2026). |
 | 27.09.2026 | **Stosowanie ECGT w UE** (art. 4 dyrektywy). FAQ Komisji + CPC old stock. |
 | 27.09.2027 | Wejście w życie noweli PL wg tekstu Sejmu (druk Senatu **825**, Art. 3). Senat: komisje od 9.09.2026; **nie ogłoszono** w Dz.U. |
@@ -60,11 +63,15 @@ Opóźnienie transpozycji **nie zawiesza** ECGT ani nie zatrzymuje UOKiK. Szczeg
 | Transport / e-commerce | „Zielona dostawa” przy flocie spalinowej | CountEmissionsEU, ECGT 4b/4c |
 | Moda | Greenlighting (mały % recyklatu = „zrównoważona kolekcja”) | ESPR, CSDDD, ECGT, strategia tekstyliów |
 | Budownictwo | Certyfikat budynku/materiału = „inwestycja zeroemisyjna” | EPBD art. 11, CPR, EPD, ECGT 4b |
+| **Praca / Filar S (Social Washing)** | **Wymogi Kodeksu pracy (BHP, równa płaca art. 18³c, legalne umowy art. 22, work-life balance) sprzedawane jako przewaga CSR/ESG** | **Kodeks pracy (Dz.U. 2023 poz. 1465), ECGT 10a, ESRS S1, CSDDD, UPNPR** |
 
-## Organy i sankcje (PL)
+## Organy, detekcja i sankcje (PL)
 
-- **UOKiK** — art. 24 + art. 106 (do **10% obrotu za każdą praktykę**). Zarzuty: Allegro, DHL, DPD, InPost (VII 2025); Bolt, Tchibo, Zara (I 2026). Wytyczne urzędu o oświadczeniach środowiskowych — jeszcze nieopublikowane. Szczegóły: `11_praktyka_nadzorcza.md`.
+- **UOKiK** — art. 24 + art. 106 (do **10% obrotu za każdą praktykę**). Zarzuty: Allegro, DHL, DPD, InPost (VII 2025); Bolt, Tchibo, Zara (I 2026). Od 25.12.2024 Prezes UOKiK jest **organem publicznym przyjmującym zgłoszenia zewnętrzne sygnalistów** w sprawach ochrony konsumentów (art. 3 ust. 1 pkt 12 ustawy o sygnalistach). Wytyczne urzędu o oświadczeniach środowiskowych — jeszcze nieopublikowane. Szczegóły: `11_praktyka_nadzorcza.md`.
+- **Państwowa Inspekcja Pracy (PIP) / Sądy Pracy** — kontrola i egzekwowanie praw pracowniczych; grzywny z art. 281–283 KP (do 30 000 zł / 45 000 zł) za śmieciówki, naruszenia czasu pracy, BHP i uprawnień rodzicielskich. Stwierdzone naruszenia demaskują pozorny profil ESG podmiotu.
+- **Sygnaliści / Whistleblowing (Ustawa Dz.U. 2024 poz. 928)** — wewnętrzny i zewnętrzny mechanizm wykrywania nieprawidłowości ESG. Obejmuje pracowników, agencje PR, podwykonawców. Klauzule NDA zakazujące ujawnienia fałszu ESG są bezwzględnie nieważne (art. 19–20), brak odpowiedzialności za naruszenie tajemnicy firmy (art. 16). Sankcje karne dla kadry zarządzającej za odwet lub blokowanie zgłoszeń: do 2–3 lat pozbawienia wolności (art. 54–55). Szczegóły: `12_sygnalisci_whistleblowing.md`.
 - **Sądy cywilne** — B2C (UPNPR) i B2B (UZNK: odszkodowanie, zaniechanie, ogłoszenie).
-- **KNF / ESA** — nadzór nad komunikacją produktów finansowych.
-- **IJHARS / jednostki certyfikujące** — rolnictwo ekologiczne.
+- **KNF / ESA** — nadzór nad komunikacją produktów finansowych; KNF przyjmuje zgłoszenia zewnętrzne sygnalistów w zakresie rynków finansowych i SFDR (art. 3 ust. 1 pkt 3).
+- **GIOŚ / WIOŚ** — nadzór i zgłoszenia zewnętrzne w zakresie naruszeń ochrony środowiska (art. 3 ust. 1 pkt 7).
+- **IJHARS / jednostki certyfikujące** — rolnictwo ekologiczne (art. 3 ust. 1 pkt 9).
 - **Organ CSDDD** (do wyznaczenia w PL) — kary do **3%** światowego przychodu netto (wg strony MRiT po Omnibus I).

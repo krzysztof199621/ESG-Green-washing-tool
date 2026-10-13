@@ -230,5 +230,17 @@
     "pages": 19,
     "chars": 39883,
     "out": "uznk.txt"
+  },
+  {
+    "file": "D20240928L.pdf",
+    "pages": 17,
+    "chars": 35240,
+    "out": "D20240928L.txt"
+  },
+  {
+    "file": "sygnalisci.pdf",
+    "pages": 17,
+    "chars": 35240,
+    "out": "sygnalisci.txt"
   }
 ]

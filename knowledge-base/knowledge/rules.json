@@ -2,9 +2,18 @@
   "meta": {
     "title": "Reguły weryfikacji greenwashingu",
     "as_of": "2026-09-15",
-    "source_list": "Przepisy.docx + ISAP PDFs + ECGT FAQ 2026 + CPC old stock + Sejm 2799/3043 + Senat 825 + UOKiK 2025-2026 + UCPD Guidance 2021 + LEED v4.1 BD+C",
-    "binding_core": ["UPNPR", "UOKiK", "UZNK", "ECGT-2024-825"],
+    "source_list": "Przepisy.docx + ISAP PDFs + ECGT FAQ 2026 + CPC old stock + Sejm 2799/3043 + Senat 825 + UOKiK 2025-2026 + UCPD Guidance 2021 + LEED v4.1 BD+C + Dz.U. 2024 poz. 928",
+    "binding_core": ["UPNPR", "UOKiK", "UZNK", "ECGT-2024-825", "WHISTLEBLOWING-2024-928"],
     "ecgt_apply_from": "2026-09-27",
+    "whistleblower_act": {
+      "act": "Ustawa o ochronie sygnalistów (Dz.U. z 2024 r. poz. 928)",
+      "entry_into_force_general": "2024-09-25",
+      "entry_into_force_external_channels": "2024-12-25",
+      "status": "fully_in_force",
+      "relevant_scopes": ["art_3_1_7_environment", "art_3_1_12_consumer_protection", "art_3_1_3_financial_markets", "art_3_1_5_product_compliance"],
+      "nda_void": "art_19_and_20",
+      "trade_secrets_exemption": "art_16"
+    },
     "pl_transposition": {
       "sejm_passed": "2026-09-04",
       "senate_print": "825",
@@ -47,7 +56,14 @@
     {
       "id": "ECGT-10a",
       "if": "legal_requirement_marketed_as_distinctive_feature",
-      "examples": ["bez substancji zakazanych w UE", "zgodny z obowiązującym prawem jako benefit"]
+      "examples": [
+        "bez substancji zakazanych w UE",
+        "zgodny z obowiązującym prawem jako benefit",
+        "równe płace dla kobiet i mężczyzn na tych samych stanowiskach jako CSR (art. 18[3c] KP)",
+        "brak umów śmieciowych / tylko legalne umowy jako przewaga etyczna (art. 22 § 1[2] KP)",
+        "zapewniamy darmowe szkolenia i odzież BHP (art. 207 § 2[1] KP)",
+        "elastyczny czas i praca zdalna dla rodziców małych dzieci jako program wellbeing (art. 67[19] § 6 i 188[1] KP)"
+      ]
     },
     {
       "id": "UPNPR-7-2",
@@ -82,6 +98,14 @@
     {
       "id": "EAC-NOT-PHYSICAL-ENERGY",
       "test": "100% renewable via EAC/GO without explanation is likely misleading (UOKiK Bolt)"
+    },
+    {
+      "id": "WHISTLEBLOWER-DATA-MATCH",
+      "test": "claims_must_match_internal_operational_and_ERP_data; trade_secrets_and_NDAs_do_not_prevent_whistleblowers_from_reporting_false_environmental_or_consumer_claims_under_DzU_2024_poz_928"
+    },
+    {
+      "id": "WHISTLEBLOWER-NDA-VOID",
+      "test": "confidentiality_agreements_or_NDAs_prohibiting_whistleblower_disclosures_of_ESG_violations_are_null_and_void_ex_lege (art. 19-20 of Dz.U. 2024 poz. 928)"
     }
   ],
   "old_stock": {
@@ -123,6 +147,28 @@
       {"id": "EPD", "require": "same product variant and LCA modules as claimed"},
       {"id": "BREEAM-V71", "note": "NC v7.1 is default registration; technical manual is login-only; whole-life carbon is a scheme aim not an EPBD status"},
       {"id": "LEED-V41-BDC", "note": "public rating system PDF July 2020 is a credit catalogue, not EPBD art. 11"}
+    ],
+    "social_washing": [
+      {
+        "id": "LABOUR-EQUAL-PAY",
+        "rule": "Equal pay for equal work / work of equal value is a statutory obligation under art. 18[3c] KP, not a voluntary CSR merit",
+        "reject_if": "marketed as unique employer branding benefit without certified beyond-compliance audit (e.g. adjusted gender pay gap methodology)"
+      },
+      {
+        "id": "LABOUR-SHAM-CONTRACTS",
+        "rule": "Prohibition of replacing employment contracts with civil law contracts (art. 22 § 1[2] KP; misdemeanor under art. 281 § 1 pkt 1 KP)",
+        "reject_if": "marketed as voluntary ethical employer policy when it is minimum compliance"
+      },
+      {
+        "id": "LABOUR-BHP-COSTS",
+        "rule": "Art. 207 § 2[1] KP strictly forbids charging employees with OHS/BHP costs; free PPE (art. 237[6]) and OHS training during work hours (art. 237[3]) are statutory duties",
+        "reject_if": "marketed as employee wellness/care benefit"
+      },
+      {
+        "id": "LABOUR-WORK-LIFE-BALANCE",
+        "rule": "Remote work request obligation for parents of children up to 4yo (art. 67[19] § 6 KP), flexible work arrangements up to 8yo (art. 188[1] KP) and care leave (art. 173[1] KP)",
+        "reject_if": "mandatory statutory work-life balance provisions presented as proprietary CSR initiatives"
+      }
     ]
   },
   "enforcement_pl": {
@@ -130,6 +176,17 @@
     "uokik_live_cases": ["InPost", "Allegro", "DHL", "DPD", "Bolt", "Tchibo", "Zara"],
     "b2c": "UPNPR",
     "b2b": "UZNK art. 10 and art. 16 advertising",
-    "financial_supervisor": "KNF applying ESA guidance"
+    "financial_supervisor": "KNF applying ESA guidance",
+    "pip_enforcement": {
+      "act": "Kodeks pracy (Dz.U. 2023 poz. 1465 ze zm.)",
+      "authority": "Panstwowa Inspekcja Pracy (PIP)",
+      "fines_misdemeanors": "1 000 PLN to 30 000 PLN / 45 000 PLN (art. 281-283 KP)",
+      "impact_on_esg": "Documented labour violations dismantle social/ethical claims in ESRS S1 and CSRD"
+    },
+    "whistleblower_enforcement": {
+      "act": "Ustawa o ochronie sygnalistów (Dz.U. 2024 poz. 928)",
+      "external_channels": ["Prezes UOKiK (consumer protection)", "KNF (financial markets)", "GIOS/WIOS (environment)", "RPO"],
+      "penalties_for_retaliation_or_obstruction": "fine, restriction of liberty or imprisonment up to 2-3 years (art. 54-55)"
+    }
   }
 }

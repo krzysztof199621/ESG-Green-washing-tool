@@ -366,6 +366,48 @@ def analyze_text(text: str, filename: str = "") -> dict:
             )
         )
 
+    # --- 10a-S Social washing: Labour Code statutory obligations marketed as CSR benefits ---
+    labour_pats = [
+        (
+            r"(równe\s+wynagrodzeni\w*|jednakow\w+\s+płac\w*|brak\s+luki\s+płacowej|equal\s+pay).{0,80}?(kobiety|kobiet\w*|mężczyzn|na\s+tych\s+samych\s+stanowiskach|tożsamych\s+obowiązk)",
+            "Równość płac na tożsamych stanowiskach (art. 18³c KP)",
+            "Art. 18³c § 1 KP gwarantuje ustawowe prawo do jednakowego wynagrodzenia za jednakową pracę. Prezentowanie tego jako wyróżnika CSR/ESG narusza pkt 10a ECGT.",
+            "Wskaż certyfikowany audyt skorygowanej luki płacowej (adjusted GPG) w całej organizacji, a nie zwykłe przestrzeganie art. 18³c KP.",
+        ),
+        (
+            r"(brak\s+umów\s+śmieciowych|nie\s+stosujemy\s+śmieciówek|100\s*%\s*(?:umów\s+o\s+pracę|zatrudnionych\s+na\s+etacie)|tylko\s+legalne\s+umowy)",
+            "Zatrudnienie na umowę o pracę (art. 22 KP)",
+            "Zgodnie z art. 22 § 1² KP zastępowanie umów o pracę umowami cywilnoprawnymi jest ustawowo zakazane i stanowi wykroczenie (art. 281 § 1 pkt 1 KP).",
+            "Nie przedstawiaj legalnej formy zatrudnienia jako przewagi etycznej w materiałach CSR/ESG.",
+        ),
+        (
+            r"(darmow\w+|bezpłatn\w+|zapewniamy).{0,60}?(szkolenia\s+bhp|odzież\s+robocz\w*|środki\s+ochrony\s+indywidualnej|badania\s+wstępne)",
+            "Bezpłatne BHP i odzież ochronna (art. 207 i 237⁶ KP)",
+            "Art. 207 § 2¹ KP bezwzględnie zabrania obciążania pracowników kosztami BHP. Odzież ochronna i szkolenia są darmowe z mocy prawa.",
+            "Usuń twierdzenie sugerujące, że realizacja podstawowego wymogu BHP jest benefitem pracowniczym.",
+        ),
+        (
+            r"(wspieramy\s+rodziców|program\s+(?:dla\s+)?rodziców).{0,80}?(praca\s+zdalna\s+dla\s+(?:matek|mam|rodziców)|elastyczn\w+\s+(?:czas|grafik|organizacj\w+)\s+dla\s+rodziców)",
+            "Elastyczność i praca zdalna dla rodziców (art. 67¹⁹ § 6 i 188¹ KP)",
+            "Obowiązek uwzględnienia pracy zdalnej dla rodziców dzieci do 4 lat (art. 67¹⁹ § 6 KP) oraz prawo do wniosku o elastyczną organizację do lat 8 (art. 188¹ KP) to wymogi prawa.",
+            "Przedstawiaj jako benefit CSR wyłącznie programy wykraczające poza kodeks (np. żłobki zakładowe, dodatkowe płatne dni wolne, 35-godzinny tydzień pracy).",
+        ),
+    ]
+    for pat, title, msg, adv in labour_pats:
+        for m in _search(pat, text):
+            add(
+                Finding(
+                    rule_id="ECGT-10a-LABOUR",
+                    code="10a-S",
+                    title=f"Social Washing: {title}",
+                    severity="high",
+                    message=msg,
+                    snippet=_snip(text, m.start(), m.end(), 130),
+                    advice=adv,
+                    source="ECGT 10a · Kodeks pracy (Dz.U. 2023 poz. 1465) · UPNPR art. 5",
+                )
+            )
+
     # QR / www as only specification
     for m in _search(r"(szczegóły na (?:stronie|www)|więcej na|zeskanuj kod qr|qr kod)", text):
         win = _window(text, m.start(), m.end(), 200)
@@ -510,6 +552,8 @@ def _detect_sectors(text: str) -> list[str]:
         found.append("textiles")
     if re.search(r"budyn|deweloper|breeam|leed|epbd|nieruchom|beton|epd", t):
         found.append("construction")
+    if re.search(r"pracownik|pracodawc|zatrudnieni|bhp|płac\w+|wynagrodzen|kodeks\s+pracy|kadrow|employer branding|równe płace", t):
+        found.append("social_washing")
     return found
 
 

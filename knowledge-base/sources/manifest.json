@@ -225,6 +225,29 @@
       "urls": [
         "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32024L1275"
       ]
+    },
+    {
+      "id": "sygnalisci",
+      "title": "Ustawa o ochronie sygnalistów (Dz.U. z 2024 r. poz. 928)",
+      "kind": "pl_law",
+      "sector": "horyzontalne",
+      "note": "Wdrożenie dyrektywy (UE) 2019/1937; art. 3: ochrona środowiska, ochrona konsumentów, rynki finansowe, bezpieczeństwo produktów; art. 16: wyłączenie odpowiedzialności za ujawnienie tajemnicy przedsiębiorstwa; art. 19-20: bezwzględna nieważność klauzul odwetowych i umownych zakazów zgłoszeń (NDA)",
+      "urls": [
+        "https://dziennikustaw.gov.pl/DU/2024/928",
+        "https://dziennikustaw.gov.pl/D2024000092801.pdf",
+        "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000928"
+      ]
+    },
+    {
+      "id": "kodeks_pracy",
+      "title": "Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy (t.j. Dz.U. z 2023 r. poz. 1465 ze zm.)",
+      "kind": "pl_law",
+      "sector": "social_esg",
+      "note": "Podstawa prawna filaru S (Social) w ESG oraz wzorzec dla czarnej listy ECGT pkt 10a (zakaz przedstawiania obowiązków ustawowych z zakresu BHP, równego wynagrodzenia i praw pracowniczych jako dobrowolnych przewag CSR). Art. 18[3a]-[3c] (równe traktowanie i równość płac), art. 22 (stosunek pracy vs śmieciówki), art. 67[19] i 188[1] (praca zdalna i elastyczność rodzicielska), art. 94[3] (mobbing), art. 207-237 (bezwzględne darmowe BHP), art. 281-283 (wykroczenia i sankcje).",
+      "urls": [
+        "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141",
+        "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU19740240141/U/D19740141Lj.pdf"
+      ]
     }
   ]
 }

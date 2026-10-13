@@ -55,7 +55,31 @@ To jest ścieżka pozbawiona „przeciętnego konsumenta” z UPNPR: konkurent m
 
 Art. 16: czyn nieuczciwej konkurencji w reklamie m.in. gdy reklama jest sprzeczna z prawem/dobrymi obyczajami albo **wprowadza klienta w błąd** i może wpłynąć na decyzję. Zielona reklama B2B (oferta do detalisty, targi, katalog) idzie tą ścieżką równolegle do UPNPR.
 
-## 4. Wspólny test praktyczny (horyzontalny)
+## 4. Ustawa o ochronie sygnalistów (Dz.U. z 2024 r. poz. 928)
+
+**Relacja:** Wewnętrzny i zewnętrzny wektor detekcji naruszeń (pracownicy, wykonawcy, agencje PR, dostawcy).  
+**Źródło:** `sygnalisci.pdf` = `D20240928L.pdf` (17 s.); wyciąg `extracts/D20240928L.txt`. Wdrożenie dyrektywy 2019/1937. Obowiązuje od 25.09.2024 r. (procedury wewnętrzne i ochrona) oraz 25.12.2024 r. (zgłoszenia zewnętrzne).
+
+Ustawa stanowi rewolucję w wykrywaniu greenwashingu, ponieważ przełamuje korporacyjną barierę poufności:
+
+1. **Zakres przedmiotowy naruszeń (art. 3 ust. 1):**
+   - **Ochrona środowiska (pkt 7):** fałszowanie danych emisyjnych, zrzutów zanieczyszczeń, deklaracji EPD, brak należytej staranności (EUDR).
+   - **Ochrona konsumentów (pkt 12):** nieuczciwe praktyki rynkowe z art. 5–6 UPNPR, wprowadzające w błąd deklaracje eko, greenlighting, bezprawne znaki jakości (art. 7 pkt 2 UPNPR), offsety sprzedawane jako neutralność produktu (ECGT 4c).
+   - **Usługi i rynki finansowe (pkt 3):** greenwashing w klasyfikacji SFDR (art. 8 vs 9), naruszenia Taksonomii, niespełnianie progów ESMA dla funduszy ESG.
+   - **Bezpieczeństwo produktów i zgodność z wymogami (pkt 5):** wymogi ekoprojektu (ESPR), paszporty produktów (DPP), parametry wyrobów budowlanych (CPR).
+2. **Zniesienie tajemnicy przedsiębiorstwa (art. 16):**
+   - Sygnalista ujawniający rozbieżność między kampanią marketingową a rzeczywistymi danymi produkcyjnymi/LCA **nie ponosi odpowiedzialności** za naruszenie dóbr osobistych, praw autorskich ani **tajemnicy przedsiębiorstwa**, jeśli miał uzasadnione podstawy sądzić, że ujawnienie jest niezbędne.
+3. **Bezwzględna nieważność klauzul NDA (art. 19 i 20):**
+   - Wszelkie klauzule w umowach o pracę, kontraktach B2B, umowach z agencjami reklamowymi czy umowach NDA zakazujące lub ograniczające dokonywanie zgłoszeń są **z mocy prawa nieważne**.
+4. **Kanał zgłoszeń zewnętrznych do Prezesa UOKiK i KNF (art. 30–34):**
+   - Od 25 grudnia 2024 r. Prezes UOKiK przyjmuje zgłoszenia zewnętrzne sygnalistów w sprawach ochrony konsumentów. Sygnalista może zgłosić naruszenie bezpośrednio do UOKiK z pominięciem drogi wewnętrznej (art. 30 ust. 1).
+5. **Sankcje karne za odwet i blokowanie zgłoszeń (art. 54–55):**
+   - Próba blokowania zgłoszenia: do roku (lub do 3 lat przy groźbie/przemocy).
+   - Działania odwetowe (zwolnienie, degradacja, zerwanie kontraktu z agencją): kara do 2 lat pozbawienia wolności (do 3 lat przy uporczywości).
+
+Szczegółowa analiza: `12_sygnalisci_whistleblowing.md`.
+
+## 5. Wspólny test praktyczny (horyzontalny)
 
 Przed publikacją komunikatu ESG zadaj:
 
@@ -64,7 +88,8 @@ Przed publikacją komunikatu ESG zadaj:
 3. **Czy korzyść jest istotna**, czy to cecha prawnie obowiązkowa albo marginalna?
 4. **Czy jest certyfikat** i czy mamy prawo go używać (UPNPR art. 7 pkt 2)?
 5. **Czy pominięto informacje**, bez których twierdzenie zmienia znaczenie (art. 6)?
-6. **Kto egzekwuje?** UOKiK (zbiorowe), sąd cywilny (B2B), KNF (finanse).
+6. **Kto egzekwuje?** UOKiK (zbiorowe + zgłoszenia zewnętrzne sygnalistów), sąd cywilny (B2B), KNF (finanse + sygnaliści), GIOŚ (środowisko).
 7. **Czy wizualia niosą claim?** Liść, zieleń, planeta — FAQ Komisji i UOKiK (Tchibo) traktują je jak dorozumiane twierdzenie.
+8. **Czy twierdzenie przetrwa test sygnalisty?** Czy dane marketingowe są w 100% spójne z dokumentacją wewnątrz organizacji (BOM, ERP, audyty środowiskowe)? Każdy pracownik i agencja PR ma ustawowe prawo zgłosić fikcję bezpośrednio do UOKiK (art. 16, 19, 30 ustawy o sygnalistach).
 
 Szczegóły praktyki i kalendarza: `11_praktyka_nadzorcza.md`. Wytyczne Komisji UCPD 2021 § 4.1.1 (`extracts/ucpd_guidance_2021.txt`) nadal obowiązują do oceny art. 6–7 UCPD, zanim Komisja zaktualizuje notice po okresie stosowania ECGT.
