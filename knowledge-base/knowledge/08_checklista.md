@@ -31,6 +31,8 @@ Odrzuć natychmiast, jeśli TAK:
 - [ ] Czy nie pominięto informacji, która zmienia znaczenie (art. 6)?
 - [ ] Czy certyfikat/znak jest używany zgodnie z uprawnieniem (art. 7 pkt 2)?
 - [ ] Czy przeciętny konsument z tego kanału zrozumie zakres?
+- [ ] Czy hasło samo tworzy fałszywe wrażenie? Wtedy brak miejsca i odesłanie nie są obroną (C-611/14 = art. 5). Przy samym pominięciu (art. 6) sprawdzić, czy doprecyzowanie jest obok i czytelne.
+- [ ] Czy dokument sam coś porównuje? Baza porównania, różnice i identyfikacja obiektów mają być w tej reklamie (C-159/09, C-562/15, UZNK art. 16).
 
 ## Krok 3 — dowód
 
@@ -52,6 +54,7 @@ Wzorzec jakości (projekt Green Claims art. 3, nieobowiązkowy): nauka + LCA/ist
 **Transport:** liczba GHG = ISO 14083 / CountEmissionsEU; flota ≠ last mile.  
 **Moda:** % włókna + certyfikat partii; CSDDD jeśli w zakresie; DPP.  
 **Budownictwo:** EPBD art. 11 ≠ BREEAM/LEED; materiał → EPD.  
+**Pojazd:** homologacja i „Euro” nie zastępują wyniku w zwykłej jeździe. Otwierać `14_orzecznictwo_tsue.md` § 7 tylko, gdy materiał dotyczy pojazdu, emisji spalin albo aktualizacji oprogramowania.  
 **Praca / Social Washing (Filar S):** Kodeks pracy (Dz.U. 2023 poz. 1465); zakaz traktowania obowiązków ustawowych jako CSR (ECGT 10a); dodany test additionality (np. niezależny audyt skorygowanej luki płacowej, certyfikat SA8000, 35h tydzień pracy); zgodność z ESRS S1 i CSDDD.
 
 ## Krok 5 — spójność kanałów
@@ -59,7 +62,7 @@ Wzorzec jakości (projekt Green Claims art. 3, nieobowiązkowy): nauka + LCA/ist
 - [ ] Front opakowania = tył = www = ads = raport ESG = wypowiedź CEO
 - [ ] Nazwa produktu/funduszu = treść dokumentów
 - [ ] Wizualia (liść, Ziemia, rower, wiatrak, zieleń tła) nie rozszerzają claimu ponad tekst — UOKiK: „nie kieruj się wyłącznie oprawą graficzną”
-- [ ] Specyfikacja jest **w tym samym kanale** co hasło (FAQ ECGT); QR / „szczegóły na www” nie ratuje ogólnego 4a
+- [ ] Specyfikacja jest **w tym samym kanale** co hasło (FAQ ECGT); QR / „szczegóły na www” nie ratuje ogólnego 4a. Przy art. 5 UPNPR odesłanie też nie poprawia hasła, które samo wprowadza w błąd (C-611/14). Granice: `14_orzecznictwo_tsue.md`
 - [ ] Old stock: od 27.09.2026 korekta online natychmiast; fizyczne opakowania — naklejka/POS, ewidencja, **bez niszczenia** (CPC)
 
 ## Krok 5a — test sygnalisty / whistleblowingu (Dz.U. 2024 poz. 928)

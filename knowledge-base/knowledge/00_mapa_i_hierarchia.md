@@ -48,7 +48,7 @@ W praktyce narzędzia anti-greenwashing od 27 września 2026 opierają się na *
 | Data | Co obowiązuje w narzędziu |
 |---|---|
 | 25.09.2024 / 25.12.2024 | **Ustawa o ochronie sygnalistów (Dz.U. 2024 poz. 928)** w pełnej mocy: kanały wewnętrzne (od IX 2024) oraz zewnętrzne do UOKiK/KNF/GIOŚ (od XII 2024). Przełamanie tajemnicy przedsiębiorstwa (art. 16) i nieważność NDA (art. 19–20) w sprawach greenwashingu/ESG. |
-| już teraz | UPNPR + UOKiK art. 24/106. Zarzuty: kurierzy (VII 2025), Bolt/Tchibo/Zara (I 2026). |
+| już teraz | UPNPR + UOKiK art. 24/106. Zarzuty: kurierzy (VII 2025), Bolt/Tchibo/Zara (I 2026). Wykładnia TSUE stosowana w Polsce: `14_orzecznictwo_tsue.md`. |
 | 27.09.2026 | **Stosowanie ECGT w UE** (art. 4 dyrektywy). FAQ Komisji + CPC old stock. |
 | 27.09.2027 | Wejście w życie noweli PL wg tekstu Sejmu (druk Senatu **825**, Art. 3). Senat: komisje od 9.09.2026; **nie ogłoszono** w Dz.U. |
 

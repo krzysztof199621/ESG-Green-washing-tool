@@ -74,6 +74,10 @@ Pobrane z linków w `Przepisy.docx` oraz źródeł uzupełniających (ISAP PDF-y
 | breeam | BREEAM NC v7 downloads + FAQ v7.1 | `breeam.html`, `breeam_v7_faqs.html` | Pełny technical manual za loginem BRE; FAQ publiczne |
 | leed | LEED v4.1 BD+C rating system | `leed_v41_bdc.pdf` (170 s.) + `leed.html` | Publiczny PDF USGBC (VII 2020); strona `/credits` nadal JS |
 
+## Orzecznictwo
+
+Wyroki TSUE stosowane wobec firm w Polsce są w `knowledge/14_orzecznictwo_tsue.md` (21.10.2026). PDF-ów wyroków nie ma w `originals/`. Sentencje: EUR-Lex, numery CELEX w notatce.
+
 ## Czego nie udało się pobrać w pełni
 
 - Serwer orka.sejm.gov.pl (redirect loop) — treść uchwalona jest w druku Senatu `senat_825.pdf`.

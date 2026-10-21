@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<title>Orzeczenia TSUE przydatne przy greenwashingu — zestawienie do oceny</title>
+<style>
+  @page {
+    size: A4;
+    margin: 0 0 12mm 0;
+    @bottom-left {
+      content: "ESG Institute  ·  zestawienie do oceny  ·  do bazy wiedzy nic nie dopisano";
+      font-family: "Segoe UI", Calibri, sans-serif;
+      font-size: 8pt;
+      color: #5E6E76;
+      margin-left: 15mm;
+      padding-top: 2.5mm;
+      border-top: 0.6pt solid #D5DFDA;
+    }
+    @bottom-center {
+      content: "";
+      padding-top: 2.5mm;
+      border-top: 0.6pt solid #D5DFDA;
+    }
+    @bottom-right {
+      content: counter(page);
+      font-family: "Segoe UI", Calibri, sans-serif;
+      font-size: 8.5pt;
+      color: #08181F;
+      margin-right: 15mm;
+      padding-top: 2.5mm;
+      border-top: 0.6pt solid #D5DFDA;
+    }
+  }
+  * { box-sizing: border-box; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: "Segoe UI", Calibri, sans-serif;
+    color: #1A2B33;
+    font-size: 10.4pt;
+    line-height: 1.48;
+    background: #fff;
+  }
+  .hero {
+    background: #08181F;
+    color: #F4F7F5;
+    padding: 16mm 15mm 11mm;
+  }
+  .kicker {
+    font-size: 8.2pt;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #9FB8AE;
+    margin: 0 0 8px;
+  }
+  h1 {
+    font-family: "Palatino Linotype", Palatino, Georgia, serif;
+    font-weight: 400;
+    font-size: 26pt;
+    line-height: 1.12;
+    margin: 0 0 8px;
+    letter-spacing: -0.015em;
+  }
+  .lede {
+    margin: 0;
+    max-width: 168mm;
+    font-size: 11pt;
+    line-height: 1.45;
+    color: #D5E2DC;
+  }
+  .meta-row {
+    display: flex;
+    gap: 18px;
+    margin-top: 14px;
+    padding-top: 10px;
+    border-top: 0.6pt solid rgba(255,255,255,0.16);
+    font-size: 8.4pt;
+    color: #C5D5CE;
+  }
+  .meta-row strong { display: block; color: #fff; font-weight: 650; font-size: 9.2pt; margin-bottom: 1px; }
+  .wrap { padding: 7mm 15mm 5mm; }
+  h2 {
+    font-family: "Palatino Linotype", Palatino, Georgia, serif;
+    font-weight: 400;
+    font-size: 16.5pt;
+    line-height: 1.2;
+    margin: 0 0 4px;
+    color: #08181F;
+  }
+  h2, h3, .section-lead { break-inside: avoid; break-after: avoid; }
+  h2 .num {
+    display: block;
+    font-family: "Segoe UI", Calibri, sans-serif;
+    font-size: 8pt;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #1F6B4A;
+    margin-bottom: 3px;
+  }
+  .section-lead { margin: 0 0 8px; color: #3E4C54; }
+  h3 {
+    font-family: "Palatino Linotype", Palatino, Georgia, serif;
+    font-weight: 400;
+    font-size: 13pt;
+    line-height: 1.25;
+    margin: 0 0 4px;
+    color: #08181F;
+  }
+  p { margin: 0 0 6px; }
+  tr, .callout { break-inside: avoid; }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0 8px; }
+  th {
+    text-align: left;
+    font-size: 7.6pt;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #5E6E76;
+    font-weight: 650;
+    border-bottom: 1.2pt solid #08181F;
+    padding: 0 8px 4px 0;
+    vertical-align: bottom;
+  }
+  td {
+    border-bottom: 0.4pt solid #E1E8E4;
+    padding: 5px 8px 5px 0;
+    vertical-align: top;
+    font-size: 9pt;
+    line-height: 1.35;
+  }
+  td.sig { font-weight: 650; color: #08181F; white-space: nowrap; }
+  .card {
+    break-inside: avoid;
+    border: 0.6pt solid #E1E8E4;
+    border-left: 3.5pt solid #1F6B4A;
+    padding: 8px 11px 4px;
+    margin: 0 0 8px;
+    background: #fff;
+  }
+  .card.short { border-left-color: #8A5A12; }
+  .card.long { break-inside: auto; }
+  .card.no { border-left-color: #8A3A32; }
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: baseline;
+    margin-bottom: 3px;
+  }
+  .sigline { font-size: 8pt; color: #5E6E76; text-align: right; }
+  .badge {
+    display: inline-block;
+    font-size: 7.6pt;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 1px 6px 2px;
+    border-radius: 2px;
+  }
+  .badge.add { background: #E5F3EB; color: #145C38; }
+  .badge.short { background: #F8F1E4; color: #6E4710; }
+  .badge.no { background: #F8EBE8; color: #7A332C; }
+  .label {
+    break-after: avoid;
+    font-size: 7.6pt;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #1F6B4A;
+    font-weight: 700;
+    margin: 6px 0 1px;
+  }
+  .card.short .label { color: #8A5A12; }
+  .card.no .label { color: #8A3A32; }
+  ul { margin: 2px 0 6px; padding-left: 16px; }
+  li { margin: 0 0 3px; }
+  .callout {
+    break-inside: avoid;
+    background: #F4F7F5;
+    border-top: 2.5pt solid #08181F;
+    padding: 8px 11px 4px;
+    margin: 0 0 8px;
+  }
+  .callout strong.t {
+    font-family: "Palatino Linotype", Palatino, Georgia, serif;
+    font-size: 12pt;
+    font-weight: 400;
+    display: block;
+    margin-bottom: 3px;
+  }
+  .src { font-size: 8.6pt; line-height: 1.4; color: #3E4C54; }
+  .src td { font-size: 8.3pt; padding-top: 3px; padding-bottom: 3px; }
+  .keep { break-inside: avoid; }
+</style>
+</head>
+<body>
+<header class="hero">
+  <p class="kicker">ESG Institute · baza wiedzy raportów · 21 października 2026</p>
+  <h1>Orzeczenia TSUE przydatne przy greenwashingu</h1>
+  <p class="lede">Zestawienie do decyzji, które wyroki wpisać do bazy, z której powstają audyty. Trybunał nie orzekał o słowie „greenwashing”, o „neutralności klimatycznej” ani o dyrektywie 2024/825. Ma wyroki, które doprecyzowują testy już stosowane w instrukcji: wrażenie ogólne, ten sam kanał, porównanie, metodykę pomiaru i granicę między etykietą sektorową a dyrektywą o nieuczciwych praktykach.</p>
+  <div class="meta-row">
+    <div><strong>6 notatek do rdzenia</strong>etykieta, metodyka, opakowanie, prezentacja ceny, porównanie, test wprowadzenia w błąd</div>
+    <div><strong>2 skróty</strong>linia emisyjna oraz ukryta reklama redakcyjna</div>
+    <div><strong>Poza bazą</strong>taksonomia, skarga klimatyczna, sprawy krajowe i wyroki o innej tezie</div>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="section first">
+    <h2><span class="num">Decyzja</span>Co proponuję wpisać</h2>
+    <p class="section-lead">Rekomendacja jest robocza. Sentencje spraw oznaczonych „dodać” i „skrót” sprawdzono w tekście wyroku albo w urzędowym streszczeniu sentencji w Dzienniku Urzędowym. Sprawy krajowe na końcu opisano tylko na poziomie komunikatu, bez zdania po zdaniu z sentencji.</p>
+    <table>
+      <thead>
+        <tr>
+          <th style="width:23%">Sygnatura</th>
+          <th style="width:16%">Data</th>
+          <th>Teza</th>
+          <th style="width:18%">Werdykt</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="sig">C-632/16 Dyson</td>
+          <td>25 lipca 2018</td>
+          <td>Własne symbole obok etykiety energetycznej. Pominięcie, którego nie wymaga etykieta sektorowa, nie jest pominięciem z art. 7 UCPD.</td>
+          <td><span class="badge add">Dodać</span></td>
+        </tr>
+        <tr>
+          <td class="sig">C-44/16 P oraz T-544/13 RENV</td>
+          <td>11 maja 2017 i 8 listopada 2018</td>
+          <td>Metoda ma mierzyć zużycie w warunkach zbliżonych do rzeczywistego używania. Test pustego pojemnika wprowadzał w błąd.</td>
+          <td><span class="badge add">Dodać</span></td>
+        </tr>
+        <tr>
+          <td class="sig">C-195/14 Teekanne</td>
+          <td>4 czerwca 2015</td>
+          <td>Obraz i hasło na froncie. Prawdziwa lista składników może nie odwrócić fałszywego wrażenia.</td>
+          <td><span class="badge add">Dodać</span></td>
+        </tr>
+        <tr>
+          <td class="sig">C-611/14 Canal Digital</td>
+          <td>26 października 2016</td>
+          <td>Wyróżniony składnik przekazu. Przy działaniu z art. 6 brak miejsca nie jest obroną. Przy pominięciu z art. 7 sąd waży nośnik.</td>
+          <td><span class="badge add">Dodać</span></td>
+        </tr>
+        <tr>
+          <td class="sig">C-159/09 Lidl i C-562/15 Carrefour</td>
+          <td>18 listopada 2010 i 8 lutego 2017</td>
+          <td>Porównanie: reprezentatywny wybór, różnice widoczne w reklamie, podstawa porównania w samej reklamie.</td>
+          <td><span class="badge add">Dodać</span></td>
+        </tr>
+        <tr>
+          <td class="sig">C-435/11 CHS i C-281/12 Trento</td>
+          <td>19 września 2013 i 19 grudnia 2013</td>
+          <td>Staranność nie sanuje fałszu. Decyzja transakcyjna obejmuje też wejście do sklepu, nie tylko zakup.</td>
+          <td><span class="badge add">Dodać</span></td>
+        </tr>
+        <tr>
+          <td class="sig">C-693/18, C-128/20, C-134/20, C-145/20, C-873/19, C-100/21, C-666/23</td>
+          <td>2020–2025</td>
+          <td>Fałszywa charakterystyka emisyjna, homologacja, odszkodowanie od producenta. Jedna notatka, nie siedem.</td>
+          <td><span class="badge short">Skrót</span></td>
+        </tr>
+        <tr>
+          <td class="sig">C-371/20 Peek &amp; Cloppenburg</td>
+          <td>2 września 2021</td>
+          <td>Opłacona treść redakcyjna, także świadczeniem niepieniężnym. Punkt 11 załącznika I.</td>
+          <td><span class="badge short">Skrót</span></td>
+        </tr>
+        <tr>
+          <td class="sig">T-625/22 i T-579/22</td>
+          <td>10 września 2025</td>
+          <td>Legalność kryteriów taksonomii. Skargi oddalone. To nie jest wykładnia reklamy.</td>
+          <td><span class="badge no">Pominąć</span></td>
+        </tr>
+        <tr>
+          <td class="sig">C-565/19 P Carvalho</td>
+          <td>25 marca 2021</td>
+          <td>Legitymacja do skargi klimatycznej. Brak związku z komunikacją przedsiębiorcy.</td>
+          <td><span class="badge no">Pominąć</span></td>
+        </tr>
+        <tr>
+          <td class="sig">C-363/19, C-122/10, C-497/17, C-54/17</td>
+          <td>2011–2020</td>
+          <td>Oświadczenia zdrowotne, cena „od”, logo ekologiczne na uchylonym akcie, karty SIM. Teza albo jest już w dyrektywie, albo łatwo ją źle przenieść.</td>
+          <td><span class="badge no">Pominąć</span></td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="callout">
+      <strong class="t">Gdzie to wstawić, jeśli zestawienie zostanie przyjęte</strong>
+      <p>Jedna nowa sekcja „Orzecznictwo” w <em>01_horyzontalne.md</em>: Dyson o etykiecie, Canal Digital, para CHS i Trento, Peek. Metodyka Dysona dodatkowo przy liczbach w checkliście. Teekanne w module FMCG, ze zdaniem, że poza żywnością to analogia. Lidl i Carrefour przy UZNK art. 16 i przy rozdziale porównań w instrukcji. Linię emisyjną trzymać jako osobny akapit włączany tylko wtedy, gdy materiał mówi o emisjach, normie albo homologacji. Do modułu transportu (CountEmissionsEU) jej nie wkładać.</p>
+    </div>
+  </section>
+</div>
+
+<section class="section">
+  <div class="wrap">
+    <h2><span class="num">01</span>Luka, którą baza i tak musi znać</h2>
+    <p>Na 21 października 2026 r. nie ma wyroku Trybunału wykładającego dyrektywę 2024/825. Dyrektywa stosuje się od 27 września 2026 r. Punkty czarnej listy — ogólne hasło środowiskowe bez uznanej wysokiej efektywności, twierdzenie o całości przy cesze części, neutralność oparta na kompensacji, własny znak, przyszła neutralność bez planu i weryfikacji — raport ocenia z tekstu dyrektywy, projektu transpozycji i praktyki UOKiK. Sygnatury TSUE do tych punktów nie ma i nie należy jej dopisywać.</p>
+    <p>Dwa wyroki, które w obiegu uchodzą za „sprawy greenwashingowe”, nie pochodzą z Luksemburga. Niemiecki Bundesgerichtshof, I ZR 98/23, 27 czerwca 2024 r., uznał reklamę „klimaneutral” za wprowadzającą w błąd, gdy sama reklama nie wyjaśnia, czy chodzi o redukcję, czy o kompensację; redukcja ma pierwszeństwo, a wyjaśnienie poza reklamą nie wystarcza. Sąd w Paryżu, 23 października 2025 r., TotalEnergies, RG 22/02955, zakwestionował twierdzenia o neutralności węglowej na stronie, na której zawiera się umowy, gdy pominięto istotne ograniczenia scenariusza spółki. To materiał na ewentualny osobny plik „sądy krajowe”. Do rozdziału TSUE ich nie mieszać. Sentencji tych dwóch spraw nie sprawdzano tu zdanie po zdaniu.</p>
+    <div class="callout keep">
+      <strong class="t">Czarna lista nie potrzebuje osobnego wyroku</strong>
+      <p>Motyw 17 i art. 5 ust. 5 dyrektywy 2005/29 stanowią, że praktyki z załącznika I są nieuczciwe bez indywidualnej oceny z art. 5–9. Trybunał to potwierdził, między innymi w C-310/15, pkt 29, i w C-54/17 oraz C-55/17, pkt 40. Fakty tamtych spraw to laptop z preinstalowanym oprogramowaniem i karty SIM. Do bazy wystarczy tekst dyrektywy. Po transpozycji ECGT punkty 2a, 4a–4c i 23d–23j działają w tym trybie: bez badania, czy przeciętny konsument podjął inną decyzję. Przed transpozycją te same fakty idą przez art. 5 i 6 ustawy o przeciwdziałaniu nieuczciwym praktykom rynkowym, gdzie decyzja jest elementem przepisu.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2><span class="num">02</span>Wpis do rdzenia</h2>
+    <p class="section-lead">Sześć notatek. Każda zmienia jakieś zdanie, które raport już dziś formułuje, i daje mu sygnaturę, której baza obecnie nie ma.</p>
+
+    <article class="card">
+      <div class="card-top">
+        <span class="badge add">Dodać · pełna notatka</span>
+        <span class="sigline">C-632/16 · Trybunał, czwarta izba · 25 lipca 2018 · CELEX 62016CJ0632</span>
+      </div>
+      <h3>Dyson przeciwko BSH. Obca plakietka obok klasy energetycznej</h3>
+      <p>Jedyny wyrok Trybunału wprost o informacji o zużyciu energii i o symbolach dokładanych obok urzędowej etykiety. Wytyczne Komisji do dyrektywy 2005/29 z 2021 r., już obecne w bazie, cytują go przy twierdzeniach środowiskowych.</p>
+      <p class="label">Stan</p>
+      <p>BSH umieszczało na opakowaniu odkurzacza, obok etykiety energetycznej, własne oznaczenia: zielone „Energy A”, pomarańczowe „AAAA Best rated: A in all classes” i czarne „class A Performance”. Dyson zarzucał też, że etykieta milczy o warunkach testu.</p>
+      <p class="label">Sentencja, w skrócie</p>
+      <ul>
+        <li>Niepodanie warunków testu, których unijna etykieta energetyczna nie wymaga, nie jest wprowadzającym w błąd pominięciem z art. 7 dyrektywy 2005/29.</li>
+        <li>Symbole przypominające etykietę, umieszczone poza nią, są zakazane, jeżeli mogą wprowadzić użytkownika w błąd co do zużycia energii w trakcie używania. Ocenia to sąd krajowy, z perspektywy przeciętnego użytkownika, który jest odpowiednio poinformowany, uważny i ostrożny.</li>
+      </ul>
+      <p class="label">Zdanie do raportu</p>
+      <p>Własna plakietka „A”, „eko” albo „best rated” obok klasy energetycznej, EU Ecolabel lub znaku organicznego jest osobnym twierdzeniem. Urzędowa etykieta jej nie niesie. Jednocześnie raport nie zarzuca pominięcia szczegółu, którego dany akt sektorowy świadomie nie każe drukować na etykiecie. Dyrektywa o nieuczciwych praktykach jest siatką dla twierdzeń poza etykietą.</p>
+    </article>
+
+    <article class="card">
+      <div class="card-top">
+        <span class="badge add">Dodać · pełna notatka</span>
+        <span class="sigline">C-44/16 P · 11 maja 2017 · oraz T-544/13 RENV · Sąd · 8 listopada 2018</span>
+      </div>
+      <h3>Dyson przeciwko Komisji. Pomiar ma oddawać zwykłe używanie</h3>
+      <p>To jedna sprawa w dwóch wyrokach. Trybunał ustalił wykładnię. Sąd, po ponownym rozpoznaniu, unieważnił rozporządzenie.</p>
+      <p class="label">Teza Trybunału</p>
+      <p>Informacja o zużyciu energii „w trakcie używania” jest istotnym elementem dyrektywy 2010/30. Komisja miała obowiązek przyjąć metodę mierzącą efektywność odkurzacza w warunkach możliwie bliskich rzeczywistemu użyciu, przy pojemniku wypełnionym do pewnego poziomu, z zachowaniem rzetelności naukowej wyniku i dokładności informacji. Rozumienie „w trakcie używania” jako zwykłych warunków użytkowania jest zwykłym sensem przepisu. Trybunał uchylił wcześniejszy wyrok Sądu w części i przekazał sprawę z powrotem. Sam rozporządzenia nie unieważnił. CELEX 62016CJ0044, pkt 60–68 i sentencja.</p>
+      <p class="label">Teza Sądu</p>
+      <p>Wyrokiem z 8 listopada 2018 r. Sąd unieważnił rozporządzenie delegowane nr 665/2013 w całości. Test z pustym pojemnikiem nie oddaje warunków zbliżonych do rzeczywistego używania. CELEX 62013TJ0544(01).</p>
+      <p class="label">Zdanie do raportu</p>
+      <p>Liczba liczona na scenariuszu korzystniejszym niż zwykłe użycie — puste stanowisko laboratoryjne, sam cykl homologacyjny, granica „od kołyski do bramy” przy haśle o całym życiu produktu — powtarza błąd, który Sąd uznał za uchylenie istotnego elementu aktu. W raporcie pisać, że jest to ta sama logika metody. Wyrok dotyczy etykiety energetycznej odkurzaczy i kompetencji Komisji. Nie jest zakazem konkretnego firmowego LCA.</p>
+    </article>
+
+    <article class="card">
+      <div class="card-top">
+        <span class="badge add">Dodać · pełna notatka</span>
+        <span class="sigline">C-195/14 · Trybunał · 4 czerwca 2015 · CELEX 62014CJ0195</span>
+      </div>
+      <h3>Teekanne. Front opakowania i lista składników</h3>
+      <p>Podstawa to dyrektywa 2000/13 o etykietowaniu żywności, dziś art. 7 rozporządzenia 1169/2011, które już jest w bazie. To nie jest wyrok z dyrektywy 2005/29. W module spożywczym cytować wprost. Poza żywnością oznaczać jako analogię.</p>
+      <p class="label">Stan i teza</p>
+      <p>Herbata „malina–wanilia” miała na opakowaniu owoce, kwiaty wanilii i napis o naturalnych aromatach. W składzie nie było malin ani wanilii, tylko aromaty o takim smaku. Lista składników była prawdziwa i kompletna. Trybunał orzekł, że etykieta nie może stwarzać wrażenia obecności składnika, którego w produkcie nie ma. Lista składników, choć prawidłowa, może tego wrażenia nie odwrócić. Sąd krajowy ocenia słowa i wizerunki oraz ich miejsce, wielkość, kolor, krój, język, składnię i interpunkcję, z perspektywy przeciętnego konsumenta.</p>
+      <p class="label">Zdanie do raportu</p>
+      <p>Liść, zieleń, planeta i hasło na froncie są twierdzeniem. Dopisek na odwrocie, w składzie albo pod kodem QR nie odwraca wrażenia, które front już wytworzył. To najbliższy wyrok Trybunału do zasad instrukcji „wizualia niosą claim” i „ten sam kanał”.</p>
+    </article>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <article class="card">
+      <div class="card-top">
+        <span class="badge add">Dodać · pełna notatka</span>
+        <span class="sigline">C-611/14 · Trybunał, piąta izba · 26 października 2016 · CELEX 62014CJ0611</span>
+      </div>
+      <h3>Canal Digital. Wyróżniony składnik i granica odesłania</h3>
+      <p>Duńska reklama abonamentu telewizyjnego eksponowała opłatę miesięczną. Opłata półroczna znikała albo schodziła na dalszy plan. Sprawa nie dotyczy środowiska. Teza dotyczy każdego hasła, przy którym jeden element jest duży, a drugi — ten, który zmienia sens — mały.</p>
+      <p class="label">Sentencja, w skrócie</p>
+      <ul>
+        <li>Przy pominięciu z art. 7 sąd uwzględnia kontekst, ograniczenia nośnika oraz to, czy przedsiębiorca realnie udostępnił informację w inny sposób.</li>
+        <li>Przy działaniu z art. 6 praktyka polegająca na rozbiciu ceny i wyróżnieniu jednego składnika jest wprowadzająca w błąd, jeżeli daje przeciętnemu konsumentowi fałszywe wrażenie korzystnej ceny i może skłonić go do innej decyzji. Ograniczenia czasu spotu telewizyjnego nie wchodzą do tej oceny.</li>
+        <li>Wyróżnienie opłaty miesięcznej przy pominięciu lub stonowaniu opłaty półrocznej może być pominięciem, jeżeli wpływa na decyzję. Tu nośnik już się liczy.</li>
+        <li>Podanie wszystkich informacji z art. 7 ust. 4, czyli kompletu wymaganego w zaproszeniu do zakupu, nie wyłącza zarzutu z art. 6 ust. 1 ani z art. 7 ust. 2.</li>
+      </ul>
+      <p class="label">Zdanie do raportu i korekta instrukcji</p>
+      <p>Instrukcja mówi, że dopisek na stronie albo kod QR nie sanuje hasła na opakowaniu. Wyrok jest dokładniejszy i tak należy go wpisać. Hasło, które samo tworzy fałszywe wrażenie — „neutralny klimatycznie”, „w 100% odnawialne”, „klasa A we wszystkich kategoriach” — ocenia się jak działanie. Brak miejsca i odesłanie nie są wtedy obroną. Samo pominięcie doprecyzowania sąd waży razem z nośnikiem i z tym, czy informacja jest obok, czytelna i naprawdę dostępna. Komplet danych obowiązkowych też nie ratuje mylącego układu. W raporcie nie pisać, że Trybunał uznał każdy kod QR za bezskuteczny.</p>
+    </article>
+
+    <article class="card">
+      <div class="card-top">
+        <span class="badge add">Dodać · jedna notatka, dwie sygnatury</span>
+        <span class="sigline">C-159/09 · 18 listopada 2010 · C-562/15 · 8 lutego 2017</span>
+      </div>
+      <h3>Lidl i Carrefour. Reklama porównawcza</h3>
+      <p>Dziś jest to dyrektywa 2006/114 i art. 16 ustawy o zwalczaniu nieuczciwej konkurencji. Lidl zapadł jeszcze na dyrektywie 84/450. Trybunał w sprawie Carrefour potwierdził, że dawne orzecznictwo stosuje się do tekstu z 2006 r. CELEX 62009CJ0159 i 62015CJ0562.</p>
+      <p class="label">Lidl, koszyk produktów</p>
+      <ul>
+        <li>Produkty w porównaniu mogą się różnić pochodzeniem, składem i producentem. Wystarcza, że zaspokajają tę samą potrzebę, czyli są w wystarczającym stopniu wymienne.</li>
+        <li>Reklama wprowadza w błąd, jeżeli istotna część odbiorców może sądzić, że wybrany koszyk reprezentuje ogólny poziom cen reklamującego albo że wszystkie jego produkty są tańsze, a tak nie jest.</li>
+        <li>Przy porównaniu samej ceny wprowadza w błąd także dobór produktów, których różnice istotnie wpływają na wybór przeciętnego konsumenta, jeżeli tych różnic nie widać w reklamie.</li>
+        <li>Sprawdzalność wymaga, aby towary dało się zidentyfikować z informacji zawartej w reklamie.</li>
+      </ul>
+      <p class="label">Carrefour, różny format sklepów</p>
+      <p>Porównanie cen sklepów o większym formacie w sieci reklamującego z cenami mniejszych sklepów konkurencji jest niedozwolone, chyba że w samej reklamie jasno powiedziano, iż porównywane są sklepy o różnym formacie. Sąd krajowy patrzy na przeciętnego konsumenta i na całość elementów reklamy.</p>
+      <p class="label">Zdanie do raportu</p>
+      <p>„30% mniej CO₂ niż produkt konwencjonalny”, „bardziej ekologiczny niż konkurent”, koszyk „nasze bestsellery kontra ich”. W reklamie mają być baza porównania, zakres (jeden aspekt albo całość), różnice, które zmieniają wynik, oraz dane pozwalające zidentyfikować porównywane obiekty. Podstawa asymetrii ma być w tej reklamie, która porównanie ogłasza. Rozdział porównań zostaje wyłącznie przy dokumentach, które same porównują. Instrukcja już tego pilnuje.</p>
+    </article>
+
+    <article class="card">
+      <div class="card-top">
+        <span class="badge add">Dodać · jedna krótka notatka</span>
+        <span class="sigline">C-435/11 · 19 września 2013 · C-281/12 · 19 grudnia 2013</span>
+      </div>
+      <h3>CHS i Trento Sviluppo. Fałsz oraz decyzja konsumenta</h3>
+      <p>Fakty są odległe od środowiska: wyłączność hoteli w katalogu biura podróży oraz informacja o dostępności towaru w supermarkecie. Do bazy wchodzi teza, nie stan faktyczny. Obie tezy są już w ustawie. Sygnatura jest potrzebna, gdy raport ma oprzeć zdanie na wyroku, a nie tylko na artykule.</p>
+      <p class="label">CHS, CELEX 62011CJ0435</p>
+      <p>Katalog podawał wyłączność hoteli, której obiektywnie nie było. Biuro miało umowy i nie wiedziało, że hotele je złamały. Trybunał orzekł: jeżeli praktyka spełnia przesłanki działania wprowadzającego w błąd z art. 6 ust. 1 dyrektywy 2005/29, nie bada się dodatkowo sprzeczności z zawodową starannością. Dobra wiara i dołożenie starań nie sanują nieprawdziwej informacji.</p>
+      <p class="label">Trento Sviluppo, CELEX 62012CJ0281</p>
+      <p>Praktyka jest wprowadzająca w błąd, gdy zawiera nieprawdziwą informację albo może wprowadzić przeciętnego konsumenta w błąd i może skłonić go do decyzji, której inaczej by nie podjął. „Decyzja dotycząca transakcji” obejmuje każdą decyzję bezpośrednio związaną z zakupem, w tym decyzję o wejściu do sklepu. Klient, który na miejscu odkryje prawdę i nie kupi, i tak mógł podjąć objętą ochroną decyzję wcześniej.</p>
+      <p class="label">Zdanie do raportu</p>
+      <p>Polityka ESG, audyt wewnętrzny i brak zamiaru nie zamykają zarzutu z art. 5 ustawy, jeżeli twierdzenie jest nieprawdziwe albo zwodnicze. Zgadza się to z definicją Europejskich Urzędów Nadzoru, w której greenwashing może być niezamierzony. Wejście na landing, kliknięcie oferty „zielonej” i wizyta w sklepie po hasło z witryny są decyzją. Raport nie musi wykazywać, że ktoś domknął zakup.</p>
+    </article>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2><span class="num">03</span>Skrót, nie rozdział</h2>
+    <p class="section-lead">Dwie notatki włączane warunkowo. W zwykłym audycie opakowania, strony sklepu albo raportu ESG ich nie cytować.</p>
+
+    <article class="card short">
+      <div class="card-top">
+        <span class="badge short">Skrót · przy treściach redakcyjnych</span>
+        <span class="sigline">C-371/20 · Trybunał, szósta izba · 2 września 2021 · CELEX 62020CJ0371</span>
+      </div>
+      <h3>Peek &amp; Cloppenburg. Artykuł, który jest reklamą</h3>
+      <p>Punkt 11 załącznika I dyrektywy 2005/29 zakazuje wykorzystywania treści redakcyjnej do promocji produktu, jeżeli przedsiębiorca za tę promocję zapłacił, a nie wynika to jasno z treści. Zakaz działa w każdych okolicznościach. Obowiązuje dziś, bez czekania na dyrektywę 2024/825.</p>
+      <p>„Zapłata” obejmuje świadczenie o wartości majątkowej, pieniężne i inne, jeżeli jest wyraźnie związane z publikacją. Nieodpłatne udostępnienie zdjęć sklepu i towaru, chronionych prawem autorskim, może być taką zapłatą. Przepisu nie ogranicza próg kwotowy ani udział w koszcie kampanii. Związek świadczenia z publikacją ustala sąd krajowy. Niezależny materiał redakcyjny, przy którym takiego świadczenia nie ma, poza punkt 11 nie wchodzi.</p>
+      <p class="label">Zdanie do raportu</p>
+      <p>Artykuł partnerski, „redakcyjny” wpis o kolekcji zrównoważonej i zdjęcia produktu oddane redakcji bez oznaczenia współpracy. W zwykłym haśle na opakowaniu tej sygnatury nie używać.</p>
+    </article>
+
+    <article class="card short long">
+      <div class="card-top">
+        <span class="badge short">Skrót · jedna notatka zbiorcza</span>
+        <span class="sigline">linia emisyjna · 2020–2025</span>
+      </div>
+      <h3>Urządzenie ograniczające skuteczność oczyszczania spalin</h3>
+      <p>Siedem wyroków o tym samym mechanizmie: auto na teście homologacyjnym dotrzymuje normy tlenków azotu, a w zwykłej jeździe układ oczyszczania jest osłabiany. Wytyczne Komisji z 2021 r. same łączą sprawę C-693/18 z reklamą „przyjazną środowisku”. To zdanie jest w wytycznych, których baza już używa. W sentencji C-693/18 go nie ma. W raporcie te dwie warstwy rozdzielać.</p>
+      <table>
+        <thead>
+          <tr><th>Sygnatura</th><th>Data</th><th>Teza do notatki</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="sig">C-693/18 CLCV</td>
+            <td>17 grudnia 2020</td>
+            <td>Oprogramowanie sterownika jest „elementem konstrukcyjnym”. Układ, który wykrywa test homologacyjny i poprawia wtedy wynik, jest urządzeniem ograniczającym skuteczność, także gdy czasem poprawia wynik w zwykłej jeździe. Wyjątek ochrony silnika nie obejmuje zapobiegania starzeniu i zatykaniu. CELEX 62018CJ0693.</td>
+          </tr>
+          <tr>
+            <td class="sig">C-128/20 i C-134/20</td>
+            <td>14 lipca 2022</td>
+            <td>Okno temperaturowe, w którym norma jest dotrzymywana tylko między 15 a 33°C i poniżej 1000 m n.p.m., jest takim urządzeniem. CELEX 62020CJ0128 i 62020CJ0134.</td>
+          </tr>
+          <tr>
+            <td class="sig">C-145/20</td>
+            <td>14 lipca 2022</td>
+            <td>Ważna homologacja i dopuszczenie do ruchu nie oznaczają, że pojazd ma jakość, której konsument może oczekiwać. Niezgodność nie jest błaha, nawet gdyby klient i tak kupił auto. Wyjątek ochrony silnika obejmuje bezpośrednie ryzyko uszkodzenia lub wypadku o konkretnym zagrożeniu. Urządzenie pracujące w zwykłej jeździe przez większą część roku, aby chronić silnik, w ten wyjątek nie wchodzi. CELEX 62020CJ0145.</td>
+          </tr>
+          <tr>
+            <td class="sig">C-873/19</td>
+            <td>8 listopada 2022</td>
+            <td>Uprawniona organizacja ekologiczna musi móc zaskarżyć przed sądem krajowym homologację, która może naruszać zakaz. Wyjątek istnieje tylko wtedy, gdy w chwili homologacji nie było innego rozwiązania technicznego usuwającego bezpośrednie ryzyko. CELEX 62019CJ0873.</td>
+          </tr>
+          <tr>
+            <td class="sig">C-100/21</td>
+            <td>21 marca 2023</td>
+            <td>Przepisy homologacyjne chronią indywidualnego nabywcę wobec producenta. Odszkodowanie określa prawo krajowe i ma być odpowiednie do szkody. CELEX 62021CJ0100.</td>
+          </tr>
+          <tr>
+            <td class="sig">C-666/23</td>
+            <td>1 sierpnia 2025</td>
+            <td>Producent nie zwolni się „nieuniknionym błędem” co do prawa ani tym, że organ homologacyjny urządzenie zatwierdził lub zatwierdziłby je, gdyby zapytano. Roszczenie obejmuje też urządzenie wgrane aktualizacją po homologacji. Potrącenie korzyści z używania i ograniczenie odszkodowania do 15% ceny są dopuszczalne, o ile odszkodowanie pozostaje odpowiednie. CELEX 62023CJ0666.</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="label">Kiedy notatkę otwierać</p>
+      <p>Twierdzenie o emisjach, „Euro”, „czystym spalaniu”, zgodności z normą, aktualizacji oprogramowania albo o tym, że homologacja załatwia charakterystykę środowiskową. Przy kosmetyku, odzieży i funduszu notatki nie otwierać. Homologacja poświadcza spełnienie procedury, której dotyczy. Nie przenosi się na hasło marketingowe o wpływie produktu na środowisko.</p>
+    </article>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2><span class="num">04</span>Świadomie poza bazą</h2>
+    <p class="section-lead">Poniższe sprawy pojawiają się w wyszukiwaniu przy hasłach „TSUE”, „klimat” i „wprowadzanie w błąd”. Do słownika greenwashingu wniosłyby albo obcą tezę, albo pokusę cytatu szerszego niż sentencja.</p>
+
+    <article class="card no">
+      <div class="card-top">
+        <span class="badge no">Pominąć</span>
+        <span class="sigline">Sąd · 10 września 2025</span>
+      </div>
+      <h3>T-625/22 Austria przeciwko Komisji oraz T-579/22 ClientEarth</h3>
+      <p>Sąd oddalił skargę Austrii na uzupełniający akt delegowany taksonomii, obejmujący gaz kopalny i energetykę jądrową. Tego samego dnia oddalił skargę ClientEarth na kryteria dla bioenergii, chemikaliów organicznych i tworzyw pierwotnych w rozporządzeniu delegowanym 2021/2139. To kontrola aktu Komisji: czy przy ustalaniu technicznych kryteriów kwalifikacji przekroczono uprawnienie i czy naruszono przesłanki rozporządzenia 2020/852.</p>
+      <p>Wyroki milczą o tym, jak spółka może nazwać swój produkt, fundusz albo raport. Zdanie „Sąd uznał atom za zielony” nie oddaje sentencji. Jeżeli moduł finansów ma kiedyś opisać, że skargi na akty delegowane taksonomii zostały oddalone, niech to będzie przypis przy taksonomii, z datą i wynikiem „skarga oddalona”, bez przenoszenia do definicji greenwashingu.</p>
+    </article>
+
+    <article class="card no">
+      <div class="card-top">
+        <span class="badge no">Pominąć</span>
+        <span class="sigline">C-565/19 P · Trybunał · 25 marca 2021</span>
+      </div>
+      <h3>Carvalho. Skarga klimatyczna osób fizycznych</h3>
+      <p>Odwołanie od oddalenia skargi na unijne pakiety klimatyczne. Trybunał utrzymał niedopuszczalność: skarżący nie wykazali indywidualnego interesu prawnego. Sprawa dotyczy dostępu do sądu unijnego w sporze o akty ogólne, nie przekazu przedsiębiorcy wobec konsumenta. W audycie opakowania, strony albo raportu ESG nie ma dla niej miejsca.</p>
+    </article>
+
+    <article class="card no">
+      <div class="card-top">
+        <span class="badge no">Pominąć</span>
+        <span class="sigline">C-363/19 · 10 września 2020 · CELEX 62019CJ0363</span>
+      </div>
+      <h3>Mezina. Dowód oświadczenia zdrowotnego</h3>
+      <p>Przy oświadczeniach zdrowotnych objętych przepisami przejściowymi rozporządzenia 1924/2006 ciężar i standard dowodu wyznacza to rozporządzenie. Przedsiębiorca ma uzasadnić claim powszechnie uznanymi dowodami naukowymi: obiektywnymi i objętymi wystarczającą zgodą nauki. Wierzenia, obiegowa mądrość i obserwacje osób spoza nauki nie wystarczają. W konflikcie rozporządzenie wyprzedza dyrektywę 2005/29.</p>
+      <p>Relację aktu sektorowego do dyrektywy o nieuczciwych praktykach bliżej etykiety środowiskowej opisuje C-632/16. Progu „powszechnie uznanych dowodów naukowych” nie przenosić na twierdzenie środowiskowe. Ten próg stoi w rozporządzeniu o oświadczeniach żywieniowych i zdrowotnych. W module suplementów i health claims, jeżeli taki kiedyś powstanie, wyrok jest na miejscu. W słowniku greenwashingu — nie.</p>
+    </article>
+
+    <article class="card no">
+      <div class="card-top">
+        <span class="badge no">Pominąć jako osobne notatki</span>
+        <span class="sigline">C-122/10 · C-497/17 · C-54/17</span>
+      </div>
+      <h3>Ving, OABA, Wind Tre</h3>
+      <p><strong>C-122/10 Ving Sverige, 12 maja 2011 r.</strong> Reklama biura podróży z ceną „od”. Zaproszenie do zakupu istnieje, gdy informacja o produkcie i cenie pozwala podjąć decyzję. Reklama nie musi sama umożliwiać zakupu, a cena wejściowa może wystarczyć jako wskazanie ceny. To nie jest przyzwolenie, aby wieloznaczne hasło środowiskowe wyjaśniać wyłącznie na stronie. Tę granicę wyznaczają C-611/14 i C-562/15. Osobna notatka zwiększa ryzyko cytatu w drugą stronę.</p>
+      <p><strong>C-497/17 OABA, 26 lutego 2019 r.</strong> Logo produkcji ekologicznej Unii nie może iść na mięso ze zwierząt ubitych bez uprzedniego ogłuszenia. System ekologiczny wymaga wysokiego dobrostanu także przy uboju, choć inne rozporządzenie dopuszcza ubój rytualny bez ogłuszenia. Wyrok czyta rozporządzenie 834/2007, uchylone przez rozporządzenie 2018/848, które jest w bazie. Bez osobnego sprawdzenia, że ta sama norma stoi w akcie obowiązującym, sygnatury nie cytować.</p>
+      <p><strong>C-54/17 i C-55/17 Wind Tre, 13 września 2018 r.</strong> Karty SIM z preaktywowanymi usługami. Potwierdzenie, że załącznik I działa bez testu z art. 5–9, jest już w motywie 17 dyrektywy. Opisane wyżej, przy luce. Osobnej karty nie potrzeba.</p>
+    </article>
+
+    <div class="callout keep">
+      <strong class="t">Jak z tego korzystać przy najbliższym raporcie</strong>
+      <p>Dopóki sekcja nie wejdzie do bazy, raport nie cytuje tych sygnatur. Instrukcja każe opierać ocenę na bazie i nie dopisywać orzeczeń, których w bazie nie ma. To zestawienie jest materiałem decyzji. Po akceptacji którejkolwiek pozycji warto wpisać ją krótką notatką: sygnatura, data, jedna teza, jedno zdanie „kiedy cytować” i jedno zdanie „kiedy nie cytować”. Sentencji w raporcie klienta nie przytaczać w całości.</p>
+    </div>
+
+    <h3 style="margin-top:10px">Źródła sprawdzone do tego zestawienia</h3>
+    <table class="src">
+      <thead>
+        <tr><th>Dokument</th><th>Identyfikator</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Dyson / BSH, etykieta i art. 7</td><td>CELEX 62016CJ0632</td></tr>
+        <tr><td>Dyson / Komisja, odwołanie</td><td>CELEX 62016CJ0044</td></tr>
+        <tr><td>Dyson / Komisja, po przekazaniu, unieważnienie rozporządzenia 665/2013</td><td>CELEX 62013TJ0544(01)</td></tr>
+        <tr><td>Teekanne</td><td>CELEX 62014CJ0195</td></tr>
+        <tr><td>Canal Digital Danmark</td><td>CELEX 62014CJ0611</td></tr>
+        <tr><td>Lidl</td><td>CELEX 62009CJ0159</td></tr>
+        <tr><td>Carrefour Hypermarchés</td><td>CELEX 62015CJ0562</td></tr>
+        <tr><td>CHS Tour Services</td><td>CELEX 62011CJ0435</td></tr>
+        <tr><td>Trento Sviluppo</td><td>CELEX 62012CJ0281</td></tr>
+        <tr><td>CLCV, urządzenie ograniczające skuteczność</td><td>CELEX 62018CJ0693</td></tr>
+        <tr><td>GSMB Invest, Volkswagen, Porsche Inter Auto</td><td>CELEX 62020CJ0128, 62020CJ0134, 62020CJ0145</td></tr>
+        <tr><td>Deutsche Umwelthilfe, homologacja</td><td>CELEX 62019CJ0873</td></tr>
+        <tr><td>Mercedes-Benz Group, odszkodowanie</td><td>CELEX 62021CJ0100</td></tr>
+        <tr><td>Volkswagen, błąd co do prawa i aktualizacja</td><td>CELEX 62023CJ0666</td></tr>
+        <tr><td>Peek &amp; Cloppenburg</td><td>CELEX 62020CJ0371</td></tr>
+        <tr><td>Mezina</td><td>CELEX 62019CJ0363</td></tr>
+        <tr><td>Austria / Komisja, taksonomia</td><td>T-625/22, sentencja: skarga oddalona</td></tr>
+        <tr><td>ClientEarth / Komisja, kryteria taksonomii</td><td>T-579/22, sentencja: skarga oddalona</td></tr>
+        <tr><td>Wytyczne Komisji do dyrektywy 2005/29</td><td>2021/C 526/01, już w bazie, § 4.1.1</td></tr>
+      </tbody>
+    </table>
+    <p class="src">Teksty w EUR-Lex. Streszczenie oddaje sentencję w zakresie potrzebnym do decyzji o bazie. Nie zastępuje wyroku i nie jest opinią prawną dla klienta audytu.</p>
+  </div>
+</section>
+</body>
+</html>

@@ -15,6 +15,8 @@ To samo dotyczy **reklamy i prezentacji** (kształt, opakowanie, materiały, oto
 
 Odpowiedzialny jest podmiot, pod którego nazwą żywność jest wprowadzana na rynek (art. 8).
 
+**C-195/14 Teekanne** (4 czerwca 2015, CELEX 62014CJ0195) czyta się razem z art. 7, choć wyrok zapadł na uchylonej dyrektywie 2000/13. Front, obraz owocu, liść i hasło są twierdzeniem. Prawdziwy wykaz składników może nie odwrócić wrażenia, że składnik jest w produkcie. Poza żywnością ta sygnatura jest tylko analogią; podstawa zostaje przy art. 5 UPNPR. Pełna notatka: `14_orzecznictwo_tsue.md`.
+
 ## 2. „Eko” / „bio” / „organic” — tylko rolnictwo ekologiczne
 
 Rozp. (WE) **834/2007 jest uchylone**. Obowiązuje **2018/848**.
@@ -61,6 +63,6 @@ Nie wolno wprowadzać na rynek UE towarów, które nie są **wolne od wylesiania
 - [ ] Czy „szczególna właściwość” nie jest standardem kategorii (FIR art. 7 ust. 1 lit. c)?
 - [ ] Czy surowce EUDR mają DDS, a nie tylko storytelling o plantacji?
 - [ ] Czy recykling/kompostowanie ma normę, % i warunki?
-- [ ] Czy komunikat na froncie opakowania jest zgodny z tyłem i stroną www (art. 5 UPNPR: prawdziwe info podane w sposób wprowadzający w błąd)?
+- [ ] Czy komunikat na froncie opakowania jest zgodny z tyłem i stroną www (art. 5 UPNPR: prawdziwe info podane w sposób wprowadzający w błąd)? Przy żywności front może przeważyć nad prawdziwym składem (C-195/14, art. 7 rozp. 1169/2011).
 - [ ] Czy listek / zieleń / „eko” na **nieżywności** ma kryteria i próg (UOKiK vs Tchibo, 19.01.2026)?
 - [ ] Recykling kapsułek/opakowań: czy warunek (kraj, opróżnienie) jest w języku konsumenta PL, nie tylko w przypisie DE/EN?

@@ -16,6 +16,7 @@
 | ESPR, CSDDD | PDF 2024/1781 i 2024/1760 + strona MRiT (Omnibus I) |
 | CPR, BREEAM, LEED, EPBD | CPR i EPBD w całości; LEED v4.1 BD+C PDF publiczny; BREEAM — FAQ v7.1, manual za loginem |
 | UCPD Guidance 2021 | `extracts/ucpd_guidance_2021.txt` (§ 4.1.1); EUR-Lex PDF bywał pusty |
+| Orzecznictwo TSUE stosowane w Polsce | `knowledge/14_orzecznictwo_tsue.md` (21.10.2026). Sentencje z EUR-Lex, bez PDF w `originals/`. Poza bazą zostały sprawy bez obowiązku dla firmy: C-44/16 P, T-544/13 RENV, T-625/22, T-579/22, C-565/19 P, C-497/17, C-363/19, C-122/10 |
 | Ustawa o ochronie sygnalistów (Dz.U. 2024 poz. 928) | Pełny urzędowy PDF z Dziennika Ustaw (RCL/ISAP): `D20240928L.pdf` (17 s.) = `sygnalisci.pdf`; wyciąg `extracts/D20240928L.txt`. Wdrożenie dyrektywy 2019/1937. Kluczowy filar detekcji wewnętrznej i zewnętrznej w sprawach greenwashingu (art. 3, 16, 19–20, 30–34, 51, 54–55). |
 
 ## Korekty względem brzmienia maila w docx
@@ -35,4 +36,4 @@ Ustawy PL: ISAP / Dziennik Ustaw.
 Raporty ESA: copyright UE / ESA.  
 Przewodnik Kampania 17 Celów: materiał organizacji; użyty jako źródło opisowe strategii, nie jako prawo.
 
-Przy budowie narzędzia AI: cytować **artykuł + plik w `extracts/`**, nie parafrazować kar i definicji z pamięci modelu.
+Przy budowie narzędzia AI: cytować **artykuł + plik w `extracts/`**, nie parafrazować kar i definicji z pamięci modelu. Sygnaturę TSUE cytować tylko z `14_orzecznictwo_tsue.md`, razem z przepisem polskim albo rozporządzeniem UE, i tylko w granicach „kiedy cytować”.
