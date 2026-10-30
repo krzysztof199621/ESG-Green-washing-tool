@@ -2,6 +2,8 @@
 
 Używać przed publikacją etykiety, reklamy, strony, raportu, nazwy funduszu, oferty deweloperskiej, checkoutu e-commerce.
 
+Gdy materiał mówi o ludziach, pracy, równości, etyce albo wpływie społecznym, po kroku 6 przejdź do kroku 7. Szczegóły: `12_social_washing.md`.
+
 ## Krok 0 — metryka twierdzenia
 
 | Pole | Wpis |
@@ -70,6 +72,24 @@ Wzorzec jakości (projekt Green Claims art. 3, nieobowiązkowy): nauka + LCA/ist
 | UZNK | Roszczenia konkurentów |
 | KNF / ESA | Interwencja nadzorcza przy produktach finansowych |
 | CSDDD (gdy stosowane) | Do 3% światowego przychodu netto (MRiT) |
+
+## Krok 7 — social washing przekazu
+
+Szuflada pierwsza, przy każdym haśle społecznym:
+
+- [ ] Hasło ma zakres w tym samym miejscu: kto, który zakład albo dostawca, jaki okres
+- [ ] Opinie i „najlepszy pracodawca” mają opis, skąd pochodzą i czy sprawdzono, że dotyczą produktu (UPNPR art. 6 ust. 4 pkt 7, art. 7 pkt 25–26)
+- [ ] Porównanie z konkurentem spełnia art. 4 dyrektywy 2006/114/WE
+- [ ] Oferta i informacja o właściwościach dla konsumenta w Polsce mają wersję polską (ustawa o języku polskim art. 7a). Nazwa handlowa i znak towarowy zostają (art. 11 pkt 6)
+- [ ] W kadrze jest zgoda albo inna podstawa, gdy widać identyfikowalną osobę (KC art. 23–24, RODO art. 5–6)
+
+Szuflada druga, tylko gdy pasuje sytuacja:
+
+- [ ] Strona sprzedaje: główne cechy, tożsamość i cena najpóźniej przy woli zawarcia umowy (ustawa o prawach konsumenta art. 8 albo art. 12). Publiczne zapewnienie z reklamy wchodzi w zgodność towaru (art. 43b ust. 2 pkt 2)
+- [ ] Kampania zbiera dane albo pokazuje osoby: podstawa z art. 6 RODO; przy dziecku i zgodzie na usługę społeczeństwa informacyjnego próg 16 lat (art. 8), bo otwarta ustawa o ochronie danych osobowych progu nie obniża
+- [ ] Reklama wzywa dziecko do zakupu albo do nacisku na dorosłego: zdejmij (UPNPR art. 9 pkt 5). W radio i telewizji dodatkowo art. 16b ustawy o radiofonii i telewizji
+- [ ] „Zero dyskryminacji” albo „najwyższe BHP”: przyłóż do Kodeksu pracy (art. 11[3], art. 18[3a], art. 15, art. 94 pkt 4, art. 207). Od 5 listopada 2026 r. równe traktowanie czytaj w brzmieniu Dz.U. 2026 poz. 1046
+- [ ] „Wdrażamy Wytyczne OECD”, dialog ze społecznością, plan klimatyczny, rzetelna informacja na platformie albo należyta staranność w łańcuchu dostaw: poziom NISKIE. To wytyczne. Złamanie może trafić do polskiego KPK i do postępowania z pliku 12. Nie jest to sprawa sądowa i nie grozi wyrok. Zostaw wzmiankę o publicznej ocenie i skutku wizerunkowym. Wyniku sprawy LPP, OLX, LOTOS, Valeo albo PGE nie opisuj szerzej niż ocena na gov.pl
 
 ## Werdykt
 

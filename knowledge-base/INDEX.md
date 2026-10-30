@@ -1,6 +1,6 @@
 # Katalog źródeł
 
-Pobrane z linków w `Przepisy.docx` oraz źródeł uzupełniających (ISAP PDF-y użytkownika, FAQ ECGT, CPC old stock, Sejm/Senat 2799/825, UOKiK 2025–2026, UCPD Guidance, LEED v4.1 BD+C). Stan katalogu: **15 września 2026**.
+Pobrane z linków w `Przepisy.docx` oraz źródeł uzupełniających (ISAP PDF-y użytkownika, FAQ ECGT, CPC old stock, Sejm/Senat 2799/825, UOKiK 2025–2026, UCPD Guidance, LEED v4.1 BD+C). Stan katalogu środowiskowego: **15 września 2026**. Social washing: **30 października 2026**.
 
 ## Horyzontalne
 
@@ -22,6 +22,31 @@ Pobrane z linków w `Przepisy.docx` oraz źródeł uzupełniających (ISAP PDF-y
 | ecgt | Dyrektywa (UE) 2024/825 | `ecgt.pdf` / `ecgt_html.html` | `extracts/ecgt.txt` | Pełny tekst PL; załącznik = czarna lista |
 | green_claims_swd | SWD(2022) 85 — link z docx | `green_claims_swd.pdf` (265 s.) | `extracts/green_claims_swd.txt` | To **ocena skutków**, nie projekt dyrektywy |
 | green_claims_proposal | COM(2023) 166 Green Claims | `green_claims_proposal.pdf` (80 s.) | `extracts/green_claims_proposal.txt` | Faktyczny projekt; status: wstrzymany |
+
+## Social washing — audyt stron i materiałów marketingowych
+
+Dopisane 30 października 2026. Przystępny opis i test hasła: `knowledge/12_social_washing.md`. Miękkie standardy i akty zależne od progu wielkości albo branży nie weszły do tego modułu.
+
+| ID | Akt | Plik oryginału | Wyciąg | Uwagi |
+|---|---|---|---|---|
+| sw_upnpr | UPNPR, tekst jednolity | API Sejmu, HTML | `extracts/sw_upnpr_DU2023_845.html` | Dz.U. 2023 poz. 845. Opinie, plasowanie, wezwanie dzieci |
+| sw_ucpd | Dyrektywa 2005/29/WE | `originals/sw_ucpd_32005L0029.pdf` | `extracts/sw_ucpd_windows.txt` | Dz.U. UE L 149 z 11.06.2005. Publikacje Office |
+| sw_omnibus | Dyrektywa (UE) 2019/2161 | `originals/sw_omnibus_32019L2161.pdf` | `extracts/sw_omnibus_windows.txt`, `extracts/sw_omnibus_formex.xml` | Dz.U. UE L 328 z 18.12.2019. Stosowanie krajowe od 28.05.2022 |
+| sw_mcad | Dyrektywa 2006/114/WE | `originals/sw_mcad_32006L0114.pdf` | `extracts/sw_mcad_full.txt` | Reklama wprowadzająca w błąd i porównawcza. L 376 z 27.12.2006 |
+| sw_kc | Kodeks cywilny, tekst jednolity | `originals/sw_kc_DU2026_795.pdf` | `extracts/sw_kc_windows.txt` | Dz.U. 2026 poz. 795. Art. 23–24 |
+| sw_jezyk | Ustawa o języku polskim | `originals/sw_jezyk_DU2026_81.pdf` | `extracts/sw_jezyk_DU2026_81.txt` | Dz.U. 2026 poz. 81. Nowela poz. 676 od 01.01.2027 nie zmienia art. 7–7a |
+| sw_rowne | Ustawa o równym traktowaniu | `originals/sw_rowne_DU2026_1196.pdf` | `extracts/sw_rowne_DU2026_1196.txt` | Dz.U. 2026 poz. 1196 |
+| sw_upk | Ustawa o prawach konsumenta | `originals/sw_upk_DU2026_1244.pdf` | `extracts/sw_upk_windows.txt` | Dz.U. 2026 poz. 1244 |
+| sw_crd | Dyrektywa 2011/83/UE, tekst skonsolidowany | `originals/sw_crd_02011L0083-20220528.pdf` | `extracts/sw_crd_windows.txt`, `extracts/sw_crd_formex.xhtml` | Konsolidacja 02011L0083-20220528. Cytat w audycie: ustawa krajowa |
+| sw_gdpr | Rozporządzenie (UE) 2016/679 | Publications Office, XHTML PL | `extracts/sw_gdpr_art_sample.html` | Dz.U. UE L 119 z 04.05.2016. Stosowanie od 25.05.2018 |
+| sw_uodo | Ustawa o ochronie danych osobowych | `originals/sw_uodo_DU2018_1000.pdf`, `originals/sw_uodo_DU2023_1206.pdf` | — | Tekst jednolity Dz.U. 2023 poz. 1206. Brak obniżenia progu wieku z art. 8 RODO |
+| sw_kpd | Konwencja o prawach dziecka | `originals/sw_kpd_DU1991_526.pdf` | `extracts/sw_kpd_windows.txt` | Dz.U. 1991 nr 120 poz. 526 |
+| sw_rtv | Ustawa o radiofonii i telewizji | `originals/sw_rtv_DU2022_1722.pdf` | `extracts/sw_rtv_windows.txt` | Dz.U. 2022 poz. 1722. Art. 16b |
+| sw_maloletni | Ochrona małoletnich | `originals/sw_maloletni_DU2026_110.pdf` | `extracts/sw_maloletni_DU2026_110.txt` | Dz.U. 2026 poz. 110. Standardy przy działalności z małoletnimi |
+| sw_kp | Kodeks pracy, tekst jednolity | `originals/sw_kp_DU2026_1245.pdf` | `extracts/sw_kp_windows.txt` | Dz.U. 2026 poz. 1245. Zmiana równego traktowania od 05.11.2026 |
+| sw_oecd | Wytyczne OECD, edycja 2023, przekład PL | `originals/sw_oecd_wytyczne_2023_PL.pdf` | `extracts/sw_oecd_wytyczne_2023_head.txt` | OECD (2024), DOI 10.1787/9fe6d8dc-pl. Miękkie prawo |
+| sw_kpk_proc | Procedura polskiego KPK OECD, 2024 | `originals/sw_kpk_procedura_2024.pdf` | `extracts/sw_kpk_procedura_2024.txt` | Przyjęcie sprawy nie potwierdza naruszenia. Ocena jest publikowana |
+| sw_kpk_cases | Oceny końcowe: Valeo, OLX, LOTOS, PGE, LPP | `originals/sw_kpk_*.pdf` | `extracts/sw_kpk_*.txt` | Daty: 24.01.2024, 13.06.2019, 17.02.2023, 30.09.2025, 27.05.2026 |
 
 ## Spożywcza / FMCG
 

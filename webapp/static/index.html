@@ -123,12 +123,12 @@
   <div class="bar"></div>
   <header>
     <div class="kicker">Green Washing Tool · skaner pliku</div>
-    <h1>Sprawdź komunikację pod kątem greenwashingu</h1>
-    <p class="lede">Wczytaj PDF, DOCX, PPTX, HTML albo TXT. Silnik reguł z bazy wiedzy (ECGT, UPNPR, praktyka UOKiK). Nie zastępuje oceny prawnej.</p>
+    <h1>Sprawdź komunikację: greenwashing i social washing</h1>
+    <p class="lede">Wczytaj PDF, DOCX, PPTX, HTML albo TXT. Silnik czyta bazę: ECGT i UPNPR przy twierdzeniu środowiskowym, a przy haśle o ludziach, pracy albo etyce moduł social washingu. Nie zastępuje oceny prawnej.</p>
     <div class="pills">
       <span class="pill forest">W mocy: UPNPR / UOKiK</span>
       <span class="pill forest">ECGT od 27.09.2026</span>
-      <span class="pill amber">Soft law: FAQ + CPC</span>
+      <span class="pill amber">Social washing: dwie szuflady</span>
       <span class="pill rose">Green Claims nie jest prawem</span>
     </div>
   </header>
@@ -157,7 +157,7 @@
     </section>
   </main>
   <footer>
-    Stan bazy: 15 września 2026. Kara UOKiK: do 10% obrotu za każdą praktykę. Nowela PL (Senat 825) nieogłoszona — ECGT i tak od 27.09.2026. Plik nie jest wysyłany poza ten komputer (lokalny serwer).
+    Baza środowiskowa: 15 września 2026. Ustawa EmpCo (Dz.U. 2026 poz. 1353) wchodzi w życie 27 września 2027. Social washing: 30 października 2026. Plik zostaje na tym komputerze.
   </footer>
   <script>
     const $ = (id) => document.getElementById(id);
@@ -263,7 +263,7 @@
             <p class="advice">${escapeHtml(f.advice)}</p>
             <div class="source">${escapeHtml(f.source)} · ${escapeHtml(f.rule_id)}</div>
           </article>
-        `).join("") : `<p class="empty">Brak automatycznych trafień czarnej listy. To nie znaczy, że komunikat jest zgodny — sprawdź dowód 1:1.</p>`}
+        `).join("") : `<p class="empty">Brak automatycznych trafień. To nie znaczy, że komunikat jest zgodny — sprawdź dowód 1:1 i, przy haśle społecznym, szufladę z pliku 12.</p>`}
       `;
     }
     function escapeHtml(s) {

@@ -2,6 +2,8 @@
 
 Ten plik jest wiążącą specyfikacją każdego raportu audytu w Green Washing Tool. Przed napisaniem raportu odczytaj go i stosuj bez odstępstw. W razie sprzeczności z kalendarzem lub skrótowymi testami w `knowledge-base/` (stan bazy: 15 września 2026 r., wtedy jeszcze bez ogłoszonej ustawy) stosuje się tę instrukcję.
 
+Kalendarz i podstawy prawne aktualizuje komenda „Sprawdź nowe przepisy” według `INSTRUKCJA_AKTUALIZACJI_PRZEPISOW.md`, po zgodzie użytkownika. Przy pisaniu raportu nie uruchamiaj tej komendy i nie zmieniaj dat w tym pliku.
+
 Układ, ton i forma dokumentu mają odpowiadać wzorcom w `wzory/`:
 
 - materiał wejściowy: `wzory/WZOR_material_Libra_Partners.docx`
@@ -124,6 +126,8 @@ Skala dotyczy naruszenia przepisu obowiązującego w dniu audytu.
 - high („WYSOKIE”): bezpośrednie naruszenie art. 5 lub 6 albo już obowiązującego zakazu sektorowego.
 - medium („ŚREDNIE”): brak weryfikowalności albo porównanie, które spełnia przesłanki reklamy porównawczej lub zaniechania i da się naprawić przez doprecyzowanie.
 - low („NISKIE”): drobna nieprecyzyjność, która nie spełnia przesłanek naruszenia. Nie rób z niej przypadku. Możesz wspomnieć ją w rekomendacjach.
+
+Wytyczne OECD dla przedsiębiorstw wielonarodowych (edycja 2023) też dostają etykietę low („NISKIE”). To zalecenia. Złamanie może trafić do polskiego Krajowego Punktu Kontaktowego OECD i do postępowania z `knowledge-base/knowledge/12_social_washing.md`. Postępowanie przed KPK nie jest sprawą sądową i nie kończy się wyrokiem. Konsekwencją jest publiczna ocena, zalecenia i skutek wizerunkowy. Napisz to przy ustaleniu albo w rekomendacjach. Same wytyczne nie podnoszą werdyktu do czerwonego ani do żółtego. Gdy to samo zdanie spełnia art. 5 albo 6 ustawy o nieuczciwych praktykach rynkowych, przepis obowiązujący oceniasz na jego szczeblu, a ścieżkę KPK dopisujesz jako NISKIE.
 
 Osobna etykieta, do 26 września 2027 r.: „PRZYSZŁY STANDARD EMPCO (od 27.09.2027)”. Nie używaj wtedy etykiety „naruszenie czarnej listy” ani „WYSOKIE (Czarna lista)”.
 

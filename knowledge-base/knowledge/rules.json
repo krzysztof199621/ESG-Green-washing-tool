@@ -19,6 +19,37 @@
     "green_claims_status": "proposal_paused_not_law",
     "uokik_environmental_claims_guidelines": "unpublished_as_of_2026-09"
   },
+  "social_washing": {
+    "as_of": "2026-10-30",
+    "file": "knowledge/12_social_washing.md",
+    "scope": "Strony i materiały marketingowe. Obowiązkowe prawo. Miękkie standardy tylko, gdy firma sama się na nie powołuje.",
+    "universal": [
+      "UPNPR art. 5-7 i art. 9 pkt 5 oraz dyrektywa 2005/29/WE",
+      "Dyrektywa (UE) 2019/2161 w części przeniesionej ustawą z 1.12.2022 r. (opinie, plasowanie)",
+      "UOKiK art. 24 i art. 106",
+      "UZNK oraz dyrektywa 2006/114/WE",
+      "Kodeks cywilny art. 23-24, gdy publikowany jest wizerunek",
+      "Ustawa o języku polskim art. 7-7a i art. 15",
+      "Ustawa o równym traktowaniu art. 6 i art. 9 przy ofercie publicznej"
+    ],
+    "contextual": [
+      "Ustawa o prawach konsumenta art. 8, art. 12 i art. 43b, gdy przekaz jest informacją przedumowną albo ofertą",
+      "RODO art. 4-6, art. 8 i art. 9, gdy kampania przetwarza dane albo wizerunek",
+      "UPNPR art. 9 pkt 5 oraz art. 16b ustawy o radiofonii i telewizji, gdy przekaz jest do dzieci albo jest nadawany",
+      "Ustawa o ochronie małoletnich art. 22b, gdy firma prowadzi działalność, w której przebywają małoletni",
+      "Kodeks pracy art. 11[3], art. 18[3a], art. 15, art. 94 pkt 4 i art. 207 jako miara deklaracji o równości albo BHP"
+    ],
+    "labour_code_wording_changes": "2026-11-05",
+    "oecd_guidelines": {
+      "edition": "2023",
+      "polish_citation": "OECD (2024), DOI 10.1787/9fe6d8dc-pl",
+      "ncp": "Polski KPK OECD w MFiPR",
+      "procedure": "Procedura postępowania przed KPK OECD, 2024",
+      "note": "Wytyczne. Na skali audytu: NISKIE. Złamanie może trafić do polskiego KPK i do postępowania z procedury 2024. To nie jest sprawa sądowa ani wyrok. Skutek: publiczna ocena, zalecenia, ryzyko wizerunkowe.",
+      "risk": "low"
+    },
+    "scanner_rules": ["SW-GENERIC", "SW-ABSOLUTE", "SW-CHILD", "SW-OECD"]
+  },
   "immediate_reject": [
     {
       "id": "ECGT-2a",

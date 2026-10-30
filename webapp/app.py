@@ -13,7 +13,7 @@ SAMPLES = DIR / "samples"
 MAX_BYTES = 15 * 1024 * 1024
 ALLOWED = {".pdf", ".docx", ".pptx", ".txt", ".md", ".html", ".htm", ".csv"}
 
-app = FastAPI(title="Skaner greenwashingu", version="2026.09.15")
+app = FastAPI(title="Skaner greenwashingu i social washingu", version="2026.10.30")
 app.mount("/static", StaticFiles(directory=DIR / "static"), name="static")
 
 

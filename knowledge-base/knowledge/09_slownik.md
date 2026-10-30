@@ -3,6 +3,8 @@
 | Termin | Znaczenie w tej bazie |
 |---|---|
 | Greenwashing | Komunikacja sustainability, która nie oddaje jasno i rzetelnie rzeczywistego profilu i może wprowadzać w błąd (definicja ESA). W B2C — nieuczciwa praktyka rynkowa. |
+| Social washing | Dobrowolny przekaz o ludziach, pracy, równości, etyce albo wpływie społecznym, który odbiorca może wziąć za fakt szerszy niż dowód. Test: UPNPR i wytyczne UCPD pkt 2.3. Mapa: `12_social_washing.md`. |
+| Wytyczne OECD | Zalecenia dla przedsiębiorstw wielonarodowych, edycja 2023. Na skali audytu: NISKIE. Złamanie może trafić do polskiego KPK i do postępowania skargowego. To nie jest sprawa sądowa ani wyrok. Skutek: publiczna ocena i ryzyko wizerunkowe. |
 | Greenlighting | Wyróżnianie całego produktu/kolekcji/firmy na podstawie drobnego pozytywnego aspektu (ECGT 4b). |
 | Ecoshaming (w praktyce UOKiK) | Potoczna „ekościema”: zielone hasło bez danych, skali i warunków; Prezes UOKiK używa obu etykiet w komunikatach 2025–2026. |
 | Old stock | Opakowania/produkty z claimem sprzed 27.09.2026; CPC: korygować, nie niszczyć; online bez ulgi. |

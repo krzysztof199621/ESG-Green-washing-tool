@@ -68,3 +68,5 @@ Przed publikacją komunikatu ESG zadaj:
 7. **Czy wizualia niosą claim?** Liść, zieleń, planeta — FAQ Komisji i UOKiK (Tchibo) traktują je jak dorozumiane twierdzenie.
 
 Szczegóły praktyki i kalendarza: `11_praktyka_nadzorcza.md`. Wytyczne Komisji UCPD 2021 § 4.1.1 (`extracts/ucpd_guidance_2021.txt`) nadal obowiązują do oceny art. 6–7 UCPD, zanim Komisja zaktualizuje notice po okresie stosowania ECGT.
+
+Twierdzenie o ludziach, pracy, równości, etyce albo wpływie społecznym oceniaj według `12_social_washing.md`. Te same art. 5–6 UPNPR są hakiem. Osobno dochodzą język polski, dobra osobiste, równe traktowanie przy ofercie publicznej, a przy deklaracji o załodze — Kodeks pracy jako miara, nie jako automatyczne naruszenie samego hasła.

@@ -225,6 +225,179 @@
       "urls": [
         "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32024L1275"
       ]
+    },
+    {
+      "id": "sw_upnpr",
+      "title": "UPNPR, tekst jednolity — opinie, plasowanie, wezwanie dzieci",
+      "kind": "pl_law",
+      "sector": "social_washing",
+      "urls": ["https://api.sejm.gov.pl/eli/acts/DU/2023/845"]
+    },
+    {
+      "id": "sw_ucpd",
+      "title": "Dyrektywa 2005/29/WE",
+      "kind": "eu_law",
+      "sector": "social_washing",
+      "urls": ["https://publications.europa.eu/resource/celex/32005L0029.POL"]
+    },
+    {
+      "id": "sw_omnibus",
+      "title": "Dyrektywa (UE) 2019/2161",
+      "kind": "eu_law",
+      "sector": "social_washing",
+      "note": "Dz.U. UE L 328 z 18.12.2019, s. 7-28. Nota EUR-Lex: in force. Stosowanie przepisów krajowych od 28.05.2022.",
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX:32019L2161",
+        "https://publications.europa.eu/resource/celex/32019L2161.POL"
+      ]
+    },
+    {
+      "id": "sw_mcad",
+      "title": "Dyrektywa 2006/114/WE o reklamie wprowadzającej w błąd i reklamie porównawczej",
+      "kind": "eu_law",
+      "sector": "social_washing",
+      "urls": ["https://publications.europa.eu/resource/celex/32006L0114.POL"]
+    },
+    {
+      "id": "sw_kc",
+      "title": "Kodeks cywilny, tekst jednolity",
+      "kind": "pl_law",
+      "sector": "social_washing",
+      "urls": ["https://api.sejm.gov.pl/eli/acts/DU/2026/795"]
+    },
+    {
+      "id": "sw_jezyk",
+      "title": "Ustawa o języku polskim, tekst jednolity i nowela 2026",
+      "kind": "pl_law",
+      "sector": "social_washing",
+      "urls": [
+        "https://api.sejm.gov.pl/eli/acts/DU/2026/81",
+        "https://api.sejm.gov.pl/eli/acts/DU/2026/676"
+      ]
+    },
+    {
+      "id": "sw_rowne",
+      "title": "Ustawa o wdrożeniu niektórych przepisów UE w zakresie równego traktowania",
+      "kind": "pl_law",
+      "sector": "social_washing",
+      "urls": ["https://api.sejm.gov.pl/eli/acts/DU/2026/1196"]
+    },
+    {
+      "id": "sw_upk",
+      "title": "Ustawa o prawach konsumenta, tekst jednolity",
+      "kind": "pl_law",
+      "sector": "social_washing",
+      "urls": ["https://api.sejm.gov.pl/eli/acts/DU/2026/1244"]
+    },
+    {
+      "id": "sw_crd",
+      "title": "Dyrektywa 2011/83/UE, konsolidacja 02011L0083-20220528",
+      "kind": "eu_law",
+      "sector": "social_washing",
+      "urls": ["https://publications.europa.eu/resource/celex/02011L0083-20220528.POL"]
+    },
+    {
+      "id": "sw_gdpr",
+      "title": "Rozporządzenie (UE) 2016/679",
+      "kind": "eu_law",
+      "sector": "social_washing",
+      "urls": ["https://publications.europa.eu/resource/celex/32016R0679.POL"]
+    },
+    {
+      "id": "sw_uodo",
+      "title": "Ustawa o ochronie danych osobowych",
+      "kind": "pl_law",
+      "sector": "social_washing",
+      "urls": [
+        "https://api.sejm.gov.pl/eli/acts/DU/2018/1000",
+        "https://api.sejm.gov.pl/eli/acts/DU/2023/1206"
+      ]
+    },
+    {
+      "id": "sw_kpd",
+      "title": "Konwencja o prawach dziecka",
+      "kind": "pl_law",
+      "sector": "social_washing",
+      "urls": ["https://api.sejm.gov.pl/eli/acts/DU/1991/526"]
+    },
+    {
+      "id": "sw_rtv",
+      "title": "Ustawa o radiofonii i telewizji, tekst jednolity",
+      "kind": "pl_law",
+      "sector": "social_washing",
+      "urls": ["https://api.sejm.gov.pl/eli/acts/DU/2022/1722"]
+    },
+    {
+      "id": "sw_maloletni",
+      "title": "Ustawa o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich",
+      "kind": "pl_law",
+      "sector": "social_washing",
+      "urls": ["https://api.sejm.gov.pl/eli/acts/DU/2026/110"]
+    },
+    {
+      "id": "sw_kp",
+      "title": "Kodeks pracy, tekst jednolity",
+      "kind": "pl_law",
+      "sector": "social_washing",
+      "note": "Dz.U. 2026 poz. 1046 zmienia brzmienie równego traktowania od 5.11.2026.",
+      "urls": ["https://api.sejm.gov.pl/eli/acts/DU/2026/1245"]
+    },
+    {
+      "id": "sw_oecd",
+      "title": "Wytyczne OECD dla przedsiębiorstw wielonarodowych, edycja 2023, przekład polski",
+      "kind": "soft_law",
+      "sector": "social_washing",
+      "note": "OECD (2024), DOI 10.1787/9fe6d8dc-pl. Oficjalne wersje: angielska i francuska.",
+      "urls": [
+        "https://www.gov.pl/web/fundusze-regiony/wytyczne-oecd",
+        "https://www.gov.pl/attachment/53e5e801-603d-4fee-b311-27a2ef94863e"
+      ]
+    },
+    {
+      "id": "sw_kpk_proc",
+      "title": "Procedura postępowania przed polskim KPK OECD, 2024",
+      "kind": "soft_law",
+      "sector": "social_washing",
+      "urls": [
+        "https://www.gov.pl/web/fundusze-regiony/dokumenty",
+        "https://www.gov.pl/attachment/e47e48d1-99c0-4da9-9624-e6a761dfd4ad"
+      ]
+    },
+    {
+      "id": "sw_kpk_valeo",
+      "title": "KPK OECD, ocena końcowa Valeo Autosystemy, 24 stycznia 2024",
+      "kind": "ncp_statement",
+      "sector": "social_washing",
+      "urls": ["https://www.gov.pl/attachment/f73062ac-3bdb-4050-85b4-c0417e66c4ea"]
+    },
+    {
+      "id": "sw_kpk_olx",
+      "title": "KPK OECD, ocena końcowa Grupa OLX, 13 czerwca 2019",
+      "kind": "ncp_statement",
+      "sector": "social_washing",
+      "urls": ["https://www.gov.pl/attachment/50046d62-8da3-4e13-a6be-ca536e8ed36c"]
+    },
+    {
+      "id": "sw_kpk_lotos",
+      "title": "KPK OECD, ocena końcowa Grupa LOTOS, 17 lutego 2023",
+      "kind": "ncp_statement",
+      "sector": "social_washing",
+      "urls": ["https://www.gov.pl/attachment/0707c780-1d03-4850-b5e5-e0625d8ba8af"]
+    },
+    {
+      "id": "sw_kpk_pge",
+      "title": "KPK OECD, ocena końcowa PGE, 30 września 2025",
+      "kind": "ncp_statement",
+      "sector": "social_washing",
+      "urls": ["https://www.gov.pl/attachment/19385d5d-a181-4fde-8321-1770be5a8eb1"]
+    },
+    {
+      "id": "sw_kpk_lpp",
+      "title": "KPK OECD, ostateczne oświadczenie LPP, 27 maja 2026",
+      "kind": "ncp_statement",
+      "sector": "social_washing",
+      "note": "20.01.2026 sprawa nieprzyjęta do prowadzenia. Publikacja nie jest stwierdzeniem naruszenia.",
+      "urls": ["https://www.gov.pl/attachment/5eaf0199-b33a-4c57-8733-1d6c92935b28"]
     }
   ]
 }

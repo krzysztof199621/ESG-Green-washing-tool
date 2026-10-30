@@ -1,0 +1,193 @@
+Wytyczne OECD 
+dla przedsiębiorstw 
+wielonarodowych dotyczące 
+odpowiedzialnego 
+prowadzenia działalności 
+biznesowej
+
+
+Wytyczne OECD 
+dla przedsiębiorstw 
+wielonarodowych dotyczące 
+odpowiedzialnego 
+prowadzenia działalności 
+biznesowej
+
+Zmiany wprowadzone w 2023 r. do Wytycznych OECD dla przedsiębiorstw wielonarodowych dotyczących
+odpowiedzialnego prowadzenia działalności biznesowej zostały przyjęte przez Państwa wdrażające Deklarację w
+sprawie inwestycji międzynarodowych oraz przedsiębiorstw wielonarodowych [OECD/LEGAL/0144]. Decyzja w
+sprawie Wytycznych OECD dla przedsiębiorstw wielonarodowych dotyczących odpowiedzialnego prowadzenia
+działalności biznesowej [OECD/LEGAL/0307] została przyjęta przez Radę OECD na szczeblu ministerialnym.
+Komentarze do obu dokumentów zostały zatwierdzone przez Komitet Inwestycyjny OECD. Za opublikowaną
+Przedmowę odpowiedzialność ponosi Sekretarz Generalny OECD i niekoniecznie odzwierciedla ona oficjalne opinie
+Państw Członkowskich OECD.
+Niniejszy dokument, jak również wszelkie zawarte w nim dane i mapy nie stanowią uszczerbku dla statusu lub
+zwierzchnictwa nad żadnym terytorium, wytyczonych granic państwowych ani dla nazwy jakiegokolwiek terytorium,
+miasta lub obszaru.
+Proszę cytować tę publikację jako:
+OECD (2024), Wytyczne OECD dla przedsiębiorstw wielonarodowych dotyczące odpowiedzialnego prowadzenia działalności 
+biznesowej, OECD Publishing, Paris, https://doi.org/10.1787/9fe6d8dc-pl.
+ISBN 978-92-64-33873-9 (Wersja drukowana)
+ISBN 978-92-64-68841-4 (PDF)
+Oryginalny tytuł: OECD (2023), OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, OECD Publishing, Paris, 
+https://doi.org/10.1787/81f92357-en.
+Tłumaczenie to zostało zlecone przez Dyrekcję ds. Finansów i Przedsiębiorstw, a OECD nie może zagwarantować jego dokładności. Jedynymi 
+oficjalnymi wersjami są teksty w języku angielskim i/lub francuskim.
+Sprostowania do publikacji OECD można znaleźć pod adresem: www.oecd.org/about/publishing/corrigenda.htm.
+© OECD 2024
+Korzystanie z tej pracy, zarówno cyfrowej, jak i drukowanej, podlega Warunkom korzystania, które można znaleźć pod adresem https://www.oecd.org/termsandconditions.
+
+S t r o n a | 3 
+ 
+ 
+WYTYCZNE OECD DLA PRZEDSIĘBIORSTW WIELONARODOWYCH  
+DOTYCZĄCE ODPOWIEDZIALNEGO PROWADZENIA DZIAŁALNOŚCI BIZNESOWEJ © OECD 2024 
+ 
+Przedmowa 
+Wytyczne OECD dla przedsiębiorstw wielonarodowych dotyczące odpowiedzialnego 
+prowadzenia działalności biznesowej (Wytyczne OECD) stanowią wspólne zalecenia kierowane 
+przez rządy do przedsiębiorstw wielonarodowych, mające na celu zwiększenie wkładu biznesu  
+w zrównoważony rozwój i reagowanie na negatywne skutki związane z działalnością biznesową 
+dla ludzi, planety i społeczeństwa. Wytyczne OECD wspomaga wyjątkowy mechanizm 
+wdrażający, jakim są Krajowe Punkty Kontaktowe OECD ds. odpowiedzialnego biznesu  
+(KPK OECD) tworzone przez rządy w celu skutecznego wdrażania Wytycznych OECD. 
+Od momentu przyjęcia Wytycznych OECD w 1976 r. były one kilkukrotnie aktualizowane  
+w celu zachowania ich aktualności w kontekście wyzwań stojących przed społeczeństwami  
+i zmieniającego się kontekstu biznesu międzynarodowego. Aktualizacja wprowadzona w 2023 r. 
+odzwierciedla dekadę doświadczeń od momentu poprzedniej aktualizacji, która miała miejsce  
+w 2011 r., w odpowiedzi na pilne wyzwania społeczne, środowiskowe i technologiczne,  
+z jakimi społeczeństwa i biznes miały do czynienia. Główne zmiany obejmują: 
+• zalecenia dla przedsiębiorstw dotyczące realizacji uzgodnionych na szczeblu 
+międzynarodowym celów w zakresie zmian klimatu i różnorodności biologicznej; 
+• uwzględnienie oczekiwań związanych z należytą starannością w zakresie rozwoju, 
+finansowania, sprzedaży, licencjonowania, handlu i wykorzystania technologii, w tym 
+gromadzenia i wykorzystania danych; 
+• zalecenia dotyczące oczekiwanego od przedsiębiorstw sposobu wdrażania należytej 
+staranności w odniesieniu do skutków prowadzenia przez przedsiębiorstwa działalności 
+biznesowej oraz relacji biznesowych związanych z ich produktami i usługami; 
+• lepszą ochronę osób oraz grup osób narażonych na ryzyko, w tym ochronę osób  
+oraz grup osób zgłaszających obawy dotyczące działalności przedsiębiorstw;  
+• zaktualizowane zalecenia dotyczące ujawniania informacji na temat odpowiedzialnego 
+prowadzenia działalności biznesowej;  
+• zalecenia dotyczące należytej staranności w odniesieniu do wszystkich form korupcji; 
+• zalecenia dla przedsiębiorstw mające na celu zapewnienie zgodności działań lobbingowych  
+z Wytycznymi OECD; 
+• wzmocnione procedury mające na celu zapewnienie widoczności, skuteczności działania  
+oraz równowagi funkcjonalnej Krajowych Punktów Kontaktowych OECD ds. odpowiedzialnego 
+biznesu. 
+Aktualizacja została przeprowadzona przez 51 państw wdrażających Deklarację OECD  
+w sprawie inwestycji międzynarodowych oraz przedsiębiorstw wielonarodowych oraz Unię 
+Europejską, uczestniczących w Grupie roboczej OECD ds. odpowiedzialnego prowadzenia 
+działalności biznesowej oraz w Komitecie Inwestycyjnym OECD. Dużą korzyścią dla aktualizacji 
+było aktywne zaangażowanie interesariuszy instytucjonalnych OECD, tj. Biznes w OECD (BIAC), 
+Komitet Doradczy OECD ds. Związków Zawodowych (TUAC) oraz OECD Watch, 
+reprezentujących opinie milionów przedstawicieli środowiska biznesowego, pracowników  
+i społeczeństwa obywatelskiego w całym świecie. Proces ten obejmował także dwukrotnie 
+
+S t r o n a | 4 
+ 
+ 
+ 
+ 
+WYTYCZNE OECD DLA PRZEDSIĘBIORSTW WIELONARODOWYCH  
+DOTYCZĄCE ODPOWIEDZIALNEGO PROWADZENIA DZIAŁALNOŚCI BIZNESOWEJ © OECD 2024 
+przeprowadzone otwarte konsultacje publiczne dla zainteresowanych interesariuszy z całego 
+świata. 
+Zmiany w poszczególnych rozdziałach tematycznych niniejszych Wytycznych OECD 
+wprowadzono w konsultacji i we współpracy z organami OECD i ich odpowiednimi 
+Sekretariatami, w tym z Komitetem ds. Konkurencji, Komitetem ds. Polityki Konsumenckiej, 
+Komitetem ds. Ładu Korporacyjnego, Komitetem Pomocy Rozwojowej, Komitetem ds. Polityki  
+w zakresie Gospodarki Cyfrowej, Komitetem ds. Zatrudnienia, Pracy i Spraw Społecznych, 
+Komitetem ds. Polityki Środowiskowej, Komitetem ds. Rynków Finansowych, Komitetem  
+do Spraw Podatkowych, Komitetem ds. Przemysłu, Innowacji i Przedsiębiorczości, Komitetem 
+ds. Ubezpieczeń i Emerytur Prywatnych, Komitetem ds. Polityki Naukowej i Technologicznej, 
+Komitetem ds. MŚP oraz Przedsiębiorczości, Komitetem ds. Handlu, Grupą roboczą  
+ds. przekupstwa w międzynarodowych transakcjach handlowych oraz z Grupą roboczą  
+ds. uczciwości funkcjonariuszy publicznych wyższego szczebla. 
+Aktualizacja Wytycznych OECD uzyskała całkowite poparcie Centrum OECD  
+ds. odpowiedzialnego prowadzenia działalności biznesowej przy Dyrekcji Generalnej  
+ds. Gospodarczych i Finansowych. 
+ 
+ 
+
+S t r o n a | 5 
+ 
+ 
+ 
+ 
+WYTYCZNE OECD DLA PRZEDSIĘBIORSTW WIELONARODOWYCH  
+DOTYCZĄCE ODPOWIEDZIALNEGO PROWADZENIA DZIAŁALNOŚCI BIZNESOWEJ © OECD 2024 
+Spis treści 
+Przedmowa .................................................................................................................................................................... 3 
+Deklaracja w sprawie  inwestycji międzynarodowych  oraz przedsiębiorstw wielonarodowych .......................... 7 
+Część I:   
+Wytyczne OECD dla przedsiębiorstw wielonarodowych dotyczące odpowiedzialnego  
+prowadzenia działalności biznesowej ......................................................................................................................... 9 
+Wstęp ............................................................................................................................................................................ 10 
+I. 
+Koncepcje i zasady ............................................................................................................................................... 13 
+II. 
+Zasady ogólne ...................................................................................................................................................... 15 
+III. Ujawnianie informacji ............................................................................................................................................ 25 
+IV. Prawa człowieka ................................................................................................................................................... 30 
+V. 
+Zatrudnienie i relacje z pracownikami ................................................................................................................... 34 
+VI. Środowisko ........................................................................................................................................................... 40 
+VII. Zwalczanie przekupstwa  i innych form korupcji ................................................................................................... 49 
+VIII. Interesy konsumenta ............................................................................................................................................. 54 
+IX. Nauka, technologia i innowacje ............................................................................................................................ 58 
+X. 
+Konkurencja .......................................................................................................................................................... 63 
+XI. Opodatkowanie ..................................................................................................................................................... 65 
+Część II:  
+Procedury wdrażania  Wytycznych OECD  dla przedsiębiorstw wielonarodowych dotyczących 
+odpowiedzialnego prowadzenia działalności biznesowej ....................................................................................... 69 
+Decyzja Rady w sprawie Wytycznych OECD dla przedsiębiorstw wielonarodowych  
+dotyczących odpowiedzialnego prowadzenia działalności biznesowej ......................................................................... 70 
+Procedury ...................................................................................................................................................................... 73 
+Komentarze dotyczące Procedur wdrażania ................................................................................................................. 80 
+ 
+ 
+ 
+
+S t r o n a | 6 
+ 
+ 
+ 
+ 
+WYTYCZNE OECD DLA PRZEDSIĘBIORSTW WIELONARODOWYCH  
+DOTYCZĄCE ODPOWIEDZIALNEGO PROWADZENIA DZIAŁALNOŚCI BIZNESOWEJ © OECD 2024 
+Śledź publikacje OECD na: 
+https://twitter.com/OECD 
+https://www.facebook.com/theOECD 
+https://www.linkedin.com/company/organisation-eco-cooperation- 
+development-organisation-cooperation-developpement-eco/ 
+https://www.youtube.com/user/OECDiLibrary 
+https://www.oecd.org/newsletters/ 
+
+S t r o n a | 7 
+ 
+ 
+ 
+ 
+WYTYCZNE OECD DLA PRZEDSIĘBIORSTW WIELONARODOWYCH  
+DOTYCZĄCE ODPOWIEDZIALNEGO PROWADZENIA DZIAŁALNOŚCI BIZNESOWEJ © OECD 2024 
+Deklaracja w sprawie  
+inwestycji międzynarodowych  
+oraz przedsiębiorstw wielonarodowych 
+RZĄDY PAŃSTW WDRAŻAJĄCYCH WYTYCZNE OECD1 
+ZWAŻYWSZY, ŻE: 
+• inwestycje międzynarodowe mają istotne znaczenie dla gospodarki światowej i znacznie 
+przyczyniły się do rozwoju poszczególnych państw; 
+• przedsiębiorstwa wielonarodowe odgrywają istotną rolę w tym procesie inwestycyjnym; 
+• współpraca międzynarodowa może pozytywnie wpływać na atmosferę inwestycji 
+zagranicznych i zachęcić do ich realizacji, co przedsiębiorstwa wielonarodowe mogą 
+wykorzystać na rzecz postępu gospodarczego, społecznego i środowiskowego, a także 
+zminimalizować i rozwiązać ewentualne trudności pojawiające się w ramach ich działalności; 
+• korzyści ze współpracy międzynarodowej są wzmacniane poprzez uwzględnianie kwestii 
+odnoszących się do inwestycji międzynarodowych i przedsiębiorstw wielonarodowych za 
+pośrednictwem wyważonych ram powiązanych ze sobą instrumentów; 
+DEKLARUJĄ, ŻE: 
+Wytyczne dotyczące przedsiębiorstw wielonarodowych 
+I. 
+Wspólnie zalecają przedsiębiorstwom wielona

@@ -8,6 +8,8 @@
 
 **ECGT (dyrektywa 2024/825)** definiuje **twierdzenie dotyczące ekologiczności** jako każdy dobrowolny komunikat handlowy (tekst, grafika, znak, nazwa marki/produktu), który stwierdza lub sugeruje pozytywny wpływ na środowisko, brak wpływu, mniejszą szkodliwość albo poprawę w czasie.
 
+**Social washing przekazu** (ludzie, praca, równość, etyka, wpływ społeczny) ma osobną mapę: `12_social_washing.md`, stan tekstów 30 października 2026. Twierdzenie ekologiczne zostaje przy hierarchii poniżej. Twierdzenie społeczne czyta się przez UPNPR i przez szufladę, która pasuje do kanału: każda firma albo dopiero sprzedaż, dane osobowe, dzieci, deklaracja o równości albo BHP. Z miękkich standardów dochodzą Wytyczne OECD, bo polski Krajowy Punkt Kontaktowy publikuje ocenę skargi.
+
 ## Hierarchia stosowania (produkt / usługa / komunikacja)
 
 ```

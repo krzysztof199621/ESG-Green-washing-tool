@@ -398,6 +398,8 @@ def analyze_text(text: str, filename: str = "") -> dict:
             )
         )
 
+    _scan_social(text, legalish, add)
+
     # --- sector filters ---
     sectors = _detect_sectors(text)
     if "fmcg" in sectors:
@@ -497,6 +499,106 @@ def analyze_text(text: str, filename: str = "") -> dict:
     return _pack(filename, text, findings, rules, extra={"legal_document_heuristic": legalish, "sectors": sectors, "verdict": verdict})
 
 
+SOCIAL_SPECIFIC = re.compile(
+    r"("
+    r"fairtrade|flo-cert|sa8000|iso\s*45001|"
+    r"certyfikat|"
+    r"\d+\s*%\s*(?:kobiet|pracownik|załog)|"
+    r"raport(?:u|em)?\s+za\s+20\d{2}|"
+    r"zakład(?:zie|u)?\s+w\s+\w+"
+    r")",
+    RE_FLAGS,
+)
+
+SOCIAL_GENERIC = [
+    (r"etyczn\w+\s+(?:firma|marka|wybór|produkt|produkcj\w*|łańcuch)", "etyczny [podmiot albo produkt]"),
+    (r"społecznie odpowiedzialn\w+", "społecznie odpowiedzialny"),
+    (r"pozytywn\w+\s+wpływ\w*\s+społeczn\w+", "pozytywny wpływ społeczny"),
+    (r"social impact", "social impact"),
+    (r"godn\w+\s+prac\w+", "godna praca"),
+    (r"sprawiedliw\w+\s+handel|fair\s*trade", "sprawiedliwy handel / fair trade"),
+]
+
+SOCIAL_ABSOLUTE = [
+    (r"zero dyskryminacji|brak dyskryminacji|pełne równe traktowanie|równe szanse dla wszystkich", "absolutna równość"),
+    (r"najwyższe standardy bhp|najbezpieczniejsz\w+\s+(?:prac\w+|zakład)", "absolutne BHP"),
+]
+
+SOCIAL_CHILD = re.compile(
+    r"(?:"
+    r"(?:dzieci|dziecko|maluchy).{0,80}(?:powiedz|poproś|namów).{0,50}(?:mam|tat|rodzic)"
+    r"|(?:powiedz|poproś|namów).{0,40}(?:mamę|mamusi|tatę|rodzic\w+).{0,50}(?:kup|kupi)"
+    r"|\bdzieci,?\s+kupcie\b"
+    r")",
+    RE_FLAGS,
+)
+
+
+def _scan_social(text: str, legalish: bool, add) -> None:
+    if not legalish:
+        for pat, label in SOCIAL_GENERIC:
+            for m in _search(pat, text):
+                win = _window(text, m.start(), m.end())
+                if SOCIAL_SPECIFIC.search(win):
+                    continue
+                add(
+                    Finding(
+                        rule_id="SW-GENERIC",
+                        code="SW",
+                        title="Ogólne hasło społeczne",
+                        severity="medium",
+                        message=f"Hasło „{label}” nie ma w sąsiedztwie zakresu, certyfikatu ani okresu.",
+                        snippet=_snip(text, m.start(), m.end()),
+                        advice="Napisz, kogo i jakiego okresu dotyczy twierdzenie, i pokaż to w tym samym miejscu co hasło.",
+                        source="UPNPR art. 5–6 · wytyczne UCPD 2021 pkt 2.3 · 12_social_washing.md",
+                    )
+                )
+        for pat, label in SOCIAL_ABSOLUTE:
+            for m in _search(pat, text):
+                add(
+                    Finding(
+                        rule_id="SW-ABSOLUTE",
+                        code="SW",
+                        title="Absolutna deklaracja o równości albo BHP",
+                        severity="medium",
+                        message=f"Sformułowanie „{label}” brzmi jak cecha całej firmy. Kodeks pracy jest miarą tej deklaracji.",
+                        snippet=_snip(text, m.start(), m.end()),
+                        advice="Wskaż zakład, grupę osób i okres. Od 5.11.2026 równe traktowanie czytaj w brzmieniu Dz.U. 2026 poz. 1046.",
+                        source="Kodeks pracy art. 11[3], 18[3a], 15, 94 pkt 4, 207 · UPNPR art. 5",
+                    )
+                )
+        for m in _search(
+            r"wytyczn\w+\s+oecd|oecd\s+guidelines|krajow\w+\s+punkt\w+\s+kontaktow\w+\s+oecd|"
+            r"należytej staranności.{0,50}(?:łańcuch\w*\s+dostaw|praw\w*\s+człowieka|środowisk)",
+            text,
+        ):
+            add(
+                Finding(
+                    rule_id="SW-OECD",
+                    code="NISKIE",
+                    title="Wytyczne OECD",
+                    severity="low",
+                    message="To wytyczne, nie przepis, od którego idzie sprawa sądowa i wyrok. Złamanie może trafić do polskiego KPK i do postępowania opisanego w bazie. Skutek to publiczna ocena, zalecenia i ryzyko wizerunkowe.",
+                    snippet=_snip(text, m.start(), m.end()),
+                    advice="Zostaw wzmiankę na najniższym poziomie ryzyka. Zestaw zdanie z tym, co da się pokazać. Nie opisuj wyniku sprawy KPK szerzej niż ocena na gov.pl.",
+                    source="Wytyczne OECD 2023 · procedura KPK 2024 · 12_social_washing.md",
+                )
+            )
+    for m in SOCIAL_CHILD.finditer(text):
+        add(
+            Finding(
+                rule_id="SW-CHILD",
+                code="art. 9",
+                title="Bezpośrednie wezwanie dzieci",
+                severity="high",
+                message="Reklama wzywa dziecko do zakupu albo do nacisku na rodzica lub inną osobę dorosłą.",
+                snippet=_snip(text, m.start(), m.end()),
+                advice="Usuń wezwanie. W radiu i telewizji dodatkowo art. 16b ustawy o radiofonii i telewizji.",
+                source="UPNPR art. 9 pkt 5 · dyrektywa 2005/29/WE załącznik I pkt 28",
+            )
+        )
+
+
 def _detect_sectors(text: str) -> list[str]:
     t = text.lower()
     found: list[str] = []
@@ -518,15 +620,25 @@ def _verdict(findings: list[Finding], text: str) -> dict:
     meds = [f for f in findings if f.severity == "medium"]
     has_claim = bool(findings) or bool(re.search(r"\b(eko|zrównoważ|climate|zeroemisyj|ecolabel)\w*", text, RE_FLAGS))
 
-    if any(f.code in {"4c", "2a", "848"} for f in highs):
+    social_only = bool(findings) and all(f.rule_id.startswith("SW-") for f in findings)
+    if any(f.rule_id == "SW-CHILD" for f in highs) and not any(not f.rule_id.startswith("SW-") for f in highs):
+        key, label, color = "reject", "Nie publikuj wezwania do dzieci", "rose"
+        why = "Reklama wzywa dziecko do zakupu albo do nacisku na dorosłego. To czarna lista UPNPR art. 9 pkt 5."
+    elif any(f.code in {"4c", "2a", "848"} for f in highs):
         key, label, color = "reject", "Nie publikuj", "rose"
         why = "Czarna lista (offset, własny znak lub zastrzeżone eko/bio) albo analogia UOKiK o wysokim ryzyku."
     elif highs:
         key, label, color = "reject", "Nie publikuj / natychmiast zawęź", "rose"
         why = "Ogólne hasło lub claim o całości bez zakresu. Od 27.09.2026 to ECGT; UOKiK karze to już na UPNPR."
+    elif meds and social_only:
+        key, label, color = "narrow", "Zawęź hasło społeczne", "amber"
+        why = "Hasło o ludziach, pracy albo etyce jest szersze niż dowód w tym samym miejscu. Mapa: baza, plik 12_social_washing."
     elif meds:
         key, label, color = "narrow", "Zawęź język", "amber"
         why = "Dowód albo metodyka są węższe niż hasło. Najczęstsza naprawa 4b."
+    elif findings and not highs and not meds and all(f.rule_id == "SW-OECD" for f in findings):
+        key, label, color = "publish", "Najniższe ryzyko", "forest"
+        why = "To wytyczne. Złamanie może trafić do polskiego KPK i do postępowania opisanego w bazie. Nie jest to sprawa sądowa i nie grozi wyrok. Skutek to publiczna ocena i ryzyko wizerunkowe."
     elif not has_claim:
         key, label, color = "clean", "Brak twierdzenia ekologicznego", "forest"
         why = "Nie wykryto haseł ESG do oceny. To nie jest certyfikat „czystości” dokumentu."
