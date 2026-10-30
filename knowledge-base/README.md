@@ -1,7 +1,7 @@
 # Baza wiedzy: zapobieganie greenwashingowi
 
 Źródło listy aktów: `Przepisy.docx` + źródła uzupełniające (FAQ Komisji, CPC, UOKiK 2025–2026, Sejm/Senat 2799/825, UCPD Guidance, LEED v4.1, Twoje PDF-y ISAP).  
-Stan na: **15 września 2026**.  
+Stan katalogu źródeł: **15 września 2026**. Kalendarz EmpCo zaktualizowany **30 października 2026**: ustawa z 4 września 2026 r. (Dz.U. 2026 poz. 1353) ogłoszona 19 października 2026 r., wejście w życie 27 września 2027 r. Raport audytu: `../INSTRUKCJA_GENEROWANIA_RAPORTOW.md`.  
 Pełne oryginały: `sources/originals/`. Wyciągi: `sources/extracts/`.
 
 ## Jak korzystać
@@ -21,8 +21,8 @@ Ta baza jest narzędziem analitycznym, nie poradą prawną. Przed publikacją ko
 | Warstwa | Status | Rola przy greenwashingu |
 |---|---|---|
 | Ustawy PL (UPNPR, UOKiK, UZNK, rolnictwo ekologiczne) | W mocy | B2C, kary UOKiK (już stosowane), B2B, zastrzeżone „eko/bio” |
-| Nowela UPNPR/u.p.k. (druk 2799 → Senat 825) | Uchwalona przez Sejm 4.09.2026; Senat: komisje od 9.09.2026 | Transpozycja ECGT; Art. 3 tekstu Sejmu: **27.09.2027** (nie ogłoszona) |
-| Dyrektywa (UE) 2024/825 (ECGT) | W mocy na poziomie UE; stosowanie od **27 września 2026** | Czarna lista; FAQ Komisji VI 2026 + CPC old stock |
+| Ustawa z 4.09.2026 r. (Dz.U. 2026 poz. 1353) | Ogłoszona 19.10.2026; wchodzi w życie **27.09.2027** | Transpozycja EmpCo / ECGT. Do tej daty nowe zakazy krajowe nie są naruszeniem już stwierdzonym |
+| Dyrektywa (UE) 2024/825 (EmpCo / ECGT) | Art. 4 ust. 1: stosowanie przepisów krajowych od **27.09.2026** | Data dyrektywy, nie data wejścia w życie ustawy polskiej |
 | Green Claims (COM(2023) 166) | Wniosek; negocjacje wstrzymane od czerwca 2025; formalnie „pending” | Wzorzec dowodzenia twierdzeń, **nie obowiązuje** |
 | SFDR, Taksonomia, ESPR, EUDR, CSDDD, EPBD, CPR 2024/3110, CountEmissionsEU 2026/1030 | Akty UE (różne daty stosowania) | Sektorowe ramy na „zielone” produkty/usługi |
 | Wytyczne ESMA nazw funduszy, raporty ESA o greenwashingu | Soft law / nadzór | Interpretacja i praktyka nadzorcza |

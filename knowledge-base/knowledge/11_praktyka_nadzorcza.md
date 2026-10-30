@@ -1,5 +1,7 @@
 # Praktyka nadzorcza: UOKiK, FAQ Komisji, zapasy
 
+> **Aktualizacja 30.10.2026.** Ustawa z 4 września 2026 r. (Dz.U. 2026 poz. 1353) jest ogłoszona i wchodzi w życie 27 września 2027 r. Wniosek z sekcji 1, aby od 27.09.2026 oceniać komunikację tak, jakby czarna lista ECGT już obowiązywała w Polsce, nie obowiązuje przy raportach audytu. Do 27.09.2027 werdykt opiera się na art. 5 i 6 UPNPR oraz na przepisach już obowiązujących. Szczegóły: `INSTRUKCJA_GENEROWANIA_RAPORTOW.md`. Praktyka UOKiK opisana niżej pozostaje opisem postępowań, nie wyrokiem.
+
 Źródła dodane 15 września 2026: FAQ ECGT (30.06.2026), CPC Common Understanding old stock, wytyczne UCPD 2021, zarzuty UOKiK VII 2025 i I 2026, druk Sejmu 2799 / 3043, druk Senatu 825.
 
 ## 1. Kalendarz — dwa biegi

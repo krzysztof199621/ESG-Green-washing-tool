@@ -1,5 +1,7 @@
 # Mapa systemu przeciwdziałania greenwashingowi
 
+> **Aktualizacja 30.10.2026.** Ustawa z 4 września 2026 r. (Dz.U. 2026 poz. 1353) została ogłoszona 19 października 2026 r. i wchodzi w życie 27 września 2027 r. Art. 4 ust. 1 dyrektywy (UE) 2024/825 wyznacza 27 września 2026 r. jako datę stosowania przepisów krajowych; nie jest to data wejścia w życie ustawy polskiej. Do 27 września 2027 r. nowe zakazy EmpCo nie są naruszeniem już stwierdzonym prawa polskiego. Raport audytu pisze się według `INSTRUKCJA_GENEROWANIA_RAPORTOW.md`. Kalendarz poniżej, sporządzony 15 września 2026 r., jest nieaktualny w zakresie „ustawa nieogłoszona” oraz „od 27.09.2026 oceniaj tak, jakby czarna lista już obowiązywała w Polsce”.
+
 ## Definicja robocza
 
 **ESA (ESMA/EBA/EIOPA, 2023–2024):** greenwashing to praktyka, w której oświadczenia, deklaracje, działania lub komunikacja związane ze zrównoważonym rozwojem **nie odzwierciedlają jasno i rzetelnie** rzeczywistego profilu zrównoważonego podmiotu, produktu finansowego lub usługi i **mogą wprowadzać w błąd** konsumentów, inwestorów lub innych uczestników rynku. Może być zamierzone albo niezamierzone; zamiar, niedbalstwo lub brak due diligence to czynniki obciążające przy egzekwowaniu.

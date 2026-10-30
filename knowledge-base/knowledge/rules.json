@@ -4,13 +4,17 @@
     "as_of": "2026-09-15",
     "source_list": "Przepisy.docx + ISAP PDFs + ECGT FAQ 2026 + CPC old stock + Sejm 2799/3043 + Senat 825 + UOKiK 2025-2026 + UCPD Guidance 2021 + LEED v4.1 BD+C",
     "binding_core": ["UPNPR", "UOKiK", "UZNK", "ECGT-2024-825"],
+    "ecgt_directive_apply_from": "2026-09-27",
     "ecgt_apply_from": "2026-09-27",
+    "pl_empco_entry_into_force": "2027-09-27",
     "pl_transposition": {
+      "act": "Dz.U. 2026 poz. 1353",
+      "title": "Ustawa z 4 września 2026 r. o zmianie ustawy o przeciwdziałaniu nieuczciwym praktykom rynkowym oraz ustawy o prawach konsumenta",
       "sejm_passed": "2026-09-04",
+      "published": "2026-10-19",
       "senate_print": "825",
-      "senate_status": "in_committee_since_2026-09-09",
       "art3_entry_into_force": "2027-09-27",
-      "note": "Not published in Dz.U.; ECGT still applies from 2026-09-27"
+      "note": "Art. 4 ust. 1 dyrektywy wyznacza 27.09.2026 jako datę stosowania przepisów krajowych. Ustawa polska wchodzi w życie 27.09.2027. Do tej daty czarna lista EmpCo nie jest naruszeniem już stwierdzonym prawa polskiego. Werdykt raportu: INSTRUKCJA_GENEROWANIA_RAPORTOW.md."
     },
     "green_claims_status": "proposal_paused_not_law",
     "uokik_environmental_claims_guidelines": "unpublished_as_of_2026-09"

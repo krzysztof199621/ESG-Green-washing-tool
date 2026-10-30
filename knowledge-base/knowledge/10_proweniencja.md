@@ -19,7 +19,7 @@
 
 ## Korekty względem brzmienia maila w docx
 
-1. ECGT **stosuje się od 27 września 2026**, a nie jako już wdrożona nowelizacja UPNPR — tak stanowi art. 4 dyrektywy. Tekst Sejmu (Senat 825) przewiduje krajowe vacatio **27.09.2027**; do ogłoszenia w Dz.U. to nie jest tekst jednolity.
+1. Art. 4 ust. 1 dyrektywy (UE) 2024/825 wyznacza **27 września 2026** jako datę stosowania krajowych przepisów transponujących. To nie jest data wejścia w życie ustawy polskiej. Ustawa z 4 września 2026 r. (**Dz.U. 2026 poz. 1353**, ogłoszona 19 października 2026 r.) wchodzi w życie **27 września 2027 r.** (art. 3). Do tej daty nowe zakazy krajowe nie są naruszeniem już stwierdzonym. Zdanie o braku ogłoszenia w Dz.U. jest nieaktualne. Raport: `INSTRUKCJA_GENEROWANIA_RAPORTOW.md`.
 2. Link „Green Claims” prowadził do SWD(2022) 85, nie do projektu dyrektywy.
 3. 834/2007 nie jest aktualnym reżimem „bio/eko”.
 4. Manuale BREEAM NC v7.1 nie są publicznie pobieralne; jest FAQ + LEED v4.1 BD+C PDF.

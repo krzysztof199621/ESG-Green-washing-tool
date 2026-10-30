@@ -1,5 +1,7 @@
 # ECGT i Green Claims — reguły twierdzeń ekologicznych
 
+> **Aktualizacja 30.10.2026.** Ustawa wdrożeniowa została ogłoszona: ustawa z 4 września 2026 r., Dz.U. 2026 poz. 1353, ogłoszenie 19 października 2026 r., wejście w życie 27 września 2027 r. (art. 3). Do tej daty punktów czarnej listy nie stosuj jako już obowiązującego naruszenia polskiego. Przesłanki pkt 4b nie obejmują „dowodu z innej kategorii”. Pkt 10a wymaga wymogu nałożonego na wszystkie produkty danej kategorii na rynku unijnym i przedstawienia go jako cechy wyróżniającej. Werdykt i zawężenia: `INSTRUKCJA_GENEROWANIA_RAPORTOW.md`. Zdanie poniżej o Senacie i o braku ogłoszenia jest nieaktualne.
+
 ## A. Dyrektywa (UE) 2024/825 (ECGT)
 
 **Pełny tytuł:** zmiana dyrektyw 2005/29/WE (nieuczciwe praktyki) i 2011/83/UE (prawa konsumenta) w celu wzmocnienia pozycji konsumentów w procesie transformacji ekologicznej.  
