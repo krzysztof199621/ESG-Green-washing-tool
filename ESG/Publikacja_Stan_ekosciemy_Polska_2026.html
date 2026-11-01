@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stan eko-ściemy w Polsce — ESG Institute, listopad 2026</title>
+<meta name="author" content="Agnieszka Orłowska">
+<style>
+  :root {
+    --ink: #333333;
+    --muted: #666666;
+    --paper: #ffffff;
+    --sheet: #f5f5f5;
+    --navy: #254468;
+    --navy-2: #1c3350;
+    --line: #cccccc;
+    --blue: #254468;
+    --patina: #669999;
+    --slate: #728a97;
+    --alert: #333333;
+    --ok: #669999;
+    --sand: #f5f5f5;
+    --serif: "Times New Roman", Times, serif;
+    --sans: Calibri, "Segoe UI", sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    color: var(--ink);
+    background: var(--paper);
+    font-family: var(--sans);
+    font-size: 18px;
+    line-height: 1.55;
+  }
+  a { color: var(--blue); }
+  .nav {
+    position: sticky;
+    top: 0;
+    z-index: 4;
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    padding: 12px 28px;
+    background: var(--navy);
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0.04em;
+    overflow-x: auto;
+  }
+  .nav a { color: #ffffff; text-decoration: none; white-space: nowrap; }
+  .logo { display: block; height: 32px; width: auto; }
+  .nav .logo { height: 28px; margin-right: 8px; }
+  .nav a:hover { text-decoration: underline; }
+  .nav strong { font-weight: 700; letter-spacing: 0.12em; font-size: 12px; }
+  .cover {
+    background: var(--navy);
+    color: #ffffff;
+    padding: 72px 8vw 64px;
+    min-height: 88vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .kicker {
+    font-size: 13px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin: 0 0 22px;
+  }
+  h1 {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: clamp(40px, 6.4vw, 78px);
+    line-height: 0.98;
+    letter-spacing: -0.03em;
+    margin: 0 0 22px;
+    max-width: 16ch;
+  }
+  .lede {
+    max-width: 38rem;
+    font-size: 20px;
+    line-height: 1.45;
+    color: #ffffff;
+    margin: 0 0 36px;
+  }
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1px;
+    background: var(--slate);
+    border: 1px solid var(--slate);
+    max-width: 920px;
+  }
+  .stat { background: var(--navy); padding: 16px 18px 18px; }
+  .stat b {
+    display: block;
+    font-family: var(--serif);
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: -0.03em;
+  }
+  .stat span { display: block; color: #e6e6e6; font-size: 14px; margin-top: 4px; }
+  main { max-width: 760px; margin: 0 auto; padding: 56px 24px 80px; }
+  section { margin: 0 0 64px; }
+  h2 {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 34px;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+    margin: 0 0 14px;
+  }
+  h3 {
+    font-family: var(--serif);
+    font-weight: 600;
+    font-size: 22px;
+    margin: 28px 0 8px;
+  }
+  p { margin: 0 0 14px; }
+  .num {
+    display: block;
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--blue);
+    margin-bottom: 8px;
+  }
+  .call {
+    background: var(--sheet);
+    border-left: 3px solid var(--navy);
+    padding: 16px 18px;
+    margin: 18px 0 8px;
+  }
+  .call p:last-child { margin-bottom: 0; }
+  blockquote {
+    margin: 22px 0;
+    padding: 0 0 0 18px;
+    border-left: 3px solid var(--alert);
+    font-family: var(--serif);
+    font-size: 24px;
+    line-height: 1.3;
+    font-weight: 400;
+  }
+  blockquote cite {
+    display: block;
+    margin-top: 8px;
+    font-family: var(--sans);
+    font-size: 14px;
+    font-style: normal;
+    color: var(--muted);
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 15px; margin: 12px 0 18px; }
+  th, td { text-align: left; vertical-align: top; padding: 10px 8px; border-bottom: 1px solid var(--line); }
+  th { font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+  .tag {
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 2px 7px;
+    border: 1px solid currentColor;
+    margin-right: 6px;
+  }
+  .tag.warn { color: var(--alert); }
+  .tag.ok { color: var(--ok); }
+  .tag.ink { color: var(--navy); }
+  .case {
+    background: var(--sheet);
+    padding: 18px 18px 8px;
+    margin: 14px 0;
+    border-top: 1px solid var(--navy);
+  }
+  .case h3 { margin-top: 8px; }
+  ul { margin: 8px 0 16px; padding-left: 1.15em; }
+  li { margin: 0 0 8px; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .tile {
+    background: var(--sheet);
+    padding: 16px 16px 8px;
+    border-top: 3px solid var(--blue);
+  }
+  .tile h3 { margin-top: 0; font-size: 20px; }
+  ol.check { list-style: none; padding: 0; counter-reset: c; }
+  ol.check li {
+    counter-increment: c;
+    padding: 12px 0 12px 46px;
+    border-bottom: 1px solid var(--line);
+    position: relative;
+  }
+  ol.check li::before {
+    content: counter(c, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    top: 12px;
+    font-family: var(--serif);
+    color: var(--blue);
+  }
+  footer.colophon {
+    background: var(--navy);
+    color: #ffffff;
+    padding: 36px 8vw 48px;
+    font-size: 15px;
+  }
+  footer.colophon a { color: #ffffff; }
+  .cover .logo { height: 58px; margin: 0 0 28px; }
+  footer.colophon .logo { height: 48px; margin: 0 0 18px; }
+  .byline {
+    font-family: var(--serif);
+    font-size: 22px;
+    margin: 0 0 18px;
+    color: #ffffff;
+  }
+  .src { font-size: 14px; color: var(--muted); }
+  .lbl {
+    display: block;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 12px 0 2px;
+  }
+  .lesson {
+    background: #eef5f5;
+    border-left: 3px solid var(--ok);
+    padding: 10px 12px;
+    margin: 4px 0 14px;
+  }
+  .lesson p:last-child, .gold p:last-child, .flag p:last-child { margin-bottom: 0; }
+  .gold {
+    background: #eef2f6;
+    border-left: 3px solid var(--navy);
+    padding: 16px 18px;
+    margin: 18px 0;
+  }
+  .flag {
+    background: #f3f3f3;
+    border-left: 3px solid var(--alert);
+    padding: 16px 18px;
+    margin: 18px 0;
+  }
+  .words { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+  .words span {
+    border: 1px solid var(--alert);
+    color: var(--alert);
+    padding: 3px 8px;
+    font-weight: 700;
+    font-size: 14px;
+  }
+  .contrast, .roles { display: grid; gap: 12px; margin: 14px 0; }
+  .contrast { grid-template-columns: 1fr 1fr 1fr; }
+  .roles { grid-template-columns: 1fr 1fr 1fr; }
+  .contrast .col, .roles .tile { padding: 14px 14px 8px; }
+  .contrast h3 {
+    margin: 0 0 8px;
+    font-family: var(--sans);
+    font-size: 13px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .contrast .bad { background: #f3f3f3; border-top: 3px solid var(--alert); }
+  .contrast .why { background: var(--sheet); border-top: 3px solid var(--navy); }
+  .contrast .good { background: #eef5f5; border-top: 3px solid var(--ok); }
+  .rail {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 8px;
+    margin: 16px 0 8px;
+  }
+  .rail div {
+    background: var(--sheet);
+    border-top: 3px solid var(--navy);
+    padding: 10px 10px 8px;
+  }
+  .rail b {
+    display: block;
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    margin-bottom: 4px;
+  }
+  .rail span { display: block; font-size: 13px; color: var(--muted); }
+  .timeline { list-style: none; padding: 0; margin: 8px 0 18px; }
+  .timeline li {
+    position: relative;
+    padding: 0 0 16px 18px;
+    border-left: 2px solid var(--navy);
+  }
+  .timeline li::before {
+    content: "";
+    position: absolute;
+    left: -6px;
+    top: 6px;
+    width: 10px;
+    height: 10px;
+    background: var(--navy);
+    border-radius: 50%;
+  }
+  .timeline .when {
+    font-family: var(--serif);
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .tree { list-style: none; padding: 0; margin: 12px 0 18px; }
+  .tree li { margin: 0 0 10px; }
+  .branch {
+    margin: 6px 0 6px 14px;
+    padding: 8px 12px;
+    background: var(--sheet);
+    border-left: 3px solid var(--line);
+  }
+  .branch.stop { border-left-color: var(--alert); background: #f3f3f3; }
+  .branch.go { border-left-color: var(--ok); background: #eef5f5; }
+  .onepager-sheet {
+    border: 1px solid var(--line);
+    background: var(--sheet);
+    padding: 22px 22px 10px;
+  }
+  .onepager-sheet ol { margin-top: 0; }
+  .onepager-sheet li { margin-bottom: 4px; }
+  @media (max-width: 800px) {
+    .stats, .grid2, .contrast, .roles, .rail { grid-template-columns: 1fr; }
+    .cover { min-height: auto; padding-top: 48px; }
+    body { font-size: 17px; }
+  }
+  @page {
+    size: A4;
+    margin: 16mm 16mm 18mm;
+  }
+  @media print {
+    .nav { display: none !important; }
+    body {
+      background: white;
+      font-size: 11pt;
+      line-height: 1.45;
+    }
+    .cover {
+      min-height: auto;
+      padding: 18mm 0 12mm;
+      page-break-after: always;
+      break-after: page;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .cover .logo { height: 16mm; margin-bottom: 8mm; }
+    .cover h1 { font-size: 32pt; }
+    .byline { font-size: 14pt; }
+    .lede { font-size: 12pt; }
+    .stat b { font-size: 18pt; }
+    main { max-width: none; padding: 0; }
+    section { margin: 0 0 8mm; }
+    h2 { font-size: 18pt; break-after: avoid; page-break-after: avoid; }
+    h3 { font-size: 13pt; break-after: avoid; page-break-after: avoid; }
+    .case, .tile, blockquote, .call, tr, .gold, .flag, .lesson, .contrast .col, .rail div, .branch, .timeline li {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    .case, .tile, .call, .stat, .cover, footer.colophon, .gold, .flag, .lesson, .contrast .col, .rail div, .branch, .onepager-sheet, .logo {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .onepager-sheet {
+      break-before: page;
+      page-break-before: always;
+      border: none;
+      background: white;
+      padding: 0;
+    }
+    .rail { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+    .contrast, .roles { grid-template-columns: 1fr 1fr 1fr; }
+    footer.colophon {
+      padding: 8mm 0;
+      break-before: page;
+      page-break-before: always;
+    }
+    a { color: inherit; text-decoration: none; }
+  }
+</style>
+</head>
+<body>
+<nav class="nav">
+  <img class="logo" src="logo-esg-white.png" alt="ESG Institute">
+  <a href="#wnioski">Wnioski</a>
+  <a href="#metoda">Metoda</a>
+  <a href="#formy">Formy</a>
+  <a href="#wzorzec">Wzorce</a>
+  <a href="#prawo">Prawo</a>
+  <a href="#polska">Polska</a>
+  <a href="#sektory">Sektory</a>
+  <a href="#konsument">Konsument</a>
+  <a href="#check">Checklista</a>
+  <a href="#arkusz">Arkusz</a>
+  <a href="#zrodla">Źródła</a>
+</nav>
+
+<header class="cover">
+  <img class="logo" src="logo-esg-white.png" alt="ESG Institute">
+  <p class="kicker">Publikacja otwierająca · listopad 2026</p>
+  <h1>Stan eko-ściemy w Polsce</h1>
+  <p class="byline">Agnieszka Orłowska</p>
+  <p class="lede">Przegląd dla zarządu, marketingu i compliance: co urząd, samoregulacja i organizacje już zakwestionowały, które przepisy działają dziś, a które wejdą dopiero po ogłoszeniu ustawy. Materiał ma pomóc zdjąć zdanie, zanim stanie się zarzutem, i podać zdanie, które da się obronić.</p>
+  <div class="stats">
+    <div class="stat"><b>15</b><span>zarzutów Prezesa UOKiK wobec czterech spółek, 29 lipca 2025 r. To zarzuty, nie kary.</span></div>
+    <div class="stat"><b>3</b><span>kolejne spółki z zarzutami 19 stycznia 2026 r.: Bolt, Tchibo i Zara.</span></div>
+    <div class="stat"><b>9</b><span>postępowań wyjaśniających równolegle: odzież, handel, e-commerce, transport. Stan komunikatu z lipca 2025 r.</span></div>
+  </div>
+</header>
+
+<main>
+  <section id="wnioski">
+    <span class="num">01 · Executive summary</span>
+    <h2>Pięć wniosków, zanim przejdzie się do spraw</h2>
+    <p>Eko-ściema w Polsce przestała być tematem komentarza. Prezes UOKiK postawił zarzuty spółkom, które konsument zna z dostawy, zakupów i szafy. Rada Reklamy uwzględnia skargi na neutralność klimatyczną i na „biodegradowalne” opakowanie. Fundacja doprowadziła do ugody, w której sprzedawca węgla rezygnuje z nazwy „ekogroszek”. To nie jest jeszcze mapa wszystkich wyroków. Jest to mapa praktyk, które już mają publiczny opis.</p>
+    <div class="call">
+      <p><strong>Zarzut nie jest karą.</strong> Sprawy Allegro, DHL, DPD, InPost, Bolt, Tchibo i Zary są na etapie zarzutów. Spółka może się do nich odnieść. Karę do 10% obrotu za każdą praktykę Prezes może nałożyć, jeśli zarzut się potwierdzi. Inaczej trzeba czytać sprawę Volkswagen Group Polska: tam jest prawomocna decyzja.</p>
+    </div>
+    <div class="call">
+      <p><strong>To jest ryzyko budżetu kampanii i reputacji marki.</strong> Kara do 10% obrotu za każdą praktykę liczy się od przychodu, nie od budżetu działu, który wymyślił hasło. Osoba zarządzająca, która umyślnie dopuściła do naruszenia, może dostać karę do 2&nbsp;mln&nbsp;zł, a w podmiocie rynku finansowego do 5&nbsp;mln&nbsp;zł. Tę karę nakłada się tylko w decyzji, która karze też spółkę. Hasło, które zostaje na paczce po zarzucie, zostaje też u klienta.</p>
+    </div>
+    <ol>
+      <li>Najczęstszy wzorzec w materiałach urzędu to hasło o całości oparte na części: „zielona flota”, „zero waste”, „bezemisyjny przejazd”, gdy elektryczny jest ułamek działalności albo jeden etap życia pojazdu.</li>
+      <li>Drugi wzorzec to kompensacja opowiedziana jak redukcja: drzewo za odbiór paczki, „neutralny dla klimatu” przy offsecie, ekwiwalent „tyle co 9 drzew”.</li>
+      <li>Trzeci to ogólne słowo bez kryterium w tym samym miejscu: „eko”, „zrównoważony”, listek, „przyjazny planecie”.</li>
+      <li>Prawo konsumenckie działa już. Dyrektywa (UE) 2024/825 stosuje się od 27 września 2026 r. Polska ustawa z czarną listą, w brzmieniu druku Senatu 825, ma datę 27 września 2027 r. i do ogłoszenia w Dzienniku Ustaw nie jest ustawą.</li>
+      <li>Raport zrównoważonego rozwoju nie leczy reklamy. Frank Bold od lat opisuje sprawozdania, w których ozdobnik wyprzedza liczbę. Liczba przeniesiona do hasła bez roku, granicy i metody wraca do oceny urzędu.</li>
+    </ol>
+  </section>
+
+  <section id="metoda">
+    <span class="num">Metoda</span>
+    <h2>Co weszło do przeglądu, a czego tu nie ma</h2>
+    <p>Cel jest praktyczny: pokazać skalę, jaką da się odczytać z publicznych ogłoszeń, i skutek prawny dla firmy, która publikuje zdanie o środowisku. Nie liczyliśmy wszystkich reklam w Polsce i nie podajemy udziału „eko-ściemy w rynku”. Taka liczba nie stoi w przejrzanych źródłach.</p>
+    <p>Przejrzane zostały komunikaty i sentencje postanowień na uokik.gov.pl, uchwały Zespołu Orzekającego Komisji Etyki Reklamy na radareklamy.pl, publikacje ClientEarth Prawnicy dla Ziemi i Fundacji Frank Bold oraz akty z bazy prawa używanej do audytów: ustawa o przeciwdziałaniu nieuczciwym praktykom rynkowym, ustawa o ochronie konkurencji i konsumentów, ustawa o zwalczaniu nieuczciwej konkurencji, dyrektywa (UE) 2024/825, rozporządzenie (UE) 2019/2088, taksonomia, status wniosku Green Claims. Uchwał Rady Reklamy nie przeglądano wszystkich. Weszły te, w których przedmiotem jest twierdzenie środowiskowe albo w których zespół sam oddziela przekaz od reklamy środowiskowej.</p>
+    <p class="src">Stan prawa krajowego co do druku Senatu 825: baza aktów tego opracowania, aktualizowana do września 2026 r. Przed powołaniem daty w materiale własnym firmy warto sprawdzić, czy ustawa została ogłoszona.</p>
+  </section>
+
+  <section id="formy">
+    <span class="num">02 · Formy zjawiska</span>
+    <h2>Pięć form, które już mają polski przykład</h2>
+    <p>Definicja robocza, którą stosują europejskie nadzory finansowe, jest szersza niż „kłamstwo na etykiecie”. Komunikacja związana ze zrównoważonym rozwojem wprowadza w błąd, gdy nie oddaje jasno i rzetelnie profilu produktu, usługi albo firmy. Może być niezamierzona. Zamiar pogarsza ocenę, nie jest warunkiem zarzutu.</p>
+    <p>Dyrektywa 2024/825 nazywa twierdzeniem dotyczącym ekologiczności dobrowolny komunikat handlowy, także znak i nazwę, który sugeruje pozytywny wpływ, brak wpływu, mniejszą szkodę albo poprawę.</p>
+
+    <div class="tile">
+      <h3>Ukryty kompromis</h3>
+      <p>Prawda o jednym etapie zasłania resztę drogi. DHL mówił o ekologicznym odbiorze w punkcie przy flocie w znacznej mierze spalinowej i bez dowodu, że klient idzie pieszo. Kalkulator InPostu porównywał paczkomat z kurierem do domu i pomijał drogę konsumenta w obie strony. Torebka papierowa z folią, której nie da się oddać do papieru, jest tym samym układem, tylko w innym sektorze.</p>
+    </div>
+    <div class="tile">
+      <h3>Ogólnik bez dowodu</h3>
+      <p>„Eko”, „zrównoważony”, listek. W sklepie i aplikacji Tchibo takie oznaczenie stało przy wyrobach z poliestru, poliamidu i poliakrylu oraz, w wyrobach twardych, przy 10% materiału z recyklingu. Zara w sekcji „Join Life” pisała o energii odnawialnej, zero waste i zerowej emisji netto bez skali. Urząd podaje, że „zero waste we własnych obiektach” mogło dotyczyć 1 z 40 sklepów w Polsce.</p>
+    </div>
+    <div class="tile">
+      <h3>Własny znak</h3>
+      <p>Prywatne logo zrównoważoności, które wygląda jak certyfikat, a nie ma systemu strony trzeciej ani organu publicznego, jest na czarnej liście dyrektywy (punkt 2a). W polskich sprawach ten sam skutek robi listek i słowo „eko” bez kryterium obok. EU Ecolabel i urzędowy znak ISO 14024 typu I są innym przedmiotem: mają publiczny regulamin i kontrolę.</p>
+    </div>
+    <h3>Certyfikat a własne oświadczenie</h3>
+    <p>Bezpieczna przystań nie jest każdym znaczkiem z liściem. Jest nią znak, który ma publiczne kryteria i kontrolę strony trzeciej albo organu publicznego, i który dotyczy tego, o czym jest hasło. Reszta jest oświadczeniem firmy.</p>
+    <table>
+      <thead><tr><th></th><th>Co firma może na tym oprzeć hasło</th><th>Czego na tym nie oprze</th></tr></thead>
+      <tbody>
+        <tr><td>EU Ecolabel</td><td>Znak publiczny. Ogólne hasło („eko”, „zielony”, „zrównoważony”) zostaje przy nim tylko wtedy, gdy znak stoi w tym samym miejscu i dotyczy tego, o czym jest zdanie.</td><td>Nie przenosi się z jednego składnika na cały wyrób i nie leczy hasła o firmie, której znak nie obejmuje.</td></tr>
+        <tr><td>Urzędowy znak ISO 14024 typu I</td><td>To samo miejsce i ten sam przedmiot co hasło. ISO 14024 opisuje program znaku typu I. Sam numer normy na opakowaniu nie jest tym znakiem.</td><td>Deklaracja własna firmy, nawet liczona „według ISO”, nie jest znakiem typu I.</td></tr>
+        <tr><td>Prywatna etykieta, listek, słowo „eko” bez kryterium</td><td>Nic, co wygląda jak certyfikat. To oświadczenie firmy albo agencji.</td><td>Punkt 2a czarnej listy: znak zrównoważoności bez certyfikacji strony trzeciej i bez organu publicznego. W sprawach Tchibo i Zary tak czytał się listek i nazwa linii.</td></tr>
+      </tbody>
+    </table>
+    <div class="tile">
+      <h3>Kompensacja zamiast redukcji</h3>
+      <p>Allegro obiecywało drzewo „w imieniu” klienta za odbiór w Allegro One. Od 2024 r. doszedł słabo opisany warunek dedykacji w 30 dni, a drzewa sadzono z wyprzedzeniem i przypisywano je później. InPost przeliczał jeden paczkomat na „tyle CO₂, co 9 drzew w roku” bez wykazania tej równości. Na czarnej liście neutralność, mniejszy wpływ albo wpływ dodatni oparte na offsecie są zakazane w każdych okolicznościach (punkt 4c).</p>
+    </div>
+    <div class="tile">
+      <h3>Obowiązek prawa jako zaleta</h3>
+      <p>„Bez substancji zakazanej w Unii” nie jest cechą środowiskową, jeśli zakaz i tak obowiązuje. To punkt 10a. Ten sam test dotyczy filaru społecznego: równe wynagrodzenie za pracę jednakowej wartości, umowa o pracę tam, gdzie jest stosunek pracy, i bezpłatne BHP są obowiązkiem Kodeksu pracy, nie programem CSR.</p>
+    </div>
+
+    <h3>Trzy nazwy, które rynek już zna</h3>
+    <p>Przy InPoście urząd nazwał ecoshamingiem winę konsumenta za odrzucenie opcji, której efektu nie wykazano. Obok tego słowa w rozmowie z biznesem stoją trzy kolejne. Żadne nie jest terminem ustawy. Każde ma tu polski przykład.</p>
+    <div class="roles">
+      <div class="tile">
+        <h3>Greenlighting</h3>
+        <p>Światło na jednej zielonej cesze, żeby nie patrzeć na resztę. Pięć uli na dachu przy haśle o całej firmie. „Zero waste we własnych obiektach”, gdy mogło chodzić o 1 z 40 sklepów. To ten sam układ co ukryty kompromis.</p>
+      </div>
+      <div class="tile">
+        <h3>Greenhushing</h3>
+        <p>Celowe milczenie. Firma ma liczbę i przestaje ją publikować, żeby nie dostać zarzutu. Milczenie nie zdejmuje zdania, które zostało na opakowaniu i na stronie. Sekcja 06 mówi, co z takim zdaniem zrobić.</p>
+      </div>
+      <div class="tile">
+        <h3>Greenbleaching</h3>
+        <p>Powstrzymanie się od deklaracji zrównoważonego charakteru, który produkt ma, żeby uniknąć ryzyka prawnego. Grupa interesariuszy ESMA użyła tej nazwy przy funduszach schodzących z art. 9 rozporządzenia 2019/2088 do art. 8. To nie jest zakazany chwyt reklamowy. Jest dziurą w informacji dla klienta, który szuka produktu o danym celu.</p>
+      </div>
+    </div>
+
+    <h3 id="wzorzec">Zamiast tego powiedz</h3>
+    <p>Biznes potrzebuje zdania na zamianę, nie tylko listy błędów. Poniżej jest wzorzec. Liczba 18% i „strona X” są miejscem na własny pomiar firmy. Nie są wynikiem tego przeglądu. Zdanie o węglu jest: Prezes UOKiK powiedział je przy zarzutach wobec DPD.</p>
+    <div class="contrast">
+      <div class="col bad">
+        <h3>Błędne hasło</h3>
+        <p>„W 100% neutralna klimatycznie paczka dzięki kompensacji.”</p>
+      </div>
+      <div class="col why">
+        <h3>Dlaczego pada</h3>
+        <p>Offset nie jest redukcją emisji. Przy aucie elektrycznym sieć ładowania w Polsce opiera się w ponad 60% na węglu, więc „zero” na etapie jazdy też nie jest zerem całej drogi.</p>
+      </div>
+      <div class="col good">
+        <h3>Bezpieczny ekwiwalent</h3>
+        <p>„W 2025 r. 18% naszej floty miejskiej stanowiły auta elektryczne. Metodyka i granica obliczeń: strona X.”</p>
+      </div>
+    </div>
+    <div class="contrast">
+      <div class="col bad">
+        <h3>Błędne hasło</h3>
+        <p>„Zero waste we własnych obiektach.”</p>
+      </div>
+      <div class="col why">
+        <h3>Dlaczego pada</h3>
+        <p>Zdanie brzmi jak sieć. W zarzucie wobec Zary urząd wskazał, że mogło chodzić o jeden z czterdziestu sklepów w Polsce.</p>
+      </div>
+      <div class="col good">
+        <h3>Bezpieczny ekwiwalent</h3>
+        <p>„W [roku] program zero waste objął [liczbę] z [liczby] sklepów w Polsce.” Reszta sieci nie wchodzi do hasła.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="prawo">
+    <span class="num">03 · Otoczenie regulacyjne</span>
+    <h2>Dwa zegary: urząd działa dziś, czarna lista ma datę</h2>
+    <p>Firma, która czeka z korektą haseł do polskiej ustawy, czyta zły kalendarz. Wprowadzenie w błąd i pominięcie istotnej informacji są zakazane ustawą o przeciwdziałaniu nieuczciwym praktykom rynkowym. Prezes UOKiK postawił zarzuty z lipca 2025 r. i ze stycznia 2026 r. na tym prawie, nie na przyszłej nowelizacji. Urząd nie czeka na ogłoszenie czarnej listy.</p>
+    <div class="rail" aria-label="Oś czasu obowiązków">
+      <div><b>Już</b><span>UOKiK stawia zarzuty na obecnym prawie.</span></div>
+      <div><b>XII 2024</b><span>Sygnalista może iść do Prezesa.</span></div>
+      <div><b>27.03.2026</b><span>Termin transpozycji minął.</span></div>
+      <div><b>27.09.2026</b><span>Dyrektywa stosuje się w Unii.</span></div>
+      <div><b>27.09.2027</b><span>Data w projekcie, nie ustawa.</span></div>
+    </div>
+    <ol class="timeline">
+      <li><span class="when">Już</span><p>Ustawa o nieuczciwych praktykach, art. 5 i 6. Ustawa o ochronie konkurencji i konsumentów, art. 24 i 106: kara do 10% obrotu za każdą praktykę, także nieumyślna. Osoba zarządzająca, która umyślnie dopuściła do naruszenia art. 24, może dostać karę do 2 mln zł, a w podmiocie rynku finansowego do 5 mln zł. Tę karę nakłada się tylko w decyzji, która karze też spółkę (art. 106b).</p></li>
+      <li><span class="when">25 września 2024 i 25 grudnia 2024</span><p>Ustawa o sygnalistach. Od grudnia 2024 r. zgłoszenie zewnętrzne o ochronie konsumentów można złożyć Prezesowi UOKiK. Klauzula poufności nie zamyka zgłoszenia nieprawidłowości.</p></li>
+      <li><span class="when">27 marca 2026</span><p>Minął termin transpozycji dyrektywy 2024/825. Komisja wszczęła postępowania o naruszenie wobec państw, które nie wdrożyły dyrektywy, w tym wobec Polski.</p></li>
+      <li><span class="when">27 września 2026</span><p>Dyrektywa stosuje się w Unii. Od tego dnia ogólne hasło, hasło o całości oparte na części, neutralność z kompensacji i własny znak zrównoważoności ocenia się także według czarnej listy. Korekta strony i reklamy internetowej nie ma taryfy dla „starych” haseł. Opakowań nie trzeba niszczyć. Trzeba je poprawić naklejką albo informacją w sklepie i nie zamawiać nowej partii ze starym zdaniem.</p></li>
+      <li><span class="when">27 września 2027</span><p>Data w druku Senatu 825, po uchwale Sejmu z 4 września 2026 r. To projektowany początek krajowej listy, nie ogłoszona ustawa. Do czasu Dziennika Ustaw nie wolno pisać, że zakaz „zaczyna się dopiero w 2027 r.”.</p></li>
+    </ol>
+    <h3>Czarna lista, po polsku</h3>
+    <p>Dyrektywa 2024/825 dopisuje do dyrektywy 2005/29 praktyki zakazane bez ważenia, czy przeciętny konsument dał się przekonać. Dla działu marketingu znaczą tyle:</p>
+    <div class="flag">
+      <span class="lbl">Czerwona flaga</span>
+      <p>Te słowa wracają w zarzutach i na czarnej liście. Same w sobie nie są zakazane. Bez zakresu, roku i metody czytają się jak obietnica całości.</p>
+      <div class="words"><span>bezemisyjny</span><span>eko</span><span>neutralny dla klimatu</span></div>
+    </div>
+    <ul>
+      <li><strong>Punkt 4a.</strong> Ogólne hasło („eko”, „zielony”, „zrównoważony”, „przyjazny środowisku”) zostaje tylko z EU Ecolabel albo urzędowym znakiem ISO 14024 typu I w tym samym miejscu, i tylko gdy znak dotyczy tego, o czym jest hasło.</li>
+      <li><strong>Punkt 4b.</strong> Zdanie o całym produkcie albo całej firmie, gdy dowód dotyczy linii, składnika albo jednego obiektu.</li>
+      <li><strong>Punkt 4c.</strong> „Neutralny”, „klimatycznie dodatni”, „skompensowany”, jeśli podstawą jest offset, a nie redukcja w łańcuchu.</li>
+      <li><strong>Punkt 2a.</strong> Znak zrównoważoności bez certyfikacji strony trzeciej i bez organu publicznego.</li>
+      <li><strong>Punkt 10a.</strong> Wymóg prawa pokazany jako własna przewaga oferty.</li>
+    </ul>
+    <div class="gold">
+      <span class="lbl">Złota zasada</span>
+      <p>Dopisek małym drukiem ani kod QR nie naprawiają hasła, które samo w sobie wprowadza w błąd. To wykładnia wyroku TSUE C-611/14, stosowana do art. 5 polskiej ustawy. Przy samym pominięciu patrzy się, czy brakująca informacja stoi obok i da się ją przeczytać.</p>
+    </div>
+    <h3>Czego Green Claims nie jest</h3>
+    <p>Wniosek dyrektywy w sprawie uzasadniania twierdzeń środowiskowych, COM(2023) 166, miał dodać weryfikację z góry. Od czerwca 2025 r. negocjacje są wstrzymane. To nie jest obowiązujące prawo. Zostaje jako wzorzec staranności: zakres, metoda, istotność, brak szkody przeniesionej na inny element środowiska, offset oddzielony od emisji. Obowiązek dowodu i tak wynika z ustawy o nieuczciwych praktykach.</p>
+    <h3>Raport i reklama to dwa zdania</h3>
+    <p>Dyrektywa CSRD i standardy ESRS dotyczą sprawozdania, nie ulotki. Atestacja biegłego nie przenosi się na hasło w sklepie. Jeśli firma powtórzy w reklamie liczbę z raportu, liczba potrzebuje roku, granicy i metody w tym samym zdaniu. W finansach rozporządzenie 2019/2088 rozdziela produkt, który promuje aspekt środowiskowy lub społeczny (art. 8), od produktu, który ma cel zrównoważonych inwestycji (art. 9). Nazwa ze słowem ESG albo „zrównoważony” podlega dodatkowo wytycznym ESMA: trzon portfela i wykluczenia. W tym przeglądzie nie znaleziono polskiej decyzji Prezesa UOKiK o nazwie funduszu. Ryzyko opisujemy z rozporządzenia, nie z krajowej kary.</p>
+    <p>Wobec kontrahenta równolegle działa ustawa o zwalczaniu nieuczciwej konkurencji: oznaczenie towaru lub usługi (art. 10) i reklama wprowadzająca w błąd (art. 16). Katalog i oferta B2B nie stoją poza tą oceną. Presja schodzi w łańcuch dostaw. Duża spółka, która raportuje, będzie weryfikować deklaracje środowiskowe dostawców, także z sektora MŚP, bo wchodzą one do jej własnego sprawozdania. Brak obowiązku CSRD u mniejszej firmy nie jest zezwoleniem na hasło w ofercie dla klienta, który ten obowiązek ma.</p>
+  </section>
+
+  <section id="polska">
+    <span class="num">04 · Krajobraz interwencji</span>
+    <h2>Co ogłosiły urząd, Rada Reklamy i fundacje</h2>
+    <blockquote>
+      Zielone hasła nie mogą być pustymi obietnicami. Konsument ma prawo wiedzieć, co naprawdę kryje się za jego wyborem.
+      <cite>Tomasz Chróstny, Prezes UOKiK, komunikat z 29 lipca 2025 r.</cite>
+    </blockquote>
+
+    <h3>Fala z 29 lipca 2025 r. i z 19 stycznia 2026 r.</h3>
+    <p>Prezes nazwał praktykę wprost eko-ściemą. Podstawa sentencji z lipca: art. 5 ustawy o nieuczciwych praktykach i art. 24 ustawy o ochronie konkurencji i konsumentów. Łącznie piętnaście zarzutów wobec czterech spółek, potem trzy kolejne spółki. To są zarzuty, nie kary. Spółka może się do nich odnieść.</p>
+    <table>
+      <thead><tr><th>Podmiot</th><th>Zakwestionowany przekaz</th><th>Podstawa / zarzut</th><th>Status sprawy</th></tr></thead>
+      <tbody>
+        <tr><td>Allegro Polska</td><td>Drzewo za odbiór w Allegro One, „w imieniu” klienta.</td><td>Wybór dostawy nie sterował nasadzeniem. Art. 5 i art. 24. DOZIK-1.610.2.2025.</td><td>Zarzut, 29 lipca 2025 r. Dwie praktyki. Nie kara.</td></tr>
+        <tr><td>DHL eCommerce Poland</td><td>„DHL jest ECO więc POP BOX też musi być.” Drzewa, rzeka, pięć uli.</td><td>Brak dowodu odbioru pieszo, flota w znacznej mierze spalinowa, akcja lokalna przy haśle ogólnym. RBG-2.610.2.2025.</td><td>Zarzut, 29 lipca 2025 r. Cztery praktyki. Nie kara.</td></tr>
+        <tr><td>DPD Polska</td><td>„Zielona flota”, paczki „neutralne dla środowiska”, „ZERO emissions”.</td><td>Brak skali floty i całej drogi. Ładowanie z sieci w Polsce nie jest zeroemisyjne: prąd w ponad 60% z węgla. DOZIK-1.610.3.2025.</td><td>Zarzut, 29 lipca 2025 r. Sześć praktyk. Nie kara.</td></tr>
+        <tr><td>InPost</td><td>„Dowozimy zeroemisyjny e-commerce.” „Tyle CO₂, co 9 drzew.” Kalkulator w aplikacji.</td><td>Flota w większości wysokoemisyjna, ekwiwalent bez dowodu, pominięta droga klienta, ecoshaming. RBG-2.610.1.2025.</td><td>Zarzut, 29 lipca 2025 r. Trzy praktyki. Nie kara.</td></tr>
+        <tr><td>Bolt</td><td>„Bezemisyjne pojazdy”, „Projekt zero”, „100% energii odnawialnej”.</td><td>Usługi głównie autami spalinowymi. „Bezemisyjny” bez zastrzeżenia czyta się jak zero w ogóle. Certyfikat to nie prąd ze źródła.</td><td>Zarzut, 19 stycznia 2026 r. Nie kara.</td></tr>
+        <tr><td>Tchibo</td><td>„Eko”, „zrównoważone”, listek. Kapsułki „zdatne do recyklingu”.</td><td>Brak kryterium. Próg 10% recyklatu. Warunek recyklingu po angielsku i niemiecku, a w Polsce nieopróżnionej kapsułki często się nie przetwarza.</td><td>Zarzut, 19 stycznia 2026 r. Nie kara.</td></tr>
+        <tr><td>Zara, „Join Life”</td><td>Energia odnawialna, zero waste, zerowa emisja netto, bez zakresu.</td><td>Certyfikat składnika czytany jak standard modelu. „Zero waste we własnych obiektach” mogło dotyczyć 1 z 40 sklepów.</td><td>Zarzut, 19 stycznia 2026 r. Nie kara.</td></tr>
+      </tbody>
+    </table>
+    <p>W komunikacie z lipca urząd podał, że prowadzi równolegle dziewięć postępowań wyjaśniających wobec spółek z odzieży, handlu detalicznego, e-commerce i transportu. Nie utożsamiamy ich automatycznie z późniejszymi zarzutami. Jeśli praktyka się nie zmieni, urząd zapowiedział kolejne zarzuty.</p>
+
+    <article class="case">
+      <span class="tag warn">Zarzut · 2 praktyki</span>
+      <h3>Allegro Polska</h3>
+      <span class="lbl">Kontekst i hasło</span>
+      <p>Akcja „Sadzimy drzewa za odbiór w Allegro One”, od 2023 r., mówiła o drzewie za każde 10 przesyłek „w imieniu” klienta.</p>
+      <span class="lbl">Zarzut</span>
+      <p>Od 2024 r. drzewo wymagało dedykacji w ciągu 30 dni. Informacja o zmianie poszła raz, w grudniowym mailu. Dedykacja bywała zablokowana. Drzewa sadzono z wyprzedzeniem i przypisywano symbolicznie. Wybór dostawy nie sterował nasadzeniem. Sygnatura: DOZIK-1.610.2.2025.</p>
+      <p class="lesson"><strong>Lekcja.</strong> Drzewo „w imieniu” klienta albo zależy od tego wyboru, albo hasło go nie obiecuje. Warunek dopisany w jednym mailu nie naprawia zdania, które zostało na stronie.</p>
+    </article>
+    <article class="case">
+      <span class="tag warn">Zarzut · 4 praktyki</span>
+      <h3>DHL eCommerce Poland</h3>
+      <span class="lbl">Kontekst i hasło</span>
+      <p>„DHL jest ECO więc POP BOX też musi być.” Osobno: sadzenie drzew i sprzątanie rzeki o charakterze lokalnym oraz „PaczULE na ratunek pszczołom”, czyli pięć uli na dachu siedziby w Warszawie.</p>
+      <span class="lbl">Zarzut</span>
+      <p>Urząd nie znalazł dowodu, że klienci odbierają paczki pieszo, a flota w znacznej mierze jest spalinowa. Akcje lokalne stały przy ogólnym przekazie. Sygnatura: RBG-2.610.2.2025.</p>
+      <p class="lesson"><strong>Lekcja.</strong> Jedna zielona cecha nie niesie hasła o firmie. Pięć uli, lokalna rzeka i punkt odbioru to greenlighting: światło na fragmencie, reszta drogi w cieniu.</p>
+    </article>
+    <article class="case">
+      <span class="tag warn">Zarzut · 6 praktyk</span>
+      <h3>DPD Polska</h3>
+      <span class="lbl">Kontekst i hasło</span>
+      <p>„Zielona flota”, „DPD doręcza paczki neutralne dla środowiska”, „ZERO emissions”.</p>
+      <span class="lbl">Zarzut</span>
+      <p>Przekaz nie obejmuje skali floty ani całej drogi paczki. Prezes powiedział w tym samym komunikacie, że komunikat o pojeździe elektrycznym ma objąć cykl życia, a w Polsce ładowanie z ogólnodostępnej sieci nie jest zeroemisyjne: prąd pochodzi w ponad 60% z węgla. Sygnatura: DOZIK-1.610.3.2025.</p>
+      <p class="lesson"><strong>Lekcja.</strong> „Neutralne” i „zero” padają, gdy podstawą jest etap jazdy albo kompensacja. Hasło nazywa skalę floty i źródło prądu albo go nie ma.</p>
+    </article>
+    <article class="case">
+      <span class="tag warn">Zarzut · 3 praktyki</span>
+      <h3>InPost</h3>
+      <span class="lbl">Kontekst i hasło</span>
+      <p>„Dowozimy zeroemisyjny e-commerce.” Na automacie: „jeden paczkomat dziennie redukuje tyle CO₂, co 9 drzew w roku”. W aplikacji kalkulator śladu.</p>
+      <span class="lbl">Zarzut</span>
+      <p>Hasło stało przy flocie w większości wysokoemisyjnej. Ekwiwalent drzew bez należytego dowodu. Kalkulator pomija odbiór przez klienta. Urząd nazwał presję na wybór paczkomatu ecoshamingiem: winą konsumenta za odrzucenie opcji, której efektu nie wykazano. Sygnatura: RBG-2.610.1.2025.</p>
+      <p class="lesson"><strong>Lekcja.</strong> Ekwiwalent bez metody się nie broni. Kalkulator bez drogi klienta pomija istotną informację. Nie przerzuca się winy na odbiorcę za wybór, którego efektu firma nie policzyła.</p>
+    </article>
+    <article class="case">
+      <span class="tag warn">Zarzut · 19 stycznia 2026 r.</span>
+      <h3>Bolt</h3>
+      <span class="lbl">Kontekst i hasło</span>
+      <p>„Bezemisyjne pojazdy” i „Projekt zero” przy przejazdach, dostawie jedzenia, wynajmie i mikromobilności. Osobno: „100% energii odnawialnej” biur, magazynów i ładowania.</p>
+      <span class="lbl">Zarzut</span>
+      <p>Usługi są przede wszystkim wykonywane autami spalinowymi, a udział elektrycznych jest niewielki. „Bezemisyjny” bez zastrzeżenia czyta się jak zero emisji w ogóle, nie jak etap jazdy. „100% energii odnawialnej” może w dużej mierze oznaczać certyfikaty, nie zakup prądu ze źródła odnawialnego.</p>
+      <p class="lesson"><strong>Lekcja.</strong> Ułamek floty nazywa się ułamkiem. Certyfikat pochodzenia energii nazywa się certyfikatem, nie prądem w gniazdku.</p>
+    </article>
+    <article class="case">
+      <span class="tag warn">Zarzut · 19 stycznia 2026 r.</span>
+      <h3>Tchibo</h3>
+      <span class="lbl">Kontekst i hasło</span>
+      <p>Oznaczenia „eko” i „zrównoważone” oraz listek. Kapsułki Cafissimo: „zdatne do recyklingu” i „powrót do obiegu”.</p>
+      <span class="lbl">Zarzut</span>
+      <p>Przy wyrobach z poliestru, poliamidu i poliakrylu oraz, w wyrobach twardych, przy progu 10% recyklatu nie było kryterium obok znaku. Warunek Niemiec i Austrii stał na opakowaniu po angielsku i niemiecku. W Polsce nieopróżnionej kapsułki często się nie przetwarza.</p>
+      <p class="lesson"><strong>Lekcja.</strong> Listek bez kryterium jest hasłem. Warunek recyklingu, którego klient w Polsce nie spełni i nie przeczyta, nie jest informacją obok hasła.</p>
+    </article>
+    <article class="case">
+      <span class="tag warn">Zarzut · 19 stycznia 2026 r.</span>
+      <h3>Zara, sekcja „Join Life”</h3>
+      <span class="lbl">Kontekst i hasło</span>
+      <p>Ogólne hasła o energii odnawialnej, zero waste, zerowej emisji netto, Celach Zrównoważonego Rozwoju i audytach. Nazwa linii przy karcie produktu.</p>
+      <span class="lbl">Zarzut</span>
+      <p>Zdań nie ograniczono zakresem. Certyfikat i procent na karcie produktu mogły być czytane tak, jakby cały model spełniał standard. „Zero waste we własnych obiektach” mogło dotyczyć jednego z czterdziestu sklepów.</p>
+      <p class="lesson"><strong>Lekcja.</strong> Nazwa linii nie jest certyfikatem kolekcji. Procent jednego składnika jest zdaniem o tym składniku. Jeden sklep nie jest siecią.</p>
+    </article>
+
+    <h3>Jedna prawomocna decyzja, którą łatwo opowiedzieć za szeroko</h3>
+    <article class="case">
+      <span class="tag ink">Decyzja prawomocna</span>
+      <h3>Volkswagen Group Polska i silnik EA 189</h3>
+      <p>Decyzja DOZIK-2/2020 z 14 stycznia 2020 r. została zmieniona decyzją DPR-1/2025 po ugodzie zawartej przy Prokuratorii Generalnej i zatwierdzonej przez sąd. Prezes utrzymał ustalenie, że importer wprowadzał konsumentów w błąd co do normy Euro 5, emisji tlenków azotu i ekologiczności samochodów Volkswagen, SEAT, Škoda i Audi z silnikiem Diesla EA 189 oraz oprogramowaniem włączającym się w teście homologacyjnym. Utrzymał też ustalenie o wytycznych dla sprzedawców, które sugerowały automatyczne nieuwzględnianie reklamacji mimo niezgodności towaru z umową.</p>
+      <p>Prawomocna kara wynosi 73&nbsp;752&nbsp;658 zł. W sentencji ta kwota jest przypisana do praktyki dotyczącej reklamacji. Kary pieniężne za trzy praktyki wprowadzenia w błąd co do emisji i ekologiczności zostały w ugodzie uchylone. Zostaje ustalenie, że takie wprowadzenie w błąd było. Nie zostaje zdanie, że „74 miliony to kara za eko-ściemę”.</p>
+      <p class="lesson"><strong>Lekcja.</strong> Zanim liczba wyjdzie na zewnątrz, czyta się, do której praktyki sentencja ją przypisała. Prawomocna kwota nie jest skrótem „kara za eko-ściemę”.</p>
+    </article>
+
+    <h3>Rada Reklamy: etyka, nie kara urzędu</h3>
+    <p>Uchwała Zespołu Orzekającego nie jest decyzją Prezesa i nie nakłada procentu od obrotu. Jest publiczną oceną przekazu według Kodeksu Etyki Reklamy. Dla firmy, która jest członkiem systemu albo po prostu nie chce powtarzać zakwestionowanego zdania, ma wagę wzorca. Artykuły, które wracają w tych sprawach, to art. 8 i 10 (zaufanie i wprowadzenie w błąd) oraz art. 33, 39 i 40 (reklama środowiskowa: weryfikowalność i brak pozornej korzyści).</p>
+    <table>
+      <thead><tr><th>Uchwała</th><th>Reklamodawca</th><th>Co zespół uznał</th></tr></thead>
+      <tbody>
+        <tr><td>ZO/093/23o · 8 listopada 2023 · KER/135/23</td><td>Schneider Schreibgeräte</td><td>„Długopisy neutralne dla klimatu” i logo ClimatePartner. Kompensacja jako główne działanie. W raporcie emisje tylko w zakresie 1, bez zakresu 2 i 3.</td></tr>
+        <tr><td>ZO/092/23o · 8 listopada 2023 · KER/138/23 oraz ZO/079/24o · 7 sierpnia 2024 · KER/074/24</td><td>Kaufland</td><td>Produkty „K-take it veggie” jako neutralne dla klimatu, bo projekty ochrony klimatu kompensują emisję od produkcji po utylizację. Zespół: offset nie zastępuje redukcji, a stan neutralności nie został osiągnięty.</td></tr>
+        <tr><td>ZO/129/24u · 13 listopada 2024 · KER/075/24</td><td>Weleda Polska</td><td>Neutralność produktów „arytmetycznie”, z kompensacji i redukcji, za lata 2021–2022. Dla odbiorcy nie było jasne, że opis dotyczy tamtego okresu. Nieaktualne zdanie trzeba zdjąć albo zmienić.</td></tr>
+        <tr><td>ZO/131/24u · 13 listopada 2024 · KER/154/24</td><td>Yves Rocher Polska</td><td>Uzupełniacz żelu: plastik z recyklingu przeczytany jako produkt biodegradowalny i przyjazny planecie. Opakowanie nie jest biodegradowalne. Zespół przywołał motyw 9 dyrektywy 2024/825.</td></tr>
+        <tr><td>ZO/107/24u · 2 października 2024 · KER/083/24</td><td>Jeronimo Martins Polska, kostka Agent Max w Biedronce</td><td>„Biodegradowalność potwierdzona badaniami” oraz „BIO” na opakowaniu, bez źródła przy haśle. Spółka w postępowaniu przedstawiła badanie. Zespół oceniał reklamę, nie teczkę: konsument przy półce nie ma jak sprawdzić zdania.</td></tr>
+        <tr><td>ZO/087/25u · 29 października 2025 · KER/123/25</td><td>Tanah</td><td>Skargi w zakresie art. 33 nie uwzględniono. Komentarz nie był reklamą środowiskową: nie było „eko”, „naturalny” ani „zrównoważony” jako cechy produktu. Tradycyjny składnik sam nie jest twierdzeniem o środowisku.</td></tr>
+      </tbody>
+    </table>
+
+    <h3>Organizacje, które przynoszą sprawę, a nie tylko komentarz</h3>
+    <p><strong>ClientEarth Prawnicy dla Ziemi.</strong> W 2021 r. fundacja złożyła pozew przeciwko producentowi węgla do ogrzewania domów i zawiadomienie do UOKiK. Nazwa „ekogroszek” oraz zieleń i motywy roślin na opakowaniu sugerowały łagodność dla środowiska. Fundacja podaje, że UOKiK odmówił wszczęcia postępowania. Sprawa sądowa skończyła się ugodą: SYNERGIO S.A. zobowiązała się unikać marketingu sugerującego, że węgiel kamienny jest neutralny albo pozytywny dla środowiska, w tym nazwy „ekogroszek” oraz opakowań zielonych i roślinnych, i opublikować oświadczenie w prasie. Fundacja podaje też, że zmiana rozporządzenia o wymaganiach jakościowych dla paliw stałych ograniczyła używanie tej nazwy.</p>
+    <p>Dwie liczby, które fundacja wiąże z tą sprawą, nie są badaniem całej populacji Polski. Sondaż Kantar z 2021 r., przywołany przez fundację: 43% użytkowników „ekogroszku” wierzyło w jego ekologiczność. Badania Politechniki Warszawskiej wykonane na zlecenie fundacji: emisje pyłów ze spalania mogą przekraczać dopuszczalne normy nawet 40 razy. Cytujemy je jako opis fundacji, z podanym przedmiotem badania.</p>
+    <p><strong>Frank Bold.</strong> Fundacja od 2018 r. czyta raporty niefinansowe, w tym w Alliance for Corporate Transparency. W analizie ponad 300 przedsiębiorstw z Europy Środkowej, Wschodniej i Południowej, w tym 73 z Polski, opublikowanej jeszcze pod dyrektywą o ujawnieniach niefinansowych, około 30% podmiotów dawało na tyle szczegółowy opis polityki i ryzyk klimatycznych, by dało się zrozumieć wpływ. Wśród polskich spółek z tej próby: 2 (2,7%) odnosiły cele do dowodów naukowych, 17,8% monitorowało intensywność emisji (średnia próby 28,7%), 72,6% nie informowało o polityce bioróżnorodności. Dyrektor polskiego oddziału mówił wprost, że część sprawozdań ESG to długie, kolorowe broszury: ozdobnik, mało treści.</p>
+    <p>W późniejszej analizie 100 spółek giełdowych, z czego 22 z Polski, fundacja opisuje wzrost planów transformacji (54% próby) i deklaracji zeroemisyjności (40% próby) oraz niższy poziom szczegółowości polskich planów w pierwszym roku nowych przepisów. To liczby próby Frank Bold, nie procent całej giełdy w Warszawie. Fundacja mówi też wprost, po co są standardy ESRS: przejrzystość i ograniczenie eko-ściemy w raporcie.</p>
+  </section>
+
+  <section id="sektory">
+    <span class="num">05 · Mapa sektorów</span>
+    <h2>Gdzie zdanie pęka najczęściej</h2>
+    <div class="grid2">
+      <div class="tile">
+        <h3>Dostawa i platforma</h3>
+        <p>Zielona dostawa, zeroemisyjny e-commerce, drzewo za odbiór, kalkulator CO₂. Pytanie, które urząd już zadaje: jaka część floty, jaki etap życia pojazdu, skąd prąd, czy droga klienta jest w liczbie, czy drzewo zależy od tego kliknięcia.</p>
+      </div>
+      <div class="tile">
+        <h3>Moda i wyposażenie domu</h3>
+        <p>Nazwa linii („Join Life”) czytana jak certyfikat kolekcji. Procent recyklatu jednego składnika pokazany jak cecha całego modelu. Surowiec z certyfikatem nie jest automatycznie certyfikatem wyrobu.</p>
+      </div>
+      <div class="tile">
+        <h3>Kosmetyk, chemia, żywność</h3>
+        <p>„Biodegradowalny” bez warunków rozkładu. „Przyjazny planecie” przy opakowaniu, które biodegradowalne nie jest. Neutralność linii roślinnej oparta na kompensacji. Osobno: „eko” i „bio” na żywności są nazwą zastrzeżoną rolnictwa ekologicznego, nie hasłem marketingowym.</p>
+      </div>
+      <div class="tile">
+        <h3>Energia i paliwo</h3>
+        <p>Nazwa i opakowanie węgla, które sugerują łagodność. Ułamek odnawialnej energii opowiedziany jak miks firmy. Certyfikat pochodzenia energii to nie to samo co prąd w gniazdku, co urząd powiedział przy haśle Bolta. Nie znaleziono w tym przeglądzie decyzji Prezesa o kampanii koncernu paliwowego. Sprawa cen paliw Orlenu z 2022 r. dotyczyła cen, nie twierdzeń środowiskowych, i urząd nie stwierdził naruszenia prawa konkurencji.</p>
+      </div>
+      <div class="tile">
+        <h3>Finanse</h3>
+        <p>Art. 8 sprzedany jak art. 9. Nazwa funduszu ze słowem zrównoważenia bez progu z wytycznych ESMA. Procent „zgodny z taksonomią” bez odróżnienia kwalifikowalności od zgodności i bez zasady „nie czyń poważnych szkód”. Krajowej decyzji o nazwie funduszu w tym przeglądzie nie ma. Zgłoszenie w tym obszarze może iść do KNF.</p>
+      </div>
+      <div class="tile">
+        <h3>Budynek i wyrób</h3>
+        <p>BREEAM albo LEED nie jest definicją budynku bezemisyjnego z dyrektywy o charakterystyce energetycznej. Deklaracja środowiskowa wyrobu niesie moduły, które ma wpisane. Nie jest oceną całego budynku i nie wolno jej czytać szerzej niż te moduły.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="konsument">
+    <span class="num">06 · Perspektywa społeczna</span>
+    <h2>Zaufanie pęka w konkretnej sprawie, nie w haśle o „pokoleniu”</h2>
+    <p>Nie przytaczamy tu odsetka Polaków, którzy odróżniają EU Ecolabel od znaczka agencji. Takiego badania nie ma w źródłach, które weszły do tego przeglądu. Jest węższy, twardszy obraz.</p>
+    <p>Prezes UOKiK opisał skutek wprost: eko-ściema zniechęca do produktów, które naprawdę mają mniejszy wpływ, i zniechęca firmy, które poniosły koszt rzetelnej zmiany. To jest mechanizm zmęczenia zielonym hasłem. Drugi biegun ma swoją nazwę: greenhushing, celowe milczenie. Firma, która miała liczbę, przestaje ją publikować, żeby nie dostać zarzutu. Milczenie nie leczy zdania, które zostało na opakowaniu i na stronie. Zdejmuje się zdanie albo dopisuje się rok, zakres i metodę.</p>
+    <p>Sondaż Kantar przywołany przez ClientEarth dotyczy użytkowników jednego produktu, nie całego rynku: 43% z nich w 2021 r. wierzyło w ekologiczność „ekogroszku”. Wystarczy, by zobaczyć, że przedrostek „eko” w nazwie pracuje. Uchwała w sprawie Tanah pokazuje granicę z drugiej strony. Samo nawiązanie do tradycyjnego składnika, bez słowa o środowisku, zespół uznał za coś innego niż twierdzenie środowiskowe. Konsument nie jest traktowany jak osoba niezdolna do czytania. Jest traktowany jak osoba, która nie ma obowiązku szukać badania na prośbę i nie musi znać różnicy między offsetem a redukcją, jeśli reklama jej tej różnicy nie poda.</p>
+  </section>
+
+  <section id="check">
+    <span class="num">07 · Co zrobić w firmie</span>
+    <h2>Osiem pytań przed publikacją zdania</h2>
+    <p>Checklista jest narzędziem marketingu, prawa i zespołu zrównoważonego rozwoju. Jedno zdanie przechodzi przez wszystkie trzy. Jeśli którekolwiek pytanie zostaje bez odpowiedzi w tym samym miejscu, w którym stoi hasło, hasła się nie publikuje.</p>
+    <ol class="check">
+      <li><strong>Czy to w ogóle jest twierdzenie o środowisku?</strong> Nazwa linii, kolor zielony i liść potrafią być twierdzeniem, nawet gdy w zdaniu nie ma słowa „eko”. Tradycyjny składnik sam nim nie jest, co pokazuje sprawa Tanah.</li>
+      <li><strong>Czy słowo jest ogólne?</strong> „Eko”, „zielony”, „zrównoważony”, „przyjazny”, „naturalny” bez wskazania, czego dotyczą, odpadają, chyba że w tym samym miejscu jest EU Ecolabel albo urzędowy znak ISO 14024 typu I pasujący do tego hasła.</li>
+      <li><strong>Czy zdanie jest o całości, a dowód o części?</strong> Jeden sklep, 10% recyklatu, jeden etap jazdy, jedna kategoria emisji. Wtedy zdanie nazywa część.</li>
+      <li><strong>Czy liczba ma rok, granicę, jednostkę i źródło współczynników?</strong> Ekwiwalent drzew bez metody się nie broni. Ślad wyrobu nie jest liczony metodą samej organizacji. Przewóz jako osobny wynik ma własną normę.</li>
+      <li><strong>Czy „neutralny” albo „zero” stoi na kompensacji, certyfikacie energii albo na planie?</strong> Offset nie niesie takiego hasła. Certyfikat pochodzenia energii trzeba nazwać. Cel na przyszłość potrzebuje terminu, zasobu i regularnej weryfikacji niezależnego eksperta, z wynikiem dostępnym odbiorcy.</li>
+      <li><strong>Czy chwalimy się obowiązkiem?</strong> Zakazana substancja, równa płaca za pracę jednakowej wartości, umowa o pracę, szkolenie BHP. To nie jest przewaga.</li>
+      <li><strong>Czy to samo zdanie stoi na opakowaniu, na stronie, w ofercie i w raporcie?</strong> Dopisek w słowniku nie poprawia okładki. Wersja polska i globalna idą osobno, bo czytelnik jest inny. Uchwała Weledy: zdanie o latach 2021–2022 nie może wisieć tak, jakby dotyczyło dziś.</li>
+      <li><strong>Kto to zdanie podpisuje wewnątrz?</strong> Marketing nie publikuje twierdzenia, którego zespół środowiskowy nie umie odtworzyć z danych. Prawo nie dopisuje gwiazdki pod hasłem, które samo wprowadza w błąd. Zgłoszenie pracownika, że liczba na etykiecie rozmija się z arkuszem, jest sygnałem do zdjęcia zdania, nie do pouczenia o lojalności.</li>
+    </ol>
+    <h3>Porządek w firmie, nie kolejna broszura</h3>
+    <p>Wystarczą trzy role. Właściciel zdania w marketingu. Właściciel liczby w zespole, który liczy emisje, cykl życia albo skład. Właściciel publikacji w prawie albo compliance, który ma prawo wstrzymać materiał. Raz na kwartał ten skład przegląda stronę, opakowania w druku i oferty handlowe, nie tylko kampanię, która właśnie schodzi z briefu. Zdanie zdjęte po zarzucie albo po uchwale nie wraca w wariancie „łagodniejszym”, jeśli dalej nie ma roku i zakresu.</p>
+    <div class="roles">
+      <div class="tile">
+        <h3>Dla CMO</h3>
+        <p>Koniec skrótu w kreacji. Hasło schodzi do publikacji z dowodem: rok, zakres, metoda. Liść, zieleń i nazwa linii są zdaniem, nie ozdobą. Kreacja bez tego dowodu nie wchodzi do briefu.</p>
+      </div>
+      <div class="tile">
+        <h3>Dla prawnika i compliance</h3>
+        <p>Sprawdza się nie tylko regulamin i gwiazdka. Sprawdza się kreacja: listek, kolor, ikona, nazwa linii. Dopisek na dole nie ratuje hasła, które samo wprowadza w błąd. Materiał da się wstrzymać.</p>
+      </div>
+      <div class="tile">
+        <h3>Dla managera ESG</h3>
+        <p>Raport niefinansowy nie uchroni sloganu w sklepie. Atestacja biegłego nie przenosi się na ulotkę. Liczba ze sprawozdania, powtórzona w reklamie, potrzebuje roku, granicy i metody w tym samym zdaniu.</p>
+      </div>
+    </div>
+    <h3>Drzewo, zanim zejdzie hasło</h3>
+    <p>Osiem pytań da się przejść w jednym schemacie. Gałąź czerwona znaczy: tego zdania się nie publikuje. Gałąź zielona znaczy: zdanie nazywa dokładnie to, na co jest dowód.</p>
+    <ol class="tree">
+      <li><strong>Czy to w ogóle jest twierdzenie o środowisku?</strong> Także liść, zieleń i nazwa linii. Tradycyjny składnik sam, bez słowa o środowisku, nim nie jest. Tak było w sprawie Tanah.
+        <p class="branch stop">Nie. Nie wchodzi w ten test. Zostaje zwykła ocena reklamy.</p>
+        <p class="branch go">Tak. Dalej.</p>
+        <ol>
+          <li><strong>Czy hasło jest ogólne?</strong> „Eko”, „zielony”, „zrównoważony”, „przyjazny”, „naturalny” bez wskazania, czego dotyczą.
+            <p class="branch">Tak. Czy w tym samym miejscu jest EU Ecolabel albo urzędowy znak ISO 14024 typu I, i czy dotyczy całego wyrobu, o którym jest hasło?</p>
+            <p class="branch stop">Znaku nie ma albo znak jest o składniku, a hasło o całości. Ogólnego hasła się nie publikuje. Można nazwać część, która znak ma.</p>
+            <p class="branch go">Znak jest i dotyczy całości obietnicy. Dalej, do liczby, offsetu i obowiązku.</p>
+            <p class="branch">Nie, hasło jest konkretne. Czy zdanie jest o całości, a dowód o części: jeden sklep, 10% recyklatu, jeden etap jazdy, jedna kategoria emisji?</p>
+            <p class="branch stop">Tak. Zdanie nazywa część albo nie schodzi.</p>
+            <p class="branch go">Nie. Dalej.</p>
+          </li>
+          <li><strong>Czy „neutralny”, „zero” albo „bezemisyjny” stoi na kompensacji, certyfikacie energii albo na planie bez terminu?</strong>
+            <p class="branch stop">Tak. Takiego hasła się nie publikuje. Offset nie jest redukcją. Certyfikat nazywa się certyfikatem. Cel na przyszłość potrzebuje terminu, zasobu i weryfikacji, z wynikiem dostępnym odbiorcy.</p>
+            <p class="branch go">Nie. Zostają trzy pytania: czy liczba ma rok, granicę, jednostkę i źródło współczynników; czy chwalimy się obowiązkiem prawa; czy to samo zdanie stoi na opakowaniu, na stronie, w ofercie i w raporcie. Potem podpis trzech ról. Bez którejkolwiek z tych odpowiedzi zdania się nie publikuje.</p>
+          </li>
+        </ol>
+      </li>
+    </ol>
+    <p>Dla spółki, która raportuje: liczba w sprawozdaniu i liczba w reklamie mają tę samą granicę. Dla spółki, która nie raportuje: brak obowiązku sprawozdania nie jest zezwoleniem na hasło. Ustawa o nieuczciwych praktykach nie pyta, czy firma jest objęta CSRD.</p>
+    <div class="call">
+      <p>ESG Institute wydaje ten przegląd jako materiał otwierający. Nie jest opinią o żadnej z nazwanych spółek poza tym, co stoi w publicznym komunikacie, uchwale albo ugodzie. Audyt własnych zdań robi się na konkretnym kanale i na datę zebrania, nie na skrócie z prasy.</p>
+    </div>
+  </section>
+
+  <section class="onepager-sheet" id="arkusz">
+    <span class="num">Arkusz na jedną stronę</span>
+    <h2>Zanim zejdzie hasło. Do powieszenia w marketingu</h2>
+    <p>Jedno zdanie przechodzi przez marketing, ESG i compliance. Brak odpowiedzi w miejscu hasła oznacza, że zdania się nie publikuje.</p>
+    <ol>
+      <li><strong>Czy to twierdzenie o środowisku?</strong> Liść, zieleń i nazwa linii potrafią nim być. Tradycyjny składnik sam nie jest.</li>
+      <li><strong>Czy słowo jest ogólne?</strong> „Eko”, „zielony”, „zrównoważony” zostają tylko z EU Ecolabel albo urzędowym znakiem ISO 14024 typu I, w tym samym miejscu i o tym samym przedmiocie.</li>
+      <li><strong>Czy zdanie jest o całości, a dowód o części?</strong> Wtedy zdanie nazywa część.</li>
+      <li><strong>Czy liczba ma rok, granicę, jednostkę i źródło?</strong> Ekwiwalent drzew bez metody odpada.</li>
+      <li><strong>Czy „neutralny” albo „zero” stoi na kompensacji albo na certyfikacie energii?</strong> Offset nie niesie takiego hasła. Certyfikat trzeba nazwać.</li>
+      <li><strong>Czy chwalimy się obowiązkiem prawa?</strong> To nie jest przewaga.</li>
+      <li><strong>Czy to samo zdanie stoi na opakowaniu, stronie, w ofercie i w raporcie?</strong> Dopisek w słowniku nie poprawia okładki.</li>
+      <li><strong>Kto to podpisuje?</strong> Marketing, właściciel liczby, prawo. Każde z trzech może wstrzymać materiał.</li>
+    </ol>
+    <div class="roles">
+      <div class="tile"><h3>CMO</h3><p>Bez dowodu kreacja nie schodzi. Liść jest zdaniem.</p></div>
+      <div class="tile"><h3>Prawo / compliance</h3><p>Sprawdza kreację, nie tylko regulamin. Gwiazdka nie ratuje hasła.</p></div>
+      <div class="tile"><h3>ESG</h3><p>Raport nie uchroni sloganu w sklepie.</p></div>
+    </div>
+    <div class="gold">
+      <span class="lbl">Złota zasada</span>
+      <p>Dopisek małym drukiem ani kod QR nie naprawiają hasła, które samo wprowadza w błąd (wyrok TSUE C-611/14).</p>
+    </div>
+    <div class="flag">
+      <span class="lbl">Czerwona flaga</span>
+      <p>bezemisyjny · eko · neutralny dla klimatu. Bez zakresu, roku i metody nie publikować jako hasła.</p>
+    </div>
+    <p class="src">Agnieszka Orłowska · ESG Institute · Stan eko-ściemy w Polsce · listopad 2026. Arkusz jest skrótem przeglądu, nie zastępuje czytania sprawy i sentencji.</p>
+  </section>
+</main>
+
+<footer class="colophon" id="zrodla">
+  <img class="logo" src="logo-esg-white.png" alt="ESG Institute">
+  <p class="kicker">Źródła</p>
+  <p>Autorka: Agnieszka Orłowska</p>
+  <p>ESG Institute · Rondo ONZ 1, 00-124 Warszawa · esginstitute.eu · listopad 2026</p>
+  <p>UOKiK, komunikat z 29 lipca 2025 r., „Ekościema? – Prezes UOKiK stawia zarzuty: Allegro, DHL, DPD i InPost”, oraz sentencje RBG-2.610.1.2025, RBG-2.610.2.2025, DOZIK-1.610.2.2025, DOZIK-1.610.3.2025. UOKiK, komunikat z 19 stycznia 2026 r., „Gra w zielone? Bolt, Tchibo i Zara z zarzutami Prezesa UOKiK”. UOKiK, „Dieselgate – ugoda i prawomocna decyzja Prezesa UOKiK”; decyzje DOZIK-2/2020 i DPR-1/2025.</p>
+  <p>Rada Reklamy, uchwały ZO/093/23o, ZO/092/23o, ZO/079/24o, ZO/107/24u, ZO/129/24u, ZO/131/24u, ZO/087/25u.</p>
+  <p>ClientEarth Prawnicy dla Ziemi: zawiadomienie do UOKiK w sprawie „ekogroszku”; „Nazwa ekogroszek znika z rynku” (ugoda z SYNERGIO S.A., sondaż Kantar 2021, badania Politechniki Warszawskiej w opisie fundacji).</p>
+  <p>Frank Bold: „Analiza raportów niefinansowych 300 europejskich przedsiębiorstw”; „Nowy raport Frank Bold” o 100 spółkach giełdowych, w tym 22 z Polski; wypowiedź o sprawozdaniach jako broszurach, przytoczona w tekście o raportach niefinansowych.</p>
+  <p>Akty: ustawa o przeciwdziałaniu nieuczciwym praktykom rynkowym; ustawa o ochronie konkurencji i konsumentów (art. 24, 106, 106b); ustawa o zwalczaniu nieuczciwej konkurencji (art. 10 i 16); dyrektywa (UE) 2024/825; dyrektywa 2005/29/WE; rozporządzenie (UE) 2019/2088; rozporządzenie 2020/852; wniosek COM(2023) 166, status: negocjacje wstrzymane od czerwca 2025 r.; druk Senatu 825. Wyrok Trybunału C-611/14.</p>
+  <p>Nazwy użyte w tekście, które nie są terminami ustawy: greenlighting (wyciąganie jednej zielonej cechy; opis m.in. Planet Tracker), greenhushing (celowe niedopowiedzenie praktyk), greenbleaching (ESMA, Securities and Markets Stakeholder Group, ESMA22-106-4551: powstrzymanie się od deklaracji zrównoważonego charakteru, żeby uniknąć ryzyka prawnego; SMSG zaznacza, że nie jest to termin zdefiniowany). Ecoshaming: słowo z komunikatu UOKiK z 29 lipca 2025 r. przy sprawie InPost.</p>
+</footer>
+</body>
+</html>
