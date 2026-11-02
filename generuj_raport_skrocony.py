@@ -1,0 +1,1022 @@
+#!/usr/bin/env python3
+"""Raport skrócony audytu greenwashingu.
+
+Wzór formy: wzory/WZOR_raport_skrocony.docx
+Raport: LIBRA/Raport_Skrocony_Audytu_Greenwashingu_Libra_Partners.docx
+
+Trzy ustalenia rozstrzygające werdykt. Dwa ustalenia o ryzyku średnim zostają
+w raporcie pełnym. Kalendarz i podstawy: INSTRUKCJA_GENEROWANIA_RAPORTOW.md.
+Identyfikacja: pas #08181F, błękit #3A61B3, akcent #2F8DBC, pole #E8F0FA.
+"""
+
+from io import BytesIO
+from pathlib import Path
+
+import docx
+from PIL import Image
+from docx.enum.table import WD_ALIGN_VERTICAL, WD_TABLE_ALIGNMENT
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml import OxmlElement, parse_xml
+from docx.oxml.ns import nsdecls, qn
+from docx.shared import Cm, Mm, Pt, RGBColor
+
+ROOT = Path(__file__).resolve().parent
+LOGO = ROOT.parent / "ESG Hero Day - Materialy Druk" / "assets" / "esg_logo_white.png"
+SHOT = ROOT / "LIBRA" / "zrodla" / "libra-en-strona-2026-10-30.png"
+
+NAVY = RGBColor(8, 24, 31)
+BLUE = RGBColor(58, 97, 179)
+CYAN = RGBColor(47, 141, 188)
+CYAN_SOFT = RGBColor(142, 197, 224)
+DARK = RGBColor(22, 36, 44)
+MUTED = RGBColor(90, 107, 119)
+WHITE = RGBColor(255, 255, 255)
+DANGER = RGBColor(190, 18, 60)
+WARNING = RGBColor(180, 83, 9)
+SUCCESS = RGBColor(4, 120, 87)
+GREEN_TXT = RGBColor(22, 101, 52)
+
+PAGE_W = 17.6
+
+
+def _shd(cell, hex_color):
+    cell._tc.get_or_add_tcPr().append(parse_xml(f'<w:shd {nsdecls("w")} w:val="clear" w:fill="{hex_color}"/>'))
+
+
+def _mar(cell, top=60, bottom=60, left=80, right=80):
+    cell._tc.get_or_add_tcPr().append(
+        parse_xml(
+            f'<w:tcMar {nsdecls("w")}>'
+            f'<w:top w:w="{top}" w:type="dxa"/>'
+            f'<w:bottom w:w="{bottom}" w:type="dxa"/>'
+            f'<w:left w:w="{left}" w:type="dxa"/>'
+            f'<w:right w:w="{right}" w:type="dxa"/>'
+            f"</w:tcMar>"
+        )
+    )
+
+
+def _nil_cell_borders(cell):
+    cell._tc.get_or_add_tcPr().append(
+        parse_xml(
+            f'<w:tcBorders {nsdecls("w")}>'
+            f'<w:top w:val="nil"/><w:left w:val="nil"/>'
+            f'<w:bottom w:val="nil"/><w:right w:val="nil"/>'
+            f"</w:tcBorders>"
+        )
+    )
+
+
+def _borders(cell, color="E2E8F0", sz="4", left_sz=None, left_color=None):
+    lc = left_color or color
+    ls = left_sz or sz
+    cell._tc.get_or_add_tcPr().append(
+        parse_xml(
+            f'<w:tcBorders {nsdecls("w")}>'
+            f'<w:top w:val="single" w:sz="{sz}" w:space="0" w:color="{color}"/>'
+            f'<w:left w:val="single" w:sz="{ls}" w:space="0" w:color="{lc}"/>'
+            f'<w:bottom w:val="single" w:sz="{sz}" w:space="0" w:color="{color}"/>'
+            f'<w:right w:val="single" w:sz="{sz}" w:space="0" w:color="{color}"/>'
+            f"</w:tcBorders>"
+        )
+    )
+
+
+def _nil_table_borders(table):
+    tbl_pr = table._tbl.tblPr
+    borders = OxmlElement("w:tblBorders")
+    for edge in ("top", "left", "bottom", "right", "insideH", "insideV"):
+        el = OxmlElement(f"w:{edge}")
+        el.set(qn("w:val"), "nil")
+        borders.append(el)
+    tbl_pr.append(borders)
+
+
+def _run(run, size, bold=False, italic=False, color=DARK, font="Arial", tracking=None, lang="pl-PL"):
+    run.font.name = font
+    run.font.size = Pt(size)
+    run.bold = bold
+    run.italic = italic
+    run.font.color.rgb = color
+    rpr = run._element.get_or_add_rPr()
+    rfonts = rpr.find(qn("w:rFonts"))
+    if rfonts is None:
+        rfonts = OxmlElement("w:rFonts")
+        rpr.append(rfonts)
+    for attr in ("w:ascii", "w:hAnsi", "w:cs", "w:eastAsia"):
+        rfonts.set(qn(attr), font)
+    if tracking is not None:
+        spacing = OxmlElement("w:spacing")
+        spacing.set(qn("w:val"), str(tracking))
+        rpr.append(spacing)
+    lang_el = rpr.find(qn("w:lang"))
+    if lang_el is None:
+        lang_el = OxmlElement("w:lang")
+        rpr.append(lang_el)
+    lang_el.set(qn("w:val"), lang)
+    lang_el.set(qn("w:eastAsia"), lang)
+
+
+def _lock(table, widths, align="center"):
+    table.autofit = False
+    table.alignment = WD_TABLE_ALIGNMENT.CENTER if align == "center" else WD_TABLE_ALIGNMENT.LEFT
+    tbl = table._tbl
+    tbl_pr = tbl.tblPr
+    for tag in ("w:tblLayout", "w:tblW", "w:jc", "w:tblInd"):
+        found = tbl_pr.find(qn(tag))
+        if found is not None:
+            tbl_pr.remove(found)
+    layout = OxmlElement("w:tblLayout")
+    layout.set(qn("w:type"), "fixed")
+    tbl_pr.append(layout)
+    dxas = [int(round(w / 2.54 * 1440)) for w in widths]
+    total = sum(dxas)
+    tbl_w = OxmlElement("w:tblW")
+    tbl_w.set(qn("w:w"), str(total))
+    tbl_w.set(qn("w:type"), "dxa")
+    tbl_pr.append(tbl_w)
+    jc = OxmlElement("w:jc")
+    jc.set(qn("w:val"), align)
+    tbl_pr.append(jc)
+    ind = OxmlElement("w:tblInd")
+    ind.set(qn("w:w"), "0")
+    ind.set(qn("w:type"), "dxa")
+    tbl_pr.append(ind)
+    grid = tbl.find(qn("w:tblGrid"))
+    if grid is None:
+        grid = OxmlElement("w:tblGrid")
+        tbl_pr.addnext(grid)
+    for child in list(grid):
+        grid.remove(child)
+    for dxa in dxas:
+        col = OxmlElement("w:gridCol")
+        col.set(qn("w:w"), str(dxa))
+        grid.append(col)
+    for row in table.rows:
+        tr = row._tr
+        tr_pr = tr.get_or_add_trPr()
+        for cell, dxa in zip(row.cells, dxas):
+            tc_pr = cell._tc.get_or_add_tcPr()
+            tc_w = tc_pr.find(qn("w:tcW"))
+            if tc_w is None:
+                tc_w = OxmlElement("w:tcW")
+                tc_pr.append(tc_w)
+            tc_w.set(qn("w:w"), str(dxa))
+            tc_w.set(qn("w:type"), "dxa")
+        # Drop Word's implicit extra grid cell if merge changed the count.
+        _ = tr_pr
+
+
+def _row_height(row, twips, rule="exact"):
+    tr_pr = row._tr.get_or_add_trPr()
+    el = tr_pr.find(qn("w:trHeight"))
+    if el is None:
+        el = OxmlElement("w:trHeight")
+        tr_pr.append(el)
+    el.set(qn("w:val"), str(twips))
+    el.set(qn("w:hRule"), rule)
+
+
+def _cant_split(row):
+    tr_pr = row._tr.get_or_add_trPr()
+    if tr_pr.find(qn("w:cantSplit")) is None:
+        tr_pr.append(OxmlElement("w:cantSplit"))
+
+
+def _field(paragraph, instruction, size=8, color=MUTED):
+    run = paragraph.add_run()
+    begin = OxmlElement("w:fldChar")
+    begin.set(qn("w:fldCharType"), "begin")
+    instr = OxmlElement("w:instrText")
+    instr.set(qn("xml:space"), "preserve")
+    instr.text = f" {instruction} "
+    separate = OxmlElement("w:fldChar")
+    separate.set(qn("w:fldCharType"), "separate")
+    text = OxmlElement("w:t")
+    text.text = "1"
+    end = OxmlElement("w:fldChar")
+    end.set(qn("w:fldCharType"), "end")
+    run._r.append(begin)
+    run._r.append(instr)
+    run._r.append(separate)
+    run._r.append(text)
+    run._r.append(end)
+    _run(run, size, False, False, color)
+
+
+def _p_border_bottom(paragraph, color="E6EDF2", sz="8"):
+    p_pr = paragraph._p.get_or_add_pPr()
+    p_bdr = OxmlElement("w:pBdr")
+    bottom = OxmlElement("w:bottom")
+    bottom.set(qn("w:val"), "single")
+    bottom.set(qn("w:sz"), sz)
+    bottom.set(qn("w:space"), "1")
+    bottom.set(qn("w:color"), color)
+    p_bdr.append(bottom)
+    p_pr.append(p_bdr)
+
+
+def _clear_paragraph(paragraph):
+    paragraph.paragraph_format.space_before = Pt(0)
+    paragraph.paragraph_format.space_after = Pt(0)
+    paragraph.paragraph_format.line_spacing = 1.0
+    p_pr = paragraph._p.get_or_add_pPr()
+    spacing = p_pr.find(qn("w:spacing"))
+    if spacing is None:
+        spacing = OxmlElement("w:spacing")
+        p_pr.append(spacing)
+    spacing.set(qn("w:before"), "0")
+    spacing.set(qn("w:after"), "0")
+    spacing.set(qn("w:line"), "240")
+    spacing.set(qn("w:lineRule"), "auto")
+
+
+def _banner():
+    image = Image.open(SHOT).convert("RGB")
+    crop = image.crop((96, 770, 848, 1044))
+    stream = BytesIO()
+    crop.save(stream, format="PNG", optimize=True)
+    stream.seek(0)
+    return stream
+
+
+def _cell_p(cell, clear=True):
+    paragraph = cell.paragraphs[0]
+    if clear:
+        _clear_paragraph(paragraph)
+    return paragraph
+
+
+def _add_body(cell, text, size=10, bold=False, italic=False, color=DARK, before=0, after=2, align="left", lang="pl-PL"):
+    paragraph = cell.add_paragraph()
+    paragraph.paragraph_format.space_before = Pt(before)
+    paragraph.paragraph_format.space_after = Pt(after)
+    paragraph.paragraph_format.line_spacing = 1.08
+    if align == "justify":
+        paragraph.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+    elif align == "right":
+        paragraph.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+    elif align == "center":
+        paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    _run(paragraph.add_run(text), size, bold, italic, color, lang=lang)
+    return paragraph
+
+
+FINDINGS = [
+    (
+        "01",
+        "Kalkulator CO₂ „6,060 TONS” i obietnica zgodności z polityką ESG",
+        "UZNK art. 16 ust. 1 pkt 2, ust. 2 i ust. 3",
+        "BARDZO WYSOKIE",
+        "Ilość na stronie angielskiej może być odczytana jako tysiące ton. Zmiana palet jest przedstawiona jako zgodność z polityką ESG.",
+    ),
+    (
+        "02",
+        "„There is no waste”, odpowiedzialność społeczna i „compliance” z Agendą 2030",
+        "UZNK art. 16 ust. 1 pkt 2 i ust. 2",
+        "WYSOKIE",
+        "Brak odpadów, najwyższe standardy i zgodność z celami ONZ bez wskazania zakresu.",
+    ),
+    (
+        "03",
+        "„99%” przez cały cykl życia oraz „you are ESG Friendly”",
+        "UZNK art. 16 ust. 1 pkt 2 i ust. 2",
+        "WYSOKIE",
+        "Wynik dwóch szczepów według ISO 22196 rozszerzony na cały cykl życia, pierwszeństwo na świecie i cechę ESG nabywcy.",
+    ),
+]
+
+CASES = [
+    {
+        "no": "01",
+        "title": "Kalkulator emisji i zdanie, że zmiana palet daje zgodność z polityką ESG",
+        "risk": "BARDZO WYSOKIE",
+        "basis": (
+            "Podstawa prawna: ustawa o zwalczaniu nieuczciwej konkurencji, art. 16 ust. 1 pkt 2, ust. 2 i ust. 3 "
+            "(Dz.U. 2026 poz. 85). Przyszły standard EmpCo od 27.09.2027: art. 7 pkt 4b, a dla hasła ogólnego i pieczęci ESG "
+            "także pkt 4a i 2a ustawy z 4.09.2026 r. (Dz.U. 2026 poz. 1353). W dniu audytu nie jest to naruszenie krajowej czarnej listy."
+        ),
+        "quotes": [
+            "„Thanks to simulations and calculations carried out in accordance with the EN 16258:2012 standard for measuring the carbon footprint […] The reduction of CO2 emissions to the environment with the use of 33 LIBRA PARTNERS pallets per month is 400 kg.”",
+            "„500 PCS – 6,060 TONS LESS CO2”. „10.000 PCS – 121,120 TONS LESS CO2.”",
+            "„Make your company compliant with the Sustainable Development and ESG policy. Prepare your company for non-financial ESG reporting now. Changing pallets from wooden to plastic LIBRA PARTNERS is the simplest solution to significantly reduce CO2 emissions and carbon footprint into the atmosphere.”",
+        ],
+        "assessment": (
+            "Art. 16 ust. 3 uznaje za reklamę porównawczą reklamę, która pozwala rozpoznać towar konkurenta. "
+            "Zdanie o śladzie stawia paletę LIBRA PARTNERS naprzeciw „wooden pallets”, czyli kategorii nośnika o tym samym przeznaczeniu. "
+            "Art. 16 ust. 1 pkt 2 obejmuje reklamę, która wprowadza klienta w błąd i może wpłynąć na decyzję o nabyciu. "
+            "Ust. 2 każe uwzględnić wszystkie elementy, zwłaszcza ilość. Klientem zdania „your company” jest nabywca biznesowy.\n"
+            "Na tej samej stronie 33 palety mają obniżać emisję o 400 kg miesięcznie. Przeliczenie liniowe na 500 palet daje około 6,06 tony. "
+            "Tabela zapisuje „6,060 TONS”, a dla 10 000 sztuk „121,120 TONS”. W tekście angielskim przecinek bywa separatorem tysięcy, a jednostką jest słowo TONS. "
+            "Czytelnik tej wersji może odczytać 6 060 ton. Strona nie podaje, że przecinek jest znakiem dziesiętnym. "
+            "Ta ilość może zmienić decyzję o zakupie i o wpisaniu liczby do materiału dla klienta. "
+            "To samo miejsce nazywa zmianę palet najprostszą drogą do zgodności z polityką ESG i do raportowania niefinansowego.\n"
+            "Strona nazywa EN 16258:2012 normą pomiaru tego śladu. Karta projektu CEN dla EN ISO 14083:2023 podaje, że norma ta zastępuje EN 16258:2012, "
+            "a data wycofania normy sprzecznej to 31 października 2023 r. Zakres EN 16258 dotyczył energii i emisji usługi transportowej. "
+            "Strona nie podaje trasy, ładunku, jednostki funkcjonalnej ani granic. Obok stoją „almost twice lower CO2” z analizy Envirly z sierpnia 2023 r. "
+            "oraz „303 t CO2 less per month”, bez uzgodnienia z kalkulatorem. Oferta jest skierowana do firmy, więc podstawą spełnioną jest art. 16.\n"
+            "Od 27 września 2027 r. twierdzenie o całym produkcie oparte na masie albo na jednym wyniku transportowym trzeba będzie zestawić z pkt 4b, "
+            "hasło „ecological” i tytuł „Eco-friendly” z pkt 4a, a pieczęć ESG z pkt 2a, jeżeli nie opiera się na systemie certyfikacji ani na organie publicznym. "
+            "Przekaz nie powołuje kompensacji, więc pkt 4c go nie opisuje."
+        ),
+        "remediation": (
+            "Zdjąć kalkulator i zdanie o zgodności z polityką ESG oraz o przygotowaniu do raportowania niefinansowego do czasu publikacji liczby z jednostką, granicami i metodą. "
+            "Jeżeli porównanie transportowe zostaje, podać trasę albo tonokilometr, masę ładunku, masę palety odniesienia, granice oraz normę aktualną dla usługi transportowej. "
+            "Liczbę zapisać tak, by czytelnik angielski widział tony dziesiętne, na przykład „6.06 tonnes”, albo podać wynik w kilogramach. "
+            "Wynik Envirly przywołać z datą, jednostką funkcjonalną i granicami albo usunąć „almost twice”. Pieczęć ESG zdjąć albo opisać na tym samym slajdzie, kto i za co ją nadał."
+        ),
+        "claim": (
+            "„A LIBRA PARTNERS pallet in this comparison weighs 9 kg and is made from recycled HDPE. "
+            "For a stated route, load and fuel, the difference in transport fuel emissions against a wooden pallet of a stated weight is [X] kg CO2e per trip, "
+            "calculated under [method, year, boundaries]. This figure is not a company carbon footprint, not a CSRD disclosure and not a statement that the buyer’s ESG policy is met.”"
+        ),
+    },
+    {
+        "no": "02",
+        "title": "Brak odpadów, odpowiedzialność społeczna i zgodność z Agendą 2030",
+        "risk": "WYSOKIE",
+        "basis": (
+            "Podstawa prawna: ustawa o zwalczaniu nieuczciwej konkurencji, art. 16 ust. 1 pkt 2 i ust. 2. "
+            "Przyszły standard EmpCo od 27.09.2027: art. 7 pkt 4a i 4b ustawy z 4.09.2026 r. W dniu audytu nie jest to naruszenie krajowej czarnej listy. "
+            "Ścieżka Krajowego Punktu Kontaktowego OECD ma poziom NISKIE i nie podnosi werdyktu."
+        ),
+        "quotes": [
+            "„In this business model, there is no waste; a Closed Circuit Economy model is present. Likewise, as a socially responsible and environmentally conscious company, we want our production process to be distinguished by the highest standards in environmental management. We do this through a business model focused on ZERO WASTE.”",
+            "„Eliminate end-of-life waste by recycling our solutions, which never end up in a landfill.”",
+            "„Selected goals of the sustainable development policy, confirming the compliance of our project with the goals of the 2030 Agenda.”",
+        ],
+        "assessment": (
+            "Hasło o firmie odpowiedzialnej społecznie, o najwyższych standardach i o zgodności z celami ONZ odbiorca może wziąć za fakt szerszy niż mechanizm opisany obok. "
+            "Mechanizm na stronie jest jeden: surowiec ma być przetwarzalny, a firma gwarantuje odbiór zużytych i uszkodzonych palet kupionych od LIBRA PARTNERS. "
+            "„100% CIRCULAR ECONOMY”, „ZERO WASTE”, „there is no waste” i „never end up in a landfill” obejmują cały model i koniec życia każdej sztuki. "
+            "Gwarancja odbioru obejmuje palety kupione od tej firmy i zwrócone. „Highest standards” i „socially responsible” nie wskazują zakładu, okresu ani systemu. "
+            "Strona nie powołuje w tym miejscu ISO 14001.\n"
+            "„Confirming the compliance” stawia cytat celów 9.4, 12.2, 12.5 i 15.2 jako potwierdzenie zgodności projektu. "
+            "Cele te są rezolucją Zgromadzenia Ogólnego ONZ dla państw. Cel 15.2 w cytacie ma horyzont „By 2020”. "
+            "Klient szukający dostawcy do polityki obiegu zamkniętego może na tych zdaniach oprzeć wybór. Art. 16 ust. 1 pkt 2 i ust. 2 obejmują taką reklamę.\n"
+            "Od 27 września 2027 r. ogólne „ZERO WASTE” i „100% CIRCULAR” trzeba będzie zestawić z pkt 4a, a claim o całej działalności oparty na odbiorze własnych palet z pkt 4b. "
+            "Hasło odpowiedzialności społecznej może trafić do polskiego Krajowego Punktu Kontaktowego OECD. Postępowanie przed KPK nie jest sprawą sądową i nie kończy się wyrokiem. "
+            "Skutkiem jest publiczna ocena, zalecenia i efekt wizerunkowy. Ten poziom jest NISKIE. Werdykt przypadku niesie art. 16."
+        ),
+        "remediation": (
+            "Zastąpić „there is no waste”, „ZERO WASTE”, „100% CIRCULAR ECONOMY” i „never end up in a landfill” opisem odbioru palet kupionych od LIBRA PARTNERS, "
+            "z tym, co dzieje się ze sztuką nieoddaną i z odpadem procesu. „Socially responsible” i „highest standards” zawęzić do nazwanego zakładu, roku i dokumentu albo usunąć. "
+            "Przy Agendzie 2030 napisać, które działania firma odnosi do którego celu, i usunąć słowo „compliance”, dopóki nie ma oceny zewnętrznej."
+        ),
+        "claim": (
+            "„LIBRA PARTNERS collects used and damaged pallets that the customer bought from LIBRA PARTNERS and recycles that returned material. "
+            "This take-back does not describe all waste from the plant. The company refers its pallet design to UN Sustainable Development Goals 12.2 and 12.5 as a voluntary framework. "
+            "That reference is not a certification and not a finding that the project complies with the 2030 Agenda.”"
+        ),
+    },
+    {
+        "no": "03",
+        "title": "Właściwość antybakteryjna „przez cały cykl życia” oraz „ESG Friendly”",
+        "risk": "WYSOKIE",
+        "basis": (
+            "Podstawa prawna: ustawa o zwalczaniu nieuczciwej konkurencji, art. 16 ust. 1 pkt 2 i ust. 2. "
+            "Przyszły standard EmpCo od 27.09.2027: art. 7 pkt 4a dla „ESG Friendly” oraz pkt 4b, jeżeli cecha całej palety jest wnioskiem z badania powierzchni. "
+            "W dniu audytu nie jest to naruszenie krajowej czarnej listy."
+        ),
+        "quotes": [
+            "„we are the world’s first manufacturer of pallets adapted to the pharmaceutical and medical industries, which have 99% antibacterial properties throughout the entire life cycle of the pallet. In addition […] you are ESG Friendly!”",
+            "„tested according to ISO 22196:2011: DECREASE OF ESCHERICHIA COLI SAMPLES ( ATCC 8739 ) ABOUT 99,97 %. DECREASE OF STAPHYLOCOCCUS AUREUS SAMPLES ( ATCC 6538P ) ABOUT 99,98 %.”",
+            "„The LIBRA PARTNERS antibacterial palette model MW01-MED received the opinion of the Poznań University of Technology for innovation on a global scale.”",
+        ],
+        "assessment": (
+            "Strona podaje wynik: spadek liczebności próbek dwóch szczepów, około 99,97% i około 99,98%, według ISO 22196:2011, "
+            "po współpracy z certyfikowaną jednostką sieci Łukasiewicz, przy dodatku tlenku cynku do HDPE. "
+            "W tym samym widoku pisze, że paleta ma „99% antibacterial properties throughout the entire life cycle”, że producent jest „the world’s first” "
+            "i że używając palety „you are ESG Friendly”.\n"
+            "Wynik dwóch szczepów, zapisany jako „about”, nie jest zdaniem o całym cyklu życia palety po myciu i po ścieraniu. "
+            "„99%” zaokrągla dwa różne wyniki i obejmuje już właściwość palety jako takiej. „World’s first” jest podane jako fakt. "
+            "Strona nie wskazuje przeglądu rynku. Raport nie stwierdza, że pierwszeństwo jest fałszywe. Stwierdza, że reklama podaje je bez źródła, które klient może sprawdzić. "
+            "Opinia Politechniki Poznańskiej jest na stronie opinią o innowacyjności. Postawienie jej w jednym bloku z cyklem życia i ze zdaniem „ESG Friendly” "
+            "pozwala czytać ją jako potwierdzenie tych dwóch zdań.\n"
+            "Nabywcą jest firma farmaceutyczna albo medyczna. Zdanie o cyklu życia może zdecydować o wyborze nośnika do strefy czystej. "
+            "Art. 16 ust. 1 pkt 2 i ust. 2 obejmują jakość i przydatność. Liczb 99,97% i 99,98% raport nie uznaje za nieprawdziwe. "
+            "Podstawą ustalenia jest różnica między tymi liczbami a zdaniami o cyklu życia, o pierwszeństwie i o cesze ESG nabywcy. "
+            "Od 27 września 2027 r. „ESG Friendly” trzeba będzie zestawić z pkt 4a, a wniosek o całej palecie wyprowadzony z badania powierzchni z pkt 4b."
+        ),
+        "remediation": (
+            "Zostawić nazwę szczepów, normę, rząd wielkości spadku i jednostkę, która badała. Dopisać warunki badania, które są w raporcie laboratorium. "
+            "Usunąć „throughout the entire life cycle”, „99%” jako cechę całej palety, „world’s first” i „you are ESG Friendly”, "
+            "dopóki osobne dowody nie obejmują cyklu życia, przeglądu rynku i cechy ESG. Opinię politechniki cytować jako opinię o innowacyjności, w akapicie osobnym od wyniku mikrobiologicznego."
+        ),
+        "claim": (
+            "„MW01-MED is recycled HDPE with a zinc oxide addition. In a test according to ISO 22196:2011, run with a certified Łukasiewicz unit, "
+            "samples showed a reduction of about 99.97% for E. coli ATCC 8739 and about 99.98% for S. aureus ATCC 6538P, under the contact conditions stated in the test report. "
+            "The page does not extend this result to the whole service life of the pallet. Poznań University of Technology issued an opinion on the innovation. That opinion is not an ESG certification.”"
+        ),
+    },
+]
+
+
+def build(path: Path, specimen: bool):
+    doc = docx.Document()
+    normal = doc.styles["Normal"]
+    normal.font.name = "Arial"
+    normal.font.size = Pt(10.5)
+    normal.font.color.rgb = DARK
+    rpr = normal.element.get_or_add_rPr()
+    rfonts = rpr.find(qn("w:rFonts"))
+    if rfonts is None:
+        rfonts = OxmlElement("w:rFonts")
+        rpr.append(rfonts)
+    for attr in ("w:ascii", "w:hAnsi", "w:cs", "w:eastAsia"):
+        rfonts.set(qn(attr), "Arial")
+    normal.paragraph_format.space_before = Pt(0)
+    normal.paragraph_format.space_after = Pt(0)
+
+    section = doc.sections[0]
+    section.page_width = Mm(210)
+    section.page_height = Mm(297)
+    section.top_margin = Cm(2.15)
+    section.bottom_margin = Cm(1.55)
+    section.left_margin = Cm(1.7)
+    section.right_margin = Cm(1.7)
+    section.header_distance = Cm(0.28)
+    section.footer_distance = Cm(0.32)
+
+    sect_pr = section._sectPr
+    pg_borders = OxmlElement("w:pgBorders")
+    pg_borders.set(qn("w:offsetFrom"), "page")
+    left_edge = OxmlElement("w:left")
+    left_edge.set(qn("w:val"), "single")
+    left_edge.set(qn("w:sz"), "24")
+    left_edge.set(qn("w:space"), "0")
+    left_edge.set(qn("w:color"), "3A61B3")
+    pg_borders.append(left_edge)
+    sect_pr.append(pg_borders)
+
+    settings = doc.settings.element
+    for el in settings.findall(".//" + qn("w:compatSetting")):
+        if el.get(qn("w:name")) == "compatibilityMode":
+            el.set(qn("w:val"), "15")
+    theme_lang = settings.find(qn("w:themeFontLang"))
+    if theme_lang is not None:
+        theme_lang.set(qn("w:val"), "pl-PL")
+    compat = settings.find(qn("w:compat"))
+    if compat is None:
+        compat = OxmlElement("w:compat")
+        settings.append(compat)
+    compat.append(OxmlElement("w:doNotUseHTMLParagraphAutoSpacing"))
+
+    props = doc.core_properties
+    props.author = "ESG Institute"
+    props.category = "Audyt greenwashingu"
+    props.subject = "Raport skrócony audytu ryzyk greenwashingu — LIBRA PARTNERS"
+    props.title = (
+        "Wzór raportu skróconego — LIBRA PARTNERS"
+        if specimen
+        else "Raport skrócony audytu ryzyk greenwashingu — LIBRA PARTNERS"
+    )
+    props.comments = "ESG Institute · esginstitute.eu · raport skrócony · 30 października 2026 r."
+
+    def para(text, size=10.5, bold=False, italic=False, color=DARK, before=0, after=6, align="left", keep_next=False, lang="pl-PL"):
+        paragraph = doc.add_paragraph()
+        paragraph.paragraph_format.space_before = Pt(before)
+        paragraph.paragraph_format.space_after = Pt(after)
+        paragraph.paragraph_format.line_spacing = 1.08
+        paragraph.paragraph_format.keep_with_next = keep_next
+        if align == "justify":
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        elif align == "center":
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        _run(paragraph.add_run(text), size, bold, italic, color, lang=lang)
+        return paragraph
+
+    def rich(parts, size=10.5, before=0, after=6, align="left", keep_next=False):
+        paragraph = doc.add_paragraph()
+        paragraph.paragraph_format.space_before = Pt(before)
+        paragraph.paragraph_format.space_after = Pt(after)
+        paragraph.paragraph_format.line_spacing = 1.08
+        paragraph.paragraph_format.keep_with_next = keep_next
+        if align == "justify":
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        for text, bold, italic, color, lang in parts:
+            _run(paragraph.add_run(text), size, bold, italic, color, lang=lang)
+        return paragraph
+
+    def heading(number, title):
+        paragraph = doc.add_paragraph()
+        paragraph.paragraph_format.space_before = Pt(11)
+        paragraph.paragraph_format.space_after = Pt(4)
+        paragraph.paragraph_format.keep_with_next = True
+        paragraph.paragraph_format.line_spacing = 1.0
+        _run(paragraph.add_run(number), 13, True, False, BLUE, tracking=40)
+        _run(paragraph.add_run("   " + title), 13, True, False, NAVY)
+        _p_border_bottom(paragraph, "E6EDF2", "10")
+        return paragraph
+
+    def band(fill, left_color, paragraphs):
+        table = doc.add_table(rows=1, cols=2)
+        _lock(table, [0.16, PAGE_W - 0.16])
+        _nil_table_borders(table)
+        rail, body = table.rows[0].cells
+        _shd(rail, left_color)
+        _shd(body, fill)
+        _mar(rail, 0, 0, 0, 0)
+        _mar(body, 80, 80, 120, 120)
+        _borders(rail, left_color, "2", "2", left_color)
+        _borders(body, fill, "2", "2", fill)
+        _clear_paragraph(rail.paragraphs[0])
+        first = True
+        for text, size, bold, italic, color, lang in paragraphs:
+            if first:
+                p = body.paragraphs[0]
+                _clear_paragraph(p)
+                first = False
+            else:
+                p = body.add_paragraph()
+            p.paragraph_format.space_before = Pt(1)
+            p.paragraph_format.space_after = Pt(2)
+            p.paragraph_format.line_spacing = 1.08
+            p.alignment = WD_ALIGN_PARAGRAPH.LEFT if bold else WD_ALIGN_PARAGRAPH.JUSTIFY
+            _run(p.add_run(text), size, bold, italic, color, lang=lang)
+        _cant_split(table.rows[0])
+        gap = doc.add_paragraph()
+        _clear_paragraph(gap)
+        gap.paragraph_format.space_after = Pt(4)
+
+    # --- nagłówek i stopka ---
+    header = section.header
+    header.is_linked_to_previous = False
+    hp = header.paragraphs[0]
+    _clear_paragraph(hp)
+    htable = header.add_table(2, 2, Cm(PAGE_W))
+    _lock(htable, [8.4, PAGE_W - 8.4])
+    _nil_table_borders(htable)
+    left, right = htable.rows[0].cells
+    for cell in (left, right):
+        _shd(cell, "08181F")
+        _mar(cell, 50, 50, 110, 110)
+        _nil_cell_borders(cell)
+        cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
+    lp = _cell_p(left)
+    if LOGO.exists():
+        lp.add_run().add_picture(str(LOGO), width=Cm(4.15))
+    else:
+        _run(lp.add_run("ESG INSTITUTE"), 11, True, False, WHITE)
+    rp = _cell_p(right)
+    rp.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+    who = "WZÓR FORMY" if specimen else "LIBRA PARTNERS"
+    _run(rp.add_run("RAPORT SKRÓCONY"), 8, True, False, CYAN_SOFT, tracking=60)
+    rp2 = right.add_paragraph()
+    _clear_paragraph(rp2)
+    rp2.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+    _run(rp2.add_run(who), 8, True, False, WHITE, tracking=28)
+    _run(rp2.add_run("   ·   esginstitute.eu"), 8, False, False, CYAN_SOFT)
+
+    stripe_a, stripe_b = htable.rows[1].cells
+    stripe_a.merge(stripe_b)
+    stripe = htable.rows[1].cells[0]
+    _shd(stripe, "2F8DBC")
+    _mar(stripe, 0, 0, 0, 0)
+    _nil_cell_borders(stripe)
+    _clear_paragraph(stripe.paragraphs[0])
+    _row_height(htable.rows[1], 70, "exact")
+
+    # Usuń pusty akapit nad tabelą nagłówka, żeby pas przylegał do krawędzi.
+    hp_el = hp._p
+    if hp_el.getparent() is not None and not hp_el.xpath(".//w:drawing"):
+        hp_el.getparent().remove(hp_el)
+
+    footer = section.footer
+    footer.is_linked_to_previous = False
+    fp = footer.paragraphs[0]
+    _clear_paragraph(fp)
+    fp.paragraph_format.space_before = Pt(3)
+    p_pr = fp._p.get_or_add_pPr()
+    p_bdr = OxmlElement("w:pBdr")
+    top = OxmlElement("w:top")
+    top.set(qn("w:val"), "single")
+    top.set(qn("w:sz"), "12")
+    top.set(qn("w:space"), "6")
+    top.set(qn("w:color"), "2F8DBC")
+    p_bdr.append(top)
+    p_pr.append(p_bdr)
+    edition = "wzór formy  ·  " if specimen else ""
+    _run(
+        fp.add_run("ESG Institute Sp. z o.o.   ·   esginstitute.eu   ·   " + edition + "raport skrócony   ·   Libra Partners"),
+        8,
+        False,
+        False,
+        MUTED,
+    )
+    _run(fp.add_run("          "), 8, False, False, MUTED)
+    _field(fp, "PAGE")
+    _run(fp.add_run("  /  "), 8, False, False, MUTED)
+    _field(fp, "NUMPAGES")
+
+    # --- treść ---
+    if specimen:
+        para(
+            "WZÓR FORMY. Układ i identyfikacja ESG Institute służą kolejnym raportom skróconym. "
+            "Przykład dotyczy LIBRA PARTNERS. Ustalenia nie są oceną innego podmiotu.",
+            size=8.5,
+            italic=True,
+            color=BLUE,
+            before=0,
+            after=4,
+        )
+
+    para(
+        "ESG INSTITUTE   ·   RAPORT AUDYTU REGULACYJNEGO I ŚRODOWISKOWEGO",
+        size=8.5,
+        bold=True,
+        color=BLUE,
+        before=2,
+        after=2,
+    )
+    title = para("Audyt Ryzyk Greenwashingu: LIBRA PARTNERS", size=20, bold=True, color=NAVY, before=0, after=2)
+    title.paragraph_format.keep_with_next = True
+
+    dash = doc.add_table(rows=1, cols=1)
+    _lock(dash, [2.35], align="left")
+    _nil_table_borders(dash)
+    dash_cell = dash.cell(0, 0)
+    _shd(dash_cell, "2F8DBC")
+    _mar(dash_cell, 0, 0, 0, 0)
+    _borders(dash_cell, "2F8DBC", "2")
+    _clear_paragraph(dash_cell.paragraphs[0])
+    _row_height(dash.rows[0], 68, "exact")
+    gap = doc.add_paragraph()
+    _clear_paragraph(gap)
+    gap.paragraph_format.space_after = Pt(6)
+
+    para(
+        "Raport skrócony. Weryfikacja angielskiej witryny https://libra-partners.pl/en/ oraz podstron zrównoważonego rozwoju, "
+        "„o nas”, palety MW01 i palety antybakteryjnej MW01-MED, stan na 30 października 2026 r. "
+        "Werdykt opiera się na ustawie o zwalczaniu nieuczciwej konkurencji. "
+        "Czarna lista dyrektywy (UE) 2024/825 (EmpCo) jest przyszłym standardem od 27 września 2027 r.",
+        size=10,
+        italic=True,
+        color=MUTED,
+        before=2,
+        after=8,
+    )
+
+    frame = doc.add_table(rows=1, cols=1)
+    _lock(frame, [PAGE_W])
+    _nil_table_borders(frame)
+    fcell = frame.cell(0, 0)
+    _shd(fcell, "F7F9FC")
+    _mar(fcell, 70, 50, 80, 80)
+    _borders(fcell, "D5DEE8", "6", "16", "08181F")
+    fpict = _cell_p(fcell)
+    fpict.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    fpict.add_run().add_picture(_banner(), width=Cm(PAGE_W - 0.7))
+    cap = fcell.add_paragraph()
+    cap.alignment = WD_ALIGN_PARAGRAPH.LEFT
+    cap.paragraph_format.space_before = Pt(4)
+    cap.paragraph_format.space_after = Pt(0)
+    cap.paragraph_format.line_spacing = 1.05
+    _run(
+        cap.add_run(
+            "Fragment slajdu „Carbon footprint” na https://libra-partners.pl/en/, 30 października 2026 r. "
+            "Hasło porównuje palety LIBRA PARTNERS z paletami drewnianymi. Na pełnym slajdzie, na prawo od tego kadru, jest okrągła pieczęć z napisem ESG."
+        ),
+        8,
+        False,
+        True,
+        MUTED,
+    )
+    after_frame = doc.add_paragraph()
+    _clear_paragraph(after_frame)
+    after_frame.paragraph_format.space_after = Pt(8)
+
+    meta = [
+        (
+            "Badany podmiot",
+            "LIBRA PARTNERS, grupa SZARPOL. Kontakt na stronie: Rafał Szarzała, Centrum Produkcyjno-Handlowe „Szarpol”, ul. prof. Mariana Rapackiego 3, 98-200 Sieradz. Założyciele podani na stronie: Maciej Włodarczyk i Rafał Szarzała.",
+        ),
+        (
+            "Przedmiot audytu",
+            "Angielska strona główna oraz podstrony /en/zrownowazony-rozwoj/, /en/o-nas/, /en/standard-pallet-model-mw01/ i /en/paleta-antybakteryjna-model-mw01-med/. Wersja polska witryny istnieje i nie jest przedmiotem tego raportu.",
+        ),
+        (
+            "Sektor działalności",
+            "Palety transportowe z HDPE, w tym z recyklatu. Oferta skierowana do firm: logistyka, przemysł spożywczy, farmaceutyczny i medyczny.",
+        ),
+        (
+            "Reżim prawny",
+            "Prawo obowiązujące: ustawa o zwalczaniu nieuczciwej konkurencji, Dz.U. 2026 poz. 85, art. 16 i art. 18. Gdy odbiorcą jest konsument: ustawa o przeciwdziałaniu nieuczciwym praktykom rynkowym, Dz.U. 2023 poz. 845, art. 5 i 6. Ustawa o ochronie konkurencji i konsumentów, Dz.U. 2025 poz. 1714, art. 24 i art. 106 ust. 1 pkt 4. Ustawa z 4 września 2026 r. (Dz.U. 2026 poz. 1353) wchodzi w życie 27 września 2027 r. W dniu audytu czarna lista EmpCo nie jest prawem polskim.",
+        ),
+        ("Data audytu", "30 października 2026 r."),
+        ("Werdykt operacyjny", "NIE PUBLIKOWAĆ W OBECNEJ FORMIE (KOD CZERWONY / REJECT & RE-NARROW)"),
+    ]
+    meta_table = doc.add_table(rows=len(meta), cols=2)
+    meta_w = [4.15, PAGE_W - 4.15]
+    _lock(meta_table, meta_w)
+    _nil_table_borders(meta_table)
+    for i, (label, value) in enumerate(meta):
+        ck, cv = meta_table.rows[i].cells
+        last = i == len(meta) - 1
+        _shd(ck, "E8F0FA")
+        _shd(cv, "FFF1F2" if last else "FFFFFF")
+        _mar(ck, 46, 46, 80, 70)
+        _mar(cv, 46, 46, 90, 80)
+        _borders(ck, "E3EAF2", "4", "12", "3A61B3")
+        _borders(cv, "E3EAF2", "4")
+        ck.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
+        pk, pv = _cell_p(ck), _cell_p(cv)
+        pk.paragraph_format.space_after = Pt(0)
+        pv.paragraph_format.space_after = Pt(0)
+        pv.paragraph_format.line_spacing = 1.05
+        _run(pk.add_run(label), 8, True, False, NAVY)
+        _run(pv.add_run(value), 8.5, last, False, DANGER if last else DARK)
+        _cant_split(meta_table.rows[i])
+    spacer = doc.add_paragraph()
+    _clear_paragraph(spacer)
+    spacer.paragraph_format.space_after = Pt(8)
+
+    band(
+        "FFF1F2",
+        "BE123C",
+        [
+            ("WERDYKT OPERACYJNY", 8, True, False, DANGER, "pl-PL"),
+            ("NIE PUBLIKOWAĆ W OBECNEJ FORMIE  ·  KOD CZERWONY", 11.5, True, False, DANGER, "pl-PL"),
+            (
+                "Strona sprzedaje paletę firmie i w tym samym miejscu podaje ilość emisji oraz obietnicę zgodności z polityką ESG. "
+                "Art. 16 ust. 1 pkt 2 i ust. 2 ustawy o zwalczaniu nieuczciwej konkurencji obejmują reklamę, która wprowadza klienta w błąd co do ilości i może wpłynąć na decyzję o nabyciu. "
+                "Zapis „6,060 TONS” przy podstawie „400 kg” dla 33 palet spełnia tę przesłankę. Do tego dochodzą zdania o braku odpadów i o zgodności z Agendą 2030 oraz rozszerzenie wyniku badania dwóch szczepów na cały cykl życia palety.",
+                10,
+                False,
+                False,
+                DARK,
+                "pl-PL",
+            ),
+            (
+                "Ustawa wdrażająca dyrektywę (UE) 2024/825 wchodzi w życie 27 września 2027 r. Do tej daty ogólne „eco-friendly”, „key player in sustainability” i pieczęć ESG są przyszłym standardem pkt 2a i 4a, a claim o całym produkcie oparty na masie albo na odbiorze własnych palet — przyszłym standardem pkt 4b. Przekaz nie opiera redukcji na kompensacji, więc pkt 4c go nie opisuje.",
+                10,
+                False,
+                False,
+                DARK,
+                "pl-PL",
+            ),
+        ],
+    )
+
+    heading("1", "Analiza wstępna")
+    para(
+        "LIBRA PARTNERS przedstawia się jako producent palet z HDPE w grupie SZARPOL i kieruje ofertę do firm logistycznych, spożywczych, farmaceutycznych i medycznych. "
+        "Wersja angielska otwiera się porównaniem śladu węglowego z paletą drewnianą, hasłem gospodarki o obiegu zamkniętym oraz opiniami nazwanymi „Consumer feedback”. "
+        "Odbiorcą zdania „your company” jest klient biznesowy, więc podstawą już dziś jest ustawa o zwalczaniu nieuczciwej konkurencji. "
+        "Trzy twierdzenia spełniają jej przesłanki i rozstrzygają werdykt. Hasła ogólne i pieczęć ESG zbliżają się do zakazów, które w Polsce zaczną obowiązywać 27 września 2027 r. Same nie dają werdyktu czerwonego.",
+        align="justify",
+        after=4,
+    )
+
+    heading("2", "Ustalenia")
+    headers = ["ID", "Analizowane twierdzenie", "Podstawa prawna", "Ryzyko", "Istota"]
+    col_w = [1.05, 4.85, 3.85, 2.55, 5.3]
+    sum_table = doc.add_table(rows=1 + len(FINDINGS), cols=5)
+    _lock(sum_table, col_w)
+    _nil_table_borders(sum_table)
+    for c, label in enumerate(headers):
+        cell = sum_table.rows[0].cells[c]
+        _shd(cell, "08181F")
+        _mar(cell, 42, 42, 50, 50)
+        _borders(cell, "08181F", "4", "4", "08181F")
+        p = _cell_p(cell)
+        _run(p.add_run(label), 7.5, True, False, WHITE)
+    risk_fill = {"BARDZO WYSOKIE": "FFF1F2", "WYSOKIE": "FFF1F2"}
+    for r, row in enumerate(FINDINGS):
+        bg = "FFFFFF" if r % 2 == 0 else "F7F9FC"
+        for c, val in enumerate(row):
+            cell = sum_table.rows[r + 1].cells[c]
+            is_risk = c == 3
+            _shd(cell, risk_fill.get(val, bg) if is_risk else bg)
+            _mar(cell, 40, 40, 50, 50)
+            edge = "BE123C" if is_risk else "E6EDF2"
+            _borders(cell, "E6EDF2", "4", "14" if is_risk else "4", edge)
+            cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
+            p = _cell_p(cell)
+            p.paragraph_format.line_spacing = 1.02
+            if c == 0:
+                _run(p.add_run(val), 8, True, False, BLUE)
+            elif is_risk:
+                _run(p.add_run(val), 7.5, True, False, DANGER)
+            else:
+                _run(p.add_run(val), 7.5, False, False, DARK)
+        _cant_split(sum_table.rows[r + 1])
+    _cant_split(sum_table.rows[0])
+
+    para(
+        "Raport skrócony rozwija trzy ustalenia, które rozstrzygają werdykt. "
+        "Audyt pełny odnotowuje ponadto dwa ustalenia o ryzyku średnim: trwałość „10 razy” wraz ze zdaniami o wycince oraz sekcję „Consumer feedback” z pięcioma gwiazdkami. Nie są tu omawiane.",
+        size=9,
+        italic=True,
+        color=MUTED,
+        before=6,
+        after=2,
+    )
+
+    heading("3", "Przypadki")
+    for case in CASES:
+        card = doc.add_table(rows=1, cols=3)
+        _lock(card, [0.16, PAGE_W - 0.16 - 3.35, 3.35])
+        _nil_table_borders(card)
+        rail, mid, risk = card.rows[0].cells
+        _shd(rail, "BE123C")
+        _shd(mid, "F4F7FB")
+        _shd(risk, "FFF1F2")
+        _mar(rail, 0, 0, 0, 0)
+        _mar(mid, 60, 60, 100, 80)
+        _mar(risk, 60, 50, 60, 80)
+        for cell, color in ((rail, "BE123C"), (mid, "F4F7FB"), (risk, "FFF1F2")):
+            _borders(cell, color, "2", "2", color)
+        _clear_paragraph(rail.paragraphs[0])
+        mid.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
+        risk.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
+        mp = _cell_p(mid)
+        _run(mp.add_run("PRZYPADEK " + case["no"]), 8, True, False, BLUE, tracking=36)
+        mp2 = mid.add_paragraph()
+        mp2.paragraph_format.space_before = Pt(1)
+        mp2.paragraph_format.space_after = Pt(0)
+        mp2.paragraph_format.line_spacing = 1.05
+        _run(mp2.add_run(case["title"]), 11.5, True, False, NAVY)
+        rp = _cell_p(risk)
+        rp.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+        _run(rp.add_run("POZIOM RYZYKA"), 7, True, False, MUTED, tracking=20)
+        rp2 = risk.add_paragraph()
+        rp2.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+        rp2.paragraph_format.space_before = Pt(1)
+        rp2.paragraph_format.space_after = Pt(0)
+        _run(rp2.add_run(case["risk"]), 9, True, False, DANGER)
+        _cant_split(card.rows[0])
+
+        para(case["basis"], size=8.5, color=CYAN, before=4, after=3)
+
+        qbox = doc.add_table(rows=1, cols=1)
+        _lock(qbox, [PAGE_W])
+        _nil_table_borders(qbox)
+        qc = qbox.cell(0, 0)
+        _shd(qc, "F4F8FB")
+        _mar(qc, 60, 50, 110, 100)
+        _borders(qc, "E3EEF5", "4", "16", "2F8DBC")
+        qp = _cell_p(qc)
+        _run(qp.add_run("CYTAT ŹRÓDŁOWY"), 7.5, True, False, CYAN, tracking=28)
+        for quote in case["quotes"]:
+            _add_body(qc, quote, size=9.5, italic=True, color=DARK, before=1, after=1, lang="en-US")
+        _cant_split(qbox.rows[0])
+
+        para("Ocena prawna", size=10, bold=True, color=NAVY, before=6, after=2, keep_next=True)
+        for block in case["assessment"].split("\n"):
+            para(block, align="justify", after=3)
+        para("Kierunek naprawy", size=10, bold=True, color=NAVY, before=2, after=2, keep_next=True)
+        para(case["remediation"], align="justify", after=4)
+
+        band(
+            "F0FDF4",
+            "059669",
+            [
+                ("DOZWOLONE SFORMUŁOWANIE  ·  WZÓR PO KOREKCIE", 8, True, False, GREEN_TXT, "pl-PL"),
+                (case["claim"], 9.5, False, False, DARK, "en-US"),
+            ],
+        )
+
+    heading("4", "Ryzyka prawne i finansowe")
+    risks = [
+        (
+            "01",
+            "Roszczenia konkurenta",
+            "Reklama porównawcza wobec palety drewnianej oraz zdania o ilości emisji, o braku odpadów i o całym cyklu życia właściwości antybakteryjnej spełniają art. 16. "
+            "Przedsiębiorca, którego interes został zagrożony albo naruszony, może według art. 18 ust. 1 żądać zaniechania, usunięcia skutków, oświadczenia, naprawienia szkody i wydania korzyści, a przy zawinieniu także świadczenia na cel społeczny.",
+        ),
+        (
+            "02",
+            "Postępowanie Prezesa UOKiK",
+            "Art. 24 ust. 2 pkt 2 i 3 ustawy o ochronie konkurencji i konsumentów obejmuje naruszenie obowiązku rzetelnej informacji oraz czyn nieuczciwej konkurencji wobec zbiorowych interesów konsumentów. "
+            "Art. 106 ust. 1 pkt 4 pozwala nałożyć karę do 10% obrotu, także przy naruszeniu nieumyślnym. Oferta palety jest skierowana do firmy, więc kara nie jest automatyczna. Ścieżka zostaje otwarta, bo witryna jest publiczna.",
+        ),
+        (
+            "03",
+            "Standard EmpCo od 27 września 2027 r. i ścieżka KPK",
+            "Od tej daty, zgodnie z art. 3 ustawy z 4 września 2026 r., wejdą pkt 2a, 4a i 4b. Pieczęć ESG, ogólne „eco-friendly” i claim o całej firmie oparty na masie, recyklacie albo odbiorze własnych palet będą wtedy wymagały zawężenia. "
+            "Pkt 4c tego materiału nie opisuje. Osobno: hasło firmy odpowiedzialnej społecznie może być przedmiotem zawiadomienia do polskiego KPK OECD. To postępowanie nie kończy się wyrokiem. Poziom jest NISKIE i nie przesądza werdyktu.",
+        ),
+    ]
+    for number, title, body in risks:
+        row = doc.add_table(rows=1, cols=2)
+        _lock(row, [1.15, PAGE_W - 1.15])
+        _nil_table_borders(row)
+        num, text = row.rows[0].cells
+        _shd(num, "08181F")
+        _shd(text, "FFFFFF")
+        _mar(num, 36, 36, 30, 30)
+        _mar(text, 28, 32, 90, 50)
+        _borders(num, "08181F", "4", "4", "08181F")
+        _borders(text, "E6EDF2", "4", "4", "E6EDF2")
+        num.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
+        np = _cell_p(num)
+        np.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        _run(np.add_run(number), 9, True, False, WHITE)
+        tp = _cell_p(text)
+        _run(tp.add_run(title), 10.5, True, False, NAVY)
+        _add_body(text, body, size=9.5, before=1, after=0, align="justify")
+        _cant_split(row.rows[0])
+        g = doc.add_paragraph()
+        _clear_paragraph(g)
+        g.paragraph_format.space_after = Pt(3)
+
+    heading("5", "Rekomendacje naprawcze")
+    para(
+        "Etap natychmiastowy obejmuje tylko prawo już naruszone. Twierdzenia, które wejdą w czarną listę 27 września 2027 r., są w etapie drugim.",
+        size=10,
+        italic=True,
+        color=MUTED,
+        before=0,
+        after=6,
+    )
+    stages = [
+        ("1", "Do 13 listopada 2026 r.", "BE123C", "FFF1F2",
+         "Zdjąć kalkulator „TONS LESS CO2”, liczbę 400 kg bez trasy oraz zdanie, że zmiana palet daje zgodność z polityką ESG i przygotowuje do raportowania niefinansowego. "
+         "Zdjąć „there is no waste”, „ZERO WASTE”, „100% CIRCULAR ECONOMY”, „never end up in a landfill”, „highest standards” i „confirming the compliance” z Agendą 2030. "
+         "Na stronie MW01-MED zdjąć „entire life cycle”, „99%” jako cechę całej palety, „world’s first” i „you are ESG Friendly”. Zostawić wynik dwóch szczepów z nazwą normy."),
+        ("2", "Przed 27 września 2027 r.", "D97706", "FFFBEB",
+         "Hasła „Eco-friendly”, „technology with ecology in mind”, „key player in sustainability” i „ecological” opatrzyć na tym samym slajdzie jasnym opisem albo zastąpić opisem czynności. "
+         "Pieczęć ESG usunąć albo powiązać z nazwanym systemem certyfikacji lub organem publicznym. Claim o całej palecie i o całej firmie zawęzić do aspektu, którego dotyczy dowód."),
+        ("3", "Do 29 stycznia 2027 r.", "2F8DBC", "F0F9FF",
+         "Jeżeli porównanie transportowe wraca, oprzeć je na metodzie aktualnej dla usługi transportowej, z trasą albo tonokilometrem, ładunkiem, masą palety odniesienia i granicami. "
+         "Wynik Envirly podać z jednostką funkcjonalną albo nie przywoływać „almost twice”. Warunki badania ISO 22196 podać zgodnie z raportem laboratorium. Sprawdzić, czy te same zdania są na wersji polskiej."),
+        ("4", "Do 27 lutego 2027 r., potem na stałe", "059669", "F0FDF4",
+         "Wprowadzić wzory sformułowań z przypadków 01–03, w wersji angielskiej i polskiej w tym samym zakresie. "
+         "Przeszkolić osoby prowadzące stronę: ilość bez granic, „compliance”, „zero waste” i „ESG Friendly” nie wracają do publikacji. "
+         "Po 27 września 2027 r. przegląd strony obejmuje także pkt 2a, 4a i 4b."),
+    ]
+    rec = doc.add_table(rows=1 + len(stages), cols=3)
+    rec_w = [1.15, 4.15, PAGE_W - 5.3]
+    _lock(rec, rec_w)
+    _nil_table_borders(rec)
+    for c, label in enumerate(["Etap", "Horyzont", "Działanie"]):
+        cell = rec.rows[0].cells[c]
+        _shd(cell, "08181F")
+        _mar(cell, 42, 42, 60, 60)
+        _borders(cell, "08181F", "4")
+        p = _cell_p(cell)
+        _run(p.add_run(label), 8, True, False, WHITE)
+    _cant_split(rec.rows[0])
+    for i, (num, when, accent, fill, action) in enumerate(stages):
+        vals = (num, when, action)
+        for c, val in enumerate(vals):
+            cell = rec.rows[i + 1].cells[c]
+            _shd(cell, fill if c < 2 else "FFFFFF")
+            _mar(cell, 32, 32, 56, 56)
+            _borders(cell, "E6EDF2", "4", "14" if c == 0 else "4", accent if c == 0 else "E6EDF2")
+            cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER if c < 2 else WD_ALIGN_VERTICAL.TOP
+            p = _cell_p(cell)
+            p.paragraph_format.line_spacing = 1.02
+            if c == 2:
+                p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            stage_color = {"1": DANGER, "2": WARNING, "3": CYAN, "4": SUCCESS}[num]
+            if c == 0:
+                _run(p.add_run(val), 11, True, False, stage_color)
+            elif c == 1:
+                _run(p.add_run(val), 8, True, False, NAVY)
+            else:
+                _run(p.add_run(val), 8, False, False, DARK)
+        _cant_split(rec.rows[i + 1])
+
+    heading("6", "Wniosek")
+    band(
+        "E8F0FA",
+        "3A61B3",
+        [
+            (
+                "W dniu 30 października 2026 r. angielska witryna LIBRA PARTNERS nie powinna zostać w obecnej formie. "
+                "Art. 16 ustawy o zwalczaniu nieuczciwej konkurencji obejmuje kalkulator emisji zapisany jako „TONS”, obietnicę zgodności z polityką ESG, "
+                "zdania o braku odpadów i o zgodności z Agendą 2030 oraz rozszerzenie wyniku dwóch szczepów na cały cykl życia palety.",
+                10.5,
+                False,
+                False,
+                DARK,
+                "pl-PL",
+            ),
+            (
+                "Od 27 września 2027 r. dojdzie do tego standard pkt 2a, 4a i 4b ustawy z 4 września 2026 r. "
+                "Do tej daty nie jest to naruszenie polskiej czarnej listy. Pkt 4c tego przekazu nie dotyczy.",
+                10.5,
+                False,
+                False,
+                DARK,
+                "pl-PL",
+            ),
+        ],
+    )
+
+    path.parent.mkdir(parents=True, exist_ok=True)
+    doc.save(path)
+    return path
+
+
+def main():
+    wzor = build(ROOT / "wzory" / "WZOR_raport_skrocony.docx", specimen=True)
+    raport = build(ROOT / "LIBRA" / "Raport_Skrocony_Audytu_Greenwashingu_Libra_Partners.docx", specimen=False)
+    print(wzor)
+    print(raport)
+
+
+if __name__ == "__main__":
+    main()
