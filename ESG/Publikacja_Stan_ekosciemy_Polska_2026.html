@@ -49,8 +49,17 @@
     overflow-x: auto;
   }
   .nav a { color: #ffffff; text-decoration: none; white-space: nowrap; }
-  .logo { display: block; height: 32px; width: auto; }
-  .nav .logo { height: 28px; margin-right: 8px; }
+  .logo {
+    display: block;
+    height: 28px;
+    width: 78px;
+    max-width: 78px;
+    align-self: flex-start;
+    flex: 0 0 auto;
+    object-fit: contain;
+    object-position: left center;
+  }
+  .nav .logo { margin-right: 10px; }
   .nav a:hover { text-decoration: underline; }
   .nav strong { font-weight: 700; letter-spacing: 0.12em; font-size: 12px; }
   .cover {
@@ -204,8 +213,8 @@
     font-size: 15px;
   }
   footer.colophon a { color: #ffffff; }
-  .cover .logo { height: 58px; margin: 0 0 28px; }
-  footer.colophon .logo { height: 48px; margin: 0 0 18px; }
+  .cover .logo { height: 22mm; width: 61mm; max-width: 61mm; margin: 0 0 10mm; }
+  footer.colophon .logo { height: 16mm; width: 44mm; max-width: 44mm; margin: 0 0 8mm; }
   .byline {
     font-family: var(--serif);
     font-size: 22px;
@@ -345,7 +354,8 @@
       -webkit-print-color-adjust: exact;
       print-color-adjust: exact;
     }
-    .cover .logo { height: 16mm; margin-bottom: 8mm; }
+    .cover .logo { height: 18mm; width: 50mm; max-width: 50mm; margin-bottom: 8mm; }
+    footer.colophon .logo { height: 14mm; width: 39mm; max-width: 39mm; }
     .cover h1 { font-size: 32pt; }
     .byline { font-size: 14pt; }
     .lede { font-size: 12pt; }

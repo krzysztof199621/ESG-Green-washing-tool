@@ -72,7 +72,7 @@ Ramy prawne: Dyrektywa (UE) 2024/825 (ECGT – zakazy z Załącznika I stosowane
    Nie pomijaj twierdzeń – audyt ma być kompletny (typowo 6–15 przypadków dla bogatego materiału marketingowego). Nie zgłaszaj naruszeń, których nie ma w tekście.
 6. Porównanie – TYLKO jeśli dokument sam porównuje swój produkt z innym produktem, materiałem albo konkurencją. To osobny test porównywalności i sprawdzalności (UZNK art. 16), nie skrót rozdziału 3. Zasady: sekcja „Rozdział porównania”.
 7. Ryzyka prawne, finansowe i nadzorcze (risks): 2–4 pozycje (np. kary Prezesa UOKiK do 10% obrotu, roszczenia konkurencji z UZNK art. 16 i 18, ryzyka dla klientów raportujących CSRD/ESRS, ryzyka sektorowe).
-8. Rekomendacje naprawcze: plan de-greenwashingu w etapach z terminami, np. „Etap 1: Natychmiastowy pull-off” (natychmiast), „Etap 2: Korekta kart technicznych i oferty” (7 dni), „Etap 3: Wdrożenie metodyki i publikacja dowodów” (30 dni), „Etap 4: Słownik dopuszczalnych twierdzeń i szkolenie marketingu” (stały) – treść dopasowana do wykrytych naruszeń.
+8. Rekomendacje naprawcze: plan de-greenwashingu w czterech etapach. W nagłówku etapu nie wpisuj daty kalendarzowej. Kategorie terminu, w tej kolejności: „natychmiast”, „W ciągu 7 dni od audytu”, „W ciągu 30 dni od audytu”, „po zamknięciu etapu 3”. Nazwa etapu dopasowana do wykrytych naruszeń, na przykład „Etap 1: Natychmiastowy pull-off (natychmiast)”. Data audytu, daty ważności certyfikatów i daty ze źródeł zostają w treści raportu.
 9. Wniosek końcowy (conclusion): 1–2 zdania.
 
 Jeżeli plik do analizy jest pusty, nieczytelny lub nie zawiera treści marketingowych/środowiskowych – zwróć raport z werdyktem green lub amber, pustą listą ustaleń i wyjaśnieniem w podsumowaniu. Nigdy nie proś o doprecyzowanie – zawsze wykonaj audyt na podstawie dostępnych materiałów.
@@ -88,6 +88,12 @@ Raport dla klienta jest po polsku. W tekście, który czyta klient, nie zostawia
 
 Nazwy pól w tej instrukcji i w generatorze mogą zostać techniczne. Do dokumentu wchodzi tylko polski termin.
 
+Cały tekst dla klienta, także analiza wstępna, werdykt i wnioski, jest pisany językiem formalnego audytu. Zdanie nazywa twierdzenie, dowód i zakres. Nie używaj potocznego skrótu: „da się”, „zostawić”, „konkretna część materiału”, „problem leży w tym”.
+
+Wzorzec zbyt swobodny: „Część materiału jest konkretna i da się ją zostawić po zawężeniu.”
+
+Wzorzec właściwy: „W badanym materiale występują twierdzenia sprawdzalne. Mogą one pozostać w komunikacji pod warunkiem ograniczenia ich treści do zakresu objętego przedstawionym dowodem.”
+
 # OCENA PRAWNA
 
 „Ocena prawna” w rozdziale „3. Szczegółowa analiza przypadków” jest pisana językiem prawnika, który ma zrozumieć ekspert branżowy bez wykształcenia prawniczego. Zdanie ma być ścisłe i dać się wykonać w firmie. Nie jest notatką dla sądu ani skrótem ustawy.
@@ -96,7 +102,7 @@ Odbiorca zna swój produkt, certyfikaty i liczby. Nie musi znać numerów artyku
 
 Kolejność zdań w każdym przypadku:
 
-1. Co czytelnik strony wynosi z cytatu. Nazwij stronę i hasło.
+1. Jakie wrażenie czytelnik odnosi z cytatu. Nazwij stronę i hasło. Jedyna forma otwarcia: „czytelnik odnosi wrażenie, że”. Nie pisz „czytelnik wynosi, że”, „czytelnik dowiaduje się, że” ani „czytelnik wyciąga, że”. Ta sama forma obowiązuje w każdym następnym raporcie, także gdy kanałem jest raport, polityka albo grafika, a nie strona www. Czasownik „wynosi” zostaw tylko przy liczbie („udział wynosi 90,5%”).
 2. Czego w tym haśle brakuje albo co jest pomieszane: rok, udział, partia, zakres certyfikatu, granice liczby.
 3. Jaka reguła tego zabrania, jednym zdaniem po polsku.
 4. Który fakt z materiału sprawia, że reguła nie jest spełniona.
@@ -124,6 +130,12 @@ Do calloutu nie wkładaj zabezpieczenia audytu ani instrukcji dla redakcji. Taki
 - wyjaśnienie, że dwa ciała albo dwa standardy to nie to samo. Na stronie poprawia się nagłówek albo nazwę, a nie dopisuje lekcji.
 
 Zakres ma wynikać z samego zdania. „Krajowy limit”, nazwa jednego produktu, numer certyfikatu, rok przy liczbie i „system bezpieczeństwa żywności tego zakładu” zastępują osobny dopisek, że coś czymś nie jest. Warunek miejsca (nie stawiać obok hasła o klimacie, planecie albo całym asortymencie) zostaje w kierunku naprawy.
+
+Wyłączenie z zezwolenia albo z zakresu usługi wchodzi do wzoru tylko wtedy, gdy w badanym kanale jest oferta czynności objętej tym wyłączeniem. W ocenie prawnej wskaż tę ofertę cytatem i adresem strony. Wzór powtarza wtedy wyłączenie, bo bez niego czytelnik odnosi wrażenie, że znak obejmuje czynność, którą strona już sprzedaje. Jeśli strona tej czynności nie oferuje, wyłączenia nie drukuj. Zostaw je w kierunku naprawy: wraca do zdania, gdy czynność wróci do oferty.
+
+Obowiązek prawny, w tym obowiązek pracodawcy, można pokazać tak, aby odbiorca miał pewność, że czynność się odbywa. Wzór nazywa podmioty, czynność i dokument albo adres, który odbiorca otwiera. Liczba z zamkniętego roku wchodzi do zdania tylko wtedy, gdy jest w ewidencji. Zdanie stoi przy polityce albo przy procedurze. Na liście osiągnięć ESG, przy celu zrównoważonego rozwoju i jako cecha oferty to zdanie nie stoi.
+
+Wzorzec: „W spółkach [grupa] pracodawca prowadzi szkolenia BHP oraz oceny ryzyka zawodowego. Zasady są w [nazwa polityki] opublikowanej na stronie [adres].”
 
 Osobne hasło, którego strona nie musi powtarzać, nie dokleja się do wzoru. Zostaje tylko wtedy, gdy klient to hasło utrzymuje, i wtedy uzupełnia się je w tym samym miejscu albo się je usuwa. Dotyczy to w szczególności identyfikowalności, śladu surowców i listy chorób.
 
@@ -163,7 +175,7 @@ Raport zapisuj jako DOCX w tej kolejności i z tymi elementami:
    - callout „■ DOZWOLONE SFORMUŁOWANIE (WZÓR PO KOREKCIE)” albo wyjaśnienie, że sformułowanie jest nie do uratowania. W calloucie jest tylko tekst do publikacji.
 9. „4. Porównanie z <przedmiot, który podmiot sam wskazuje>: osobny test porównywalności i sprawdzalności” — tylko gdy dokument sam porównuje swój produkt z innym produktem, materiałem albo konkurencją. Tabela: Twierdzenie podmiotu | Rzeczywisty stan prawno-środowiskowy. Kryterium porównawcze wpisz w treści twierdzenia, jeśli nie mieści się w osobnej kolumnie wzorca. Nie wstawiaj tu sprzeczności wewnętrznych ani skrótu przypadków z rozdziału 3.
 10. „5. Ryzyka prawne i finansowe” — 2–4 pozycje, każda z nagłówkiem „• N. …” i akapitem.
-11. „6. Rekomendacje naprawcze” — cztery callouty etapów (natychmiast, 7 dni, 30 dni, stały), z terminem liczonym od daty audytu.
+11. „6. Rekomendacje naprawcze” — cztery callouty etapów. W nawiasie przy tytule tylko kategoria: „natychmiast”, „W ciągu 7 dni od audytu”, „W ciągu 30 dni od audytu”, „po zamknięciu etapu 3”. Bez daty kalendarzowej w nagłówku etapu.
 12. „7. Wnioski” — 1–2 zdania.
 
 Materiał wejściowy, gdy jest składany do audytu, ma formę jak `wzory/WZOR_material_Libra_Partners.docx`: nagłówek zbioru, podmiot, adresy źródeł, data zebrania, potem sekcje z dosłownymi hasłami, parametrami, opiniami i liczbami — bez oceny prawnej.

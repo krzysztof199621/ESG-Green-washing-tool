@@ -1,0 +1,5607 @@
+
+
+===== PAGE 1 =====
+RAPORT 
+ESG   
+Grupa Impel - 2025
+impel. pl
+
+
+===== PAGE 2 =====
+2
+Raport ESG 2025 - Grupa IMPEL
+Spis treści
+Spis treści
+List Prezesa
+3
+4
+40
+44
+16
+23
+4
+41
+21
+17
+24
+22
+21
+36
+37
+INFORMACJE OGÓLNE
+ŚRODOWISKO
+SPOŁECZEŃSTWO
+ŁAD KORPORACYJNY
+ZAŁĄCZNIKI
+Ogólne ujawnianie informacji (ESRS 2)
+Zanieczyszczenia (ESRS E2)
+Zmiana klimatu (ESRS E1)
+Własne zasoby pracownicze (ESRS S1)
+Postępowanie w biznesie (ESRS G1)
+Wykorzystanie zasobów oraz gospodarka o obiegu zamkniętym  (ESRS E5)  
+Woda i zasoby morskie (ESRS E3)
+Osoby wykonujące pracę w łańcuchu wartości (ESRS S2)
+Konsumenci i użytkownicy końcowi (ESRS S4)
+
+
+===== PAGE 3 =====
+3
+Raport ESG 2025 - Grupa IMPEL
+List Prezesa
+Szanowni Państwo,
+opracowaliśmy pierwszy raport ESG Grupy Impel 
+– dokument, który stanowi istotny krok w kierunku 
+uporządkowanego, przejrzystego i odpowiedzialnego 
+raportowania naszego wpływu na szeroko pojęte 
+środowisko oraz standardów zarządzania organizacją. 
+Od kilku lat Grupa Impel realizuje proces transformacji 
+– od firmy usługowej do technologicznej. Dążymy 
+do realizacji tej wizji w sposób odpowiedzialny 
+i zorganizowany, kierując się precyzyjnie opracowaną 
+strategią rozwoju. Miniony 2025 rok był okresem peł- 
+nym wyzwań. Funkcjonowaliśmy w warunkach 
+dynamicznie zmieniającego się otoczenia gospo- 
+darczego i geopolitycznego, wpływających na ekono- 
+mikę zmian regulacyjnych oraz rynkowych. Prze-
+prowadziliśmy istotną zmianę modelu funkcjo-
+nowania naszej organizacji, która pozwoliła nam lepiej 
+dostosować strukturę do skali i charakteru działalności, 
+zwiększyć efektywność operacyjną oraz poprzez 
+rozwiązania cyfrowe poprawić jakość zarządzania 
+procesami. Widzimy już pierwsze efekty tych działań, 
+które stanowią solidną podstawę do dalszego rozwoju. 
+Jednocześnie w 2025 roku Grupa Impel obchodziła 
+jubileusz 35-lecia działalności, który potwierdza nasze 
+wieloletnie doświadczenie oraz ugruntowaną pozycję 
+na rynku. Był to również okres, w którym konsek-
+wentnie realizowaliśmy działania wzmacniające 
+naszą organizację i przygotowujące ją na przyszłość, 
+czego jednym z efektów jest wcześniejsze wdro-
+żenie naszych przyszłych obowiązków w zakresie 
+raportowania zrównoważonego rozwoju wynikające 
+z dyrektywy CSRD (Dyrektywa o sprawozdawczości 
+przedsiębiorstw w zakresie zrównoważonego rozwoju).
+List Prezesa
+Traktujemy ten proces jako strategiczny etap bu-
+dowy dojrzałości w obszarze ESG. Jesteśmy świa-
+domi, że raportowanie w tym zakresie wymaga 
+ciągłego doskonalenia – zarówno w kontekście 
+jakości danych, jak i sposobu zarządzania nimi. 
+Naszym 
+celem 
+jest 
+zapewnienie 
+zgodności 
+z wymogami regulacyjnymi oraz transparentne 
+odpowiadanie na oczekiwania klientów i partnerów 
+biznesowych. 
+Proces 
+przygotowania 
+raportu 
+wymagał zaangażowania wielu zespołów i ścisłej 
+współpracy pomiędzy wszystkimi jednostkami 
+organizacyjnymi, budując jednocześnie naszą integ- 
+rację w ujednoliceniu myślenia o rozwoju naszej 
+organizacji. Szczególnie istotny postęp osiągnęliśmy 
+w obszarze społecznym, który jest kluczowy z perspek-
+tywy naszej działalności. Jako organizacja oparta 
+na pracy ludzi, konsekwentnie rozwijamy dobre praktyki 
+związane z warunkami zatrudnienia, bezpieczeństwem 
+pracy oraz odpowiedzialnością wobec pracowników 
+i społeczności. W centrum naszych działań pozostaje 
+odpowiedzialność – zarówno w wymiarze środowisko-
+wym, społecznym, jak i ładu korporacyjnego.
+Doceniamy rosnące zaufanie klientów, partnerów 
+biznesowych i interesariuszy, które motywuje nas 
+do dalszego doskonalenia. 
+Grzegorz Dzik
+Prezes Zarządu  
+Impel S.A.
+
+
+===== PAGE 4 =====
+4
+Raport ESG 2025 - Grupa IMPEL
+Informacje ogólne
+Informacje ogólne
+OGÓLNE UJAWNIANIE INFORMACJI (ESRS 2)
+Ogólna podstawa sporządzenia oświadczenia 
+dotyczącego zrównoważonego rozwoju (BP-1)
+Rola organów administrujących, zarządzających  
+i nadzorczych (GOV-1)
+Ujawnianie informacji w odniesieniu  
+do szczególnych okoliczności (BP-2)
+Niniejsze oświadczenie dotyczące zrównoważonego 
+rozwoju Impel S.A. jest inspirowane wymogami Dyrektywy 
+Parlamentu Europejskiego i Rady (UE) 2022/2464 
+z dnia 14 grudnia 2022 r. zmieniającej rozporządzenie 
+(UE) nr 537/2014, dyrektywę 2004/109/WE, dyrektywę 
+2006/43/WE oraz dyrektywą 2013/34/UE w odniesieniu 
+do sprawozdawczości przedsiębiorstw w zakresie 
+zrównoważonego rozwoju (Corporate Sustainability 
+Reporting Directive – CSRD). Raport został przygotowany 
+z uwzględnieniem Europejskich Standardów Sprawoz-
+dawczości Zrównoważonego Rozwoju (European 
+Sustainability Reporting Standards – ESRS), przyjętych 
+Rozporządzeniem Delegowanym Komisji (UE) 2023/2772 
+z dnia 31 lipca 2023 r. ustanawiającym standardy 
+raportowania zgodnie z dyrektywą 2013/34/UE. 
+Niniejsza publikacja stanowi pierwszy raport Grupy 
+Impel przygotowany w sposób kompleksowy dla całej 
+organizacji działającej na terenie Rzeczypospolitej 
+Polskiej w odniesieniu do zagadnień zrównoważonego 
+rozwoju. Raport został opracowany w oparciu o najlepszą 
+dostępną wiedzę, dane oraz procesy funkcjonujące 
+w organizacji na moment sporządzenia raportu. 
+Podejście 
+do 
+raportowania 
+jest 
+inspirowane 
+wymaganiami ESRS, jednak ze względu na etap rozwoju 
+systemów zbierania danych i procesów raportowych 
+w Grupie Impel, nie wszystkie wymagania standardów 
+zostały jeszcze w pełni zaadresowane. Spółka traktuje 
+niniejszy raport jako etap przejściowy w kierunku 
+pełnego dostosowania do wymogów raportowych 
+i planuje dalsze rozwijanie zakresu oraz jakości ujawnień 
+w kolejnych okresach sprawozdawczych. 
+Oświadczenie dotyczące zrównoważonego rozwoju 
+obejmuje informacje odnoszące się do działalności 
+Grupy Impel, w tym jej wpływu na środowisko, 
+społeczeństwo oraz ład korporacyjny, zgodnie 
+z zasadą podwójnej istotności. 
+Na dzień 31.12.2025 roku organy administrujące, zarzą-
+dzające i nadzorcze Impel S.A. (KRS 0000004185) 
+obejmowały łącznie 10 członków. 
+W trakcie roku sprawozdawczego nie wystąpiły szczególne 
+okoliczności, zarówno wewnętrzne, jak i zewnętrzne, które 
+mogłyby mieć istotny wpływ na zakres, dokładność 
+lub sposób prezentacji ujawnień dotyczących zrówno- 
+ważonego rozwoju. 
+Grupa Impel stosuje definicje perspektyw czasowych 
+zgodne z dyrektywą CSRD, tj.: 
+W przypadkach, w których dane lub informacje 
+– w szczególności dotyczące łańcucha wartości – nie 
+były dostępne lub ich pozyskanie było ograniczone, 
+jednostka stosowała podejście oparte na najlepszej 
+dostępnej wiedzy, w tym szacunkach oraz danych 
+pośrednich. Jednocześnie prowadzone są działania 
+mające 
+na 
+celu 
+rozwój 
+systemów 
+zbierania 
+danych i zwiększenie ich jakości w kolejnych 
+okresach raportowych. 
+Na dzień sporządzenia raportu Grupa Impel nie stosuje 
+systemowo mierników odnoszących się do łańcucha 
+wartości, zarówno na poziomie wyższym, jak i niższym. 
+W związku z tym nie przedstawiono szczegółowych 
+informacji dotyczących metodyki ich kalkulacji ani 
+poziomu dokładności. W konsekwencji nie identyfikuje 
+się również istotnych źródeł niepewności pomiaru w tym 
+zakresie. 
+W odniesieniu do ujawnień ilościowych, tam, gdzie 
+zastosowano szacunki, mogą one podlegać niepewności 
+wynikającej m.in. z dostępności danych źródłowych, 
+przyjętych założeń lub ograniczeń metodycznych. 
+W przypadku informacji dotyczących przyszłości, w tym 
+planów, założeń lub kierunków rozwoju, należy mieć 
+na uwadze ich niepewny charakter oraz możliwość ich 
+zmiany w kolejnych okresach sprawozdawczych. 
+Niniejszy raport stanowi pierwszy raport Grupy 
+Impel inspirowany dyrektywą CSRD, co może mieć 
+wpływ na zakres oraz sposób prezentacji danych, 
+w szczególności w kontekście porównywalności 
+z przyszłymi okresami sprawozdawczymi. Spółka 
+zakłada dalsze doskonalenie procesów raportowania 
+w kolejnych latach. Tabele zawierające informacje 
+o włączeniu poprzez odniesienie i korzystaniu 
+ze stopniowo wdrażanych przepisów zgodnie z dodatkiem 
+C do ESRS 1 znajdują się w załączniku 2. 
+•	
+krótkoterminową – do 1 roku, 
+•	
+średnioterminową – od 1 roku do 5 lat, 
+•	
+długoterminową – powyżej 5 lat. 
+
+
+===== PAGE 5 =====
+5
+Raport ESG 2025 - Grupa IMPEL
+Informacje ogólne
+Rada Nadzorcza 
+Andrzej Kaleta - Przewodniczący Rady Nadzorczej  
+Piotr Urbańczyk - Członek Rady Nadzorczej 
+Na dzień 31.12.2025 roku Rada Nadzorcza liczyła 3 osoby: 
+Od roku 2008 związany z Grupą Impel pełniąc kolejno 
+funkcje w Radzie Nadzorczej Impel S.A., a także 
+w latach 2021 - 2022 zasiadając w Zarządzie Impel S.A. 
+Od stycznia 2023 ponownie objął funkcję Członka Rady 
+Nadzorczej Impel S.A. 
+Od października 2016 roku Prezes Zarządu BEST TFI S.A., 
+doświadczony menedżer legitymujący się długoletnią 
+praktyką zawodową w sektorze bankowym. Przed 
+podjęciem decyzji o przejściu do Grupy Kapitałowej BEST 
+związany był z Meritum Bank S.A., gdzie od 2009 roku 
+nadzorował proces budowy i rozwoju stabilnej instytucji 
+finansowej ukierunkowanej na obszar consumer finance. 
+Józef Biegaj - Członek Rady Nadzorczej
+Współzałożyciel i akcjonariusz Impel S.A. za poś- 
+rednictwem Trade Bridge. W latach 1999 - 2001 
+Członek Rady Nadzorczej Impel S.A., w latach 
+2001-2005 Prezes Zarządu Impel Security Polska 
+Sp. z o.o., od roku 2005 do dnia 28 czerwca 2014 
+roku Wiceprezes Zarządu Impel S.A. ds. Handlowych. 
+Ponadto od 2007 roku do stycznia 2020 roku zasiadał 
+w Radzie Nadzorczej Vantage Development S.A. oraz 
+od lipca 2016 roku w Radzie Nadzorczej Volleyball 
+Wrocław S.A. Od roku 2012 Członek Rady Fundacji Kraina 
+Siatkówki (wcześniej pod nazwą „Młoda Gwardia”). 
+Ukończył studia wyższe na Wydziale Budownictwa 
+Maszyn Górniczych i Hutniczych Akademii Górniczo-
+Hutniczej w Krakowie. Od 11 sierpnia 2014 roku Członek 
+Rady Nadzorczej Impel S.A. 
+Andrzej Kaleta tytuł naukowy profesora nauk 
+ekonomicznych otrzymał 7 stycznia 2014 roku. Jako 
+nauczyciel akademicki związany z wrocławską 
+Akademią Ekonomiczną, przekształconą w Uniwersytet 
+Ekonomiczny, na którym objął stanowisko profesora 
+zwyczajnego. W 2002 roku został kierownikiem Katedry 
+Zarządzania Strategicznego na Wydziale Nauk 
+Ekonomicznych. W kwietniu 2016 roku został wybrany 
+na rektora Uniwersytetu Ekonomicznego we Wrocławiu 
+na kadencję 2016 – 2020. Specjalista w zakresie 
+ekonomiki przemysłu drobnego, polityki przemysłowej, 
+strategii konkurencji i zarządzania strategicznego. Autor 
+ok. 180 publikacji, organizator konferencji naukowej pod 
+nazwą „Zarządzanie strategiczne w teorii i praktyce”. 
+Członek Komitetu Nauk Organizacji i Zarządzania PAN 
+w kadencji 2015 – 2018. 
+Od 16 listopada 2017 roku zasiada w Radzie Nadzorczej 
+Impel S.A.  
+Zarząd 
+Grzegorz Dzik - Prezes Zarządu  
+Zgodnie ze Statutem Impel S.A., Zarząd powoływany jest przez Walne Zgromadzenie Akcjonariuszy na okres  
+3-letniej kadencji. W skład Zarządu na dzień 31.12.2025 roku wchodzi Prezes Zarządu i 6 członków Zarządu.  
+Założyciel i akcjonariusz Impel S.A. za pośrednictwem 
+Trade Bridge. W latach 1999 – 2004 Przewodniczący Rady 
+Nadzorczej Impel S.A., od 5 stycznia 2004 roku Prezes 
+Zarządu. Zasiada w Radzie Nadzorczej spółki TIM S.A. 
+W latach 2009-2021 piastował funkcję honorowego 
+konsula Ukrainy. Absolwent Wydziału Budownictwa 
+Lądowego Politechniki Wrocławskiej. 
+Jakub Dzik - Członek Zarządu,  
+Dyrektor Generalny Grupy Impel
+Związany z Grupą Impel od roku 2009. W latach 2008 – 2019 
+roku pełnił funkcję Prezesa Zarządu Mobile Technology 
+Sp. z o.o. Od 2009 roku zatrudniony w Impel S.A., kolejno 
+w Biurze Obsługi Prawnej, następnie od 2010 roku w Biurze 
+Operacyjnym. 
+W latach 2009-2013 pełnił funkcję Członka Rady 
+Nadzorczej Impel S.A. W latach 2013 -2016 pełnił 
+funkcję Wiceprezesa Zarządu Impel Security Polska 
+Sp. z o.o. Od kwietnia 2014- do sierpnia 2020 roku 
+zasiadał w Radzie Nadzorczej Gwarant S.A. W latach 
+2015 – 2019 pełnił funkcję Wiceprezesa Zarządu 
+Polskiego Związku Pracodawców Ochrona. 
+W latach 2015-2020 zasiadał w Radzie Nadzorczej 
+Vantage Development S.A. W lutym 2016 roku powołany 
+na Członka Zarządu Impel S.A. W czerwcu 2017 roku 
+został powołany do Rady Nadzorczej Impel Agile 
+S.A., gdzie pełnił funkcję do końca marca 2020 roku. 
+Od kwietnia 2019 roku do sierpnia 2020 roku zasiadał 
+w Radzie Nadzorczej Climbex S.A. Od 2022 r. pełni funkcję 
+Dyrektora Generalnego Grupy Impel. 
+Absolwent Wydziału Prawa, Administracji i Ekonomii 
+Uniwersytetu Wrocławskiego oraz Programu Master 
+of Business Administration IESE Business School 
+– University of Navarra. 
+Wcześniej pracował na wysokich stanowiskach 
+menedżerskich m.in. w Banku Zachodnim (w latach 
+1994 – 1998), Lukas Banku (w latach 1998 – 2000), 
+funduszu private equity grupy Merrill Lynch (w latach 
+2001 – 2006) oraz w Dominet Banku/Banku 
+Fortis (w latach 2007-2009). Pan Piotr Urbańczyk 
+był i jest członkiem wielu rad nadzorczych, 
+w tym między innymi: Muzeum Historycznego Miasta 
+Gdańska (2013 – 2017), Kredyt Inkaso S.A. (XII 2015 
+– IX 2016), Klubu Piłkarskiego „Lechia Gdańsk”, Meritum 
+Services S.A. (2009 – 2015). W 1992 roku ukończył Uniwer-
+sytet Ekonomiczny we Wrocławiu jako absolwent 
+Wydziału Organizacji i Zarządzania. 
+
+
+===== PAGE 6 =====
+6
+Raport ESG 2025 - Grupa IMPEL
+ Informacje ogólne
+Mirosław Greber - Członek Zarządu 
+Krzysztof Proszowski - Członek Zarządu 
+Wojciech Rembikowski - Członek Zarządu 
+Krzysztof Bruski - Członek Zarządu 
+Monika Chudobska - Członek Zarządu 
+W latach 1997 – 2011 Prezes Zarządu Wałbrzyskiej 
+Specjalnej Strefy Ekonomicznej i twórca jej sukcesów. 
+Od 2012 roku związany z Grupą Impel – najpierw jako 
+Prezes Zarządu komplementariusza Impel Monitoring 
+Sp. z o.o. S.K., a od 2014 roku jako Prezes Zarządu Impel 
+Security Polska Sp. z o.o., zarządzający całym obszarem 
+bezpieczeństwa. W 2016 roku w Votum S.A. sprawował 
+funkcję Członka Zarządu ds. Handlowych. 
+W lutym 2017 roku wrócił do Grupy Impel na stanowisko 
+Dyrektora Handlowego Grupy Impel. 1 kwietnia 2017 roku 
+powołany na Członka Zarządu Impel S.A. Od listopada 
+2017 roku do końca maja 2020 roku pełnił również funkcję 
+Prezesa Zarządu w wiodących spółkach Grupy Impel, tj. 
+Impel Security Polska Sp. z o.o. i Impel Cleaning Sp. z o.o., 
+obecnie w połączonym podmiocie pod nazwą: Impel 
+Facility Services Sp. z o.o. 
+Absolwent Wydziału Prawa i Administracji Uniwersytetu 
+Wrocławskiego. Tytuł radcy prawnego zdobył 
+w Okręgowej Izbie Radców Prawnych w Wałbrzychu. 
+W 2012 roku uzyskał tytuł adwokata.  
+Z Grupą Impel związany od ponad 10 lat. Pracę rozpoczął 
+na stanowisku Dyrektora Biura Terenowego w Poznaniu. 
+Następnie objął obowiązki Dyrektora Regionu Poznań 
+oraz Regionu Szczecin w zakresie usług ochrony. 
+W połowie 2017 roku została mu powierzona misja 
+zarządzania Regionem Warszawskim w obszarze usług 
+fizycznej ochrony mienia oraz usług porządkowo-
+czystościowych. W 2019 roku został powołany na prezesa 
+Zarządu spółki DC System sp. z o.o., specjalizującej się w 
+obsłudze biurowców klasy premium. Z dniem 1 lipca 2020 r. 
+objął stanowisko dyrektora Biura Klientów Strategicznych 
+Grupy Impel. 
+W czerwcu 2022 roku powołany na członka zarządu 
+Impel S.A. zarządzającego nowo powstałym Pionem 
+Rozwoju Produktu. Absolwent Politechniki Szcze-
+cińskiej – kierunek Elektronika i Telekomunikacja. 
+Ukończył również studia podyplomowe na Politech-
+nice Szczecińskiej – Zarządzanie i Marketing oraz 
+Executive MBA in IT w Zachodniopomorskiej Szkole 
+Biznesu w Szczecinie. 
+Związany z Impelem od 1995 roku. Od 1999 roku Dyrektor 
+Finansowy Impel S.A. Od roku 2007 Wiceprezes Zarządu 
+Impel S.A. W latach 2011-2020 zasiadał w Radzie 
+Nadzorczej spółki Impel Agile S.A. Członek Prezydium 
+Rady Krajowej Polskiej Organizacji Pracodawców Osób 
+Niepełnosprawnych. 
+Posiada uprawnienia Członka Rady Nadzorczej przy 
+Ministerstwie Skarbu Państwa. Broker Ubezpieczeniowy. 
+Absolwent wrocławskiej Akademii Ekonomicznej. Ukończył 
+również studia podyplomowe na Akademii Controllingu 
+w Gdańsku, w Szkole Głównej Handlowej w Warszawie 
+oraz Międzynarodowe Studia MBA przy Uniwersytecie 
+Warszawskim i College of Business University of Illinois. 
+Z Grupą Impel związany z przerwami od 1999 roku. 
+Pracę rozpoczął na stanowisku kierownika zespołu. 
+Dalsze doświadczenie zdobywał na stanowiskach 
+menedżerskich w obszarach handlowym i operacyjnym 
+usług sprzątania, ochrony, cateringu i health care. 
+W lutym 2016 roku objął stanowisko Dyrektora Grupy 
+Produktowej Catering. 
+W 2020 roku został powołany do Zarządu Impel Facility 
+Services, wiodącej spółki z obszaru Facility Management, 
+obejmując funkcję prezesa Zarządu. W czerwcu 2022 
+roku został powołany na członka Zarządu Impel S.A. 
+jako Chief Operation Officer (COO). Absolwent Wyższej 
+Szkoły Pedagogicznej (obecnie Uniwersytet Kazimierza 
+Wielkiego w Bydgoszczy) na kierunku Administracja 
+Samorządowa. 
+Związana z Grupą Impel od roku 2000. W spółkach Grupy 
+Impel pełniła szereg funkcji, m.in. Dyrektora Biura Zarzą-
+du, Pełnomocnika ds. wdrożenia Zintegrowanego Syste-
+mu Zarządzania, Prezesa Zarządu spółek Seiso Sp. z o.o. 
+(usługi porządkowo-czystościowe) oraz Impel Airport 
+Partner Sp. z o.o. (usługi obsługi naziemnej samolotów). 
+Od roku 2006 pracowała na rzecz spółki Impel Cleaning 
+Sp. z o.o. jako Dyrektor Administracyjny, a następnie 
+jako Dyrektor Personalny. Od 2016 roku jest Wicepre-
+zesem Zarządu Impel S.A.- Dyrektorem Pracowniczym 
+Grupy Impel. 
+Absolwentka Wydziału Prawa, Administracji i Ekono-
+mii Uniwersytetu Wrocławskiego na kierunku Marketing 
+i Zarządzanie jednostkami gospodarczymi oraz studiów 
+podyplomowych Zarządzania Systemami na Wydziale 
+Inżynierii Przemysłu Uniwersytetu Ekonomicznego. Była 
+słuchaczką studiów doktoranckich na Wydziale Prawa, 
+Administracji i Ekonomii Instytutu Nauk Ekonomicznych.  
+
+
+===== PAGE 7 =====
+7
+Raport ESG 2025 - Grupa IMPEL
+Informacje ogólne
+Rola organów administrujących,  
+zarządzających i nadzorczych 
+W strukturze organów nie występuje reprezentacja 
+pracowników. Jednostka uwzględnia w ocenie różnorod-
+ności organów w szczególności kryterium wykształcenia,  
+doświadczenia branżowego i zarządczego. Udział kobiet 
+i mężczyzn w organach kształtował się następująco:  
+Zarząd - 14% kobiet, 86% mężczyzn, Rada Nadzor-
+cza - 100% mężczyzn. Odsetek niezależnych człon-
+ków Rady Nadzorczej wynosił 33%.  
+Członkowie organów posiadają doświadczenie 
+zawodowe odpowiadające profilowi działalności 
+Jednostki, a w szczególności w obszarach związanych 
+z sektorem usług. Z ramienia Zarządu za kwestie 
+zrównoważonego rozwoju odpowiada Wojciech 
+Rembikowski - Członek Zarządu. Kompetencje 
+w zakresie zrównoważonego rozwoju Zarząd poszerzał 
+poprzez udział w spotkaniach i warsztatach ESG 
+przygotowywanych przez Biuro ESG i Compliance. 
+W 2025 r. miały miejsce spotkania dotyczące zmian 
+legislacyjnych wdrażanych w Unii Europejskiej, procesu 
+raportowania niefinansowego, śladu węglowego oraz 
+procesu dekarbonizacji.  
+Rola kierownictwa w zakresie monitorowania, zarządzania 
+i nadzorowania istotnych wpływów, ryzyk i szans została 
+powierzona Wojciechowi Rembikowskiemu, Członkowi 
+Zarządu, który odpowiada za koordynację działań 
+związanych z identyfikacją istotnych kwestii, wdrażaniem 
+polityk i działań, monitorowaniem realizacji celów 
+oraz raportowaniem do organów administrujących, 
+zarządzających i nadzorczych. Struktura raportowania 
+w tym obszarze obejmuje raportowanie okresowe 
+do Zarządu oraz raportowanie Zarządu do Rady 
+Nadzorczej. Za operacjonalizację działań odpowiada 
+Krzysztof Busz, Dyrektor Biura ESG i Compliance. 
+W 
+zarządzaniu 
+istotnymi 
+wpływami, ryzykami  
+i szansami, Grupa Impel stosuje różnorodne kontrole 
+i procedury, obejmujące w szczególności system 
+zarządzania ryzykiem, compliance, audyt wewnętrzny, 
+HR, zakupy  bezpieczeństwa informacji, zgłaszania 
+nieprawidłowości. Procedury te są zintegrowane 
+z pozostałymi funkcjami wewnętrznymi w zakresie 
+adekwatnym do modelu działalności Jednostki.  
+W Grupie Impel nadzór nad procesem badania istotności 
+oraz procesem należytej staranności w zakresie 
+zrównoważonego rozwoju sprawuje Zarząd, natomiast 
+za ich operacyjne wykonanie odpowiada Biuro ESG 
+i Compliance. Wyniki analizy podwójnej istotności są 
+zatwierdzane przez Zarząd i stanowią podstawę określenia 
+zakresu raportowania zrównoważonego rozwoju.  
+Na tej podstawie Zarząd, przy wsparciu Biura ESG 
+i Compliance, uwzględnia istotne wpływy, ryzyka 
+i szanse przy nadzorze nad kierunkami rozwoju Grupy, 
+aktualizacji procesów i polityk oraz monitorowaniu działań 
+podejmowanych w odpowiedzi na zidentyfikowane 
+kwestie zrównoważonego rozwoju. W 2025 roku rozpoczęto 
+transformację modelu operacyjnego i rynkowego Grupy 
+w ramach projektu „Specjalizacja”, co stanowi istotną 
+Informacje przekazywane organom  
+administrującym, zarządzającym i nadzorczym 
+jednostki oraz podejmowane przez nie kwestie 
+związane ze zrównoważonym rozwojem (GOV-2)  
+Uwzględnianie wyników związanych  
+ze zrównoważonym rozwojem w systemach  
+zachęt (GOV-3)  
+Grupa Impel w okresie sprawozdawczym nie stosowała 
+wobec 
+członków 
+organów 
+administrujących, 
+zarządzających i nadzorczych systemów zachęt 
+ani elementów polityki wynagrodzeń powiązanych 
+z kwestiami związanymi ze zrównoważonym rozwojem. 
+W związku z tym szczegółowe informacje dotyczące 
+kluczowych cech takich systemów, stosowanych 
+celów i mierników, udziału wynagrodzenia zmiennego 
+zależnego od wyników ESG oraz poziomu zatwierdzania 
+i aktualizacji warunków tych systemów nie mają obecnie 
+zastosowania.  
+Oświadczenie dotyczące należytej  
+staranności (GOV-4)  
+Oświadczenie znajduje się w załączniku 2.
+Organy administrujące, zarządzające i nadzorcze Grupy 
+Impel, w tym Rada Nadzorcza i Zarząd, są informowane 
+o istotnych wpływach, ryzykach i szansach związanych 
+ze zrównoważonym rozwojem w ramach rocznego 
+procesu raportowania wewnętrznego. Informacje te są 
+przekazywane przez Dyrektora Biura ESG i Compliance, 
+i obejmują w szczególności wyniki procesu identyfikacji 
+i oceny istotnych wpływów, ryzyk i szans, status wdrażania 
+działań w ramach należytej staranności oraz postępy 
+w realizacji polityk, działań, mierników i celów przyjętych 
+w celu ich uwzględnienia.  
+W okresie sprawozdawczym raportowanie do organów 
+obejmowało również informacje dotyczące stosowanych 
+mechanizmów zarządzania kwestiami zrównoważonego 
+rozwoju, w tym realizacji kluczowych działań oraz 
+zidentyfikowanych obszarów wymagających decyzji, 
+eskalacji lub dalszego monitorowania. W przypadku 
+spraw o istotnym znaczeniu dla Grupy Impel informacje 
+były przekazywane również w trybie ad hoc.  
+zmianę z perspektywy dalszej oceny istotnych wpływów, 
+ryzyk i szans. W związku z tą zmianą oraz oczekiwanymi 
+zmianami regulacyjnymi dotyczącymi standardów ESRS, 
+w 2026 roku planowane jest przeprowadzenie nowej 
+analizy podwójnej istotności, która pozwoli ponownie 
+ocenić wpływ zmienionego modelu działalności na profil 
+istotnych kwestii zrównoważonego rozwoju. 
+
+
+===== PAGE 8 =====
+8
+Raport ESG 2025 - Grupa IMPEL
+Informacje ogólne
+Strategia, model biznesowy i łańcuch wartości  (SBM-1)  
+Zarządzanie ryzykiem i kontrole  
+wewnętrzne nad sprawozdawczością  
+w zakresie zrównoważonego rozwoju (GOV-5)  
+Grupa Impel stosuje procesy zarządzania ryzykiem 
+i mechanizmy kontroli wewnętrznej wspierające 
+sporządzanie 
+sprawozdawczości 
+w 
+zakresie 
+zrównoważonego rozwoju. W Grupie nie funkcjonuje 
+wyodrębniony dział kontroli wewnętrznej. Kontrole 
+wewnętrzne są realizowane w ramach procesu 
+projektowego, z udziałem właściwych funkcji 
+i osób odpowiedzialnych za przygotowanie, weryfikację 
+i zatwierdzanie danych oraz informacji ujawnianych 
+w oświadczeniu dotyczącym zrównoważonego rozwoju. 
+Proces ten opiera się na matrycy odpowiedzialności, 
+która porządkuje role poszczególnych uczestników 
+procesu raportowania oraz wspiera przejrzystość 
+odpowiedzialności za poszczególne etapy przygotowania 
+danych i ujawnień.   
+Proces obejmuje identyfikację źródeł danych, 
+przypisanie odpowiedzialności za ich przygotowanie 
+i sprawdzenie, przeglądy merytoryczne i formalne, 
+uzgadnianie informacji z dokumentacją źródłową 
+oraz zatwierdzanie końcowych treści raportowych. 
+Podejście do oceny ryzyka opiera się na identyfikacji 
+obszarów narażonych na braki, błędy, niespójności 
+lub opóźnienia oraz na ocenie ich znaczenia dla 
+jakości, kompletności i porównywalności ujawnianych 
+informacji. Przy ustalaniu priorytetów uwzględnia się 
+w szczególności istotność danych, stopień złożoności ich 
+pozyskania i przetwarzania, zakres osądu eksperckiego 
+oraz poziom udokumentowania danych.  
+Szanse i ryzyka ESG zostały zidentyfikowane w procesie 
+analizy podwójnej istotności i tam też opisane.  
+Analiza podwójnej istotności została przeprowadzona 
+po raz pierwszy na potrzeby raportowania w roku 2024.
+Proces rozpoczęto w sierpniu 2024 roku i zakończono 
+w styczniu 2025 roku, a jego wyniki stanowią podstawę 
+określenia zakresu raportowania zrównoważonego 
+rozwoju w raporcie za rok 2025. W konsekwencji opis 
+modelu działalności w niniejszej części odnosi się przede 
+ wszystkim do struktury funkcjonującej w okresie objętym 
+analizą podwójnej istotności. 
+Do 31 maja 2025 roku Grupa Impel funkcjonowała 
+w modelu opartym na czterech portfelach produktowych, 
+obejmujących łącznie 17 Grup Produktowych oraz 
+regionalną strukturę realizacji kontraktów. Model ten 
+miał charakter wielopoziomowy i elastyczny: działalność 
+Grupy była organizowana zarówno na poziomie 
+poszczególnych spółek, jak i Grup Produktowych, przy czym 
+to właśnie Grupa Produktowa stanowiła podstawowy 
+nośnik usług, aktywności biznesowych oraz powiązanych 
+z nimi oddziaływań, ryzyk i szans. Usługi przypisane 
+do danej Grupy Produktowej mogły być realizowane 
+przez jedną lub wiele spółek Grupy, a przyporządkowanie 
+to miało charakter dynamiczny i zależało między innymi 
+od możliwości operacyjnych, zasięgu geograficznego 
+kontraktu, analizy opłacalności oraz innych uwarunkowań 
+biznesowych. Tak ukształtowany model pozwalał Grupie 
+łączyć zarządzanie portfelowe z elastyczną organizacją 
+operacyjną i dostosowaniem sposobu realizacji usług 
+do specyfiki kontraktów i klientów. 
+Dla celów analizy podwójnej istotności przyjęto 
+podejście oparte na Portfelach i Grupach Produktowych. 
+Do pogłębionej analizy wybrano 9 Grup Produktowych 
+reprezentujących wszystkie cztery Portfele Produktowe 
+oraz działalność produkcyjną, kierując się udziałem 
+w przychodach, znaczeniem strategicznym i zróżnico-
+waniem profili działalności. Wybrane Grupy Produktowe 
+odpowiadały łącznie za 89% przychodów Grupy za pierwsze 
+półrocze 2024 roku, a trzy główne Grupy Produktowe 
+za około 70% przychodów w tym okresie. W 2025 roku 
+trzy główne Grupy Produktowe odpowiadały również 
+za około 70% przychodów. Dobór ten został skonsultowany 
+i zaakceptowany na poziomie Zarządu.  
+Strategia biznesowa   
+Grupa Impel, realizując strategię w sposób odpo-
+wiedzialny, podnosi efektywność i konkurencyjność 
+poprzez technologiczną transformację modelu 
+zarządzania oraz oferty, opartą na danych, automatyzacji 
+oraz integracji uczestników ekosystemu usług.  
+Integracja aspektów ESG w realizacji strategii pozwala 
+na świadome zarządzanie wpływami, ryzykami  
+i szansami, które wynikają zarówno z charakteru 
+prowadzonej działalności, jak i z oczekiwań klientów oraz 
+partnerów biznesowych.  
+Polityka przewodnia realizowana jest poprzez trzy spójne 
+filary:  
+ Realizacja Strategii Grupy Kapitałowej Impel koncentruje 
+się w 7 obszarach strategicznych:  
+Rozwój technologiczny stanowi jeden z fun-
+damentalnych warunków osiągnięcia celów 
+Grupy Impel.  Digitalizacja danych, automatyzacja 
+i robotyzacja oraz cyfryzacja procesów biznesowych 
+z wykorzystaniem rozwiązań AI i ML znacząco pod-
+noszą efektywność operacyjną oraz skalowalność 
+organizacji.   Istotnym wyzwaniem transformacji 
+technologicznej jest zapewnienie wysokiej jakości 
+danych – ich kompletności, spójności, aktualno-
+ści i wiarygodności. Bez spełnienia tych warunków, 
+potencjał technologii cyfrowych nie może zostać 
+w pełni wykorzystany.  
+podejmowanie decyzji w oparciu o dane i analitykę,  
+co umożliwia większą efektywność operacyjną, 
+transparentność oraz lepsze zarządzanie ryzykiem.  
+wzrost wartości poprzez technologię, automa- 
+tyzację i analitykę, sprzyjające odpowiedzialnemu 
+wykorzystaniu zasobów i tworzeniu rozwiązań 
+ograniczających wpływy środowiskowe.  
+zarządzanie kontraktami poprzez technologiczną 
+integrację Klienta i Podwykonawcy, co wzmacnia 
+przejrzystość łańcucha wartości i odpowiedzialne 
+praktyki współpracy.  
+•	
+Data Driven Organization: 
+•	
+Produkty zaawansowane technologicznie: 
+•	
+IMPEL Integrator: 
+1.	
+Cyfryzacja  
+
+
+===== PAGE 9 =====
+9
+Raport ESG 2025 - Grupa IMPEL
+Informacje ogólne
+Obszar finansów koncentruje się na zapewnieniu 
+stabilnego i elastycznego finansowania transformacji 
+Grupy Impel w kierunku organizacji technologicznej 
+oraz integratora rynku usług. Szczególnie istotne 
+jest zwiększenie zdolności inwestycyjnej Grupy 
+– zarówno poprzez alokację nowych środków, jak 
+i poprzez uwalnianie kapitału w wyniku redukcji kosztów 
+oraz wzrostu efektywności operacyjnej.  Istotnym 
+elementem strategii finansowej jest wdrażanie 
+podejścia data-driven management w zarządzaniu 
+kosztami, umożliwiającego podejmowanie decyzji 
+w oparciu o dane biznesowe oraz identyfikację 
+obszarów nieefektywności, w szczególności 
+w zakresie kosztów pracy. Równolegle Grupa Impel 
+konsekwentnie dąży do pozyskiwania bezzwrotnych 
+źródeł finansowania (grantów i dofinansowań), 
+wspierających rozwój technologiczny i innowacyjny 
+Grupy.
+2.	 Finanse  
+W odpowiedzi na te wyzwania Grupa Impel dąży 
+do wdrożenia modelu zarządzania opartego 
+na danych (data-driven organization), w którym 
+decyzje operacyjne i strategiczne podejmowane 
+są w sposób świadomy, w oparciu o rzetelne dane, 
+zaawansowaną analitykę oraz modele decyzyjne.  
+3.	 Klient 
+4.	 Produkt
+5.	 Sprzedaż
+Obszar klienta ukierunkowany jest na systema-
+tyczne podnoszenie jakości doświadczenia klientów 
+oraz budowanie długofalowych, partnerskich 
+relacji, w szczególności z klientami strategicznymi 
+i kluczowymi. Celem działań w tym obszarze jest 
+tworzenie trwałej wartości zarówno dla klientów, jak 
+i dla Grupy Impel. Obejmuje to wdrażanie nowych 
+rozwiązań technologicznych oraz projektowanie 
+spójnego modelu zarządzania relacjami z klientami 
+o najwyższym znaczeniu biznesowym, wspiera- 
+jącego wspólne tworzenie wartości i rozwój 
+innowacyjnych rozwiązań.  
+Obszar produktowy koncentruje się na rozwoju 
+i  unowocześnianiu oferty Grupy Impel w kierunku 
+produktów zaawansowanych technologicznie, 
+wspierających docelowy model integratora 
+rynku usług.  Istotne jest zarówno podnoszenie 
+technologicznego poziomu obecnych produktów, 
+jak i budowa nowych źródeł wzrostu poprzez rozwój 
+nowych produktów oraz działania z zakresu New 
+Business Development, w tym akwizycje (M&A). 
+Działania produktowe ukierunkowane są na wzrost 
+wartości oferty, poprawę jej skalowalności oraz 
+wykorzystanie technologii jako trwałego wyróżnika 
+konkurencyjnego.  
+Obszar sprzedaży obejmuje transformację modelu 
+sprzedażowego w kierunku sprzedaży selektywnej, 
+opartej na danych, rentowności oraz zgodności 
+z docelowym modelem integratora rynku usług.  
+Rozwijane są rozwiązania i kompetencje sprzedażowe 
+dostosowane do nowego modelu biznesowego, 
+obejmujące wykorzystanie narzędzi analitycznych, 
+nowych kryteriów selekcji ofert oraz zmiany sposobu 
+pracy z klientami.  
+6.	 Kontrakt
+7.	 Pracownik  
+Obszar kontraktu ukierunkowany jest na zwięk-
+szenie efektywności, konkurencyjności oraz war- 
+tości realizowanych kontraktów, w szczególności 
+poprzez rozwój modelu integratora rynku.  Działania 
+obejmują zwiększenie udziału wyspecjalizowanych 
+podwykonawców, poprawę konkurencyjności 
+w postępowaniach oraz wdrażanie nowoczes-
+nych technologii wspierających zarządzanie 
+kontraktami i obiektami. Równolegle realizowane 
+są inicjatywy podnoszące wydajność pracy 
+poprzez technologie zarządcze oraz automatyzację 
+procesów operacyjnych.
+Obszar pracowniczy koncentruje się na budowie 
+kultury organizacyjnej wspierającej transformację 
+Grupy Impel w kierunku organizacji opartej na wiedzy, 
+danych i technologii.  Działania w tym obszarze 
+obejmują rozwój kompetencji, odpowiedzialności 
+i zaangażowania pracowników, przy jednoczesnym 
+wzmacnianiu poczucia godności, przynależności 
+i identyfikacji z Grupą. Rozwój kultury organizacyjnej 
+traktowany jest jako jeden z ważnych warunków 
+skutecznej realizacji strategii.
+Model biznesowy   
+W 2025 roku w Grupie Impel nastąpiła zmiana 
+modelu biznesowego. Od stycznia do czerwca 2025 
+roku funkcjonował model biznesowy oparty oparty 
+na Regionach oraz Portfelach i Grupach Produk-
+towych, co było zgodne z „Regulaminem nr 11/2023 
+Model biznesowy do czerwca 2025” i został on 
+przedstawiony w załączniku 4.
+Od 1 czerwca 2025 roku Grupa Impel rozpoczęła 
+wdrożenie projektu Specjalizacja, który stanowi jeden 
+z najważniejszych elementów transformacji modelu 
+operacyjnego i rynkowego Grupy.  Celem projektu jest 
+przejście od modelu dostarczania standardowych usług 
+operacyjnych do modelu, w którym Impel występuje 
+jako wyspecjalizowany ekspert branżowy, oferujący 
+rozwiązania dopasowane do specyfiki obiektu, branży 
+oraz modelu operacyjnego klienta.  Specjalizacja 
+oznacza zmianę perspektywy postrzegania klienta 
+i produktu – z podejścia uniwersalnego na podejście 
+sektorowe i obiektowe, oparte na eksperckiej wiedzy 
+operacyjnej i branżowej. 
+•	
+odejście od struktury regionalnej w wybranych 
+obszarach produktowych,  
+•	
+budowę dywizji powiązanych z typem obiektu 
+i branżą klienta,  
+•	
+rozwój kompetencji eksperckich w zakresie 
+specyfiki sektorowej usług,  
+•	
+zwiększenie zdolności doradczej i partnerskiej 
+wobec klientów.   
+Docelowo specjalizacja ma wzmacniać zaufanie 
+klientów oraz umożliwiać budowę długoterminowych 
+relacji opartych na eksperckości i wysokiej jakości 
+usług dopasowanych do konkretnego środowiska 
+operacyjnego.  Projekt Specjalizacja jest jednocześnie 
+elementem największej zmiany systemowej w historii 
+Grupy Impel – obejmującej transformację struktury 
+organizacyjnej, sposobu zarządzania oraz modelu pracy 
+z klientem.  
+
+
+===== PAGE 10 =====
+10
+Raport ESG 2025 - Grupa IMPEL
+Informacje ogólne
+Strategia zrównoważonego rozwoju  
+ekspercka wiedza sektorowa pozwala projektować 
+rozwiązania dopasowane do specyfiki obiektu 
+i branży klienta.   
+usługi przestają być wyłącznie działaniem 
+operacyjnym– stają się rozwiązaniem eksperckim 
+i doradczym.   
+zaufanie klientów stanowi podstawę długoterminowej 
+współpracy i wzrostu wartości kontraktów.  
+•	
+Lepsze dopasowanie usług do potrzeb klientów:
+•	
+Zwiększenie wartości usług:
+•	
+Budowę trwałych relacji z klientami:
+Obecnie Grupa Impel nie posiada strategii 
+zrównoważonego rozwoju.  
+Model 
+biznesowy 
+Specjalizacja 
+obowiązujący 
+od 1 czerwca 2025 roku został przedstawiony również 
+w załączniku 5.
+Specjalizacja wzmacnia realizację wszystkich filarów 
+strategii poprzez:  
+
+
+===== PAGE 11 =====
+11
+Raport ESG 2025 - Grupa IMPEL
+Informacje ogólne
+Interesy i opinie zainteresowanych stron (SBM-2)  
+Grupa Impel identyfikuje i uwzględnia perspektywę 
+kluczowych interesariuszy w procesie analizy 
+podwójnej istotności oraz w działaniach związanych 
+z 
+raportowaniem 
+zrównoważonego 
+rozwoju. 
+W ramach analizy podwójnej istotności uwzględ-
+niono zarówno dotychczasowe relacje i sposoby 
+interakcji z interesariuszami, jak i działania ukie-
+runkowane na rozpoznanie ich interesów, opinii 
+i oczekiwań w odniesieniu do kwestii zrównoważonego 
+rozwoju. Analiza objęła zarówno interesariuszy Grupy 
+Impel, jak i wewnętrznych interesariuszy występujących 
+w łańcuchu wartości, zarówno w górę, jak i w dół 
+łańcucha, a przy ich identyfikacji i doborze sposobu 
+angażowania wykorzystano pomocniczo elementy 
+standardu AA1000. 
+Po identyfikacji interesariuszy analizie poddano 
+dotychczasowe sposoby interakcji i pozyskiwania 
+informacji od poszczególnych grup, aktualną wiedzę 
+Grupy Impel o ich perspektywach oraz praktyczne 
+możliwości ich angażowania. Następnie przypisano 
+poszczególnym 
+grupom 
+odpowiedni 
+poziom 
+zaangażowania i dobrano metody współpracy. 
+W procesie wykorzystywano w szczególności codzienne 
+relacje operacyjne i biznesowe, warsztaty, spotkania 
+z kadrą menedżerską i specjalistyczną, badania 
+ankietowe oraz analizę ogólnodostępnych informacji 
+i praktyk rynkowych. Celem zaangażowania była 
+przede wszystkim weryfikacja, które tematy związane 
+ze zrównoważonym rozwojem są dla poszczególnych 
+interesariuszy istotne, a wyniki tego zaangażowania 
+zostały wykorzystane przy tworzeniu długiej listy oraz 
+ostatecznej ocenie wpływów, ryzyk i szans. 
+W toku analizy zidentyfikowano, że z perspektywy 
+interesariuszy 
+kluczowe 
+znaczenie 
+mają 
+między 
+innymi 
+długoterminowa 
+wartość 
+i odporność biznesu, ład korporacyjny, bezpieczne 
+i godziwe warunki pracy, stabilność zatrudnienia 
+i współpracy, przestrzeganie praw człowieka i prawa 
+pracy, jakość i bezpieczeństwo usług oraz produktów, 
+uczciwe i przejrzyste relacje biznesowe, terminowość 
+płatności, zgodność działalności z przepisami prawa 
+oraz odpowiedzialny wpływ na rozwój społeczny 
+i gospodarczy otoczenia. Grupa wykorzystuje te 
+informacje przede wszystkim w procesie oceny 
+istotności oraz przy określaniu zakresu raportowania 
+zrównoważonego rozwoju. W odniesieniu do klientów 
+analiza przewidywała również ankiety tematyczne 
+dotyczące zrównoważonego rozwoju, jednak ich wyniki 
+nie zostały uwzględnione w badaniu istotności z 2024 
+roku z uwagi na niewystarczającą liczbę odpowiedzi 
+i ograniczoną jakość materiału. 
+Na dzień sporządzenia raportu Grupa Impel nie 
+wskazuje odrębnych, sformalizowanych zmian strategii 
+lub modelu biznesowego wynikających bezpośrednio 
+z klasycznego dialogu z interesariuszami. Jedno- 
+cześnie, z uwagi na rozpoczętą w 2025 roku transfor-
+mację modelu operacyjnego i rynkowego Grupy oraz 
+oczekiwane zmiany regulacyjne odnoszące się 
+do 
+standardów 
+ESRS 
+w 
+ramach 
+inicjatyw 
+legislacyjnych Unii Europejskiej, w 2026 roku 
+planowane jest przeprowadzenie nowej analizy 
+podwójnej istotności. Celem tego procesu będzie 
+ponowna ocena istotnych wpływów, ryzyk i szans 
+w zmienionym modelu działalności oraz aktualizacja 
+podejścia do ujmowania perspektywy interesariuszy 
+w raportowaniu zrównoważonego rozwoju. 
+W Grupie Impel nadzór nad procesem badania 
+istotności oraz procesem należytej staranności 
+w zakresie zrównoważonego rozwoju sprawuje Zarząd, 
+natomiast za ich operacyjne wykonanie odpowiada Biuro 
+ESG i Compliance. Wyniki analizy podwójnej istotności są 
+zatwierdzane przez Zarząd i stanowią podstawę okreś-
+lenia zakresu raportowania zrównoważonego rozwoju.
+Grupa interesariuszy 
+Sposób uwzględnienia w analizie 
+Główne kwestie istotne 
+Założyciele, akcjonariusze, 
+inwestorzy 
+Nadzór właścicielski, wpływ na kierunki rozwoju,  
+w wybranych przypadkach badania ankietowe 
+Długoterminowa wartość Grupy, stabilność  
+i odporność biznesu, ład korporacyjny 
+Zarząd 
+Bieżące zarządzanie, decyzje strategiczne,  
+udział w procesie DMA, badania ankietowe 
+Wyniki finansowe i zrównoważony rozwój, integracja interesów 
+różnych grup interesariuszy 
+Własne zasoby pracownicze 
+Codzienne relacje, badania ankietowe,  
+komunikacja wewnętrzna 
+Bezpieczeństwo zatrudnienia, rozwój, satysfakcja z pracy, 
+bezpieczeństwo i higiena pracy, etyka 
+Pracownicy franczyzobiorców, 
+wykonawców strategicznych  
+i lokalnych wykonawców 
+Relacje kontraktowe i projektowe, obserwacja  
+pośrednia i bezpośrednia, codzienne relacje 
+Godziwe wynagrodzenie, czas pracy, prawa  
+człowieka i prawa pracy, bezpieczeństwo i higiena pracy, 
+stabilność współpracy 
+Partnerzy biznesowi  
+i dostawcy 
+Codzienne relacje, ustalanie zasad współpracy,  
+warunki umowne, monitorowanie realizacji 
+Uczciwe relacje, przejrzystość, etyka, warunki handlowe, 
+płatności, ciągłość współpracy 
+Klienci i użytkownicy końcowi 
+Codzienne relacje, analiza stron internetowych 
+i mediów, ankiety tematyczne, informacje 
+operacyjne 
+Jakość i bezpieczeństwo usług oraz produktów, ciągłość 
+dostaw, efektywność kosztowa, reputacja, zgodność  
+ze standardami 
+Pracownicy podmiotów  
+w górze łańcucha wartości 
+Monitorowanie informacji publikowanych  
+przez dostawców i media 
+Warunki pracy, poszanowanie praw człowieka, praktyki 
+zakupowe umożliwiające odpowiednie warunki świadczenia 
+pracy 
+Społeczności lokalne 
+Monitorowanie informacji, analiza mediów,  
+dialog lokalny 
+Zgodność z prawem, ograniczanie uciążliwości, poszanowanie 
+środowiska, rozwój gospodarczy lokalny i regionalny 
+Szkoły wyższe i średnie 
+Współpraca projektowa 
+Rozwój kompetencji, praktyki zawodowe, innowacje  
+i współpraca rozwojowa 
+Instytucje finansowe 
+Relacje transakcyjne,  
+komunikowanie wymogów 
+Stabilność działalności, ład korporacyjny, jakość informacji 
+dotyczących zrównoważonego rozwoju 
+Przyszłe pokolenia 
+Monitorowanie regulacji, standardów  
+i raportów eksperckich 
+Prowadzenie działalności w sposób niewykluczający przyszłego 
+rozwoju i zaspokajania potrzeb kolejnych pokoleń 
+Tab. 1. Kluczowe grupy interesariuszy, sposób ich uwzględnienia w analizie podwójnej istotności oraz główne kwestie istotne 
+
+
+===== PAGE 12 =====
+12
+Raport ESG 2025 - Grupa IMPEL
+Informacje ogólne
+ Istotne wpływy, ryzyka i szanse oraz ich wzajemne  
+związki ze strategią i z modelem biznesowym (SBM-3)
+ESRS
+Podtemat
+Mniejsza jedn.
+tematyczna 
+Rozumienie tematu przez Grupę Impel
+Rodzaj  
+wpływu
+Perspektywa 
+czasowa 
+Grupy 
+produktowe
+E1
+Przystosowanie 
+do zmian 
+klimatu 
+-
+Gwałtowne zjawiska pogodowe (powodzie,  
+susze, gradobicia) zagrażają ciągłości usług  
+i łańcuchów dostaw. 
+ 
+Krótki / średni  
+/ długi 
+SEC, CAT 
+EVE, CASH 
+LAU, OZE, 
+KAPPA
+E1
+Łagodzenie  
+zmian klimatu
+-
+Wszystkie grupy produktowe generują emisje GHG 
+m.in. z transportu, energii i procesów operacyjnych. 
+Grupa Impel obecnie skupia się na oszacowaniu 
+emisji w zakresie 3 i ograniczeniu emisyjności 
+w łańcuchu dostaw.
+Krótki /średni  
+/długi
+Wszystkie
+E1
+Energia 
+-
+Znaczne zużycie energii elektrycznej we wszystkich 
+operacjach – od maszyn czyszczących, przez 
+pralnie i zakłady produkcyjne, po instalacje 
+fotowoltaiczne i urządzenia liczące gotówkę. Energia 
+pochodzi głównie ze źródeł nieodnawialnych, jednak 
+Grupa Impel stopniowo zwiększa udział OZE w jej 
+miksie energetycznym. 
+Krótki /średni  
+/długi
+Wszystkie
+E2 
+Zanieczyszczenie 
+wody 
+-
+Stosowanie środków chemicznych w sprzątaniu, 
+dezynfekcji szpitalnej, praniu i produkcji 
+detergentów stwarza ryzyko zanieczyszczenia wód. 
+Grupa Impel ogranicza ryzyko poprzez koncentraty, 
+dozowniki i procedury kontroli zanieczyszczeń.
+Krótki /średni  
+CLE, PAC, CAT 
+LAU, OZE, 
+KAPPA
+E2
+Zanieczyszczenie 
+gleby 
+-
+Niewłaściwe użytkowanie lub utylizacja chemikaliów 
+czyszczących i dezynfekujących może prowadzić 
+do skażenia gleby. Ryzyko monitorowane poprzez 
+procedury BHP i system zarządzania odpadami 
+chemicznymi. 
+Krótki /średni  
+CLE, PAC, 
+LAU, OZE, 
+KAPPA
+E3
+Woda
+Zużycie, pobór  
+i zrzuty wody 
+Pralnie przemysłowe, procesy sprzątania 
+maszynowego, catering i opieka szpitalna 
+charakteryzują się istotnym zużyciem wody. 
+Krótki /średni  
+/długi
+SEC, CLE, PAC, 
+CAT, CASH, 
+KAPPA
+E5
+Zasoby 
+wejściowe 
+-
+Środki czyszczące, surowce roślinne do produkcji 
+detergentów, tekstylia pralnicze i materiały 
+eksploatacyjne – intensywne zużycie zasobów 
+wejściowych w kilku grupach produktowych.  
+Grupa Impel dąży do minimalizacji poprzez 
+technologie koncentratowe. 
+Krótki /średni  
+/długi
+SEC, CLE, PAC, 
+CAT, CASH, 
+KAPPA
+E5
+Zasoby 
+wyjściowe  
+/ produkty 
+-
+Grupy wytwarzające produkty lub realizujące usługi 
+o dużym wolumenie materiałów wyjściowych 
+(opakowania, przetworzone tekstylia, gotówka, 
+środki czyszczące). 
+Krótki /średni  
+/długi
+CLE,CAT, CASH 
+LAU, KAPPA
+E5
+Gospodarka 
+odpadami 
+-
+Wszystkie grupy generują odpady – komunalne, 
+opakowaniowe, przemysłowe, a w przypadku opieki 
+szpitalnej również medyczne i niebezpieczne. Impel 
+wdraża zasady GOZ, segregację u źródła i dąży  
+do minimalizacji ilości odpadów. 
+Krótki /średni  
+/długi
+Wszystkie
+S1
+Warunki pracy 
+Bezpieczeństwo 
+zatrudnienia 
+Wieloletnie kontrakty biznesowe i korzystanie  
+z dostępnych zasobów pracobiorców zapewniają 
+stabilność. Jednocześnie ok. 50% umów to umowy 
+na czas określony lub cywilnoprawne, co rodzi 
+ryzyko poczucia niepewności zatrudnienia. 
+Krótki /średni  
+/długi
+Wszystkie
+Tab. 2. Wyniki analizy podwójnej istotności
+Grupy produktowe:  
+Rodzaje wpływu:  
+Poniższa tabela prezentuje wyłącznie tematy uznane 
+za istotne na poziomie całej Grupy Impel. Dla każdego 
+tematu wskazano krótki opis rozumienia poszcze- 
+gólnych tematów na poziomie grupy. Charakter 
+przedstawionych wpływów jest zróżnicowany w zależ- 
+ności od grupy produktowej. Poniższa tabela ma 
+charakter poglądowy na potrzeby niniejszego 
+raportu, szczegółowe wyniki analizy nie są obecnie 
+udostępnione publicznie. Będzie ona aktualizowana 
+w kolejnych latach. 
+SEC - Ochrona  
+CLE – Sprzątanie i serwis   
+PAC – Opieka szpitalna 
+CAT – Catering  
+EVE – Eventy 
+szansa 
+potencjalny pozytywny 
+rzeczywisty pozytywny 
+CASH – Obsługa gotówki  
+LAU – Pralnie 
+OZE – Fotowoltaika 
+KAPPA – Prod. środków czystości
+ryzyko 
+potencjalny negatywny 
+rzeczywisty negatywny 
+ 
+Analiza podwójnej istotności została przeprowadzona 
+zgodnie z wymogami ESRS i obejmuje identyfikację 
+wpływów, ryzyk i szans (IRO) istotnych zarówno 
+z perspektywy wpływu Grupy Impel na otoczenie 
+(istotność wpływu), jak i wpływu czynników zewnętrz-
+nych na wyniki finansowe Grupy Impel (istotność 
+finansowa). W tym raporcie ocena prowadzona była 
+osobno dla dziewięciu grup produktowych, a następnie 
+zagregowana na poziomie Grupy Impel zgodnie 
+z przyjętymi kryteriami agregacji.
+
+
+===== PAGE 13 =====
+13
+Raport ESG 2025 - Grupa IMPEL
+Informacje ogólne
+ESRS
+Podtemat
+Mniejsza jedn.
+tematyczna 
+Rozumienie tematu przez Grupę Impel
+Rodzaj  
+wpływu
+Perspektywa 
+czasowa 
+Grupy 
+produktowe
+S1
+Warunki pracy 
+Czas pracy 
+Praca zmianowa 24/7 w ochronie i opiece szpitalnej, 
+nocne sprzątanie, mobilni pracownicy serwisowi  
+– systemowe monitorowanie czasu pracy jest 
+kluczowe dla zgodności i dobrostanu pracowników. 
+ 
+Krótki / średni  
+/ długi 
+Wszystkie
+S1
+Warunki pracy 
+Adekwatna 
+płaca 
+Poziom wynagrodzenia bezpośrednio wpływa  
+na rotację, jakość rekrutacji i stabilność operacyjną. 
+Grupa Impel monitoruje zgodność wynagrodzeń  
+z przepisami oraz rynkową konkurencyjność stawek. 
+Krótki /średni  
+/długi
+Wszystkie
+S1
+Warunki pracy 
+Dialog 
+społeczny 
+i wolność 
+zrzeszania się 
+Regulamin Pracy, dostęp do kanałów komunikacji 
+wewnętrznej (intranet), konsultacje przy zmianach 
+regulaminowych oraz respektowanie praw 
+związkowych na wszystkich poziomach organizacji. 
+Krótki /średni  
+/długi
+Wszystkie
+S1
+Warunki pracy 
+Układy zbiorowe 
+Istnieje kilkanaście związków zawodowych, w każdej 
+większej spółce funkcjonuje przynajmniej jeden 
+związek zawodowy, w przypadku niezawiązania się 
+związku wyznaczani są delegowani pracownicy  
+do prowadzenia ustaleń konsultacyjnych  
+i komunikacji w sprawach pracowniczych. 
+Współpraca Grupy ze związkami jest pozytywna  
+i regularna, interakcje odbywają się co 2-3 miesiące, 
+dotyczą zarówno kwestii problemowych,  
+jak i konsultacyjnych. 
+Krótki /średni  
+/długi
+Wszystkie
+S1
+Równe 
+traktowanie  
+i równość szans 
+dla wszystkich 
+Równowaga 
+praca–życie 
+prywatne 
+Elastyczne formy zatrudnienia (pożądane przez 
+emerytów, studentów, rodziców) współistnieją  
+z wymagającymi harmonogramami zmianowymi. 
+Grupa Impel dba o odpowiedzialne planowanie  
+czasu pracy. 
+Krótki /średni  
+/długi
+Wszystkie
+S1
+Bezpieczeństwo  
+i higiena pracy 
+Zarządzanie  
+i szkolenia BHP 
+Praca w terenie, środowiskach szpitalnych, pralni 
+przemysłowych i przy obsłudze gotówki wiąże się 
+z podwyższonym ryzykiem wypadkowym. BHP jest 
+priorytetem operacyjnym w całej Grupie Impel.
+Krótki /średni  
+/długi
+SEC, CLE, PAC, 
+CAT, CASH, 
+KAPPA
+S1
+Równe 
+traktowanie  
+i równość szans 
+dla wszystkich 
+Równoupraw-
+nienie płci i rów-
+ność wynagro-
+dzeń za pracę 
+o takiej samej 
+wartości 
+Duży udział pracowników z grup narażonych  
+na dyskryminację (osoby z niepełnosprawnościami, 
+cudzoziemcy, osoby starsze). 
+Grupa Impel aktywnie wdraża polityki różnorodności  
+i równości wynagrodzeń. 
+Krótki /średni  
+/długi
+CLE,CAT, CASH 
+LAU, KAPPA
+S1
+Równe 
+traktowanie  
+i równość szans 
+dla wszystkich 
+Równoupraw-
+nienie płci i 
+równość wy-
+nagrodzeń za 
+pracę o takiej 
+samej wartości 
+Grupa w 2024r. nie monitorowała kwestii równości 
+wynagrodzeń. Nadal trwają prace zmierzające  
+do monitorowania luki płacowej i stworzenia 
+procesów zapewniających równość wynagrodzeń. 
+Krótki /średni  
+/długi
+Wszystkie
+S1
+Równe 
+traktowanie  
+i równość szans 
+dla wszystkich 
+Szkolenia  
+i rozwój 
+Wysokie zapotrzebowanie na szkolenia operacyjne 
+(ochrona, BHP, procedury szpitalne) oraz 
+specjalistyczne (technologie czyszczące, instalacje 
+PV). Grupa Impel inwestuje w systematyczny  
+rozwój kompetencji. 
+Krótki /średni  
+/długi
+Wszystkie
+S1
+Równe 
+traktowanie  
+i równość szans 
+dla wszystkich 
+Zapobieganie 
+przemocy  
+i nękaniu 
+Rozproszenie lokalizacyjne i praca w terenie 
+zwiększają ryzyko incydentów. Kodeks Etyki  
+i procedury zgłaszania naruszeń (w tym 
+anonimowe kanały) obowiązują w całej Grupie. 
+Krótki /średni  
+/długi
+Wszystkie
+S2
+Warunki pracy 
+Warunki pracy 
+w łańcuchu 
+wartości 
+Podwykonawcy i dostawcy Grupy Impel  
+świadczą usługi w warunkach zbliżonych  
+do własnych operacji. Standardy pracownicze są 
+monitorowane, a wymagania ESG uwzględniane  
+w procesach zakupowych. 
+Krótki /średni  
+/długi
+Wszystkie
+S2
+Warunki pracy 
+BHP, wolność 
+zrzeszania, 
+równowaga 
+praca–życie 
+w łańcuchu 
+wartości 
+Warunki BHP i prawa pracownicze u zewnętrznych 
+wykonawców są istotne dla reputacji i ciągłości 
+operacyjnej. Grupa Impel stosuje klauzule ESG  
+w umowach z kluczowymi dostawcami. 
+Krótki /średni  
+/długi
+Wszystkie
+S2
+Równe 
+traktowanie  
+i równość szans 
+dla wszystkich 
+Integracja, 
+zapobieganie 
+przemocy  
+i różnorodność 
+w łańcuchu 
+wartości 
+Oczekiwania wobec partnerów biznesowych  
+w zakresie równego traktowania i przeciwdziałania 
+dyskryminacji, spójne ze standardami stosowanymi 
+wewnątrz Grupy Impel. 
+Krótki /średni 
+Wszystkie
+S2
+Równe 
+traktowanie  
+i równość szans 
+dla wszystkich 
+Praca dzieci 
+w łańcuchu 
+dostaw 
+Monitoring ryzyka pracy dzieci u dostawców 
+surowców – szczególnie istotny w grupach 
+korzystających z surowców roślinnych (Kappa) 
+oraz tekstyliów (Laundry). Grupa Impel weryfikuje 
+dostawców pod kątem przestrzegania  
+praw człowieka. 
+Krótki /średni 
+Wszystkie
+
+
+===== PAGE 14 =====
+14
+Raport ESG 2025 - Grupa IMPEL
+Informacje ogólne
+Opis procesu służącego identyfikacji i ocenie 
+istotnych wpływów, ryzyk i szans (IRO-1)
+Grupa Impel identyfikuje istotne wpływy, ryzyka i szanse 
+związane ze zrównoważonym rozwojem w odniesieniu 
+do własnej działalności, relacji biznesowych oraz 
+łańcucha wartości. Wyniki analizy podwójnej istotności 
+stanowią podstawę określenia, które kwestie związane 
+ze zrównoważonym rozwojem mają znaczenie dla 
+modelu działalności Grupy, sposobu tworzenia wartości 
+oraz zakresu raportowania zrównoważonego rozwoju. 
+Analiza została przygotowana jako element procesu 
+raportowania za 2025 rok i jest traktowana jako 
+podstawa wyznaczenia zakresu ujawnień.   
+Model działalności Grupy został oceniony przede 
+wszystkim z perspektywy Grup Produktowych. 
+Przyjęto, że to właśnie Grupa Produktowa stanowi 
+główny 
+nośnik 
+oddziaływań, ryzyk i 
+szans, 
+ponieważ usługi, produkty i aktywności biznesowe 
+mogą być realizowane przez różne spółki w zależności 
+od uwarunkowań operacyjnych, geograficznych 
+i kontraktowych. 
+ESRS
+Podtemat
+Mniejsza jedn.
+tematyczna 
+Rozumienie tematu przez Grupę Impel
+Rodzaj  
+wpływu
+Perspektywa 
+czasowa 
+Grupy 
+produktowe
+S3
+Prawa 
+gospodarcze, 
+społeczne 
+i kulturalne 
+społeczności 
+Oddziaływanie 
+na bezpieczeń-
+stwo społecz-
+ności lokalnych 
+Ochrona obiektów infrastruktury krytycznej (SEC), 
+organizacja imprez masowych (Events) i instalacje 
+fotowoltaiczne (OZE) bezpośrednio wpływają 
+na bezpieczeństwo i funkcjonowanie lokalnych 
+społeczności. 
+ 
+Krótki / średni  
+/ długi 
+SEC, EVE, OZE,
+S4
+Oddziaływanie 
+informacji na 
+konsumentów 
+lub użytkowni-
+ków końcowych 
+Prywatność 
+użytkowników 
+Systemy monitoringu (SEC), dane pacjentów (PAC), 
+dane transakcyjne i wizerunek (CASH, Events) 
+generują ryzyko naruszenia prywatności.  
+Grupa Impel wdraża procedury ochrony  
+danych zgodne z RODO. 
+Krótki /średni  
+/długi
+SEC, PAC, EVE, 
+CASH
+S4
+Oddziaływanie 
+informacji na 
+konsumentów 
+lub użytkowni-
+ków końcowych 
+Zdrowie  
+i bezpieczeń-
+stwo produktu  
+/ usługi 
+Jakość środków dezynfekujących i detergentów 
+(Kappa), bezpieczeństwo żywności (Catering), 
+standardy higieny szpitalnej (PAC) i bezpieczeństwo 
+podczas imprez masowych (Events) są kluczowe 
+dla ochrony zdrowia użytkowników. 
+Krótki /średni  
+/długi
+SEC, PAC, CAT 
+EVE, CASH 
+LAU, OZE, 
+KAPPA
+S4
+Oddziaływanie 
+informacji na 
+konsumentów 
+lub użytkowni-
+ków końcowych 
+Bezpieczeństwo 
+osobiste 
+Fizyczne bezpieczeństwo pacjentów, gości  
+imprez masowych, klientów korzystających  
+z usług ochrony i obsługi gotówki jest centralnym 
+elementem oferty usługowej i bezpośrednim 
+zobowiązaniem Grupy Impel. 
+Krótki /średni  
+/długi
+SEC, PAC, CAT 
+EVE, CASH 
+LAU, OZE, 
+KAPPA
+G1
+Kultura korpora-
+cyjna i etyka 
+-
+Kodeks Etyki Grupy Impel wyznacza standardy 
+postępowania we wszystkich spółkach. Świadomie 
+budowana kultura oparta na zaangażowaniu 
+i przejrzystości pozytywnie wpływa na łańcuch 
+wartości. 
+Krótki /średni  
+/długi
+Wszystkie
+G1
+Ochrona  
+sygnalistów 
+-
+Wdrożone procedury zgłaszania naruszeń i ochrony 
+sygnalistów tworzą bezpieczne środowisko pracy  
+i wspierają kulturę compliance w całej Grupie. 
+Krótki /średni  
+/długi
+Wszystkie
+G1
+Zarządzanie 
+relacjami  
+z dostawcami 
+i praktyki 
+płatnicze 
+Zarządzanie 
+relacjami  
+z dostawcami 
+i praktyki płat-
+nicze 
+Terminowe regulowanie należności  
+i ustrukturyzowane zasady płatnicze są 
+fundamentem stabilnych relacji z kilkutysięczną 
+siecią dostawców i podwykonawców Grupy Impel. 
+Krótki /średni  
+/długi
+Wszystkie
+G1
+Korupcja  
+i przekupstwo 
+Zapobieganie 
+korupcji  
+i nieprawidło-
+wościom  
+Procedury antykorupcyjne i systemy kontroli 
+wewnętrznej minimalizują ryzyko naruszeń, w tym 
+w obszarze sankcji i prania pieniędzy – szczególnie 
+istotne w obsłudze gotówki i przetargach 
+publicznych. 
+Krótki /średni  
+/długi
+Wszystkie
+G1
+Korupcja  
+i przekupstwo 
+Incydenty 
+korupcji 
+Istnieje niemożliwe do całkowitego wyeliminowania 
+ryzyko wystąpienia korupcji lub innych 
+nieprawidłowości (np. naruszenia przepisów dot. 
+sankcji międzynarodowych lub prania pieniędzy), 
+co może spowodować trudności w potencjalnym 
+dostępie do zewnętrznego finansowania. 
+Krótki /średni  
+/długi
+Wszystkie
+G1
+Wpływ na 
+lokalną sytuację 
+gospodarczą 
+-
+Jako duży pracodawca i zleceniodawca obecny 
+w wielu lokalizacjach Impel kreuje możliwości dla 
+lokalnej przedsiębiorczości i pozytywnie wpływa 
+na regionalne rynki pracy. Jest założycielem Izby 
+Gospodarczej we Wrocławiu. 
+Krótki /średni  
+/długi
+Wszystkie
+Z tego względu do pogłębionej analizy wybrano 9 Grup 
+Produktowych reprezentujących wszystkie 4 portfele 
+produktowe oraz działalność produkcyjną, kierując się 
+udziałem w przychodach, znaczeniem strategicznym 
+i zróżnicowaniem profili działalności. Wybrane Grupy 
+Produktowe odpowiadały łącznie za 89% przychodów 
+Grupy za pierwsze półrocze 2024 roku, a trzy główne 
+Grupy Produktowe za około 70% przychodów w tym 
+okresie. W 2025 roku
+trzy główne Grupy Produktowe odpowiadały również 
+za około 70% przychodów.Analiza objęła również łańcuch 
+wartości Grupy, zarówno upstream, jak i downstream, 
+o ile dane procesy lub działania są związane 
+z działalnością, produktami lub usługami Grupy Impel. 
+Oznacza to, że ocena obejmuje nie tylko własne operacje, 
+lecz także relacje z dostawcami, partnerami biznesowymi, 
+klientami, użytkownikami końcowymi oraz innymi 
+grupami, na które działalność Grupy może oddziaływać 
+albo od których Grupa jest zależna. Jednocześnie poza 
+zakresem pozostawiono oddziaływania podmiotów 
+w łańcuchu wartości, które nie są związane z produktami 
+i usługami Grupy.  
+
+
+===== PAGE 15 =====
+15
+Raport ESG 2025 - Grupa IMPEL
+Informacje ogólne
+Wymogi dotyczące ujawniania informacji  
+w ramach ESRS objęte oświadczeniem jednostki 
+dotyczącym zrównoważonego rozwoju (IRO-2)
+Wyniki analizy pokazują, że istotne kwestie związane ze 
+zrównoważonym rozwojem są powiązane z kluczowymi 
+cechami modelu biznesowego Grupy, w szczególności 
+z usługowym charakterem działalności, znaczeniem 
+zasobów pracowniczych, rozbudowanym łańcuchem 
+wartości, relacjami z klientami i partnerami biznesowymi 
+oraz obecnością działalności produkcyjnej. Analiza 
+interesariuszy wskazuje również, że dla kluczowych grup 
+znaczenie mają m.in. stabilność i odporność biznesu, 
+jakość i bezpieczeństwo usług oraz produktów, godziwe 
+i bezpieczne warunki pracy, uczciwe relacje biznesowe, 
+wysoki poziom ładu korporacyjnego oraz wpływ 
+na rozwój gospodarczy w skali lokalnej i regionalnej.   
+Analiza podwójnej istotności podlega przeglądowi 
+i aktualizacji w przypadku istotnych zmian dotyczących 
+strategii, modelu biznesowego, struktury Grupy, relacji 
+biznesowych, działalności operacyjnej, zaopatrzenia, 
+sprzedaży lub otoczenia regulacyjnego. Oznacza 
+to, że Grupa traktuje istotne wpływy, ryzyka i szanse 
+jako element wpływający na sposób prowadzenia 
+działalności oraz wymagający okresowej aktualizacji 
+wraz ze zmianami strategicznymi i operacyjnymi.   
+Wymogi 
+dotyczące 
+ujawniania 
+informacji 
+w ramach ESRS objęte oświadczeniem jednostki 
+dotyczącym zrównoważonego rozwoju (IRO-2) zostały 
+przedstawione w załączniku  1.    
+
+
+===== PAGE 16 =====
+16
+Raport ESG 2025 - Grupa IMPEL
+Nazwa | Nazwa
+Środowisko
+Wyniki analizy podwójnej istotności wskazują, 
+że kwestie środowiskowe w Grupie Impel 
+są związane ze sposobem prowadzenia głównie 
+usługowej działalności operacyjnej, wykorzy-
+stywaniem zasobów, oddziaływaniem procesów 
+na otoczenie oraz wymaganiami stawianymi 
+przez klientów i otoczenie regulacyjne. W ramach 
+analizy do istotnych obszarów środowiskowych 
+zakwalifikowano zagadnienia dotyczące zmiany 
+klimatu, zanieczyszczeń, wody oraz wykorzystania 
+zasobów i gospodarki o obiegu zamkniętym. 
+Wyniki analizy potwierdzają, że w obszarze 
+środowiskowym szczególnie istotne są: zgodność 
+z wymaganiami środowiskowymi, ograniczanie 
+uciążliwości 
+działalności, 
+odpowiedzialne 
+korzystanie z zasobów oraz stopniowe wzmacnianie 
+działań wspierających bardziej efektywny 
+i odpowiedzialny model operacyjny. Z tego względu 
+rozdział dotyczący kwestii środowiskowych 
+obejmuje obszary pozostające najściślej związane 
+z działalnością Grupy Impel, jej łańcuchem 
+wartości oraz zagadnieniami wpływów, ryzyk 
+i szans środowiskowych. Należy przy tym 
+zaznaczyć, że obecny poziom dojrzałości działań 
+środowiskowych jest zróżnicowany. Analiza 
+wskazała obszary, w których dotychczasowe 
+działania wymagają wzmocnienia i są one 
+przedmiotem  intensywnych prac Grupy 
+Impel zmierzających do ich systematycznego 
+adresowania.
+1.
+
+
+===== PAGE 17 =====
+17
+Raport ESG 2025 - Grupa IMPEL
+ŚRODOWISKO
+Uwzględnianie wyników  
+związanych ze zrównoważonym rozwojem  
+w systemach zachęt  (ESRS 2 GOV-3)  
+Istotne wpływy, ryzyka i szanse oraz  
+ich wzajemne związki ze strategią  
+i z modelem biznesowym (ESRS 2 SBM-3) 
+Opis procesów identyfikacji i oceny  
+związanych z klimatem istotnych wpływów,  
+ryzyk i szans  (ESRS 2 IRO-1)
+Plan przejścia na potrzeby łagodzenia  
+zmiany klimatu  (E1-1)  
+Obecnie w ramach systemu zachęt nie są uwzględniane 
+wyniki związane ze zrównoważonym rozwojem.  
+Na dzień sporządzenia raportu przedsiębiorstwo nie 
+posiada jeszcze formalnie przyjętego planu transformacji 
+w zakresie łagodzenia zmiany klimatu. Spółka prowadzi 
+jednak działania oraz analizy w obszarze zarządzania 
+wpływem środowiskowym i w przyszłości rozważa 
+dalsze rozwijanie podejścia do tego zagadnienia, 
+w tym opracowanie bardziej sformalizowanego planu 
+transformacji klimatycznej. 
+Na dzień sporządzenia niniejszego raportu przedsiębiorstwo 
+przeprowadziło analizę podwójnej istotności (double 
+materiality) w celu identyfikacji najważniejszych wpływów, 
+ryzyk i szans związanych z działalnością organizacji, 
+w tym w obszarze środowiskowym. Analiza ta została 
+przeprowadzona zgodnie z wymaganiami ESRS i stanowi 
+pierwszy etap budowania systemowego podejścia 
+do zarządzania zagadnieniami środowiskowymi. 
+Grupa nie prowadzi jeszcze odrębnych, wyspecjalizowanych 
+działań operacyjnych ani odrębnych procesów zarządczych 
+dedykowanych wyłącznie obszarom E1, E2, E3 i E5, dlatego 
+niniejsze ujawnienie odnosi się do sposobu identyfikacji 
+i oceny tych kwestii w ramach ogólnego procesu badania 
+podwójnej istotności. 
+Polityki związane z łagodzeniem zmiany klimatu i przystosowaniem się do niej (E1-2)  
+W ramach obecnego procesu nie została przeprowadzona 
+szczegółowa analiza ryzyk klimatycznych ani analiza 
+odporności strategii i modelu biznesowego w odniesieniu 
+do scenariuszy klimatycznych, o których mowa 
+w ESRS 2 SBM-3. W związku z tym przedsiębiorstwo 
+nie dokonało klasyfikacji zidentyfikowanych ryzyk 
+klimatycznych na ryzyka fizyczne lub transformacyjne, 
+ani 
+nie 
+przeprowadziło 
+scenariuszowej 
+oceny 
+odporności strategii i modelu biznesowego. 
+Zagadnienia te będą przedmiotem dalszych prac 
+rozwojowych w obszarze raportowania ESG. Spółka 
+planuje w kolejnych etapach rozwijania systemu 
+zarządzania zrównoważonym rozwojem rozszerzyć 
+zakres analiz o identyfikację i ocenę ryzyk klimatycznych, 
+w tym przeprowadzenie analizy scenariuszowej oraz 
+ocenę odporności strategii i modelu biznesowego 
+w różnych horyzontach czasowych. Wyniki tych 
+analiz będą mogły w przyszłości stanowić podstawę 
+do opracowania bardziej kompleksowego podejścia 
+do zarządzania ryzykami i szansami klimatycznymi, 
+w tym stworzenia planu transformacji klimatycznej. 
+POLITYKA ŚRODOWISKOWA (GI/POL/2025/07)    Obowiązuje od: 06.11.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Polityka środowiskowa określa zasady postępowania 
+Grupy Impel w zakresie ochrony środowiska oraz 
+minimalizowania wpływu działalności na środowisko 
+naturalne. Jej celem jest prowadzenie działalności 
+w sposób odpowiedzialny środowiskowo poprzez 
+ograniczanie zużycia zasobów, zapobieganie 
+zanieczyszczeniom, właściwe gospodarowanie 
+odpadami oraz rozwijanie rozwiązań wspierających 
+zrównoważony rozwój. Polityka zakłada również 
+przestrzeganie obowiązujących przepisów 
+środowiskowych, ciągłe doskonalenie procesów 
+oraz podnoszenie świadomości środowiskowej 
+pracowników i partnerów biznesowych. 
+Wszyscy pracobiorcy Grupy Impel 
+(administracyjni i produkcyjni) 
+Funkcja: Kierownicy jednostek 
+organizacyjnych; Polityka jest poddawana 
+corocznemu przeglądowi przez Dyrektora 
+Biura ESG i Compliance.  
+Wdrożenie i nadzór: Chief Financial Officer 
+Szkolenia: stacjonarne, online, e-learningowe 
+Obszar geograficzny: cała Polska
+Łańcuch wartości: podwykonawcy, dostawcy, 
+franczyzobiorcy zobowiązani do przestrzegania 
+standardów
+ZMIANA KLIMATU (ESRS E1)
+
+
+===== PAGE 18 =====
+18
+Raport ESG 2025 - Grupa IMPEL
+ŚRODOWISKO
+Grupa Impel zakupiła Gwarancje Pochodzenia w celu 
+pokrycia emisji w zakresie 2 związanych z wykorzystaniem 
+energii elektrycznej w ramach podejścia opartego 
+na rynku. W przypadku spółki Impel S.A. instrument 
+ten pozwolił na pokrycie 100% emisji wynikających 
+z zużycia energii elektrycznej, natomiast w pozostałych 
+spółkach Grupy pokryto około 20% tych emisji. 
+W kolejnych latach Grupa Impel planuje stopniowo 
+zwiększać udział odnawialnej energii elektrycznej oraz 
+wykorzystanie instrumentów rynkowych, takich jak 
+Gwarancje Pochodzenia, w celu dalszego ograniczania 
+emisji związanych z zużyciem energii elektrycznej.
+W celu obliczenia emisji związanych ze zużyciem energii 
+elektrycznej i energii cieplnej zastosowano metodę estymacji 
+ilościowej opartą na danych kosztowych. Proces obejmował 
+zebranie danych kosztowych z systemu finansowo-
+księgowego oraz określenie średnich cen jednostkowych 
+netto dla roku 2025 na podstawie danych dostępnych w sieci 
+dla litra, kWh, m3, GJ. Określone ceny jednostkowe posłużyły 
+do estymacji ilościowego zużycia energii i mediów poprzez 
+podzielenie wartości netto wykazanych na fakturach przez 
+odpowiednią cenę jednostkową.   
+Emisja z wykorzystania energii przez samochody elektryczne 
+podczas ładowania poza biurem nie została włączona 
+do obliczeń. Obecnie Grupa Impel posiada 2 samochody 
+elektryczne, jest to poniżej 0,1% całej floty i oszacowano, 
+że są to emisje poniżej poziomu istotności. Zużycie energii, 
+jeśli samochody są ładowane na terenie biura, jest liczone 
+w ramach zakresu 2 (ale nie jest szczegółowo wyodrębnione).  
+Dane dot. zużycia energii w wyniku spalania paliw kopalnych 
+na potrzeby transportowe są danymi rzeczywistymi.  
+EU Ecolabel to dobrowolny unijny system certyfikacji 
+ekologicznej ustanowiony przez Komisję Europejską 
+w 1992 roku, aktywnie wspierający realizację 10 spośród 
+17 Celów Zrównoważonego Rozwoju ONZ - w szczególności 
+celu 12. dotyczącego zrównoważonej konsumpcji 
+i produkcji. Od 2018 roku system obejmuje również usługi 
+sprzątania pomieszczeń z wyłączeniem dezynfekcji 
+i hal produkcyjnych, co stanowi odpowiedź na postulaty 
+branży utrzymania czystości. Warunkiem uzyskania 
+certyfikatu jest spełnienie kryteriów środowiskowych 
+dotyczących zarówno stosowanej chemii profesjonalnej, 
+jak i parku maszynowego, potwierdzonych uzyskaniem 
+co najmniej 14 punktów z przyjętej listy wymagań. 
+Grupa Impel obecnie nie posiada celów związanych z łago-
+dzeniem zmiany klimatu i przystosowaniem się do niej.  
+Zakup Gwarancji Pochodzenia 
+Zużycie energii i koszyk energetyczny (E1-5)
+Certyfikat EU Ecolabel w usługach 
+utrzymania czystości 
+Cele związane z łagodzeniem zmiany klimatu  
+i przystosowaniem się do niej (E1-4)  
+W ramach realizacji Polityki środowiskowej Grupa Impel 
+podejmuje działania mające na celu ograniczanie 
+wpływu swojej działalności na środowisko oraz stopniowe 
+zmniejszanie emisji gazów cieplarnianych. Działania te 
+obejmują m.in. zwiększanie udziału energii pochodzącej 
+ze źródeł odnawialnych, racjonalne gospodarowanie 
+zasobami oraz rozwijanie rozwiązań wspierających 
+dekarbonizację działalności operacyjnej. Do takich 
+działań należy zakup Gwarancji Pochodzenia energii 
+elektrycznej, potwierdzających wytworzenie określonej 
+ilości energii ze źródeł odnawialnych. Spółka uzyskała 
+również certyfikaty EU Ecolabel.
+Działania i zasoby w odniesieniu  
+do polityki klimatycznej  (E1-3)  
+Grupa Impel jest drugą firmą w Polsce z branży 
+usług utrzymania czystości, która legitymuje się tym 
+certyfikatem. Polskie Centrum Badań i Certyfikacji 
+S.A. udzieliło spółce Impel Facility Services zezwolenia 
+na używanie oznakowania EU Ecolabel nr PL/052/002/001. 
+Proces certyfikacji trwał blisko 12 miesięcy i obejmował 
+dwa etapy audytowe: 
+ 
+•	
+pierwszy - realizowany w siedzibie spółki, który 
+weryfikował kwestie formalne, w tym stosowanie 
+środków czyszczących o obniżonym oddziaływaniu 
+na środowisko oraz legalność i przeszkolenie 
+pracowników
+•	
+drugi - przeprowadzony bezpośrednio u klienta, 
+który potwierdzał zgodność stanu faktycznego 
+z przedłożoną dokumentacją poprzez kontrolę 
+na miejscu i rozmowy z pracownikami
+Certyfikat obejmuje obecnie usługi utrzymania czystości 
+w obiektach handlowych i biurowych realizowane przez 
+Biuro Kontraktów EKO, w tym w wybranych sklepach 
+Smyk, w centrali mBanku, BOŚ Banku, Galerii Kaskada oraz 
+Galerii Łódzkiej. Dla Grupy Impel certyfikat EU Ecolabel 
+stanowi wyróżnik rynkowy w obszarze odpowiedzialnych 
+środowiskowo usług utrzymania czystości. 
+
+
+===== PAGE 19 =====
+19
+Raport ESG 2025 - Grupa IMPEL
+ŚRODOWISKO
+Zużycie energii i jej miks 
+Jednostka 
+Grupa Impel 
+1. Zużycie paliwa z węgla i produktów węglowych  
+MWh 
+8 691,5 
+2. Zużycie paliwa z ropy naftowej i produktów naftowych  
+MWh 
+45 438,8 
+3. Zużycie paliwa z gazu ziemnego 
+MWh 
+14 432,1 
+4. Zużycie paliwa z innych źródeł kopalnych  
+MWh 
+0,0 
+5. Zużycie zakupionych lub pozyskanych: energii elektrycznej,  
+ciepła, pary wodnej lub chłodzenia ze źródeł kopalnych 
+MWh 
+8 930,5 
+6. Całkowite zużycie energii ze źródeł kopalnych (suma pozycji od 1 do 5) 
+MWh 
+77 492,9 
+Udział źródeł kopalnych w całkowitym zużyciu energii
+% 
+90,5% 
+7. Całkowite zużycie energii ze źródeł jądrowych
+MWh 
+0,0
+Udział procentowy zużycia energii ze źródeł jądrowych  
+w całkowitym zużyciu energii 
+% 
+0,0% 
+8. Zużycie paliw ze źródeł odnawialnych, w tym biomasy (obejmujących 
+również odpady przemysłowe i komunalne pochodzenia biologicznego), 
+biopaliw, biogazu, wodoru ze źródeł odnawialnych
+MWh 
+0,0 
+9. Zużycie zakupionej lub pozyskanej energii elektrycznej, ciepła,  
+pary wodnej i chłodzenia ze źródeł odnawialnych
+MWh 
+8 113,9 
+10. Zużycie energii odnawialnej produkowanej samodzielnie  
+bez użycia paliwa
+MWh 
+0,0 
+ 11. Całkowite zużycie energii ze źródeł odnawialnych  
+(obliczone jako suma wierszy 8-10)
+MWh 
+8 113,9% 
+Udział źródeł odnawialnych w całkowitym zużyciu energii 
+% 
+9,5% 
+Całkowite zużycie energii 
+MWh
+85 606,8 
+Tab. 3. Zużycie energii i koszyk energetyczny  
+W przypadku Grupy Impel emisje „outside of scopes” 
+powstają wskutek zużycia paliwa we flocie samo-
+-chodowej i wynikają z dodatku biokomponentów 
+do paliw. Obliczono je zgodnie ze wskaźnikami Green-
+house gas reporting: Conversion factors: full set 
+(for advanced users) publikowanymi przez The Depart-
+ment for Environment, Food and Rural Affairs (DEFRA).  
+Zgodnie z GHG Protocol emisje biogeniczne zarapor-
+towane zostały poza zakresami 1 i 2, a ich wartość licz-
+bowa to 624,1 MgCO2e. W roku 2024 po raz pierwszy 
+obliczono emisje Grupy Impel na potrzeby wewnętrzne, 
+a w 2025 r. po raz pierwszy są publikowane wyniki obli-
+czeń emisji z zakresu 1 i 2. W roku 2025 również przeprowa-
+dzono analizę istotności poszczególnych kategorii emisji. 
+W kolejnych latach Grupa Impel planuje rozszerzenie 
+zakresu raportowania emisji GHG o zakres 3. 
+Emisje gazów cieplarnianych zakresów 1, 2 i 3 brutto 
+oraz całkowite emisje gazów cieplarnianych (E1-6)  
+Obliczenia emisji w ramach poszczególnych zakresów 
+wykonano zgodnie z:  
+Emisje gazów cieplarnianych, wyrażone w ekwiwalen-
+cie CO2 (CO2e), obejmują również następujące gazy  
+cieplarniane (oprócz dwutlenku węgla):   
+W ramach kalkulacji obliczono emisje za zakres 1 i 2:  
+Emisje gazów cieplarnianych zostały przeliczone 
+na ekwiwalent emisji dwutlenku węgla zgodnie 
+z wartością współczynnika GWP (ang. Global Warming Po-
+tential), który określa potencjał poszczególnych gazów 
+w odniesieniu do ekwiwalentu dwutlenku węgla,zgodnie 
+z raportem IPCC (2013): Climate Change 2013 The Physi-
+cal Science Basis. Contribution of Working Group I to the 
+Fifth Assessment Report of the Intergovernmental Panel 
+on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. 
+Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and 
+P.M. Midgley (eds.)]. Cambridge University Press, Cam-
+bridge, United Kingdom and New York, NY, USA, 1535 pp.  
+Na tym przeliczniku bazują wskaźniki z bazy danych DEFRA.  
+Dane dotyczące emisji w ramach zakresu 1 i 2 są 
+pozyskiwane z wewnętrznych systemów IT przedsiębior-
+stwa. W ramach procesu pozyskiwania danych odbywa 
+się kontrola ich jakości.  
+czyli emisje bezpośrednie, do których zaliczamy 
+emisje związane z wytwarzaniem produktów 
+czy flotą przedsiębiorstwa.   
+czyli emisje pośrednie związane z wykorzystaniem 
+energii, w tym energii cieplnej, chłodu czy elektrycznej.
+•	
+Zakres 1:
+•	
+Zakres 2:
+•	
+Greenhouse Gas Protocol (GHG): A Corporate 
+Accounting and Reporting Standard. World 
+Resources Institute and World Business Council for 
+Sustainable Development,   
+•	
+Scope 2 Calculation Guidance: An amendment 
+to the GHG Protocol Corporate Standard, 
+2015. World Resources Institute.   
+•	
+metan (CH4),   
+•	
+podtlenek azotu (N2O),   
+•	
+sześciofluorek siarki (SF6),   
+•	
+perfluorowęglowodory (PFC),   
+•	
+hydrofluorowęglowodory (HFC),   
+•	
+trójfluorek azotu (NF3).   
+
+
+===== PAGE 20 =====
+20
+Raport ESG 2025 - Grupa IMPEL
+ŚRODOWISKO
+W roku 2025 Grupa Impel nie zakupiła jednostek 
+offsetowych ani kredytów węglowych w celu 
+kompensacji emisji GHG. 
+Grupa Impel przygotowuje raport dobrowolnie 
+i korzysta z możliwości pominięcia ujawnienia 
+informacji o przewidywanych skutkach finanso-
+wych wynikających z istotnych ryzyk i szans związa-
+nych z klimatem zgodnie z Dodatkiem C do ESRS  1 
+do Rozporządzenia delegowanego Komisji (UE) 
+2023/2772 z dnia 31 lipca 2023 r. 
+W 2025 roku Grupa Impel nie ustaliła wewnętrznej ceny 
+jednostki emisji gazów cieplarnianych, która byłaby 
+stosowana w procesach związanych z zarządzaniem 
+wpływami związanymi ze zmianą klimatu. 
+Projekty usuwania gazów cieplarnianych  
+i ograniczania emisji gazów cieplarnianych 
+finansowane za pomocą jednostek emisji  
+dwutlenku węgla (E1-7)
+Przewidywane skutki finansowe  
+wynikające z istotnych ryzyk fizycznych 
+i ryzyk przejścia oraz potencjalnych szans 
+związanych z klimatem (E1-9)
+Wewnętrzne ustalanie opłat za emisję gazów 
+cieplarnianych (E1-8)
+ZANIECZYSZCZENIA (ESRS E2)
+Opis procesów identyfikacji i oceny  
+istotnych wpływów, ryzyk i szans związanych  
+z zanieczyszczeniem (ESRS 2 IRO-1 )
+ Polityki związane z zanieczyszczeniem (E2-1)
+Działania i zasoby związane  
+z zanieczyszczeniem (E2-2)
+Cele związane z zanieczyszczeniem (E2-3)
+Zanieczyszczenie powietrza, wody i gleby (E2-4)
+Przewidywane skutki finansowe wynikające z ryzyk  
+i szans związanych z zanieczyszczeniem (E2-6)
+Ujawnienie to zostało opisane w ramach E1. IRO-1 
+- Opis procesów identyfikacji i oceny związanych 
+z klimatem istotnych wpływów, ryzyk i szans.  
+Zagadnienia związane z zanieczyszczeniami zostały 
+ujęte w ramach ujawnienia ESRS E1-2.  
+Obecnie Grupa Impel nie prowadzi działań  
+związanych z zanieczyszczeniem.
+Obecnie Grupa Impel nie posiada celów  
+związanych z zanieczyszczeniem.  
+Podczas procesu podwójnej istotności została zweryfi-
+kowana ilość każdego czynnika zanieczyszczającego 
+wymienionego w załączniku II do rozporządzenia (WE) 
+nr 166/2006 Parlamentu Europejskiego i Rady („rozpo-
+rządzenie w sprawie Europejskiego Rejestru Uwalniania 
+i Transferu Zanieczyszczeń”, „rozporządzenie w sprawie 
+E-PRTR”) emitowanego do powietrza, wody i gleby, z wy-
+jątkiem emisji gazów cieplarnianych, które są ujawniane 
+zgodnie z ESRS E1 Zmiana klimatu oraz emisji z instala-
+cji, w odniesieniu do których przekroczono obowiązują-
+cą wartość progową określoną w załączniku II do roz-
+porządzenia (WE) nr 166/2006. W obu przypadkach nie 
+stwierdzono emisji wyżej wymienionych zanieczyszczeń 
+do powietrza, wody i gleby.  
+Grupa Impel przygotowuje raport dobrowolnie 
+i korzysta z możliwości pominięcia ujawnienia informacji 
+o przewidywanych skutkach finansowych wynikających 
+z istotnych ryzyk i szans związanych z zanieczyszczeniem 
+zgodnie z Dodatkiem C do ESRS  1 do Rozporządzenia 
+delegowanego Komisji (UE) 2023/2772 z dnia 
+31 lipca 2023 r. 
+Zakres
+Jednostka
+Emisja
+Zakres 1
+Łącznie emisje brutto GHG w zakresie 1  
+MgCO2e 
+16 730,0 
+Odsetek całkowitych emisji gazów cieplarnianych z zakresu 1,  
+które są regulowane w ramach systemów handlu uprawnieniami do emisji  
+% 
+0
+Zakres 2
+Łącznie emisje brutto GHG w zakresie 2 location-based  
+MgCO2e 
+10 798,1
+Łącznie emisje brutto GHG w zakresie 2 market-based  
+MgCO2e 
+9 798,0
+Suma emisji zakresu 1 i 2
+Łączne emisje GHG location-based
+MgCO2e 
+27 528,1
+Łączne emisje GHG market-based
+MgCO2e 
+26 528,0
+Tab. 4. Wyniki emisji GHG w 2025 r. 
+
+
+===== PAGE 21 =====
+21
+Raport ESG 2025 - Grupa IMPEL
+ŚRODOWISKO
+WODA I ZASOBY MORSKIE (ESRS E3)
+Opis procesów identyfikacji i oceny istotnych 
+wpływów, ryzyk i szans związanych z wodą  
+i zasobami morskimi (ESRS 2 IRO-1)
+Działania i zasoby związane z wodą  
+i zasobami morskimi (E3-2)
+Polityki związane z wodą i zasobami morskimi (E3-1)
+Ujawnienie to zostało opisane w ramach ESRS 2 IRO-1 - 
+Opis procesów identyfikacji i oceny związanych z klimatem 
+istotnych wpływów, ryzyk i szans. 
+Zagadnienia związane z wodą i zasobami morskimi 
+zostały ujęte w ramach Polityki Środowiskowej.  
+W ramach zarządzania wpływem środowisko- 
+wym Grupa Impel podejmuje działania mające 
+na celu ograniczenie zużycia wody oraz racjonalne 
+gospodarowanie zasobami wodnymi w procesach 
+operacyjnych. Działania te obejmują zarówno wdrażanie 
+technologii ograniczających zużycie wody, jak i stoso-
+wanie rozwiązań organizacyjnych oraz technologicznych 
+zmniejszających ilość wytwarzanych ścieków. 
+W usługach sprzątania Grupa Impel wykorzystuje 
+nowoczesne urządzenia czyszczące o ponad 7-krotnie 
+niższym zużyciu wody niż tradycyjne maszyny.
+W usługach cateringowych zużycie wody minimalizowane 
+jest poprzez stosowanie przemysłowych zmywarek, które 
+umożliwiają wielokrotne wykorzystanie tej samej wody 
+w trakcie jednego cyklu mycia. Dodatkowo zużyta woda 
+poprodukcyjna przed odprowadzeniem do kanalizacji 
+poddawana jest procesowi filtracji z tłuszczów. Dzięki 
+temu ścieki odprowadzane do kanalizacji mają 
+charakter nieszkodliwy dla środowiska wodnego. 
+Ograniczenie zapotrzebowania na wodę realizowane 
+jest również w produkcji środków czyszczących 
+(Kappa). Stosowanie wysoko skoncentrowanych 
+produktów pozwala zmniejszyć zużycie wody zarówno 
+w procesie produkcyjnym, jak i podczas ich użytkowania. 
+Rozwiązanie to przyczynia się także do ograniczenia 
+kosztów transportu i logistyki oraz wspiera proces 
+wytwarzania produktów o wysokim stopniu czystości 
+i ograniczonej zawartości konserwantów potencjalnie 
+negatywnych dla środowiska. 
+Redukcja zużycia wody i energii 
+w usługach pralniczych
+Cele związane z wodą i zasobami morskimi (E3-3)
+W realizacji usług pralniczych Grupa Impel wykorzystuje 
+technologię firmy Ecolab. Zmiany wdrożone w roku 2025 
+objęły przede wszystkim optymalizację procesów prania, 
+redukcję parametrów zużycia mediów oraz poprawę 
+stabilności jakościowej procesu. Dzięki podjętym 
+działaniom możliwe było obniżenie temperatur prania, 
+zmniejszenie zużycia wody i energii, a jednocześnie 
+utrzymanie bardzo dobrych parametrów skuteczności 
+prania oraz znaczące ograniczenie poziomu poprawek. 
+Obecnie Grupa Impel nie posiada celów związanych 
+z wodą i zasobami morskimi. 
+Przedstawione dane pokazują, że działania wdrożone 
+w zakładach w Trzebini i Chojnowie przełożyły się nie 
+tylko na poprawę efektywności operacyjnej, ale również 
+środowiskowej.  
+•	
+Zmniejszenie temperatur prania do 60-65 °C  
+na obu tunelach pralniczych 
+•	
+Zmniejszenie zużycia wody na tunelu Passat  
+z 10 l/kg na 8,5 l/kg  
+•	
+Uzyskanie spadku zużycia energii  
+z 1,84 kWh/kg prania do 1,4 kWh/kg prania 
+•	
+Optymalizacja ustawień zużycia wody i energii  
+na pralnicach oraz tunelach pralniczych 
+•	
+Zmniejszenie zużycia wody z 13,8 l/kg  
+w roku 2024 na 10,7 l/kg w roku 2025 
+•	
+Zmniejszenie zużycia energii z 2,5 kWh/kg w roku 2024 
+do 1,6 kWh/kg w roku 2025 dzięki zmianom temperatur 
+w programach prania oraz modernizacji kotłowni 
+Zakład Trzebinia 
+Zakład Chojnów 
+
+
+===== PAGE 22 =====
+22
+Raport ESG 2025 - Grupa IMPEL
+ŚRODOWISKO
+WYKORZYSTANIE ZASOBÓW  
+ORAZ GOSPODARKA O OBIEGU  
+ZAMKNIĘTYM (ESRS E5)
+Opis procesów identyfikacji i oceny  
+istotnych wpływów, ryzyk i szans związanych  
+z wykorzystaniem zasobów oraz gospodarki  
+o obiegu zamkniętym  (ESRS 2 IRO-1)
+Przewidywane skutki finansowe wynikające  
+z wpływów, ryzyk i szans związanych  
+z wykorzystaniem zasobów oraz gospodarką  
+o obiegu zamkniętym (E5-6)
+Polityki związane z wykorzystaniem zasobów  
+oraz gospodarką o obiegu zamkniętym (E5-1)
+Działania i zasoby związane  
+z wykorzystaniem zasobów oraz gospodarką  
+o obiegu zamkniętym (E5-2)
+Cele związane z wykorzystaniem zasobów oraz 
+gospodarką o obiegu zamkniętym (E5-3)
+Zasoby wprowadzane (E5-4)
+Zasoby odprowadzane (E5-5)
+Ujawnienie to zostało opisane w ramach ESRS 2 IRO-1 
+- Opis procesów identyfikacji i oceny związanych 
+z klimatem istotnych wpływów, ryzyk i szans. 
+Grupa Impel przygotowuje raport dobrowolnie 
+i korzysta z możliwości pominięcia ujawnienia 
+informacji o przewidywanych skutkach finansowych 
+wynikających z istotnych ryzyk i szans związanych 
+z wykorzystaniem odpadów oraz gospodarką obiegu 
+zamkniętego zgodnie z Dodatkiem C do ESRS  1 
+do Rozporządzenia delegowanego Komisji (UE) 
+2023/2772 z dnia 31 lipca 2023 r. 
+Grupa Impel przygotowuje raport dobrowolnie 
+i korzysta z możliwości pominięcia ujawnienia 
+informacji o przewidywanych skutkach finan-
+sowych wynikających z istotnych ryzyk i szans 
+związanych z wodą i zasobami morskimi zgodnie 
+z Dodatkiem C do ESRS  1 do Rozporządzenia 
+delegowanego Komisji (UE) 2023/2772 z dnia 
+31 lipca 2023 r.
+Centrum Zarządzania Sprzętem w Grupie Impel 
+odpowiada za serwis i naprawę sprzętu oraz maszyn 
+wykorzystywanych w całej działalności Grupy. Model 
+ten wspiera wydłużanie cyklu życia produktów poprzez 
+przywracanie ich do ponownego użytkowania, a także 
+przez ponowne wykorzystanie części pochodzących 
+z uszkodzonych urządzeń. W praktyce ogranicza 
+to potrzebę zakupu nowych elementów i nowych 
+urządzeń oraz zmniejsza ilość wytwarzanych odpadów 
+powstających w toku działalności.  
+W 2025 roku przywrócono do ponownego użytku łącznie 
+353 maszyny, których wartość wyniosła 6 749 184 zł. 
+W tym samym okresie wartość odzyskanych części 
+wyniosła 435 631 zł. 
+Obecnie Grupa Impel nie posiada celów związanych 
+z 
+wykorzystaniem 
+zasobów 
+i 
+gospodarką 
+o obiegu zamkniętym.
+Grupa Impel w 2025 roku nie zbierała danych 
+ilościowych obejmujących zasoby wprowadzane 
+i zasoby odprowadzane.  
+Zagadnienia związane z wykorzystaniem zasobów 
+oraz gospodarką o obiegu zamkniętym zostały ujęte 
+w ramach Polityki Środowiskowej. 
+WYDŁUŻENIE CYKLU ŻYCIA MASZYN I URZĄDZEŃ
+Przewidywane skutki finansowe wynikające  
+z istotnych ryzyk i szans związanych z wodą  
+i zasobami morskimi  (E3-5)
+Zużycie wody (E3-4)
+Rok 2025 był okresem przygotowawczym do wdrożenia 
+bardziej uporządkowanego procesu zbierania danych 
+środowiskowych. W organizacji rozpoczęto działania 
+mające na celu systemowe gromadzenie informacji 
+ilościowych dotyczących zużycia wody, co w kolejnych 
+latach umożliwi dokładniejsze monitorowanie trendów 
+oraz lepsze zarządzanie zasobami wodnymi. 
+W ramach analizy podwójnej istotności Grupa Impel 
+przeprowadziła wstępne mapowanie zużycia wody 
+w całej organizacji. Na etapie przygotowania raportu 
+dane ilościowe dotyczące zużycia wody nie były jeszcze 
+systemowo zbierane, dlatego poziom zużycia został 
+oszacowany na podstawie kosztów wody ponoszonych 
+przez spółki Grupy.  
+Do kalkulacji zastosowano średnioważone ceny wody 
+wyliczone na podstawie reprezentatywnych faktur 
+dotyczących powierzchni biurowych oraz operacyjnych.
+Na podstawie tej estymacji zużycie wody w 2025 roku 
+oszacowano na poziomie 264 198 m³, z czego 211 241 
+m³ stanowiła woda zimna, a 52 957 m³ woda ciepła 
+dla lokalizacji na terenie Polski bez względu na charakter 
+obiektu (własny, wynajęty czy miejsce prowadzenia 
+działalności na rzecz klienta).  Dane te mają charakter 
+przybliżony i stanowią punkt odniesienia do dalszego 
+monitorowania wykorzystania zasobów wodnych 
+w Grupie Impel. 
+Z perspektywy środowiskowej oznacza to bardziej 
+efektywne wykorzystanie już posiadanych zasobów 
+materialnych oraz ograniczanie strumienia odpadów 
+związanych z eksploatacją sprzętu.
+
+
+===== PAGE 23 =====
+23
+Raport ESG 2025 - Grupa IMPEL
+Nazwa | Nazwa
+Społeczeństwo
+Model działalności Grupy Impel opiera się na pracy 
+oraz usługach świadczonych przez pracobiorców, 
+jakości i bezpieczeństwie realizowanych usług 
+oraz produktów, rozbudowanych relacjach 
+z partnerami biznesowymi i dostawcami, 
+a także szerokiej obecności operacyjnej 
+w wielu lokalizacjach. To właśnie ten charakter 
+działalności sprawia, że kwestie społeczne zajmują 
+w Grupie Impel szczególne miejsce - dotykają 
+bowiem każdego wymiaru jej funkcjonowania: 
+od codziennej pracy tysięcy ludzi, przez relacje z 
+dostawcami i partnerami, po wpływ na lokalne 
+społeczności i zaufanie klientów. 
+Analiza podwójnej istotności przeprowadzona 
+w 2024 roku potwierdza, że największe znaczenie 
+w obszarze społecznym mają kwestie związane 
+z własnymi zasobami pracowniczymi oraz osobami 
+wykonującymi pracę w łańcuchu wartości, 
+w tym warunki i bezpieczeństwo pracy, stabilność 
+zatrudnienia, godziwe wynagrodzenie, równe 
+traktowanie i różnorodność, a także zapobieganie 
+przemocy i nękaniu. W odniesieniu do społeczności 
+lokalnych kluczowe znaczenie ma wpływ 
+działalności operacyjnej na ich funkcjonowanie 
+oraz wkład w lokalny i regionalny rozwój 
+gospodarczy. Z kolei w relacji z konsumentami 
+i użytkownikami końcowymi priorytetem pozostają 
+jakość i bezpieczeństwo świadczonych usług oraz 
+ochrona prywatności. 
+To wokół nich koncentruje się niniejszy rozdział, 
+obejmując zagadnienia zidentyfikowane jako 
+istotne z perspektywy wpływu lub istotności 
+finansowej i powiązane z działalnością operacyjną 
+oraz łańcuchem wartości Grupy. 
+2.
+
+
+===== PAGE 24 =====
+24
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+WŁASNE ZASOBY PRACOWNICZE  (ESRS S1)
+Istotne wpływy, ryzyka i szanse oraz ich  
+wzajemne związki ze strategią i z modelem 
+biznesowym (ESRS 2 SBM-3)
+Grupa Impel podejmuje działania mające na celu mini-
+malizowanie ryzyk oraz wzmacnianie pozytywnych efek-
+tów wynikających z zaangażowania i rozwoju pracobior-
+ców. Przedsiębiorstwo jednak przyznaje, że ze względu 
+na rozbudowaną sieć operacyjną oraz dużą liczbę pra-
+cobiorców świadczących usługi bezpośrednio u klientów, 
+zidentyfikowano potencjalnie negatywny wpływ związany 
+z prawami człowieka i warunkami zatrudnienia. Jako 
+działanie minimalizujące ryzyko wprowadzono Politykę 
+Praw Człowieka, a także mechanizmy monitorowania 
+przypadków łamania tej polityki. Do dzisiaj nie odnoto-
+wano takich incydentów. 
+Jednostka obecnie nie stworzyła planu przejścia. 
+Interesy i opinie zainteresowanych  
+stron (ESRS 2 SBM-2)
+Grupa Impel konsekwentnie buduje kulturę organizacyjną 
+opartą na otwartym dialogu. Wprowadzając nowe 
+regulacje i standardy, Grupa Impel kładzie nacisk 
+na przejrzystość procesów, aktywne słuchanie 
+pracobiorców oraz uwzględnianie ich perspektywy 
+na wszystkich poziomach organizacji.  
+W ramach Grupy Impel posługujemy się definicjami 
+Pracobiorcy i Pracownika na potrzeby przygotowania 
+analizy interesariuszy i raportu ESG:
+Grupa Impel stosuje szereg mechanizmów angażo-
+wania 
+pracobiorców. 
+Podstawowym 
+kanałem 
+komunikacji wewnętrznej jest intranet (ImpelNet), 
+umożliwiający szybki dostęp do informacji, do- 
+kumentów i aktualności firmowych, a także 
+publikację ankiet dotyczących planowanych zmian. 
+Przy opracowywaniu i wdrażaniu nowych polityk 
+oraz procedur angażowani są przedstawiciele 
+kluczowych działów i menedżerowie, co zapewnia 
+uwzględnienie perspektywy operacyjnej już na etapie 
+projektowania rozwiązań. Dostępne są również 
+anonimowe kanały zgłaszania opinii i sugestii. 
+Pracobiorcy uczestniczą ponadto w badaniu pod-
+wójnej istotności poprzez: warsztaty, wywiady i ankiety, 
+to osoba zatrudniona na podstawie umowy o pracę, 
+umowy cywilnoprawnej lub innej formy współpracy 
+ze spółką - pojęcie szersze, obejmujące wszystkich 
+zaangażowanych w działalność Grupy, niezależnie 
+od formy prawnej tej współpracy. Pracobiorcy 
+stanowią własną siłę roboczą Grupy Impel. 
+to osoba zatrudniona na podstawie umowy o pracę, 
+powołania, wyboru, mianowania lub spółdzielczej 
+umowy o pracę - definicja węższa, odpowiadająca 
+formalnemu stosunkowi pracy. 
+•	
+Pracobiorca:
+•	
+Pracownik:
+w których identyfikują oraz oceniają zagadnienia ESG 
+zarówno z perspektywy wpływu Grupy na otoczenie, jak 
+i oddziaływania czynników zewnętrznych na jej działal- 
+ność. Wyniki tych konsultacji są następnie wykorzysty- 
+wane do aktualizacji mapy istotności oraz wyznaczania 
+działań w obszarze zrównoważonego rozwoju.
+Podsumowując, własne zasoby pracownicze dla Grupy 
+Impel stanowią kluczową grupę interesariuszy, na którą 
+firma wywiera istotny wpływ. Ich interesy, opinie i prawa 
+– w tym poszanowanie praw człowieka – są uwzględniane 
+w procesach decyzyjnych i strategicznych.  
+Polityki związane z własnymi zasobami 
+pracowniczymi (S1 -1)
+Wiodące polityki Grupy Impel przedstawiono poniżej. 
+Wszystkie polityki obowiązują na terenie głównej 
+działalności Grupy Impel, czyli w Polsce.  
+POLITYKA PRAW CZŁOWIEKA (GI/POL/2025/02)    Obowiązuje od: 05.11.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Wprowadzenie jednolitych standardów  
+i mechanizmów, które zapewnią poszanowanie 
+uznanych międzynarodowo praw człowieka. 
+Zobowiązanie do ochrony i realizacji praw 
+człowieka oraz podstawowych wolności  
+we wszystkich obszarach swojej działalności.  
+Zakres: wszyscy pracobiorcy Grupy Impel 
+Funkcja: Dyrektorzy HR, Dyrektor Biura  
+ESG i Compliance, CHRO
+Wdrożenie: dedykowani Dyrektorzy HR
+Monitoring: Biuro ESG i Compliance 
+(rejestr naruszeń, roczne raportowanie)
+Obszar geograficzny: cała Polska
+Łańcuch wartości: dostawcy i podwykonawcy 
+zobowiązani do standardów etyki biznesowej
+POLITYKA BHP (GI/POL/2025/03)    Obowiązuje od: 05.12.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Wdrożenie zasad zapewniających bezpieczne 
+i higieniczne warunki pracy wszystkim 
+pracobiorcom. Polityka obejmuje działania 
+związane z prewencją wypadków, ochroną 
+zdrowia, oceną ryzyka zawodowego, rozwojem 
+kultury bezpieczeństwa, edukacją BHP. 
+Zakres: wszyscy pracobiorcy Grupy Impel
+Funkcja: Kierownik Działu BHP, 
+wyznaczony Dyrektor HR, CHRO 
+Wdrożenie: Dyrektor HR,  
+Kierownik Działu BHP, pozostali  
+Dyrektorzy HR, Zarządy Spółek 
+Monitoring:  Kierownik Działu BHP
+Łańcuch wartości: podwykonawcy, dostawcy, 
+franczyzobiorcy
+
+
+===== PAGE 25 =====
+25
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO
+POLITYKA HR (GI/POL/2025/05)    Obowiązuje od: 12.11.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Standaryzacja zasad związanych z zarządzaniem 
+zasobami ludzkimi zgodnie z przepisami prawa, 
+zasadami etyki i strategią Grupy Impel. 
+Zakres: wszyscy pracobiorcy Grupy Impel
+Funkcja: Dyrektorzy HR, CHRO 
+Wdrożenie: dedykowani Dyrektorzy HR 
+Monitoring: coroczny przegląd przez 
+Dyrektorów HR, analiza ryzyka i zgłoszeń 
+Łańcuch wartości: dostawcy i podwykonawcy 
+zobowiązani do standardów etyki biznesowej
+POLITYKA SZKOLEŃ GI (GI/POL/2025/14)    Obowiązuje od: 19.11.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Wprowadzenie jednolitych standardów szkoleń 
+zapewniających pracobiorcom możliwość 
+doskonalenia zawodowego, podnoszenia wiedzy  
+i kompetencji.
+Zakres: wszyscy pracobiorcy Grupy Impel 
+(administracyjni i produkcyjni) 
+Funkcja: Dyrektor Centrum Szkoleń, 
+Dyrektor Biura Rekrutacji  
+i Rozwoju, CHRO
+Szkolenia: stacjonarne, online, e-learningowe 
+Wdrożenie i nadzór: Dyrektor Centrum 
+Szkoleń oraz Dyrektor Biura Rekrutacji i 
+Rozwoju
+Obszar geograficzny: cała Polska
+Łańcuch wartości: podwykonawcy, dostawcy, 
+franczyzobiorcy  
+POLITYKA REKRUTACJI (GI/POL/2025/10)   Obowiązuje od: 20.11.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Zapewnienie przejrzystego i efektywnego procesu 
+pozyskiwania pracobiorców wspierającego 
+procesy biznesowe i promującego jednocześnie 
+różnorodność. Polityka określa zasady 
+obowiązujące w procesach rekrutacyjnych 
+bez względu na rodzaj i formę  prowadzonej 
+rekrutacji oraz rodzaj obsadzanego stanowiska 
+(administracyjne /produkcyjne). 
+Zakres: wszystkie procesy rekrutacyjne  
+(stanowiska administracyjne i produkcyjne)
+Funkcja:  Dyrektor Centrum Rekrutacji, 
+Dyrektorzy Centrów Rekrutacji 
+Pracobiorców Produkcyjnych, CHRO 
+Wdrożenie: Dyrektor Centrum Rekrutacji, 
+Dyrektorzy Centrów Rekrutacji 
+Pracobiorców Produkcyjnych
+Formy: stacjonarna lub online
+Łańcuch wartości: podwykonawcy, dostawcy, 
+franczyzobiorcy
+
+
+===== PAGE 26 =====
+26
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+Współpraca spółek Grupy Impel z pracobiorcami oraz 
+ich przedstawicielami w obszarze wpływu na zasoby 
+pracownicze opiera się na bieżącej i przejrzystej 
+komunikacji. Obejmuje ona konsultacje indywidualne 
+i grupowe, ankiety oraz komunikację pośrednią 
+prowadzoną za pośrednictwem przedstawicieli 
+pracobiorców, w tym związków zawodowych. 
+W 2024 roku przedstawiciele pracobiorców zostali 
+aktywnie włączeni w proces analizy podwójnej istotności. 
+W ramach poszczególnych jednostek biznesowych 
+zaangażowano kilkudziesięciu pracobiorców, których 
+udział wniósł istotną wartość merytoryczną do całego 
+procesu. 
+Współpraca ze związkami zawodowymi ma charakter 
+cykliczny. Podczas spotkań omawiane są kluczowe kwestie 
+dotyczące pracobiorców, zależne od aktualnej sytuacji 
+i potrzeb organizacji. Zakres tematyczny obejmuje 
+między innymi: 
+Prowadzimy również szkolenia w tym zakresie 
+dedykowane dla grup pracobiorców (np. Departamentu 
+handlowego, zamówień publicznych, administracji). 
+W 2025 roku odbyło się 10 takich dedykowanych 
+szkoleń - liczba uczestników: 847. W kwietniu 2025 
+roku wdrożyliśmy w Grupie Impel Regulamin Ochrony 
+Tajemnicy Przedsiębiorstwa. Szkoleniami objęto 
+ok. 3 000 pracobiorców administracyjnych i kadry 
+menedżerskiej wszystkich szczebli.  
+Informowanie 
+pracobiorców 
+produkcyjnych 
+realizowane jest za pośrednictwem plakatów 
+i ulotek. Obecnie trwa proces podpisywania 
+przez 
+pracobiorców 
+umów 
+lub 
+oświadczeń 
+o zachowaniu poufności (Tajemnicy Przedsiębiorstwa). 
+Za bieżące działania związane z zaangażowaniem 
+pracobiorców oraz uwzględnianiem ich opinii 
+w kwestiach dotyczących zatrudnienia odpowiadają 
+zarządy poszczególnych spółek wchodzących w skład 
+Grupy Impel, które działają zgodnie z wytycznymi 
+ustalanymi centralnie przez Departament HR. 
+Działania są ujednolicone w stosunku do wszystkich 
+grup pracobiorców, aby uniknąć marginalizacji. Ich 
+skuteczność jest oceniana na podstawie bieżącego 
+monitorowania przez Dyrektorów HR, poprzez procesy 
+analizy ryzyka, analizy danych, ewentualnych zgłoszeń 
+naruszeń i nieprawidłowości, cyklicznych przeglądów 
+procesów czy audytów. 
+Grupa Impel prowadzi działania, których celem jest 
+ochrona pracobiorców oraz szybkie reagowanie 
+na sytuacje naruszające ich dobrostan. W ramach 
+polityk obejmujących między innymi prawa człowieka, 
+różnorodność, HR i BHP wdrożono procesy pozwalające 
+identyfikować negatywne skutki wpływające na personel 
+oraz podejmować działania naprawcze przywracające 
+właściwe warunki pracy. 
+Za realizację tych procesów odpowiadają wyspecja-
+lizowane jednostki, w tym m.in.: Dyrektorzy HR, dział 
+relacji pracowniczych, centrum obsługi prawnej 
+i dział BHP, którzy analizują zgłoszenia wg właściwości 
+i rodzaju zgłoszeń, oceniają ich wagę i określają dalsze 
+kroki. Priorytetem jest szybkie wyjaśnienie sprawy, 
+minimalizacja ryzyka oraz zapewnienie pracobiorcy 
+pełnej ochrony. 
+Pracobiorcy mają dostęp do poufnych kanałów 
+zgłaszania wątpliwości i skarg. Umożliwia to sprawne 
+reagowanie oraz ciągłe monitorowanie sytuacji 
+w organizacji. Dostępne formy zgłoszeń obejmują: 
+Pracodawca na bieżąco udostępnia dokumenty 
+i informacje niezbędne do prowadzenia konsultacji, 
+a decyzje podejmowane są po zapoznaniu się z opiniami 
+związków zawodowych.  
+W związku z potencjalnym wpływem na zasoby 
+kadrowe, w 2025 roku Grupa cyklicznie prowadziła 
+przeglądy 
+zgodności 
+z 
+przepisami 
+RODO 
+(w tym analizy ryzyka i ocenę skutków dla 
+ochrony danych - DPiA (Data Protection Impact 
+Assessment)) 
+oraz 
+organizowała 
+szkolenia 
+na różnych poziomach. Najważniejsze i podstawowe 
+w tym zakresie były szkolenia nowo przyjętych 
+pracobiorców 
+w 
+podziale 
+na 
+pracobiorców 
+produkcyjnych i administracyjnych. W 2025 roku 
+przeszkolono ok. 4 000 pracobiorców produkcyjnych 
+i 160 pracobiorców administracyjnych. Ponadto, nowi 
+pracobiorcy zobowiązani są do odbycia szkoleń 
+Dodatkowo, w formie publikacji tematycznych 
+w ImpelNet Strefa RODO ukazało się 11 artykułów oraz  
+6 cyklicznych newsletterów. 
+Procedury współpracy z własnymi zasobami  
+pracowniczymi i przedstawicielami pracowników  
+w kwestiach wpływów (S1 -2)
+Procesy naprawy skutków negatywnych  
+wpływów i kanały zgłaszania wątpliwości  
+przez własne zasoby pracownicze (S1 -3)
+1.	
+bieżąca realizacja zadań z obszaru personalnego, w 
+tym konsultacja ewentualnych planowanych zwolnień 
+(również grupowych), przejęcia w ramach art. 231 KP,
+2.	 konsultacja i wdrażanie regulaminów pracy, 
+wynagradzania oraz innych aktów wewnętrznych 
+związanych bezpośrednio z warunkami zatrudnienia 
+pracobiorców,
+3.	 warunki pracy, w tym zapewnienie bezpiecznego 
+i higienicznego środowiska pracy,  
+4.	 zasady funkcjonowania Zakładowego Funduszu 
+Świadczeń Socjalnych,
+5.	 inne kluczowe aspekty wymagające uzgodnienia 
+ze stroną społeczną.
+SZKOLENIA DOTYCZĄCE RODO  
+I BEZPIECZEŃSTWA INFORMACJI  
+•	
+Bezpieczeństwo danych osobowych w środowisku 
+cyfrowym, 
+•	
+Praca zdalna a RODO,  
+•	
+RODO: Ochrona danych osobowych,  
+•	
+Bezpieczeństwo haseł. 
+•	
+skargi pisemne składane w Kancelarii Centrali Grupy 
+Impel, siedzibach spółek i biurach terenowych, 
+•	
+zgłoszenia mailowe (Centrum Obsługi Klienta, 
+Centrum Wsparcia Operacyjnego, indywidualne 
+adresy e-mailowe), 
+•	
+zgłoszenia telefoniczne (infolinia COK jako ogólna, 
+CWO dedykowana departamentom operacyjnym 
+oraz TeleIBS w sprawach kadrowo-płacowych), 
+•	
+platformę sygnalistów „dbamy.impel.pl”, 
+•	
+zgłoszenia do przełożonego zgodnie ze strukturą 
+organizacyjną, 
+•	
+kontakt 
+z 
+działem 
+relacji 
+pracowniczych 
+w sprawach dotyczących naruszeń, sytuacji 
+kryzysowych czy potencjalnie mobbingowych, 
+
+
+===== PAGE 27 =====
+27
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+Wszystkie zgłoszenia są obsługiwane zgodnie z politykami 
+Grupy Impel oraz obowiązującymi procedurami, 
+w tym regulaminem zgłoszeń naruszeń wewnętrznych 
+i procedurą przeciwdziałania dyskryminacji i mobbing-
+owi. Przy każdym zgłoszeniu obowiązuje zasada poufności, 
+zakaz działań odwetowych i zapewnienie ochrony osobie 
+zgłaszającej. Pracownicy zaangażowani w obsługę spraw 
+są odpowiednio przeszkoleni. 
+Grupa Impel prowadzi także działania prewencyjne. 
+Regularne szkolenia, coaching, wsparcie psychologiczne 
+(np. platforma Mindgram) oraz oceny okresowe 
+pomagają budować bezpieczne i wspierające 
+środowisko pracy. Firma monitoruje również zgodność 
+podwykonawców i dostawców z politykami, a naruszenia 
+mogą skutkować wdrożeniem środków naprawczych 
+lub zakończeniem współpracy. 
+Obecnie nie ma odrębnej formalnej procedury nadzoru 
+nad obiegiem skarg z obszaru personalnego. Obowiązuje 
+praktyka wewnętrzna, w której skargi trafiające 
+do COK są kierowane do działu relacji pracowniczych 
+oraz Dyrektora HR, a te związane z warunkami pracy 
+– do działu BHP. Trwają prace nad pełną spójną 
+procedurą, której wdrożenie planowane jest w 2026 roku.
+Obecny przebieg obsługi skarg wygląda następująco: 
+W 2025 roku Grupa Impel prowadziła szereg działań 
+wspierających własne zasoby pracownicze w obszarze 
+rozwoju, dobrostanu, komunikacji i integracji. Ich celem 
+było wzmacnianie zaangażowania, budowanie kultury 
+organizacyjnej opartej na wartościach oraz wspieranie 
+poczucia bezpieczeństwa i przynależności pracobiorców 
+w zróżnicowanym środowisku – od pracobiorców 
+administracyjnych po personel produkcyjny.  
+W zakresie dobrostanu i zdrowia kontynuowano działania 
+prozdrowotne i wellbeingowe. W ramach dbania o rozwój 
+i dobrostan pracowników, po pilotażu zakończonym 
+sukcesem, uruchomiono dostęp do platformy typu 
+EAP (Employee Assistance Program), zapewniającej 
+pracownikom biurowym anonimowe i poufne wsparcie 
+psychologiczne. Platforma Mindgram umożliwia 
+konsultacje ze specjalistami zdrowia psychicznego, 
+ekspertami innych dziedzin (m.in. wsparcie prawne, 
+finansowe, w zakresie dietetyki), dostęp do materiałów 
+edukacyjnych oraz narzędzi wspierających radzenie 
+sobie ze stresem, przeciążeniem psychicznym i ryzykiem 
+wypalenia zawodowego. Stworzono również dedykowaną 
+podstronę w kanałach komunikacji wewnętrznej, 
+w celu zwiększenia świadomości pracowników na temat 
+dostępnych form wsparcia.   
+W zakresie profilaktyki zdrowotnej: udostępniono 
+pracownikom 
+możliwość 
+wykonania 
+tańszych 
+badań laboratoryjnych poprzez vouchery uPacjenta 
+czy bezpłatnych badań krwi i USG w centrali firmy. 
+W centrali firmy zostały też zorganizowane warsztaty 
+pierwszej pomocy przedmedycznej oraz webinary 
+dotyczące pierwszej pomocy w kryzysie z okazji 
+Światowego Dnia Pierwszej Pomocy. We współpracy 
+z firmą uPacjenta przeprowadzono webinar dotyczący 
+profilaktyki onkologicznej. W ramach działań z obszaru 
+zdrowia i dobrostanu pracowników, spółka zrealizowała 
+na terenie centrali Grupy program profilaktyki 
+zdrowotnej z wykorzystaniem mobilnego ambulansu 
+diagnostycznego. Celem inicjatywy było zwiększenie 
+dostępności badań profilaktycznych, wczesne 
+wykrywanie 
+potencjalnych 
+nieprawidłowości 
+zdrowotnych 
+oraz 
+podnoszenie 
+świadomości 
+prozdrowotnej wśród pracowników. W bezpłatnych 
+badaniach profilaktycznych łącznie wzięło udział 
+96 pracowników. 
+Działania naprawcze są wprowadzane, jeżeli w 
+wyniku czynności wyjaśniających zostały stwierdzone 
+luki lub nieprawidłowości. Wtedy wdrażane są 
+zmiany w sposobie realizacji zadań, procesach 
+lub procedurach. Całość systemu ma zapewnić 
+przejrzystość, rzetelność i odpowiedzialne reagowanie 
+na 
+problemy 
+zgłaszane 
+przez 
+pracowników, 
+a tym samym budować kulturę pracy opartą 
+na bezpieczeństwie, poszanowaniu praw człowieka, 
+wzajemnym zaufaniu oraz bezpiecznym i wspierającym 
+środowisku pracy. 
+Podejmowanie działań dotyczących  
+istotnych wpływów na własne zasoby 
+pracownicze oraz stosowanie podejść służących 
+zarządzaniu istotnymi ryzykami i wykorzystywaniu 
+istotnych szans związanych z własnymi  
+zasobami pracowniczymi oraz skuteczność  
+tych działań (S1 -4)
+DOBROSTAN I ZDROWIE  
+•	
+skargi napływają różnymi kanałami i są rejestrowane 
+w odpowiedniej bazie, prowadzonej przez dział 
+relacji pracowniczych,
+•	
+zgłoszenia przyjęte przez COK są protokołowane 
+i przekazywane według ustalonych scenariuszy 
+działania (w zależności od tematu skargi),
+•	
+koordynator obsługi zgłoszeń rejestruje skargę 
+i kieruje ją do rozpatrzenia do właściwej osoby, 
+•	
+skargi pisemne, w tym z kancelarii, są rejestrowane 
+i przekazywane do weryfikacji do działu relacji 
+pracowniczych lub Dyrektora HR. 
+•	
+sprawy obejmujące mobbing lub dyskryminację 
+trafiają bezpośrednio do działu relacji pracowni-
+czych, który w razie potrzeby koordynuje powołanie 
+komisji wyjaśniającej,
+•	
+zgłoszenia wypadkowe lub potencjalnie wypadko-
+we oraz pozostałe, związane bezpośrednio z warun-
+kami pracy, środkami ochrony czy środowiskiem 
+pracy kierowane są do działu BHP,
+•	
+wątpliwości związane ze sprawami kadrowymi 
+i płacowymi trafiają bezpośrednio do sekcji TeleIBS 
+odpowiedzialnej za wyjaśnienie rozbieżności,
+•	
+pozostałe lub bardziej złożone, wielowątkowe 
+trafiają do Dyrektora HR odpowiedzialnego 
+za daną spółkę. 
+•	
+na podstawie zgłoszenia uruchamiane są 
+działania następcze,
+•	
+analizowane są dostępne informacje, dane 
+oraz dokumenty,
+•	
+w razie potrzeby organizowane są spotkania 
+wyjaśniające.
+1.	
+Przyjęcie skargi: 
+2.	 Przekazanie do odpowiedniego zespołu  
+do wyjaśnienia:  
+3.	 Wyjaśnienie skargi.:  
+4.	 Wprowadzenie działań naprawczych: 
+•	
+kontakt z Dyrektorem HR jako niezależnym 
+partnerem biznesowym, 
+•	
+kontakt w każdej innej formie, np. przez kanały 
+Social Media firmy, w tym LinkedIn.  
+
+
+===== PAGE 28 =====
+28
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+W obszarze rozwoju i zaangażowania zrealizowano m.in. 
+akcję komunikacyjno-doceniającą na Dzień Życzliwości 
+w centrali Grupy Impel we Wrocławiu. Aby tworzyć kulturę 
+informacji zwrotnej, otwartych i rozwojowych rozmów, 
+rozpoczęto projekt „Impel Feedback”. Organizacja 
+ wzięła także drugi rok z rzędu udział w kampanii społecznej 
+Dni Uczenia Się Dorosłych, w ramach której bezpłatnie 
+przeprowadzono trzy webinary rozwojowe o tematyce: 
+„Pierwsza pomoc dla osób przeżywających kryzys 
+emocjonalny - praktyczne umiejętności zauważania, 
+reagowania i wspierania”, „Sztuka zadawania pytań – 
+czyli jak podejście coachingowe może wspierać nas 
+w życiu i pracy” oraz „Jak opowiadać o sobie, żeby inni 
+chcieli słuchać?”, w których łącznie wzięły udział 54 osoby, 
+zarówno z organizacji, jak i spoza niej. Jako partner akcji 
+Dni Uczenia Się Dorosłych aktywnie promujemy ideę 
+uczenia się przez całe życie (lifelong learning), traktując 
+ją jako jedną z kompetencji przyszłości.  
+Pracobiorców przez cały 2025 rok angażowano także wokół 
+35-lecia firmy. W ramach obchodów tego jubileuszu odbyło 
+się szereg spotkań, w tym jubileuszowe spotkanie kadry 
+z nagrodami, event integracyjny w centrali firmy, 
+urodziny Impela zbudowane wokół wartości firmy, a także 
+konkurs dla dzieci pracobiorców „Zaprojektuj przyjaciela 
+na jubileusz Impela”.  
+Ponadto Grupa Impel współpracuje z Fundacją 
+Aktywizacja bez Granic, któraprowadzi stałe działania 
+na rzecz osób z niepełnosprawnościami. Jej celem 
+jest poprawa jakości ich życia oraz zapewnienie im 
+kompleksowego wsparcia. Działania te obejmują 
+one pomoc w zakresie ZFRON i ZFŚS, a także 
+w sprawach społecznych, bytowych, komorniczych, 
+prawnych, mobbingowych i dyskryminacyjnych. Fundacja 
+wspiera również w formalnych procesach związanych 
+z orzeczeniami o niepełnosprawności oraz w podnoszeniu 
+kwalifikacji i kompetencji zawodowych.  
+W czerwcu 2025 roku w centrali Grupy Impel we 
+Wrocławiu zorganizowano wydarzenie integracyjne pod 
+nazwą Dzień Rodziny. Celem inicjatywy była integracja 
+pracobiorców oraz ich rodzin poprzez wspólne spędzenie 
+czasu w nieformalnej atmosferze. W ramach wydarzenia 
+odbył się festyn rodzinny, w którym uczestniczyły rodziny 
+pracobiorców, w tym około 70 dzieci pracobiorców 
+Grupy Impel.  
+RakReaton to inicjatywa integrująca pracobiorców 
+wokół działalności Fundacji „Na ratunek dzieciom 
+z chorobą nowotworową”. W wydarzeniu wzięło 
+udział około 50 pracobiorców Grupy Impel, którzy 
+przez cały wrzesień podejmowali różne formy 
+aktywności fizycznej, zdobywając punkty w ramach 
+rywalizacji sportowej pomiędzy firmami w Polsce. 
+Celem inicjatywy było promowanie zdrowego 
+stylu życia, integracja pracobiorców oraz wsparcie 
+działań fundacji.  
+Tour de Impel to cykliczna inicjatywa realizowana przez 
+Grupę Impel od pięciu lat, której celem jest promowanie 
+wśród pracobiorców zdrowego stylu życia oraz aktywności 
+fizycznej, w szczególności poprzez jazdę na rowerze. 
+W ramach programu uczestnicy przez cały sierpień 
+podejmują wyzwanie polegające na pokonywaniu jak 
+największej liczby kilometrów na rowerze. 
+Ostatnia edycja inicjatywy odbyła się w sierpniu 
+2025 roku i była skierowana do pracobiorców Grupy. 
+Program ma charakter integracyjny i zachęca 
+do regularnej aktywności fizycznej, jednocześnie 
+promując bardziej zrównoważone formy transportu. 
+Projekt nawiązuje do największego wyścigu kolarskiego 
+w Polsce – Tour de Pologne, którego Grupa Impel 
+od kilkunastu lat jest partnerem. Z roku na rok inicjatywa 
+jest rozwijana o nowe formy rywalizacji i dodatkowe 
+aktywności angażujące uczestników. W ostatniej edycji 
+pracobiorcy mogli zdobyć nagrody w trzech kategoriach: 
+za największą liczbę przejechanych kilometrów 
+w sierpniu, za regularne codzienne korzystanie z roweru 
+oraz za najciekawsze zdjęcia z rowerowych tras. 
+Tour de Impel stanowi przykład działań wspierających 
+dobrostan pracobiorców, integrację zespołów oraz 
+promowanie proekologicznych nawyków transportowych, 
+wpisujących się na rzecz działań związanych z ESG. 
+ROZWÓJ I ZAANGAŻOWANIE  
+AKTYWIZACJA BEZ GRANIC 
+DZIEŃ RODZINY 
+RAKREATON 
+TOUR DE IMPEL 
+Dodatkowo Grupa Impel przeprowadziła akcję 
+informacyjno-promocyjną skierowaną do pracowników 
+posiadających orzeczenie o niepełnosprawności, 
+dotyczącą możliwości skorzystania z bezpłatnego 
+leczenia 
+stomatologicznego 
+w 
+znieczuleniu 
+ogólnym (narkozie) w ramach świadczeń finanso- 
+wanych przez Narodowy Fundusz Zdrowia (NFZ). 
+Działanie to miało na celu zwiększenie dostępu 
+do specjalistycznych świadczeń zdrowotnych dla osób 
+ze szczególnymi potrzebami oraz wsparcie równości 
+w dostępie do opieki medycznej. 
+W obszarze komunikacji i zarządzania zmianą 
+przygotowano i dystrybuowano liczne komunikaty 
+wewnętrzne integrujące pracowników wokół wspólnych 
+wartości. Równolegle kontynuowano rozwój kanałów 
+komunikacji wewnętrznej, m.in. wdrożenie nowej wersji 
+platformy ImpelNet 2.0. Działania te wzmocniły dialog 
+wewnętrzny, zwiększyły przejrzystość informacji i poczucie 
+spójności w organizacji, wspierając realizację celów 
+zrównoważonego rozwoju w obszarze kapitału ludzkiego. 
+•	
+badania ultrasonograficzne (USG) stawów i mięśni 
+funkcjonalnych, w tym ocenę dna miednicy, pęcherza 
+moczowego oraz prostaty – zrealizowane u 44 osób, 
+•	
+badania laboratoryjne, obejmujące oznaczenie 
+poziomu witaminy D3, białka C-reaktywnego (CRP) 
+oraz morfologię krwi – wykonane u 52 osób. 
+Działania realizowane są w sposób ciągły i obejmują 
+wszystkie osoby z niepełnosprawnościami zatrudnione 
+w spółkach współpracujących z Fundacją, a także 
+pracobiorców Grupy Impel, którzy potrzebują wsparcia 
+w uzyskaniu orzeczenia. Działania te realizowane są 
+w ramach Polityki Różnorodności.
+Akcja przygotowania prezentów mikołajkowych 
+dla podopiecznych Fundacji Procuro 
+Jak co roku, w listopadzie i grudniu 2025 roku 
+pracobiorcy Grupy Impel zaangażowali się w akcję 
+przygotowania paczek mikołajkowych dla podopiecznych 
+Fundacji Procuro. Celem inicjatywy była integracja 
+pracobiorców wokół działalności charytatywnej 
+oraz wsparcie dzieci objętych opieką fundacji. 
+W ramach akcji pracobiorcy przygotowali łącznie 
+80 paczek mikołajkowych. 
+Zakres przeprowadzonych działań obejmował:
+
+
+===== PAGE 29 =====
+29
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+Transformacja kultury organizacyjnej w kierunku 
+zarządzania opartego na wiedzy, danych i technologii 
+oraz wzmacnianie poczucia godności i przynależności 
+pracobiorców do Grupy Impel zostały zdefiniowane 
+jako strategiczne kierunki działań w obszarze kapitału 
+ludzkiego. Na obecnym etapie nie mają one charakteru 
+mierzalnych celów w rozumieniu Dyrektywy CSRD. 
+Opisują intencję oraz pożądany kierunek rozwoju 
+organizacji i stanowią punkt wyjścia do dalszych prac 
+strategicznych.
+Grupa zakłada, że w kolejnych latach opracuje 
+mierzalną strategię ESG w obszarze społecznym, 
+obejmującą konkretne cele, wskaźniki, wartości 
+bazowe oraz horyzonty czasowe. Cele te będą 
+odnosić się w szczególności do rozwoju kompetencji 
+pracobiorców, wykorzystania danych i technologii 
+w zarządzaniu oraz budowania kultury orga-
+nizacyjnej opartej na szacunku, godności i poczuciu 
+przynależności do Grupy. 
+Podano liczbę osób zatrudnionych na umowę o pracę 
+i pozostających w stosunku zatrudnienia w Grupie Impel 
+na dzień 31.12.2025. Dane mają charakter unikatowy, 
+co oznacza, że każdy pracownik został ujęty tylko jeden 
+raz, niezależnie od liczby i rodzaju umów zawartych 
+z różnymi spółkami w Grupie Impel. Zestawienie obejmuje 
+wyłącznie podmioty działające na terenie Polski.
+Wskaźnik rocznej rotacji w 2025 r. wyniósł 2,17%.  Liczony 
+jest on jako liczba odejść w 2025 roku w stosunku 
+do średniej wielkości zatrudnienia w roku 2025 
+i raportowany wewnętrznie w ujęciu miesięcznym. 
+Rotacja roczna to liczba unikatowych PESEL zwolnionych 
+w całym okresie (rok) w stosunku do średniego 
+zatrudnienia w okresie (liczba unikatowych PESEL), 
+a ujęcie miesięczne, to 1/12 tej liczby. 
+Cele dotyczące zarządzania istotnymi 
+negatywnymi wpływami, zwiększania 
+pozytywnych wpływów i zarządzania istotnymi 
+ryzykami i szansami (S1-5)
+Charakterystyka pracowników jednostki (S1-6)
+Pozycje dot. płci tj.  „inna” i „nie zgłoszono” nie występowały w Grupie Impel w 2025 r.  
+Płeć 
+Liczba pracowników w 2025 r. 
+Kobiety
+5 891 
+Mężczyźni  
+6 834 
+Inna 
+nie dotyczy 
+Nie zgłoszono 
+nie dotyczy 
+SUMA   
+12 725 
+Płeć i typ zatrudnienia 
+Liczba pracowników w 2025 r. 
+Kobiety
+zatrudnione w pełnym 
+wymiarze godzin
+5 110 
+zatrudnione w niepełnym 
+wymiarze godzin
+781 
+Płeć
+Zwolnienia  / Odejścia
+Liczba 
+pracowników 
+Kobiety
+Z inicjatywy pracownika 
+142 
+Z inicjatywy pracodawcy  
+140 
+Za porozumieniem stron 
+681
+Z upływem czasu 
+644
+Odejście na emeryturę  
+92
+Śmierć pracownika 
+7
+Mężczyźni
+Z inicjatywy pracownika 
+146
+Z inicjatywy pracodawcy  
+118
+Za porozumieniem stron 
+980
+Z upływem czasu 
+518
+Odejście na emeryturę  
+65
+Śmierć pracownika 
+29
+Łącznie, w tym
+Z inicjatywy pracownika 
+288
+Z inicjatywy pracodawcy  
+258 
+Za porozumieniem stron 
+1 661
+Z upływem czasu 
+1  162
+Odejście na emeryturę  
+157
+Śmierć pracownika 
+36
+Mężczyźni
+zatrudnieni w pełnym 
+wymiarze godzin
+5 900 
+zatrudnieni w niepełnym 
+wymiarze godzin
+934 
+Tab. 5. Liczba pracowników w podziale na płeć 
+Tab. 6. Liczba pracowników w podziale na płeć i typ zatrudnienia  
+Tab. 7. Odejścia pracowników
+
+
+===== PAGE 30 =====
+30
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+Zatrudnienie 
+Kobiety  
+Mężczyźni  
+Suma: liczba pracowników 
+Liczba pracowników  
+5 891 
+6 834 
+12 725
+Liczba pracowników zatrudnionych na czas nieokreślony 
+3 529 
+3 848 
+7 377 
+Liczba pracowników zatrudnionych na czas określony 
+2 362 
+2 986 
+5 348 
+Liczba pracowników, którym nie gwarantuje się godzin pracy 
+nie dotyczy 
+nie dotyczy 
+0
+Liczba pracowników zatrudnionych w pełnym wymiarze godzin 
+5 110 
+5 900 
+11 010 
+Liczba pracowników zatrudnionych w niepełnym wymiarze godzin 
+781 
+934 
+1 715 
+Układy zbiorowe 
+Liczba pracowników i ich % objęty układami zbiorowymi 
+Liczba pracowników 
+12 725 
+Liczba pracowników objętych układami zbiorowymi  
+104 
+Odsetek pracowników objętych układami zbiorowymi pracy 
+0,82% 
+Zatrudnienie 
+Kobiety  
+Mężczyźni 
+Nie zgłoszono 
+Suma: liczba pracobiorców  
+(niebędących pracownikami) 
+SUMA: Liczba osób niebędących pracownikami  
+4 444 
+8 971 
+71
+13 486 
+Umowy zlecenia, umowy o dzieło
+4 390 
+8 822 
+nie dotyczy 
+13 212 
+Umowy cywilnoprawne dla Rady Nadzorczej,  
+płatne powołania i prokury na podstawie uchwały ZW 
+19 
+56 
+3 
+78 
+B2B (w tym doradcy) 
+35 
+93 
+68 
+196 
+Outsourcing 
+nie dotyczy 
+nie dotyczy 
+nie dotyczy 
+nie dotyczy 
+Tab. 8. Charakterystyka pracowników Grupy Impel - podział ze względu na formę zatrudnienia i wymiar czasu pracy 
+Tab. 10. Układy zbiorowe w ramach Grupy Impel 
+Tab. 9. Charakterystyka osób niebędących pracownikami a stanowiących własną siłę roboczą Grupy Impel 
+Charakterystyka osób niebędących pracownikami stanowiących własną siłę roboczą jednostki (S1-7)
+Zakres rokowań zbiorowych i dialogu społecznego (S1-8)
+Pokazane liczby są unikatową liczbą pracobiorców dla danej formy współpracy wg stanu na dzień 31.12.2025 r. 
+Układy zbiorowe występują w jednej spółce w ramach Grupy Impel - Consensus Company Sp. z o.o. z siedzibą w Dąbrowie 
+Górniczej i są nimi objęci wszyscy jej pracownicy. Wartości liczbowe przedstawiono na dzień 31.12.2025 r.  
+
+
+===== PAGE 31 =====
+31
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+Rozkład płci w kadrze kierowniczej 
+Liczba pracowników 
+Odsetek pracowników 
+Kobiety 
+393 
+46,5% 
+Mężczyźni 
+452 
+53,5% 
+SUMA
+845 
+100% 
+Tab. 12. Stanowiska administracyjne menedżerskie w podziale na płeć  
+Struktura wiekowa zatrudnienia 
+24 i mniej lat 
+25 - 34 
+35 - 44 
+45 - 54 
+55 i więcej 
+SUMA  
+Kobiety 
+150 
+905 
+1 390 
+1 877 
+1 569 
+5 891 
+Mężczyźni
+162 
+694 
+1 210 
+2 068 
+2 700 
+6 834 
+SUMA
+312 
+1 599 
+2 600 
+3 945 
+4 269 
+12 725 
+Tab. 13. Struktura wiekowa – wszyscy pracownicy 
+Struktura wiekowa zatrudnienia 
+24 i mniej lat 
+25 - 34 
+35 - 44 
+45 - 54 
+55 i więcej 
+SUMA  
+Kobiety 
+2
+88 
+215 
+249 
+142 
+696 
+Mężczyźni
+4
+63 
+181 
+316 
+228 
+792 
+Ogółem pracownicy  
+6
+151
+396 
+565
+370
+1 488
+Tab. 14. Struktura wiekowa – kadra kierownicza
+Rozkład płci w kadrze kierowniczej 
+Liczba pracowników 
+Odsetek pracowników 
+Kobiety 
+303 
+47,1% 
+Mężczyźni 
+340 
+52,9% 
+SUMA
+643 
+100% 
+Tab. 11. Stanowiska produkcyjne menedżerskie w podziale na płeć  
+Mierniki różnorodności (S1-9)
+W Grupie Impel obowiązuje kategoryzacja stanowisk 
+obejmująca podział na stanowiska administracyjne 
+oraz produkcyjne, w ramach których wyszczególnia 
+się stanowiska specjalistyczne, wyspecjalizowane 
+i menedżerskie.  
+W przypadku osób zatrudnionych w więcej niż jednej 
+spółce Grupy Impel przypisano kategorię wiodącą, 
+ustalaną na podstawie najwyższego wymiaru etatu. 
+W zestawieniu uwzględniono wyłącznie unikatowe osoby 
+(weryfikacja po numerze PESEL) zatrudnione na umowę 
+o pracę, zgodnie ze stanem na dzień 31.12.2025 r.  
+Adekwatna płaca (S1-10)
+W obszarze S1-10 (Adekwatna płaca) Grupa Kapitałowa 
+Impel przyjmuje podejście zgodne z aktualnymi 
+wymogami regulacyjnymi. Grupa Impel zapewnia 
+pełną zgodność z obowiązującymi przepisami 
+krajowymi dotyczącymi wynagrodzenia minimalnego, 
+traktując je jako poziom bazowy, przy jednoczesnym 
+rozwijaniu systemów wynagradzania opartych m.in. 
+na wartościowaniu stanowisk, stosując systemy 
+premiowe oraz dodatkowe benefity.
+
+
+===== PAGE 32 =====
+32
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+Pracownicy Grupy Impel mają zapewnione wsparcie 
+socjalne na wypadek utraty dochodu wynikającej 
+z poważnych zdarzeń życiowych, takich jak choroba, 
+wypadek przy pracy, nabyta niepełnosprawność, 
+korzystanie z urlopu rodzicielskiego czy przejście 
+na emeryturę. Pomoc ta realizowana jest poprzez systemy 
+publiczne oraz dodatkowe świadczenia oferowane 
+przez Grupę. Grupa Impel wywiązuje się z obowiązków 
+określonych przepisami prawa w tym zakresie. 
+W ramach polityki socjalnej funkcjonuje Zakładowy 
+Fundusz Świadczeń Socjalnych (ZFŚS). Fundusz ten 
+umożliwia pracownikom korzystanie z dodatkowych 
+form wsparcia, takich jak pomoc finansowa w trudnych 
+sytuacjach życiowych, świadczenia okolicznościowe czy 
+wsparcie dla rodzin. Zasady przyznawania świadczeń 
+z ZFŚS są określone w regulaminach obowiązujących 
+w spółkach Grupy Impel, z uwzględnieniem kryteriów 
+socjalnych. 
+Zasady te dotyczą również zleceniobiorców, przy czym 
+zakres ich uprawnień zależy od opłacanych składek 
+lub posiadania innego tytułu do ubezpieczenia. Obejmuje 
+to w szczególności: 
+Osoby z niepełnosprawnościami stanowią 16,1% pracowni-
+ków zatrudnionych na umowę o pracę na dzień 31.12.2025 r. 
+Wśród nich 45,1% to kobiety, a 54,9% to mężczyźni. 
+Podsumowując, w zależności od tego, czy zleceniobiorca 
+posiada inny tytuł ubezpieczeniowy lub opłaca składki ZUS, 
+ma możliwość skorzystania ze świadczeń przewidzianych 
+w obowiązujących ustawach, a pracownicy dodatkowo 
+korzystają z ochrony socjalnej w ramach ZFŚS. 
+Ochrona socjalna (S1 -11)
+Mierniki dotyczące szkoleń i rozwoju  
+umiejętności (S1 -13)
+Osoby z niepełnosprawnościami (S1 -12)
+•	
+osoby opłacające składki społeczne i osiągające 
+co najmniej minimalne wynagrodzenie mogą 
+zarejestrować się w urzędzie pracy i – po spełnieniu 
+warunków – uzyskać świadczenie, 
+•	
+zleceniobiorcy odprowadzający składki społeczne 
+oraz dobrowolną składkę chorobową mają możliwość 
+korzystania z zasiłku chorobowego, macierzyńskiego 
+oraz rodzicielskiego po upływie okresu wyczekiwania, 
+•	
+osoby opłacające składki emerytalno-rentowe mogą 
+przejść na emeryturę po osiągnięciu odpowiedniego 
+wieku, a wysokość świadczenia jest naliczana również 
+od składek opłacanych z umowy zlecenia. 
+Płeć 
+Liczba pracowników 
+Kobiety
+924 
+Mężczyźni
+1 124 
+SUMA
+2 048 
+Tab. 15. Osoby z niepełnosprawnościami 
+Realizacja szkoleń w Grupie Impel stanowi element dłu-
+gofalowego wsparcia strategii rozwoju firmy poprzez 
+inwestowanie w kapitał ludzki. Jest realizowana przez 
+certyfikowane Centrum Szkoleń Grupy Impel, w skład 
+którego wchodzi Centrum Szkoleń Produktowych.  
+Programy szkoleniowe obejmują zarówno rozwój 
+kompetencji menedżerskich i specjalistycznych, 
+jak i wzmacnianie samoświadomości, współpracy 
+oraz umiejętności cyfrowych. Kluczowe projekty to 
+m.in. Akademia Cyfrowego Menedżera, Akademia 
+SOBiKO, Akademia ICT, Akademia Menedżera 
+Usług, Program First Time Manager oraz „Pociąg 
+do wiedzy”. Ważnym uzupełnieniem są narzędzia 
+diagnostyczne CliftonStrengths, FRIS, DISC, Reiss, iP121 
+i Sigmund, wspierające rozwój kompetencji miękkich 
+i komunikacyjnych. Natomiast projekt „Standardy 
+Obsługi Klienta i Współpracy” wzmacnia kompetencje 
+pracowników produkcyjnych w poszczególnych 
+obszarach operacyjnych. 
+System szkoleń podlega wieloetapowej ocenie 
+obejmującej ewaluacje uczestników i przełożonych, 
+monitoring wykorzystania wiedzy w praktyce, kwalifikację 
+Grupa Impel aktywnie uczestniczy w działaniach Polskiej 
+Organizacji Pracodawców Osób Niepełnosprawnych 
+„POPON”, której jest członkiem. Organizacja ta repre-
+zentuje interesy pracodawców zatrudniających 
+osoby z niepełnosprawnościami, prowadząc dialog 
+z administracją publiczną oraz uczestnicząc w procesach 
+legislacyjnych dotyczących rehabilitacji zawodowej 
+i społecznej. Dzięki swojej działalności „POPON” przyczynia 
+się do tworzenia bardziej sprzyjających warunków pracy, 
+ograniczania barier systemowych oraz zwiększania 
+dostępności zatrudnienia dla tej grupy pracobiorców. 
+DZIAŁANIA NA RZECZ OSÓB Z NIEPEŁNOSPRAWNOŚCIAMI 
+CENTRUM SZKOLEŃ GRUPY IMPEL 
+Równolegle „POPON” prowadzi szerokie działania 
+edukacyjne i rozwojowe, wspierając pracodawców 
+w budowaniu inkluzywnych środowisk pracy. Poprzez 
+szkolenia, konferencje i inicjatywy promujące 
+różnorodność organizacja wzmacnia kompetencje 
+pracodawców oraz podnosi świadomość korzyści 
+wynikających z integracji osób z niepełnospraw-
+nościami w miejscu pracy, wspierając realizację celów 
+społecznych i odpowiedzialnego zarządzania.  
+Grupa Impel aktywnie wspiera działalność Fundacji 
+Procuro, która koncentruje się na wyrównywaniu szans 
+i wspieraniu rozwoju dzieci z niepełnosprawnościami. 
+Fundacja, działająca jako organizacja pożytku 
+publicznego, 
+realizuje 
+projekty 
+artystyczne, 
+warsztaty twórcze oraz inicjatywy rozwijające 
+kompetencje społeczne i samodzielność swoich 
+podopiecznych, współpracując z instytucjami kultury 
+i środowiskami edukacyjnymi.  
+Fundacja 
+Procuro 
+udziela 
+również 
+wsparcia 
+finansowego na rehabilitację dzieci z niepełno-
+sprawnościami, przyczyniając się do poprawy ich 
+funkcjonowania i jakości życia. Jej misja opiera się 
+na wrażliwości społecznej, niesieniu pomocy oso-
+bom w trudnych sytuacjach oraz wspieraniu młodych 
+osób z niepełnosprawnościami w pokonywaniu barier 
+i rozwijaniu ich potencjału. 
+Zaangażowanie Grupy Impel ma również wymiar 
+pracowniczy. Każdemu pracownikowi przysługują dwa 
+w pełni płatne dni w roku, które może przeznaczyć 
+na wolontariat na rzecz Fundacji Procuro. Umożliwia 
+to 
+bezpośrednie 
+uczestnictwo 
+w 
+działaniach 
+wspierających dzieci z niepełnosprawnościami 
+i wzmacnia kulturę społecznej odpowiedzialności 
+w organizacji. Ponadto pracownicy mogą przekazywać 
+końcówki swojego wynagrodzenia na rzecz fundacji, 
+co stanowi dodatkową formę stałego wsparcia jej 
+podopiecznych oraz realizowanych programów.
+
+
+===== PAGE 33 =====
+33
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+•	
+cyfrowych i technologicznych (Akademia ICT, Akade-
+mia Cyfrowego Menedżera, Expert4You, e-learningi), 
+•	
+interpersonalnych i menedżerskich (Akademia Mene-
+dżera, First Time Manager, coaching indywidualny), 
+•	
+związanych 
+z 
+zarządzaniem 
+różnorodnością 
+i samoświadomością (narzędzia diagnostyczne, warsz-
+taty), 
+•	
+zawodowych i branżowych (certyfikaty PIGC, szkolenia 
+specjalistyczne). 
+•	
+ABC Kierownika: 
+Operator usług utrzymania czystości (I stopień), 
+•	
+ABC Kierownika:  
+Koordynator profesjonalnych usług utrzymania 
+czystości (II stopień), 
+•	
+Kierownik:  
+Opieka nad Pacjentem (ONP, stopień I i II), 
+•	
+Akademia Technologów. 
+Szkolenia realizowane w Centrum Szkoleń Produktowych 
+wspierają strategię operacyjną firmy poprzez podnoszenie 
+kwalifikacji pracowników odpowiedzialnych za utrzymanie 
+czystości, ochronę fizyczną oraz usługi szpitalne. Programy 
+obejmują zarówno wiedzę produktową, jak i praktyczne 
+umiejętności niezbędne do wykonywania zadań zgodnie 
+ze standardami bezpieczeństwa i jakości. 
+Kluczowe programy szkoleniowe to m.in.: 
+Szkolenia stacjonarne obejmują m.in.:
+Szkolenia specjalistyczne obejmują m.in.:
+Szkolenia terenowe obejmują m.in.:
+Szkolenia online obejmują m.in.:
+Programy ABC Kierownika posiadają akredytację 
+Związku Pracodawców Outsourcingu oraz Federacji 
+Przedsiębiorców Polskich, co potwierdza ich zgodność 
+ze standardami branżowymi. 
+Podstawy profesjonalnego sprzątania, cykle szkoleniowe 
+z dostawcami, szkolenia dla grup mobilnych, Manager 
+profesjonalnych usług utrzymania czystości (III stopień), 
+Synergia Usług (CLE, SEC, TUN), TUN dla pracowników 
+grup mobilnych.
+Czyszczenie wykładzin, renowacja i konserwacja 
+posadzek, utrzymanie terenów zewnętrznych, sprzątanie 
+pobudowlane, pierwsza pomoc, kursy operatorów 
+maszyn (I–III stopień).
+Trening profesjonalnego mycia przeszkleń, szkolenia 
+Climbex (suchy lód), utrzymanie czystości schodów 
+i pochylni ruchomych.
+Podstawy usług dla grup mobilnych, systemy zarządzania 
+i certyfikacji, ekologia i gospodarka odpadami, podstawy 
+produktowe (SEC, czyszczenie przemysłowe, Rental).
+Kompetencje te odpowiadają aktualnym i przyszłym 
+potrzebom organizacji, w szczególności transformacji 
+cyfrowej, 
+zarządzaniu 
+procesami, 
+współpracy 
+międzykulturowej, rozwijaniu środowiska pracy, 
+podnoszeniu jakości obsługi oraz przygotowaniu liderów 
+średniego szczebla.  
+Po szkoleniach następuje ich ocena i jest ona 
+monitorowana. Obecnie w ramach Grupy Impel nie ma 
+jednolitego systemu gromadzącego dane dot. szkoleń 
+dla pracowników produkcyjnych i administracyjnych.  
+SZKOLENIA REALIZOWANE W RAMACH CENTRUM  
+SZKOLEŃ PRODUKTOWYCH 
+Rozwijane kompetencje dotyczą obszarów: 
+dostawców, analizę potrzeb oraz planowanie rozwoju. 
+Proces realizowany jest zgodnie z polityką jakości Grupy 
+Impel oraz europejskimi i krajowymi standardami 
+edukacyjnymi. Pomiar rezultatów szkoleń obejmuje m.in. 
+testy wiedzy.  
+
+
+===== PAGE 34 =====
+34
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+Grupa 
+Impel 
+wdrożyła 
+system 
+zarządzania 
+bezpieczeństwem i higieną pracy, funkcjonujący 
+w oparciu o krajowe przepisy BHP oraz wewnętrzne 
+procedury regulujące zasady bezpiecznej pracy. Dane 
+w tym zakresie prezentuje tabela 16. Jego celem jest 
+zapobieganie wypadkom, ograniczanie zagrożeń 
+zdrowotnych oraz systemowe zarządzanie ryzykiem 
+zawodowym.  
+W 2025 r. przeprowadzono audyty wewnętrzne 
+i certyfikacyjne, które potwierdziły zgodność działań BHP 
+z 
+obowiązującymi 
+wymaganiami 
+prawnymi. 
+Certyfikowanym systemem objętych jest 59% 
+pracowników jednostki, co odpowiada 7 484 osobom.  
+W okresie sprawozdawczym nie odnotowano ofiar 
+śmiertelnych w następstwie wypadków przy pracy 
+ani wśród pracowników jednostki, ani wśród osób 
+pracujących na terenie zakładów, niezależnie od rodzaju 
+zatrudnienia. Wśród pracowników zarejestrowano 124 
+wypadki przy pracy podlegające zgłoszeniu. Wskaźnik 
+wypadkowości, liczony jako liczba wypadków na milion 
+przepracowanych godzin, wyniósł 6,08. Podczas obliczeń 
+założono średnie zatrudnienie w ciągu raportowanego 
+roku.   
+Łączna liczba dni straconych z powodu urazów 
+związanych z pracą wyniosła 5 813 dni kalendarzowych. 
+Nie odnotowano przypadków złego stanu zdrowia 
+związanego z pracą ani dni straconych z tego powodu. 
+Mierniki bezpieczeństwa i higieny pracy (S1 -14)
+W ramach działań prewencyjnych w obszarze 
+bezpieczeństwa i higieny pracy realizowany jest 
+kompleksowy system zarządzania BHP, obejmujący 
+m.in.: prowadzenie szkoleń wstępnych i okresowych, 
+opracowywanie ocen ryzyka zawodowego dla wszystkich 
+stanowisk pracy na każdym obiekcie, a także tworzenie 
+i aktualizację instrukcji bezpiecznej pracy oraz obsługi 
+maszyn i urządzeń. 
+Działania te uzupełniane są kontrolami obiektów oraz 
+wdrażaniem zaleceń pokontrolnych w ramach działań 
+profilaktycznych. Istotnym elementem jest również 
+czynny udział służby BHP w procesie uruchamiania 
+nowych kontraktów i dostosowywania nowych obiektów 
+do wymagań bezpieczeństwa pracy.
+Na bieżąco podejmowane są reakcje na sygna-
+ły dotyczące zagrożeń na stanowiskach pra-
+cy 
+oraz 
+wdrażane 
+są 
+działania 
+korygujące 
+i zapobiegawcze. Całość tych działań wspiera utrzy-
+manie stabilnego poziomu bezpieczeństwa pracy 
+w całej organizacji. 
+W spółkach Grupy Impel funkcjonuje zintegrowany system 
+zarządzania jakością, bezpieczeństwem pracy i ochroną 
+środowiska, oparty na normach ISO 9001, ISO 45001 i ISO 
+14001. Posiadanie tych certyfikatów potwierdza, że spółki 
+Grupy Impel działają zgodnie z najlepszymi praktykami 
+w obszarze jakości, bezpieczeństwa pracowników 
+i ochrony środowiska. 
+Pracownicy objęci systemem zarządzania 
+bezpieczeństwem i higieną pracy 
+Liczba pracowników  
+(umowa o pracę) 
+Liczba osób niebędących 
+pracownikami stanowiących  
+własne zasoby pracownicze  
+jednostki (np. UZ, B2B) 
+Liczba osób objętych systemem BHP  
+w zależności od typu umowy 
+7 484 
+7 974 
+Liczba osób ogółem w zależności od typu współpracy 
+12 725 
+13 212
+% pracobiorców objętych systemem BHP 
+59% 
+60% 
+Liczba pracobiorców objętych systemem BHP, który został 
+poddany wewnętrznemu audytowi 
+7 484 
+7 974 
+% pracobiorców objętych systemem BHP zaudytowanym 
+wewnętrznie  
+59% 
+60% 
+Ilość pracobiorców objętych systemem BHP,  
+który został poddany lub certyfikowany  
+zewnętrznemu audytowi 
+7 484 
+7 974 
+% pracobiorców objętych systemem BHP zaudytowanym/
+certyfikowanym zewnętrznie 
+59% 
+60% 
+Tab. 16. Pracownicy objęci systemem zarządzania bezpieczeństwem i higieną pracy 
+Wypadki 
+Liczba pracowników  
+Liczba wypadków związanych z pracą podlegających zgłoszeniu
+124 
+Liczba przypadków złego stanu zdrowia związanego z pracą podlegającego zgłoszeniu 
+0
+Liczba dni straconych z powodu urazów związanych z pracą 
+5 813 
+Łączna liczba godzin przepracowanych przez pracowników 
+20 407 284 
+Wskaźnik wypadków związanych z pracą podlegających zgłoszeniu 
+6,08 
+Tab. 17. Wypadkowość
+
+
+===== PAGE 35 =====
+35
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+W Grupie Impel każdy pracownik, któremu zgodnie 
+z Kodeksem pracy przysługuje urlop związany 
+z obowiązkami rodzinnymi, w tym urlop rodzicielski, 
+opiekuńczy lub wychowawczy, ma pełne prawo do jego 
+wykorzystania. Zapewniamy możliwość swobodnego 
+korzystania z tych uprawnień, z poszanowaniem 
+indywidualnych potrzeb pracownika i zasad równowagi 
+między życiem zawodowym a prywatnym. 
+W roku 2025 przeanalizowano nieskorygowaną lukę pła-
+cową i wyniosła ona 0,48%. Płace w Grupie Impel analizo-
+wane są na podstawie średnich stawek godzinowych brutto. 
+Takie podejście pozwala uniknąć zniekształceń wynika- 
+jących z różnic w wymiarze etatu, niepełnych okresach 
+zatrudnienia, zmian wysokości wymiaru czasu pracy 
+w trakcie roku, nieobecności itp. Stawki godzinowe 
+uwzględniają wszystkie składniki zmienne, dzięki 
+czemu odzwierciedlają rzeczywistą wartość wynagrodzenia. 
+Wyniki nie obejmują pracowników kilku mniejszych 
+spółek Grupy obsługiwanych w obszarach kadrowym 
+i księgowym poza systemem informatycznym SAP 
+oraz osób, których stawka godzinowa znajduje 
+się poniżej minimalnej płacy godzinowej, jeśli 
+wyliczymy ją odnosząc się do liczby godzin 
+charakterystycznych dla pełnego etatu. Wyłączenia 
+dotyczą przede wszystkim pracowników przeby- 
+wających na długotrwałych nieobecnościach, których 
+wynagrodzenie w danym okresie nie odzwierciedla 
+standardowej stawki godzinowej. 
+Raportowane są stawki godzinowe brutto w pełnej wartości, 
+bez podziału na kategorie stanowisk oraz bez rozróżnienia 
+składników stałych i zmiennych. Analiza obejmuje wyłącznie 
+spółki działające na terenie Polski. 
+Równolegle 
+Grupa 
+Impel 
+przygotowuje 
+się 
+do implementacji założeń Dyrektywy 2023/970 
+w sprawie wzmocnienia równości i transparentności 
+wynagrodzeń. Podjęto działania zmierzające do wartoś-
+ciowania stanowisk pracy wg obiektywnych, rynkowych 
+metod, wyliczania luki płacowej wg niezależnych 
+kryteriów i dostępnych rynkowych, obiektywnych narzędzi, 
+spełniających zarówno wytyczne UE, jak i prawo krajowe. 
+Stosunek rocznego całkowitego wynagrodzenia najlepiej 
+zarabiającej osoby do mediany całkowitego rocznego 
+wynagrodzenia wszystkich pracowników (z wyjątkiem tej 
+najlepiej zarabiającej osoby) wynosi 9,94. 
+Jesteśmy w trakcie budowania i standaryzacji procesu 
+pozyskiwania danych dotyczących incydentów, skarg 
+i poważnych oddziaływań na przestrzeganie praw 
+człowieka dla wszystkich spółek w Grupie Impel. 
+Obecnie staramy się również zabezpieczyć ryzyka, w tym 
+wycieku danych, dostępu osób nieuprawnionych czy 
+ochrony osób zgłaszających. 
+Liczba zgłoszonych skarg w 2025 r. dotyczących 
+dyskryminacji (w tym molestowania) wynosiła 66, 
+a pozostałych 104.  
+W związku z nieprzestrzeganiem praw człowieka liczba 
+wynosiła 0 i łączna kwota grzywien, kar i odszkodowań 
+za szkody powstałe w wyniku incydentów wyniosła 0. 
+Mierniki równowagi między życiem  
+zawodowym a prywatnym (S1 -15)
+Mierniki wynagrodzeń (luka płacowa i całkowite 
+wynagrodzenie  (S1 -16)
+Incydenty, skargi i poważne wpływy  
+na przestrzeganie praw człowieka (S1 -17)
+
+
+===== PAGE 36 =====
+36
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+OSOBY WYKONUJĄCE PRACĘ  
+W ŁAŃCUCHU WARTOŚCI (ESRS S2)
+Polityki związane z osobami wykonującymi  
+pracę w łańcuchu wartości (S2-1)
+Istotne wpływy, ryzyka i szanse oraz ich 
+wzajemne związki ze strategią i z modelem 
+biznesowym (ESRS 2 SBM-3)
+Procesy współpracy z osobami wykonującymi pracę 
+w łańcuchu wartości w zakresie wpływów (S2-2)
+Cele dotyczące zarządzania istotnymi negatywnymi 
+wpływami, zwiększania pozytywnych wpływów  
+i zarządzania istotnymi ryzykami i szansami (S2-5)
+Podejmowanie działań dotyczących istotnych  
+wpływów na osoby wykonujące pracę w łańcuchu 
+wartości oraz stosowanie podejść służących 
+zarządzaniu istotnymi ryzykami i wykorzystywaniu 
+istotnych szans związanych z osobami 
+wykonującymi pracę w łańcuchu wartości  
+oraz skuteczność tych działań (S2-4)
+Procesy naprawy skutków negatywnych wpływów  
+i kanały zgłaszania wątpliwości przez osoby 
+wykonujące pracę w łańcuchu wartości  (S2-3)
+Polityki zostały opisane w ramach ujawnienia S1-1 
+– Polityki związane z własnymi zasobami pracowniczymi.
+Model 
+biznesowy 
+Grupy 
+Impel 
+opiera 
+się 
+na rozbudowanej sieci podwykonawców i dostawców, 
+którzy realizują znaczną część usług świadczonych 
+na rzecz klientów końcowych. Oznacza to, że warunki 
+pracy osób wykonujących pracę w łańcuchu wartości 
+(choć formalnie pozostające poza strukturą zatrudnienia 
+Grupy Impel) są bezpośrednio powiązane z jakością, 
+ciągłością i reputacją realizowanych usług. 
+W odpowiedzi na zidentyfikowane w ramach analizy 
+podwójnej istotności wpływy i ryzyka Grupa stosuje 
+klauzule ESG w umowach z kluczowymi dostawcami, 
+prowadzi weryfikację warunków współpracy oraz dąży 
+do upowszechnienia standardów obowiązujących 
+wewnątrz Grupy również wśród podmiotów zewnętrznych 
+realizujących usługi w jej imieniu.
+W ramach organizacji nie funkcjonują odrębne procesy 
+współpracy z osobami wykonującymi pracę w łańcuchu 
+wartości. Wszystkie działania i zobowiązania są opisane 
+w ramach poszczególnych umów. Obecnie jednostka 
+nie posiada globalnych porozumień ramowych 
+z międzynarodowymi federacjami związków zawo-
+dowych, ale uznaje prawo do zrzeszania się i rokowań 
+zbiorowych jako kluczowy standard i uwzględnia 
+ten wymóg w relacjach z dostawcami, podwykonawcami 
+i kontrahentami, co zostało uwzględnione w Politykach 
+z obszaru społecznego.
+Obecnie jednostka nie posiada celów dotyczących 
+zarządzania istotnymi negatywnymi wpływami, 
+zwiększania pozytywnych wpływów i zarządzania 
+istotnymi ryzykami i szansami. 
+Jednostka zapewnia formalne mechanizmy umożli-
+wiające pracownikom oraz innym interesariuszom 
+zgłaszanie wątpliwości, problemów oraz potencjalnych 
+nieprawidłowości. Podstawowym kanałem zgłosze-
+niowym jest ogólnodostępna, całodobowa infolinia 
+Centrum Obsługi Klienta (COK), działająca głównie 
+w języku polskim. 
+Informacja o jej dostępności jest publiczna, dzięki 
+czemu mogą z niej korzystać pracownicy, kontrahenci, 
+dostawcy oraz inne podmioty współpracujące ze Spółką. 
+Zgłoszenia są rejestrowane w systemie SAP i przekazy-
+wane do właściwych jednostek organizacyjnych zgodnie 
+z wewnętrznymi procedurami obsługi. Centrum Obsłu-
+gi Klienta obsługuje zgłoszenia także przez dedykowane 
+kanały komunikacji: telefon, pocztę elektroniczną, stro-
+nę internetową. Koordynatorzy ds. naruszeń prawa 
+obsługują platformę zgłoszeniową dla sygnalistów 
+(dbamy.support4b.pl). 
+Obecnie jednostka nie podejmuje działań bezpośrednio 
+dotyczących istotnych wpływów na osoby wykonujące 
+pracę w łańcuchu wartości.  
+Informacja o infolinii COK jest udostępniana w materia-
+łach handlowych i promocyjnych (foldery, ulotki, banery). 
+Pozwala potencjalnym interesariuszom na kontakt 
+z pierwszą linią wsparcia, a aktualnym kontrahentom 
+ i dostawcom – na zgłaszanie nieprawidłowości związa-
+nych ze współpracą lub realizacją usług. 
+Zgłoszenia dotyczące pracowników w łańcuchu wartości 
+Spółki kierowane są do wyspecjalizowanych jednostek, 
+takich jak TeleIBS w sprawach kadrowo-płacowych 
+lub rachunkowo-księgowych, do odpowiednich osób lub 
+do działu HR, które podejmują działania wyjaśniające 
+i naprawcze. Zgłoszenia dotyczące kontrahentów, w tym 
+uwagi, opinie, reklamacje, pochwały czy nowe zlecenia 
+do istniejących umów, przekazywane są do właściwej 
+komórki merytorycznej zgodnie z obowiązującą 
+procedurą dla danej sprawy.
+ 
+
+
+===== PAGE 37 =====
+37
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+KONSUMENCI I UŻYTKOWNICY  
+KOŃCOWI  (ESRS S4)
+Interesy i opinie zainteresowanych  
+stron (ESRS 2 SBM-2)
+Istotne wpływy, ryzyka i szanse oraz  
+ich wzajemne związki ze strategią i z modelem 
+biznesowym (ESRS 2 SBM-3)
+Polityki związane z konsumentami i użytkownikami 
+końcowymi (S4-1)
+Procesy naprawy skutków negatywnych  
+wpływów i kanały zgłaszania wątpliwości przez 
+konsumentów i użytkowników końcowych (S4-3)
+Procesy współpracy w zakresie wpływów  
+z konsumentami i użytkownikami końcowymi (S4-2)
+Konsumenci i użytkownicy końcowi stanowią dla Grupy 
+Impel istotną grupę interesariuszy, której potrzeby 
+i oczekiwania są uwzględniane zarówno na etapie 
+projektowania usług, jak i w procesach operacyjnych. 
+Ze względu na charakter działalności obejmującej m.in. 
+opiekę szpitalną, catering, ochronę obiektów, obsługę 
+imprez masowych oraz produkcję środków czystości, 
+użytkownicy końcowi to często osoby w szczególnej 
+sytuacji: pacjenci, uczestnicy dużych wydarzeń 
+publicznych, osoby korzystające z usług ochrony 
+w przestrzeniach użyteczności publicznej, a także 
+instytucje 
+i 
+ich 
+klienci 
+będący 
+odbiorcami 
+produktów Grupy. 
+Analiza podwójnej istotności wskazała trzy obszary 
+istotne dla konsumentów i użytkowników końcowych: 
+prywatność użytkowników, zdrowie i bezpieczeństwo 
+produktu lub usługi oraz bezpieczeństwo osobiste. 
+Ochrona prywatności dotyczy przede wszystkim 
+grup operujących systemami monitoringu wizyjnego 
+(SEC), przetwarzających dane pacjentów (PAC) oraz 
+obsługujących dane transakcyjne (CASH i Events), 
+gdzie ryzyko naruszenia danych osobowych jest 
+bezpośrednio powiązane z charakterem świadczonej 
+usługi. Zdrowie i bezpieczeństwo produktu lub usługi, 
+a także bezpieczeństwo osobiste, pozostają kluczowe 
+w zdecydowanej większości grup produktowych. 
+Obejmują one zarówno standardy higieniczne 
+w opiece szpitalnej i cateringu, jak i bezpieczeństwo 
+fizyczne w ochronie obiektów oraz zarządzaniu 
+imprezami masowymi. Dotyczą również jakości i składu 
+środków czyszczących produkowanych przez spółkę 
+Kappa. Wszystkie te elementy stanowią fundament 
+modelu biznesowego Grupy, bezpośrednio wpływając 
+na utrzymanie kontraktów oraz reputację rynkową.
+Polityki obejmujące zagadnienia konsumentów 
+i 
+użytkowników 
+końcowych 
+zostały 
+opisane 
+w ramach ujawnienia G1-1 – Polityki postępowania 
+w biznesie i kultura korporacyjna.
+W Grupie Impel głównym kanałem zgłaszania informacji 
+jest COK – Centrum Obsługi Klienta. Została ona opisana 
+w ramach ujawnienia S2-3: Procesy naprawy skutków 
+negatywnych wpływów i kanały zgłaszania wątpliwości 
+przez osoby wykonujące pracę w łańcuchu wartości.  
+W Grupie Impel funkcjonuje system badania satysfakcji 
+klientów (CSI), który stanowi jeden z kluczowych 
+elementów monitorowania jakości świadczonych 
+usług. Badanie realizowane jest trzy razy w roku, 
+w trzech pierwszych kwartałach kalendarzowych 
+(1Q–3Q). Obejmuje wszystkich klientów zewnętrznych 
+oraz klientów franczyzowych korzystających z usług 
+o charakterze stałym, realizowanych przez okres dłuższy 
+niż trzy miesiące. Badanie prowadzone jest w formie 
+ankiet wypełnianych podczas bezpośrednich spotkań 
+Operating Unit Managera z przedstawicielem klienta. 
+Wyniki badania stanowią ważne źródło informacji 
+wykorzystywanych do oceny poziomu satysfakcji 
+klientów, jakości realizowanych usług oraz identyfikacji 
+obszarów wymagających poprawy. Jednocześnie 
+wskaźnik CSI jest wykorzystywany jako jeden z elementów 
+modelu predykcyjnego utraty kontraktów, wspierającego 
+zarządzanie relacjami z klientami. 
+Zebrane odpowiedzi są analizowane przez zespoły 
+operacyjne, co pozwala na identyfikację najczęściej 
+pojawiających się uwag, potrzeb oraz oczekiwań 
+klientów. Na podstawie wyników badania podejmowane 
+są działania ukierunkowane na poprawę jakości 
+usług, w szczególności poprzez identyfikację obszarów 
+wymagających usprawnień, wdrażanie działań 
+naprawczych w kontraktach, w których odnotowano 
+niższy poziom satysfakcji, a także inicjowanie działań 
+doskonalących w zakresie standardów obsługi oraz 
+organizacji współpracy z klientem. 
+W przypadku zidentyfikowania konkretnych problemów 
+zgłaszanych przez klientów podejmowane są działania 
+korygujące, obejmujące analizę przyczyn, wdrożenie zmian 
+w sposobie realizacji usług oraz monitorowanie efektów 
+w kolejnych cyklach badania. Dzięki temu uwagi klientów 
+są na bieżąco adresowane, a proces badania satysfakcji 
+stanowi ważne narzędzie doskonalenia jakości usług 
+w Grupie Impel. 
+Podejmowanie działań dotyczących istotnych  
+wpływów na konsumentów i użytkowników 
+końcowych oraz stosowanie podejść służących 
+zarządzaniu istotnymi ryzykami i wykorzystywaniu 
+istotnych szans związanych z konsumentami  
+i użytkownikami końcowymi oraz skuteczność  
+tych działań (S4-4)
+Spółka podejmuje działania mające na celu zarządzanie 
+wpływem swojej działalności na konsumentów oraz 
+użytkowników końcowych. Podejście to ma na celu 
+ograniczanie potencjalnych ryzyk, wzmacnianie zaufania 
+odbiorców oraz wykorzystywanie szans związanych 
+z rozwojem bezpiecznych i odpowiedzialnych produktów 
+oraz usług. Poniżej zaprezentowano wybrane przykłady 
+takich działań.  
+
+
+===== PAGE 38 =====
+38
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+Wydarzenie Let’s Connect #Procurement Day by Impel 
+odbyło się 9 września 2025 r. przy siedzibie Grupy Impel. 
+Spotkanie zostało zorganizowane z myślą o specjalistach 
+z obszaru zakupów oraz partnerach biznesowych 
+współpracujących z Grupą. 
+W wydarzeniu wzięli udział przedstawiciele firm 
+zewnętrznych, a także pracownicy Grupy Impel, 
+w tym przedstawiciele działu zakupów, handlowcy oraz 
+dyrektorzy odpowiedzialni za współpracę z partnerami 
+biznesowymi. Celem wydarzenia było stworzenie 
+przestrzeni sprzyjającej wymianie doświadczeń oraz 
+budowaniu relacji pomiędzy specjalistami z obszaru 
+zakupów i nowoczesnych technologii. Na patio biurowca 
+zorganizowano przestrzeń networkingową, która 
+połączyła tematykę zakupów z innowacjami, wiedzą 
+i inspiracją. 
+W trakcie spotkania uczestnicy mieli możliwość 
+prowadzenia 
+rozmów 
+dotyczących 
+wdrożeń, 
+sprawdzonych rozwiązań oraz najnowszych trendów 
+w obszarze zakupów i zarządzania łańcuchem 
+dostaw. 
+Wydarzenie 
+stworzyło 
+także 
+okazję 
+do bezpośrednich spotkań z potencjalnymi klientami 
+i partnerami biznesowymi, sprzyjając nawiązywaniu 
+nowych relacji oraz rozwojowi współpracy. 
+Grupa Impel prowadzi szerokie działania informacyjne 
+i edukacyjne skierowane do klientów biznesowych oraz 
+użytkowników końcowych swoich usług. Komunikacja ta 
+ma na celu zwiększanie świadomości w zakresie 
+bezpieczeństwa, jakości usług, nowych technologii 
+oraz zmian regulacyjnych, które mogą wpływać 
+na funkcjonowanie przedsiębiorstw i instytucji. 
+Istotnym elementem tych działań są publikacje 
+eksperckie przygotowywane przez specjalistów 
+Grupy Impel. Artykuły publikowane są zarówno 
+na własnych kanałach komunikacji (blogi eksperckie, 
+strony tematyczne, newslettery branżowe), jak 
+i w zewnętrznych portalach branżowych oraz 
+magazynach specjalistycznych. Publikacje te dotyczą 
+m.in. utrzymania czystości i higieny w różnych sektorach 
+gospodarki, technologii wykorzystywanych w usługach 
+ochrony, bezpieczeństwa energetycznego, zarządzania 
+nieruchomościami, outsourcingu usług dla placówek 
+ochrony zdrowia czy rozwiązań dla branży budowlanej. 
+Komunikacja obejmuje również działania informacyjne 
+związane z nowymi usługami i rozwiązaniami technolo-
+gicznymi oferowanymi przez Grupę Impel, w tym 
+rozwiązaniami z zakresu monitoringu wizyjnego, 
+utrzymania czystości, zarządzania nieruchomościami 
+czy zabezpieczania wydarzeń. W ramach tych działań 
+spółka prezentuje także dobre praktyki branżowe oraz 
+przykłady zastosowania nowoczesnych technologii 
+w usługach facility management i bezpieczeństwa. 
+Podejmowane inicjatywy komunikacyjne stanowią 
+element budowania długofalowych relacji z klientami 
+i użytko-wnikami końcowymi, wspierają wymianę wiedzy 
+branżowej oraz promują odpowiedzialne i bezpieczne 
+standardy świadczenia usług. 
+Spółka realizuje również szkolenia specjalistyczne dla 
+pracobiorców w odpowiedzi na potrzeby oraz wymagania 
+klientów, z którymi współpracuje. Zakres tych szkoleń 
+jest dostosowany do specyfiki świadczonych usług oraz 
+środowiska pracy u danego kontrahenta. 
+Szkolenia obejmują zarówno zagadnienia operacyjne 
+i produktowe, jak i rozwój kompetencji miękkich, 
+bezpieczeństwo 
+pracy 
+oraz 
+kwestie 
+prawne 
+i organizacyjne. Wśród nich znajdują się m.in. 
+szkolenia dotyczące pracy w środowisku pacjentów 
+z zaburzeniami psychicznymi, higieny szpitalnej, pracy 
+w kontakcie z żywnością, obsługi specjalistycznego 
+sprzętu technicznego, a także szkolenia związane 
+z bezpieczeństwem pracy i budowaniem bezpiecznego 
+środowiska psychospołecznego. 
+Istotną część stanowią również szkolenia z zakresu obsługi 
+klienta i komunikacji, w tym skutecznej komunikacji 
+z trudnymi klientami, standardów obsługi klienta czy 
+pracy w oparciu o narzędzia rozwojowe takie jak DISC 
+lub test Hartmana. Dodatkowo prowadzone są szkolenia 
+specjalistyczne związane z obsługą urządzeń i technologii 
+wykorzystywanych u klientów, np. szkolenia produktowe 
+dotyczące sprzętu czyszczącego (HAKO, Kärcher) czy 
+szkolenia dedykowane dla konkretnych kontraktów, takie 
+jak szkolenia obejmujące m.in. segregację odpadów 
+oraz podstawowe zagadnienia chemiczne. 
+Realizacja takich szkoleń pozwala dostosować 
+kompetencje pracobiorców do wymagań klientów, 
+podnosi standard świadczonych usług oraz wspiera 
+utrzymanie wysokiego poziomu bezpieczeństwa 
+i jakości pracy. 
+Kappa Sp. z o.o. jest spółką produkcyjno-usługową 
+wchodzącą w skład Grupy Kapitałowej Impel, działającą 
+w obszarze chemii i higieny profesjonalnej. Spółka zajmuje 
+się produkcją środków czystości, papierów higienicznych 
+oraz rozwiązań higienicznych dla klientów biznesowych, 
+wytwarzanych w polskich zakładach produkcyjnych 
+zgodnie z normami jakości i bezpieczeństwa (m.in. ISO, 
+Ecolabel). 
+Na opakowaniach produktów Kappa stosowane 
+są piktogramy oraz kody QR, które mają na celu 
+przekazywanie klientom końcowym istotnych informacji 
+dotyczących bezpieczeństwa oraz właściwego 
+stosowania produktów. Oznaczenia te umieszczane 
+są w czytelny i zrozumiały sposób na etykietach oraz 
+w ulotkach dołączanych do produktu. 
+Kody QR umożliwiają szybki dostęp do szczegółowej 
+dokumentacji produktowej, w szczególności do kart 
+charakterystyki. Dokumenty te zawierają informacje 
+dotyczące m.in. obecności substancji niebezpiecznych, 
+potencjalnych zagrożeń związanych z użytkowaniem 
+produktu, zasad postępowania w sytuacjach zagrożenia, 
+sposobu prawidłowego stosowania produktu oraz 
+wybranych aspektów środowiskowych. Klienci końcowi 
+są informowani o funkcji piktogramów i kodów 
+QR 
+poprzez 
+ich 
+bezpośrednie 
+umieszczenie 
+na opakowaniu produktu. 
+Dodatkowo informacje dotyczące właściwości produktów 
+oraz zasad ich bezpiecznego użytkowania przekazywane 
+są za pośrednictwem strony internetowej oraz materiałów 
+informacyjnych, takich jak ulotki produktowe. 
+Spółka prowadzi także działania mające na celu 
+zapewnienie zgodności produktów z obowiązującymi 
+wymaganiami prawnymi oraz normami jakości 
+i bezpieczeństwa. Jednocześnie szczególną uwagę 
+przykłada się do rzetelności i przejrzystości informacji 
+przekazywanych klientom oraz użytkownikom końcowym. 
+LET’S CONNECT #PROCUREMENT DAY BY IMPEL 
+ARTYKUŁY EKSPERCKIE 
+SPECJALISTYCZNE SZKOLENIA DLA PRACOBIORCÓW  
+NA ŻYCZENIA KLIENTÓW GRUPY IMPEL
+PIKTOGRAMY I OZNACZENIA PRODUKTÓW KAPPA 
+
+
+===== PAGE 39 =====
+39
+Raport ESG 2025 - Grupa IMPEL
+SPOŁECZEŃSTWO 
+Cele dotyczące zarządzania istotnymi negatywnymi  
+wpływami, zwiększania pozytywnych wpływów  
+i zarządzania istotnymi ryzykami i szansami  (S4-5)
+Grupa Impel nie posiada celów dotyczących zarządzania 
+istotnymi negatywnymi wpływami, zwiększania 
+pozytywnych wpływów i zarządzania istotnymi ryzykami  
+i szansami w obszarze konsumentów i użytkowników 
+końcowych.  
+
+
+===== PAGE 40 =====
+40
+Raport ESG 2025 - Grupa IMPEL
+Ład Korporacyjny
+Kwestie związane z ładem korporacyjnym 
+w Grupie Impel koncentrują się wokół 
+sposobu prowadzenia działalności 
+gospodarczej, jakości relacji bizne-
+sowych oraz zapewnienia przejrzystych 
+i odpowiedzialnych zasad funkcjonowania 
+organizacji. Wyniki analizy podwójnej 
+istotności wskazują, że w tym obszarze 
+szczególne znaczenie mają kultura 
+korporacyjna, ochrona sygnalistów, 
+relacje z dostawcami, w tym praktyki 
+płatnicze, oraz przeciwdziałanie korupcji 
+i przekupstwu.  
+Z perspektywy interesariuszy obszar 
+ładu korporacyjnego wiąże się przede 
+wszystkim z oczekiwaniem długo-
+terminowej stabilności i odporności 
+biznesu, zapewnieniem odpowiedniego 
+poziomu nadzoru i przejrzystości, 
+prowadzeniem działalności zgodnie 
+z przepisami prawa oraz utrzymywaniem 
+uczciwych i przewidywalnych relacji 
+z partnerami biznesowymi i dostawcami. 
+Istotne znaczenie ma również wpływ 
+działalności Grupy na rozwój gospo-
+darczy w skali lokalnej i regionalnej. 
+W związku z tym część raportu po-
+święcona 
+ładowi 
+korporacyjnemu 
+obejmuje zagadnienia, które zostały 
+uznane za istotne z perspektywy wpływu 
+lub istotności finansowej i które odnoszą 
+się do jakości zarządzania, standardów 
+postępowania, relacji w łańcuchu wartości 
+oraz odpowiedzialnego prowadzenia 
+działalności gospodarczej. 
+3.
+
+
+===== PAGE 41 =====
+41
+Raport ESG 2025 - Grupa IMPEL
+ŁAD KORPORACYJNY  
+POSTĘPOWANIE W BIZNESIE  (ESRS G1)
+Rola organów administrujących, zarządzających  
+i nadzorczych (ESRS 2 GOV-1)
+Opis procesów służących do identyfikacji i oceny 
+istotnych wpływów, ryzyk i szans (ESRS 2 IRO-1)
+Polityki postępowania w biznesie i kultura 
+korporacyjna (G1-1)
+Organ zarządzający (Zarząd) oraz organ nadzorczy 
+(Rada Nadzorcza) 
+ponoszą 
+odpowiedzialność 
+za nadzór nad kulturą organizacyjną oraz przes-
+trzeganiem zasad etyki w działalności spółki. 
+W ramach Zarządu wyznaczono członka Zarządu 
+odpowiedzialnego za obszar compliance, w tym 
+za zasady postępowania w biznesie, jest nim 
+– Wojciech Rembikowski. Dodatkowo w kontekście 
+kompetencji związanych z nadzorem nad postępowaniem 
+organizacji trzech członków Zarządu posiada wyksz-
+tałcenie prawnicze: Jakub Dzik, Monika Chudobska  
+oraz Mirosław Greber, natomiast jeden członek 
+Zarządu - Wojciech Rembikowski, posiada wykształcenie 
+ekonomiczne.  
+Zarząd i Rada Nadzorcza uczestniczą w szkoleniach 
+dotyczących etyki biznesowej, przeciwdziałania korupcji 
+i łapownictwu, zasad uczciwej konkurencji, zgodności 
+z regulacjami branżowymi, zarządzania konfliktami 
+interesów, a także zagadnień ładu korporacyjnego 
+i zrównoważonego rozwoju. Do kompetencji Zarządu 
+oraz Rady Nadzorczej należy zatwierdzanie oraz 
+monitorowanie wdrażania polityk dotyczących 
+postępowania w biznesie, w tym Kodeksu Etyki, 
+Procedur Zgłoszeń Wewnętrznych (whistleblowing) 
+oraz zasad współpracy z partnerami zewnętrznymi.  
+Analiza szans i ryzyk została przeprowadzona wyłącznie 
+na potrzeby procesu badania podwójnej istotności, 
+zgodnie z wymogami ESRS.
+Kultura organizacyjna Spółki opiera się na jasno 
+określonych wartościach etycznych, które zostały 
+formalnie uregulowane w Kodeksie Etyki. Fundamentem 
+tych wartości są: 
+•	
+Uczciwość – działanie w sposób transparentny 
+i zgodny z obowiązującymi przepisami prawa,   
+•	
+Szacunek – traktowanie wszystkich interesariuszy  
+z godnością, niezależnie od stanowiska, pochodzenia, 
+płci, wieku czy przekonań,  
+•	
+Odpowiedzialność – świadome podejmowanie  
+decyzji z uwzględnieniem ich wpływu na ludzi, 
+środowisko i społeczeństwo,   
+•	
+Zaufanie – budowanie relacji w oparciu o rzetelność, 
+lojalność i wiarygodność.
+Zasady etycznego postępowania w organizacji wspie-
+rane są przez funkcjonujący system zgłaszania naruszeń 
+prawa. Spółka posiada Procedurę Zgłoszeń Wewnętrz-
+nych, która definiuje bezpieczne kanały raportowania 
+potencjalnych nieprawidłowości. Pracobiorcy mogą do-
+konywać zgłoszeń za pośrednictwem dedykowanej plat-
+formy zgłoszeniowej dostępnej pod adresem dbamy.
+impel.pl lub poprzez adres e-mail: naruszenia@impel.pl. 
+Każde zgłoszenie podlega weryfikacji przez koordynato-
+ra ds. naruszeń prawa przypisanego do właściwej spółki 
+Grupy. Po zakwalifikowaniu zgłoszenia jako naruszenia 
+prawa, zgodnie z przepisami ustawy o ochronie sygna-
+listów, podejmowane są odpowiednie działania następ-
+cze, a w razie potrzeby – również działania naprawcze.   
+Spółka zapewnia ochronę osób dokonujących zgłoszeń 
+przed jakimikolwiek formami działań odwetowych. Zgła-
+szający są objęci ochroną prawną, a informacje o przy-
+jęciu zgłoszenia przekazywane są niezwłocznie, nie póź-
+niej niż w terminie 7 dni od daty jego złożenia.   
+W obszarze przeciwdziałania korupcji Grupa Impel 
+wdrożyła Politykę Przeciwdziałania Korupcji, zgodną 
+z Konwencją Narodów Zjednoczonych przeciwko korupcji. 
+Ze względu na charakter prowadzonej działalności 
+oraz intensywność kontaktów z klientami i dostawcami, 
+szczególną uwagę poświęca się obszarom najbardziej 
+narażonym na ryzyko korupcji i przekupstwa, w tym dzia-
+łom zakupów, handlowym oraz operacyjnym.   
+Uzupełnieniem systemu zarządzania ładem korpora-
+cyjnym jest Polityka Szkoleniowa, która określa zasady 
+organizacji i zakres tematyczny szkoleń realizowanych 
+w Spółce. W szczególności obejmuje ona zagadnienia 
+związane z zapobieganiem korupcji i przekupstwu, prze-
+strzeganiem zasad BHP, przeciwdziałaniem dyskrymi-
+nacji i innym negatywnym zjawiskom w miejscu pracy, 
+standardami zachowań, bezpieczeństwem cyfrowym, 
+ochroną tajemnicy przedsiębiorstwa oraz systemami 
+zarządzania obowiązującymi w organizacji.   
+Wiodące polityki Grupy Impel przedstawiono poniżej. 
+Wszystkie polityki obowiązują na terenie głównej działal-
+ności Grupy Impel, czyli w Polsce. 
+KODEKS ETYCZNY (GI/POL/2025/08)    Obowiązuje od: 25.11.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Określenie standardów etycznych i wartości 
+w prowadzonej działalności. Regulacja zasad 
+postępowania w obszarach ESG (środowiskowym, 
+społecznym, zarządczym). Kodeks Etyczny 
+obejmuje m.in. prawa człowieka, przeciwdziałanie 
+korupcji i nadużyciom, odpowiedzialność  
+w łańcuchu dostaw oraz system compliance.  
+Zakres: wszyscy pracobiorcy Grupy Impel 
+Funkcja: CFO 
+Wdrożenie: Dyrektor Biura Compliance 
+Nadzór: CFO 
+Monitoring: Biuro ESG i Compliance 
+(system zgłaszania naruszeń, nadzór 
+kadry, szkolenia, coroczny przegląd) 
+Łańcuch wartości: dostawcy, podwykonawcy 
+zobowiązani do przestrzegania
+
+
+===== PAGE 42 =====
+42
+Raport ESG 2025 - Grupa IMPEL
+ŁAD KORPORACYJNY  
+POLITYKA ZAKUPOWA (GI/POL/2025/11)    Obowiązuje od: 05.12.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Wyznaczenie standardów działania w ramach 
+realizacji procesów zakupowych w spółkach 
+Grupy Impel, w tym wymogi w zakresie ESG. 
+Zakres: wszyscy pracobiorcy Grupy Impel 
+Funkcja: CFO 
+Wdrożenie: Dyrektor Biura  
+Optymalizacji Kosztów 
+Nadzór: CFO 
+Monitoring: coroczny przegląd przez 
+Dyrektora Biura Optymalizacji Kosztów
+Łańcuch wartości: podwykonawcy, dostawcy 
+zobowiązani do przestrzegania
+POLITYKA ODPOWIEDZIALNEJ KOMUNIKACJI I MARKETINGU (GI/POL/2025/09)    Obowiązuje od: 06.11.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Zapewnienie odpowiedzialnej, skutecznej i spójnej 
+komunikacji budującej zaufanie. Przeciwdziałanie 
+dyskryminacji i greenwashingowi w komunikacji, 
+marketingu i reklamie. 
+Komunikacja wewnętrzna: pracobiorcy, 
+jednostki organizacyjne Grupy Impel 
+Funkcja: CFO 
+Wdrożenie: Dyrektor Biura Marketingu, 
+Dyrektor Biura Komunikacji 
+Monitoring: coroczny przegląd 
+przez Dyrektora Biura Komunikacji 
+(komunikacja) i Dyrektora Biura 
+Marketingu (marketing)
+ Mechanizmy zgłaszania naruszeń 
+Łańcuch wartości: podwykonawcy, dostawcy, 
+franczyzobiorcy
+POLITYKA MOBILNOŚCI W GRUPIE IMPEL (GI/POL/2025/12)    Obowiązuje od: 26.11.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Określenie standardów i zasad przemieszczania 
+się pracobiorców w ramach wykonywania 
+obowiązków służbowych, z uwzględnieniem 
+rozproszonej specyfiki działalności wymagającej 
+obecności w różnych lokalizacjach.  
+Polityka obejmuje m.in.: bezpieczne, efektywne 
+i zrównoważone rozwiązania transportowe, 
+redukcję emisji CO2.
+Zakres: wszyscy pracobiorcy Grupy Impel 
+Funkcja: Dyrektor Centrum Zarządzania 
+Lokalizacjami i Flotą, CFO
+Wdrożenie: Dyrektor Centrum Zarządzania 
+Lokalizacjami i Flotą 
+Obszar geograficzny: cała Polska
+Łańcuch wartości: podwykonawcy, dostawcy, 
+franczyzobiorcy
+POLITYKA PRZECIWDZIAŁANIA KORUPCJI (GI/POL/2025/06)    Obowiązuje od: 06.11.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Wprowadzenie jednolitych standardów, 
+mechanizmów i zachowań, które 
+przeciwdziałają korupcji i potwierdzają 
+uczciwość oraz transparentność relacji 
+biznesowych. Przeciwdziałanie  
+i eliminowanie wszelkich przejawów korupcji, tj.: 
+korupcji czynnej i biernej, przekupstwa, oszustwa, 
+płatnej protekcji, wymuszenia (dalej korupcji), 
+we wszystkich obszarach swojej działalności.  
+Zakres: wszyscy pracobiorcy Grupy Impel 
+Funkcja: CFO
+Wdrożenie: Dyrektor Biura Compliance
+Nadzór: CFO 
+Monitoring: Biuro ESG 
+i Compliance (system zgłaszania 
+naruszeń, nadzór kadry, szkolenia, 
+coroczny przegląd)  
+Łańcuch wartości: podwykonawcy, dostawcy 
+zobowiązani do przestrzegania  
+POLITYKA PRZECIWDZIAŁANIA KONFLIKTOM INTERESÓW (GI/POL/2025/13)    Obowiązuje od: 25.11.2025
+Cel
+Zakres i typ
+Odpowiedzialność
+Określa obowiązujące zasady dotyczące 
+przeciwdziałania konfliktom interesów  
+w obszarze działalności operacyjnej  
+i administracyjnej. Określa rodzaje powiązań 
+osobowych i kapitałowych, jakie mogą prowadzić 
+do uzyskania przez Pracobiorcę statusu osoby 
+powiązanej oraz wskazuje zasady postępowania 
+w przypadkach stwierdzenia przez Pracobiorcę 
+posiadania takiego statusu.  
+Zakres: wszyscy pracobiorcy Grupy Impel 
+Funkcja: CFO
+Wdrożenie: Dyrektor Biura Compliance
+Nadzór: CFO 
+Monitoring: Biuro ESG 
+i Compliance (system zgłaszania 
+naruszeń, nadzór kadry, szkolenia, 
+coroczny przegląd)  
+Łańcuch wartości: podwykonawcy, dostawcy 
+zobowiązani do przestrzegania  
+
+
+===== PAGE 43 =====
+43
+Raport ESG 2025 - Grupa IMPEL
+ŁAD KORPORACYJNY  
+W celu zapobiegania oraz reagowania na naruszenia 
+procedur i norm Spółka wdrożyła Politykę Przeciwdziałania 
+Korupcji oraz Procedurę Zgłoszeń Wewnętrznych, 
+obejmującą kanały zgłaszania naruszeń w trybie 
+jawnym oraz anonimowym. Procedury te określają 
+zasady identyfikacji naruszeń, podejmowania działań 
+następczych oraz wdrażania działań naprawczych 
+w przypadku stwierdzenia nieprawidłowości.  
+W roku sprawozdawczym liczba prawomocnych wyroków 
+skazujących oraz łączna kwota grzywien nałożonych 
+na Spółkę z tytułu naruszenia przepisów antykorupcyjnych 
+oraz przepisów dotyczących zwalczania przekupstwa 
+wyniosły 0.  
+Obecnie w ramach Grupy Impel nie funkcjonuje odrębna 
+polityka płatności. Informacje o płatnościach są obecnie 
+zawarte bezpośrednio w umowach z dostawcami oraz 
+w ramach Procedury stosowania obowiązków nałożonych 
+ustawą o przeciwdziałaniu nadmiernym opóźnieniom 
+w transakcjach handlowych. Obecnie standardowy 
+termin płatności to 30 dni. 
+Średni termin regulowania zobowiązań wobec dostawców 
+przez Grupę Impel w roku 2025 to 18 dni. Zostało to wyliczone 
+w oparciu o raport z systemu księgowego zawierający 
+kwoty faktur zakupowych, daty wystawienia i rozliczenia. 
+W oparciu o te dane, wyliczono średnioważony termin 
+rozliczenia, ważony kwotami faktur. 
+Spółka wdrożyła system zapobiegania korupcji 
+i przekupstwu, oparty na regulacjach wewnętrznych, 
+mechanizmach zgłaszania nieprawidłowości oraz 
+nadzorze zarządczym.  
+Podstawowym elementem systemu jest Procedura 
+Zgłoszeń Wewnętrznych, która reguluje zasady 
+identyfikacji, zgłaszania oraz obsługi naruszeń, w tym 
+przypadków korupcji i przekupstwa. Procedura ta została 
+szerzej opisana w ramach ujawnienia G1-1.  Określa 
+ona sposób postępowania ze zgłoszeniami, w tym 
+prowadzenie działań następczych oraz, w razie potrzeby, 
+działań naprawczych. Spółka zapewnia dedykowane 
+kanały zgłoszeniowe umożliwiające bezpieczne i poufne 
+zgłaszanie naruszeń.   
+Raport ESG został przygotowany na podstawie najlepszej wiedzy Spółki oraz materiałów dostępnych w momencie jego sporządzenia. Raport obejmuje wyłącznie 
+spółki działające na terenie Rzeczypospolitej Polskiej. Informacje w nim zawarte odzwierciedlają stan faktyczny oraz dane pozyskane na dzień publikacji raportu. 
+Spółka nie wyklucza możliwości aktualizacji lub zmiany przedstawionych informacji w przyszłości, w szczególności w związku z pozyskaniem nowych danych, 
+zmianami regulacyjnymi lub rozwojem metod raportowania. 
+W przypadku braku zgody na przetwarzanie określonych informacji lub ograniczeń wynikających z obowiązujących przepisów prawa bądź zobowiązań umownych 
+niektóre dane mogły zostać pominięte lub przedstawione w formie zagregowanej. 
+Treść raportu stanowi własność Spółki. Kopiowanie, rozpowszechnianie, publikowanie lub wykorzystywanie w całości lub w części informacji zawartych w raporcie 
+w innych materiałach lub opracowaniach wymaga uprzedniej zgody Spółki, z wyjątkiem przypadków dopuszczonych przez obowiązujące przepisy prawa. 
+Incydenty korupcji lub przekupstwa (G1 -4)
+Praktyki płatnicze   (G1-6)
+Zapobieganie korupcji i przekupstwu  
+oraz ich wykrywanie (G1 -3)
+KLAUZULA INFORMACYJNA:  
+Podejście Grupy Impel do zarządzania relacjami 
+w łańcuchu wartości regulują Polityka Zakupowa oraz 
+Regulamin Kwalifikacji Dostawców. Dokumenty te określa-
+ją standardy obowiązujące we współpracy z dostawcami, 
+w tym wymagania w obszarze compliance oraz ESG.  
+Wybrane postanowienia w tych zakresach są również 
+uwzględniane w umowach zawieranych z dostawcami.   
+Dokumenty takie jak Polityka Zakupowa oraz 
+Instrukcja Kwalifikacji Dostawców w Zrównoważonym 
+Łańcuchu Dostaw podlegają corocznej weryfikacji, reali-
+zowanej przez Biuro Optymalizacji Kosztów, co pozwala 
+na ich bieżące dostosowanie do zmian regulacyjnych 
+oraz oczekiwań interesariuszy.  Zgodnie z przyjętymi we-
+wnętrznymi regulacjami Grupa Impel prowadzi weryfi-
+kację dostawców z poziomu TIER 1 oraz TIER 2 w zakresie 
+kryteriów środowiskowych, społecznych oraz ładu korpo-
+racyjnego. Proces oceny ma na celu sprawdzenie, czy 
+oraz w jakim stopniu dostawcy i podwykonawcy spełnia-
+ją wymagania Grupy Impel dotyczące zrównoważone-
+go łańcucha wartości. Uzyskana kwalifikacja dostawcy 
+w zakresie ESG obowiązuje przez okres jednego roku. Po 
+upływie tego czasu dostawca podlega ponownej wery-
+fikacji oraz kwalifikacji w celu potwierdzenia spełniania 
+aktualnych wymagań Grupy Impel.  
+Szanse i ryzyka związane z funkcjonowaniem łańcucha 
+wartości zostały zidentyfikowane w ramach analizy po-
+dwójnej istotności i będą aktualizowane w kolejnych 
+okresach sprawozdawczych wraz z rozwojem procesu 
+zarządzania tym obszarem.  
+Zarządzanie relacjami z dostawcami (G1 -2)
+Za obsługę zgłoszeń oraz prowadzenie działań następ-
+czych odpowiadają powołani Koordynatorzy ds. na-
+ruszeń prawa, działający jako wyspecjalizowana Gru-
+pa Ekspertów. Ich pracę koordynuje Dyrektor Biura ESG 
+i Compliance, który pełni jednocześnie rolę Koordynatora 
+Wiodącego i odpowiada za spójność oraz skuteczność 
+funkcjonowania systemu.  
+W przypadku wystąpienia incydentu informacje 
+o jego zaistnieniu oraz przebiegu postępowania 
+są przekazywane odpowiednim członkom Zarządu 
+Grupy Impel. Spółka prowadzi rejestr naruszeń prawa, 
+a zbiorcze informacje dotyczące zgłoszonych incydentów 
+i podjętych działań są prezentowane corocznie w ramach 
+posiedzeń Zarządu. Zasady zapobiegania korupcji 
+i przekupstwu są komunikowane pracobiorcom poprzez 
+wewnętrzne kanały informacyjne, w tym intranet Grupy 
+Impel (Impel Lex), co wspiera świadomość orga- 
+nizacyjną i stosowanie obowiązujących standardów.  
+
+
+===== PAGE 44 =====
+44
+Raport ESG 2025 - Grupa IMPEL
+ZAŁĄCZNIKI
+Załączniki
+Załącznik 1. Indeks wymogów dotyczących ujawniania informacji przedstawionych w oświadczeniu dotyczącym 
+zrównoważonego rozwoju
+ESRS 
+Nr ujawnienia 
+Nazwa ujawnienia 
+Strona w raporcie ESG 
+ESRS 2 - Ogólne ujawnienie informacji 
+BP-1
+Ogólna podstawa sporządzenia oświadczeń 
+dotyczących zrównoważonego rozwoju  
+4
+BP-2 
+Ujawnianie informacji w odniesieniu  
+do szczególnych okoliczności  
+4
+GOV-1 
+Rola organów administrujących,  
+zarządzających i nadzorczych  
+4, 41
+GOV-2
+Informacje przekazywane organom administrującym, 
+zarządzającym i nadzorczym jednostki oraz 
+podejmowane przez nie kwestie związane  
+ze zrównoważonym rozwojem  
+7
+GOV-3 
+Uwzględnianie wyników związanych  
+ze zrównoważonym rozwojem  
+w systemach zachęt  
+7, 17
+GOV-4 
+Oświadczenie dotyczące należytej staranności  
+7
+GOV-5
+Zarządzanie ryzykiem i kontrole  
+wewnętrzne nad sprawozdawczością  
+w zakresie zrównoważonego rozwoju  
+8
+SBM-1
+Strategia, model biznesowy i łańcuch wartości
+8
+SBM-2
+Interesy i opinie zainteresowanych stron  
+11, 24, 37
+SBM-3 
+Istotne wpływy, ryzyka i szanse oraz
+ich wzajemne związki ze strategią  
+i z modelem biznesowym
+12, 17, 24, 36, 37
+IRO-1 
+Opis procesów identyfikacji i oceny  
+istotnych wpływów, ryzyk i szans  
+14, 17, 20, 21, 22, 41
+IRO-2 
+Wymogi dotyczące ujawniania informacji 
+w ramach ESRS objęte oświadczeniem jednostki 
+dotyczącym zrównoważonego rozwoju
+15
+E1 -  Zmiana klimatu
+E1-1
+Plan przejścia na potrzeby łagodzenia zmiany klimatu
+17
+E1-2
+Polityki związane z łagodzeniem zmiany  
+klimatu i przystosowaniem się do niej 
+17
+E1-3
+Działania i zasoby w odniesieniu  
+do polityki klimatycznej 
+18
+E1-4
+Cele związane z łagodzeniem zmiany  
+klimatu i przystosowaniem się do niej 
+18
+E1-5
+Zużycie energii i koszyk energetyczny 
+18
+E1-6
+Emisje gazów cieplarnianych zakresów 1, 2 i 3 brutto 
+oraz całkowite emisje gazów cieplarnianych 
+19
+E1-7
+Projekty usuwania gazów cieplarnianych  
+i ograniczania emisji gazów cieplarnianych 
+finansowane za pomocą jednostek emisji  
+dwutlenku węgla 
+20
+E1-8
+Wewnętrzne ustalanie opłat  
+za emisję gazów cieplarnianych
+20
+E1-9
+Przewidywane skutki finansowe wynikające z istotnych 
+ryzyk fizycznych i ryzyk przejścia oraz potencjalnych 
+szans związanych z klimatem 
+20
+
+
+===== PAGE 45 =====
+45
+Raport ESG 2025 - Grupa IMPEL
+ZAŁĄCZNIKI
+ESRS 
+Nr ujawnienia 
+Nazwa ujawnienia 
+Strona w raporcie ESG 
+E2 - Zanieczyszczenie
+E2-1 
+Polityki związane z zanieczyszczeniem 
+20
+E2-2 
+Działania i zasoby związane z zanieczyszczeniem 
+20
+E2-3
+Cele związane z zanieczyszczeniem 
+20
+E2-4
+Zanieczyszczenie powietrza, wody i gleby
+20
+E2-6
+Przewidywane skutki finansowe wynikające  
+z ryzyk i szans związanych z zanieczyszczeniem
+20
+E3 -  Woda i zasoby morskie
+E3-1
+Polityki związane z wodą i zasobami morskimi  
+21
+E3-2
+Działania i zasoby związane z politykami  
+dotyczącymi wody i zasobów morskich 
+21
+E3-3
+Cele związane z wodą i zasobami morskimi 
+21
+E3-4 
+Zużycie wody 
+22
+E3-5 
+Przewidywane skutki finansowe wynikające z ryzyk  
+i szans związanych z wodą i zasobami morskimi 
+22
+E5 -  Wykorzystanie zasobów  
+oraz gospodarka o obiegu zamkniętym
+E5-1
+Polityki związane z wykorzystaniem zasobów  
+oraz gospodarką o obiegu zamkniętym
+22
+E5-2
+Działania i zasoby związane z wykorzystaniem zasobów 
+oraz gospodarką o obiegu zamkniętym
+22
+E5-3
+Cele związane z wykorzystaniem zasobów oraz 
+gospodarką o obiegu zamkniętym
+22
+E5-4
+Zasoby wprowadzane
+22
+E5-5
+Zasoby odprowadzane
+22
+E5-6
+Przewidywane skutki finansowe wynikające z wpływów, 
+ryzyk i szans związanych z wykorzystaniem zasobów 
+oraz gospodarką o obiegu zamkniętym
+22
+S1 - Własne zasoby pracownicze  
+ 
+S1-1
+Polityki związane z własnymi zasobami pracowniczymi
+24
+S1-2
+Procedury współpracy z własnymi zasobami 
+pracowniczymi i przedstawicielami pracowników  
+w kwestiach wpływów
+26
+S1-3
+Procesy naprawy skutków negatywnych  
+wpływów i kanały zgłaszania wątpliwości  
+przez własne zasoby pracownicze
+26
+S1-4
+Podejmowanie działań dotyczących istotnych 
+wpływów na własne zasoby pracownicze oraz 
+stosowanie podejść służących zarządzaniu istotnymi 
+ryzykami i wykorzystywaniu istotnych szans 
+związanych z własnymi zasobami pracowniczymi  
+oraz skuteczność tych działań
+27
+S1-5
+Cele dotyczące zarządzania istotnymi negatywnymi 
+wpływami, zwiększania pozytywnych wpływów  
+i zarządzania istotnymi ryzykami i szansami
+29
+S1-6
+Charakterystyka pracowników jednostki
+29
+S1-7
+Charakterystyka osób niebędących pracownikami 
+stanowiących własne zasoby pracownicze jednostki
+30
+S1-8
+Zakres rokowań zbiorowych i dialogu społecznego
+30
+S1-9
+Mierniki różnorodności
+31
+S1-10
+Adekwatna płaca
+31
+S1-11
+Ochrona socjalna
+32
+S1-12
+Osoby z niepełnosprawnościami
+32
+S1-13
+Mierniki dotyczące szkoleń i rozwoju umiejętności 
+32
+S1-14
+Mierniki bezpieczeństwa i higieny pracy
+34
+S1-15
+Mierniki równowagi między życiem  
+zawodowym a prywatnym
+35
+S1-16
+Mierniki wynagrodzeń  
+(luka płacowa i całkowite wynagrodzenie)
+35
+S1-17
+Incydenty, skargi i poważne wpływy  
+na przestrzeganie praw człowieka
+35
+
+
+===== PAGE 46 =====
+46
+Raport ESG 2025 - Grupa IMPEL
+ZAŁĄCZNIKI
+ESRS 
+Nr ujawnienia 
+Nazwa ujawnienia 
+Strona w raporcie ESG 
+S2 - Osoby wykonujące pracę  
+w łańcuchu wartości  
+S2-1 
+Polityki związane z osobami wykonującymi  
+pracę w łańcuchu wartości 
+36
+S2-2 
+Procesy współpracy z osobami wykonującymi  
+pracę w łańcuchu wartości w zakresie wpływów
+36
+S2-3 
+Procesy naprawy skutków negatywnych wpływów  
+i kanały zgłaszania wątpliwości przez osoby 
+wykonujące pracę w łańcuchu wartości 
+36
+S2-4 
+Podejmowanie działań dotyczących  
+istotnych wpływów na osoby wykonujące pracę  
+w łańcuchu wartości oraz stosowanie podejść 
+służących zarządzaniu istotnymi ryzykami  
+i wykorzystywaniu istotnych szans związanych  
+z osobami wykonującymi pracę w łańcuchu  
+wartości oraz skuteczność tych działań 
+36
+S2-5 
+Cele dotyczące zarządzania istotnymi negatywnymi 
+wpływami, zwiększania pozytywnych wpływów  
+i zarządzania istotnymi ryzykami i szansami 
+36
+S4 - Konsumenci i użytkownicy końcowi
+S4-1 
+Polityki związane z konsumentami  
+i użytkownikami końcowymi 
+37
+S4-2 
+Procesy współpracy w zakresie wpływów  
+z konsumentami i użytkownikami końcowymi
+37
+S4-3 
+Procesy naprawy skutków negatywnych wpływów  
+i kanały zgłaszania wątpliwości przez konsumentów  
+i użytkowników końcowych 
+37
+S4-4 
+Podejmowanie działań dotyczących istotnych 
+wpływów na konsumentów i użytkowników końcowych 
+oraz stosowanie podejść służących zarządzaniu 
+istotnymi ryzykami i wykorzystywaniu istotnych 
+szans związanych z konsumentami i użytkownikami 
+końcowymi oraz skuteczność tych działań 
+37
+S4-5 
+Cele dotyczące zarządzania istotnymi negatywnymi 
+wpływami, zwiększania pozytywnych wpływów  
+i zarządzania istotnymi ryzykami i szansami 
+39
+G1 - Postępowanie w biznesie
+G1-1 
+Polityki postępowania w biznesie i kultura korporacyjna
+41
+G1-2 
+Zarządzanie relacjami z dostawcami
+43
+G1-3 
+Zapobieganie korupcji i przekupstwu  
+oraz ich wykrywanie
+43
+G1-4 
+Incydenty korupcji lub przekupstwa 
+43
+G1-6
+Praktyki płatnicze  
+43
+
+
+===== PAGE 47 =====
+47
+Raport ESG 2025 - Grupa IMPEL
+ZAŁĄCZNIKI
+Ujawnienie 
+Stopniowo wdrażane ujawnienie 
+SBM-3
+Istotne wpływy, ryzyka i szanse oraz ich wzajemne związki ze strategią i z modelem biznesowym – dane ilościowe
+E1-9
+Przewidywane skutki finansowe wynikające z istotnych ryzyk fizycznych i ryzyk przejścia oraz potencjalnych  
+szans związanych z klimatem
+E2-6
+Przewidywane skutki finansowe wynikające z ryzyk i szans związanych z zanieczyszczeniem
+E3-5
+Przewidywane skutki finansowe wynikające z ryzyk i szans związanych z wodą i zasobami morskimi
+E5-6
+Przewidywane skutki finansowe wynikające z ryzyk i szans związanych z wykorzystaniem 
+zasobów oraz gospodarką o obiegu zamkniętym
+S1-13
+Mierniki dotyczące szkoleń i rozwoju umiejętności
+ESRS S3
+Dotknięte społeczności
+Tab. 19. Korzystanie ze stopniowo wdrażanych przepisów zgodnie z dodatkiem C do ESRS 1 
+Podstawowe elementy procesu należytej staranności  
+Elementy oświadczenia o zrównoważonym rozwoju  
+Uwzględnienie należytej staranności w ładzie korporacyjnym,  
+strategii i modelu biznesowym 
+Opisane w ramach ujawnień: S1-1, S2-1, S4-1, GOV-2, G1-1
+Współpraca z zainteresowanymi stronami, na które jednostka wywiera 
+wpływ, na wszystkich kluczowych etapach procesu należytej staranności 
+Opisane w ramach ujawnień: S1-1, S2-1, S4-1, GOV-2, G1-1
+Identyfikacja i ocena niekorzystnych wpływów 
+Opisane w ramach ujawnień: IRO-1, IRO-2, SBM-3
+Podejmowanie działań w celu ograniczenia zidentyfikowanych 
+niekorzystnych wpływów 
+Opisane w ramach ujawnień: E1-3, E2-2, E3-2, E5-2, S1-3, S2-3,  
+S4-3, G1-1, G1-3
+Monitorowanie skuteczności tych starań i przekazywanie  
+stosownych informacji w tym zakresie 
+Opisane w ramach ujawnień: GOV-2, GOV-5, S1-17, S2-3, G1-4
+Standard ESRS 
+Wyjaśnienie  
+ESRS E4 - Bioróżnorodność  
+i ekosystemy 
+Grupa Impel prowadzi działalność usługową realizowaną w obiektach klientów i na terenach zurbanizowanych,  
+która nie wiąże się z pozyskiwaniem surowców naturalnych, przekształcaniem gruntów ani użytkowaniem obszarów 
+o wysokiej wartości przyrodniczej. Zidentyfikowane oddziaływania pośrednie w łańcuchu wartości mają charakter 
+rozproszony i ze względu na ograniczoną skalę nie przekroczyły progów istotności przyjętych w metodyce oceny 
+podwójnej istotności.
+Tab. 20. Tematy uznane za nieistotne w ramach organizacji 
+Załącznik 2. Tabele w ramach ESRS 2  
+Wymagane ujawnienie 
+Odniesienie jest obecne w podrozdziale 
+Polityki związane z zanieczyszczeniem (E2-1)
+Polityki związane z łagodzeniem zmiany klimatu  
+i przystosowaniem się do niej (E1-2)
+Polityki związane z wodą i zasobami morskimi (E3-1)
+Polityki związane z łagodzeniem zmiany klimatu  
+i przystosowaniem się do niej (E1-2)
+Polityki związane z wykorzystaniem zasobów oraz gospodarką  
+o obiegu zamkniętym (E5-1)
+Polityki związane z łagodzeniem zmiany klimatu  
+i przystosowaniem się do niej (E1-2)
+Polityki związane z osobami wykonującymi
+pracę w łańcuchu wartości (S2-1)
+S1-1 – Polityki związane z własnymi zasobami pracowniczymi
+Polityka postępowania w biznesie i kultura korporacyjna (G1-1)
+Polityki związane z łagodzeniem zmiany klimatu  
+i przystosowaniem się do niej (E1-2)
+E1-5 – Zużycie energii i koszyk energetyczny
+E1-6 - Emisje gazów cieplarnianych zakresów 1, 2 i 3 brutto  
+oraz całkowite emisje gazów cieplarnianych
+S1-3 – Procesy naprawy skutków negatywnych wpływów i kanały zgłaszania 
+wątpliwości przez własne zasoby pracownicze
+S1-1 – Polityki związane z własnymi zasobami pracowniczymi 
+S4-1 – Polityki związane z konsumentami i użytkownikami końcowymi 
+G1-1 – Polityki postępowania w biznesie i kultura korporacyjna  
+G1-3 – Zapobieganie korupcji i przekupstwu oraz ich wykrywanie 
+G1-1 – Polityki postępowania w biznesie i kultura korporacyjna  
+Tab. 18. Włączenie przez odniesienie 
+Tab. 21. Oświadczenie dotyczące należytej staranności
+
+
+===== PAGE 48 =====
+48
+Raport ESG 2025 - Grupa IMPEL
+ZAŁĄCZNIKI
+UŻYTKOWNICY KOŃCOWI
+•	
+użytkownicy obiektów 
+klientów
+•	
+pacjenci
+•	
+mieszkańcy
+KLIENCI
+•	
+przedsiębiorstwa wszystkich 
+sektorów gospodarki
+•	
+jednostki administracji 
+publicznej
+Grupa Impel charakteryzuje się złożoną strukturą łańcucha wartości, która obejmuje 
+różne Grupy Produktowe i aktywności realizowane w ich obrębie przez poszcze- 
+gólne spółki należące do Grupy Kapitałowej. Łańcuch wartości Grupy Impel w podziale 
+na górę i dół łańcucha wartości wraz z określeniem głównych Interesariuszy 
+zidentyfikowanych w procesie badania istotności oraz głównych wzajemnych 
+relacji przedstawia poniższy rysunek. 
+ŁAŃCUCH WARTOŚCI GRUPY IMPEL
+Spółek
+Dywizji
+GRUPA IMPEL
+DOSTAWCY
+FIRMY PARTNERSKIE
+              
+•	
+materiałów
+•	
+sprzętu
+•	
+usług
+•	
+technologii
+•	
+Franczyzobiorcy
+•	
+Wykonawcy strategiczni
+•	
+Wykonawcy lokalni
+57
+26
+PRACOBIORCY
+              
+ZASOBY NATURALNE
+              
+Załącznik 3.
+
+
+===== PAGE 49 =====
+49
+Raport ESG 2025 - Grupa IMPEL
+ZAŁĄCZNIKI
+Załącznik 4.
+PORTFEL PRODUKTOWY 1
+JEDNOSTKA OPERACYJNA 1
+PORTFEL PRODUKTOWY 2
+JEDNOSTKA OPERACYJNA 2
+PORTFEL PRODUKTOWY 3
+JEDNOSTKA OPERACYJNA 2
+Integrated  
+Facility 
+Management
+Events
+Technical  
+Security
+Security
+Cleaning
+Patient Care
+Services
+PORTFEL PRODUKTOWY 4
+JEDNOSTKA OPERACYJNA 1
+Health Care
+Delivery
+services
+JEDNOSTKA OPERACYJNA 3
+Industrial
+Cleaning
+Laundry
+Rental
+Catering
+Business
+Services
+Cash
+Handling
+Industrial
+Processes
+Residential
+Services
+Użycie anglojęzycznych nazw jest zgodne z nazewnictwem używanym wewnątrz organizacji.
+MODEL BIZNESOWY DO CZERWCA 2025 ROKU
+
+
+===== PAGE 50 =====
+50
+Raport ESG 2025 - Grupa IMPEL
+ZAŁĄCZNIKI
+Retail & Mobile Services
+Finance & Services Division
+Corporate Facilities Division
+JEDNOSTKA OPERACYJNA 3
+DYWIZJE
+Retail & Mobile Services
+Finance & Services Division
+Corporate Facilities Division
+JEDNOSTKA OPERACYJNA 2
+DYWIZJE
+Patient Care
+Industrial 
+Processes
+Civic Facilities
+Residential  
+Services
+Chemical and  
+Life Science
+Business  
+Services
+Retail & Mobile Services
+Finance & Services Division
+Corporate Facilities Division
+JEDNOSTKA OPERACYJNA 1
+DYWIZJE
+National 
+Defense
+Light 
+Industry 
+Heavy 
+Industry 
+Laundry
+Rental
+Industrial 
+Cleaning
+Technical 
+Security
+Catering
+Gwarant
+Events
+Cash  
+Handling
+Retail & Mobile 
+Services
+Finance  
+& Services
+Corporate  
+Facilities
+Logistics
+Automotive  
+& Electronics
+Delivery
+Outdoor  
+Services
+Health Care
+Integrated  
+Facility  
+Management
+MODEL BIZNESOWY SPECJALIZACJA OD CZERWCA 2025 ROKU
+Użycie anglojęzycznych nazw jest zgodne z nazewnictwem używanym wewnątrz organizacji.
+Załącznik 5.
+
+
+===== PAGE 51 =====
+51
+Raport ESG 2025 - Grupa IMPEL
+ZAŁĄCZNIKI
+ESRS 2 SBM-1 
+Udział w działaniach 
+związanych z działaniami 
+dotyczącymi paliw 
+kopalnych pkt 40 lit. d 
+ppkt (I) 
+Wskaźnik nr 4 w tabeli 1 w załączniku I  
+Art. 449a 
+rozporządzenia (UE) 
+nr 575/2013; 
+rozporządzenie 
+wykonawcze Komisji 
+(UE) 2022/2453, 
+tabela 1: Informacje 
+jakościowe na temat 
+ryzyka z zakresu 
+ochrony środowiska 
+i tabela 2: Informacje 
+jakościowe na temat 
+ryzyka społecznego 
+Załącznik II  
+do rozporządzenia 
+delegowanego 
+(UE) 2020/1816 
+-
+nie
+dotyczy
+ESRS 2 SBM-1 
+Udział w działaniach 
+związanych z produkcją 
+chemikaliów 
+pkt 40 lit. d ppkt (II) 
+Wskaźnik nr 9 w tabeli 2 w załączniku I 
+-
+Załącznik II  
+do rozporządzenia 
+delegowanego 
+(UE) 2020/1816 
+-
+nie
+dotyczy
+ESRS 2 SBM-1 
+Udział w działalności zwią-
+zanej z kontrowersyjną 
+bronią pkt 40 lit. d ppkt (III) 
+Wskaźnik nr 14 w tabeli 1 w załączniku I 
+-
+Art. 12 ust. 1 
+rozporządzenia 
+delegowanego 
+(UE) 2020/1818, 
+załącznik II  
+do rozporządzenia 
+delegowanego 
+(UE) 2020/1816 
+-
+nie
+dotyczy
+ESRS 2 SBM-1 
+Udział w działaniach 
+związanych z uprawą 
+i produkcją tytoniu 
+pkt 40 lit. d ppkt (IV) 
+-
+-
+Art. 12 ust. 1 
+rozporządzenia 
+delegowanego 
+(UE) 2020/1818, 
+załącznik II  
+do rozporządzenia 
+delegowanego 
+(UE) 2020/1816 
+-
+nie
+dotyczy
+ESRS E1-1 
+Plan przejścia służący 
+osiągnięciu neutralności 
+klimatycznej do 2050 r. 
+pkt 14 
+-
+-
+-
+Art. 2 ust. 1 
+rozporządzenia 
+(UE) 2021/1119 
+17
+ESRS E1-1 
+Jednostki wykluczone 
+z zakresu obowiązywania 
+wskaźników referencyj-
+nych dostosowanych  
+do porozumienia pary-
+skiego pkt 16 lit. g 
+-
+Art. 449a 
+rozporządzenia (UE) 
+nr 575/2013; roz-
+porządzenie wyko-
+nawcze Komisji (UE) 
+2022/2453, wzór 
+1: Portfel bankowy 
+– Ryzyko przejścia 
+związane ze zmia-
+nami klimatu: jakość 
+kredytowa ekspozycji 
+według sektora, emisji 
+i rezydualnego termi-
+nu zapadalności
+Art. 12 ust. 1 lit. d  
+–g oraz art. 12 ust. 2 
+rozporządzenia 
+delegowanego 
+(UE) 2020/1818
+-
+nie
+dotyczy
+Załącznik 6. Punkty danych, które mają swoje źródło w innych przepisach UE
+Wymóg dotyczący  
+ujawniania informacji  
+i powiązany z nim 
+punkt danych 
+Odniesienie do rozporządzenia 
+w sprawie ujawniania informacji 
+związanych ze zrównoważonym 
+rozwojem w sektorze usług 
+finansowych 
+Odniesienie  
+do trzeciego filaru 
+Odniesienie do 
+rozporządzenia 
+o wskaźnikach 
+referencyjnych 
+Odniesienie  
+do Europej-
+skiego prawa 
+o klimacie  
+Strona 
+ESRS 2 GOV-1 
+Zróżnicowanie członków 
+zarządu ze względu  
+na płeć pkt 21 lit. d
+Wskaźnik nr 13 w tabeli 1 w załączniku I 
+-
+Załącznik II  
+do rozporządzenia 
+delegowanego 
+Komisji (UE) 
+2020/1816  
+-
+7
+ESRS 2 GOV-1 
+Odsetek członków 
+organów, którzy są 
+niezależni pkt 21 lit. e
+-
+-
+Załącznik II  
+do rozporządzenia 
+delegowanego 
+(UE) 2020/1816
+-
+7
+ESRS 2 GOV-4 
+Oświadczenie dotyczące 
+należytej staranności
+Wskaźnik nr 10 w tabeli 3 w załączniku I
+-
+-
+-
+7
+
+
+===== PAGE 52 =====
+52
+Raport ESG 2025 - Grupa IMPEL
+ZAŁĄCZNIKI
+Wymóg dotyczący  
+ujawniania informacji  
+i powiązany z nim 
+punkt danych 
+Odniesienie do rozporządzenia 
+w sprawie ujawniania informacji 
+związanych ze zrównoważonym 
+rozwojem w sektorze usług 
+finansowych 
+Odniesienie  
+do trzeciego filaru 
+Odniesienie do 
+rozporządzenia 
+o wskaźnikach 
+referencyjnych 
+Odniesienie  
+do Europej-
+skiego prawa 
+o klimacie  
+Strona 
+ESRS E1-4 
+Cele redukcji emisji 
+gazów cieplarnianych 
+pkt 34 
+Wskaźnik nr 4 w tabeli 2 w załączniku I
+Art. 449a 
+rozporządzenia 
+(UE) nr 575/2013; 
+rozporządzenie 
+wykonawcze Komisji 
+(UE) 2022/2453, wzór 
+3: Portfel bankowy 
+– Ryzyko przejścia 
+związane ze zmianą 
+klimatu: mierniki 
+dostosowania
+Art. 6 
+rozporządzenia 
+delegowanego 
+(UE) 2020/1818
+-
+18
+ESRS E1-5 
+Zużycie energii z kopal- 
+nych źródeł zdezagre-
+gowanew podziale  
+na źródła (dotyczy 
+wyłącznie sektorów  
+o znacznym oddziaływaniu 
+na klimat) pkt 38
+Wskaźnik nr 5 w tabeli 1 i wskaźnik nr 5 
+w tabeli 2 w załączniku I
+-
+-
+-
+nie
+dotyczy
+ESRS E1-5 
+Zużycie energii i koszyk 
+energetyczny pkt 37
+Wskaźnik nr 5 w tabeli 1 w załączniku I
+-
+-
+-
+19
+ESRS E1-5 
+Energochłonność 
+powiązana  
+z działaniami 
+podejmowanymi 
+w sektorach 
+o znacznym 
+oddziaływaniu  
+na klimat 
+pkt 40–43
+Wskaźnik nr 6 w tabeli 1 w załączniku I
+-
+-
+-
+nie
+dotyczy
+ESRS E1-6 
+Emisje gazów 
+cieplarnianych zakresu 
+1, 2, 3 brutto i całkowite 
+emisje gazów 
+cieplarnianych 
+pkt 44 
+Wskaźnik nr 9 w tabeli 2 w załączniku I 
+Art. 449a rozporządze-
+nia (UE) nr 575/2013; 
+rozporządzenie 
+wykonawcze Komisji 
+(UE) 2022/2453, wzór 
+1: Portfel bankowy 
+– Ryzyko przejścia 
+związane ze zmia-
+ną klimatu: jakość 
+kredytowa ekspozycji 
+według sektora, emisji 
+i rezydualnego termi-
+nu zapadalności 
+Art. 5 ust. 1, art. 6 
+i art. 8 ust. 1 
+rozporządzenia 
+delegowanego 
+(UE) 2020/1818 
+-
+20
+ESRS E1-6 
+Intensywność emisji ga-
+zów cieplarnianych 
+brutto pkt 53–55 
+-
+-
+Art. 2 ust. 1 roz-
+porządzenia (UE) 
+2021/1119 
+-
+nie
+dotyczy
+ESRS E1-7 
+Usuwanie gazów 
+cieplarnianych  
+i jednostki emisji 
+dwutlenku węgla 
+pkt 56 
+-
+-
+Art. 12 ust. 1 
+rozporządzenia 
+delegowanego 
+(UE) 2020/1818, 
+załącznik II  
+do rozporządzenia 
+delegowanego 
+(UE) 2020/1816 
+-
+20
+ESRS E1-9 
+Ekspozycja portfela  
+odniesienia  
+na ryzyka fizyczne  
+związane z klimatem
+pkt 66
+-
+-
+Załącznik II  
+do rozporządzenia 
+delegowanego 
+(UE) 2020/1818, 
+załącznik II do 
+rozporządzenia 
+delegowanego 
+(UE) 2020/1816 
+-
+nie
+dotyczy
+ESRS E1-9 
+Dezagregacja kwot pie-
+niężnych według nagłego 
+i długotrwałego ryzyka 
+fizycznego pkt 66 lit. a
+ESRS E1-9 
+Lokalizacja znaczących 
+składników aktywów 
+obarczonych istotnym 
+ryzykiem fizycznym 
+pkt 66 lit. c
+-
+Art. 449a 
+rozporządzenia 
+(UE) nr 575/2013; 
+rozporządzenie 
+wykonawcze Komisji 
+(UE) 2022/2453, wzór 
+3: Portfel bankowy 
+– Ryzyko przejścia 
+związane ze zmianą 
+klimatu: mierniki 
+dostosowania
+-
+-
+nie
+dotyczy
+
+
+===== PAGE 53 =====
+53
+Raport ESG 2025 - Grupa IMPEL
+ZAŁĄCZNIKI
+Wymóg dotyczący  
+ujawniania informacji  
+i powiązany z nim 
+punkt danych 
+Odniesienie do rozporządzenia 
+w sprawie ujawniania informacji 
+związanych ze zrównoważonym 
+rozwojem w sektorze usług 
+finansowych 
+Odniesienie  
+do trzeciego filaru 
+Odniesienie do 
+rozporządzenia 
+o wskaźnikach 
+referencyjnych 
+Odniesienie  
+do Europej-
+skiego prawa 
+o klimacie  
+Strona 
+ESRS E1-9  
+Podział wartości księgowej 
+nieruchomości według 
+klas efektywności 
+energetycznej 
+pkt 67 lit. c
+-
+Art. 449a 
+rozporządzenia (UE) 
+nr 575/2013; pkt 34 
+rozporządzenia 
+wykonawczego Komisji 
+(UE) 2022/2453; wzór 
+2: Portfel bankowy 
+– Ryzyko przejścia 
+związane ze zmianami 
+klimatu: kredyty 
+zabezpieczone 
+nieruchomościami 
+– efektywność 
+energetyczna 
+zabezpieczeń
+-
+-
+nie
+dotyczy
+ESRS E1-9 
+Stopień ekspozycji 
+portfela na szanse 
+związane z klimatem 
+pkt 69
+-
+-
+Załącznik II  
+do rozporządzenia 
+delegowanego 
+(UE) 2020/1818
+-
+nie
+dotyczy
+ESRS E2-4 
+Ilość każdego czynnika 
+zanieczyszczającego 
+wymienionego 
+w załączniku II  
+do rozporządzenia 
+w sprawie E-PRTR 
+(Europejski Rejestr 
+Uwalniania i Transferu 
+Zanieczyszczeń) 
+emitowanego  
+do powietrza, wody 
+i gleby, pkt 28 
+Wskaźnik nr 8 w tabeli 1 w załączniku I, 
+wskaźnik nr 2 w tabeli 2 w załączniku I, 
+wskaźnik nr 1 w tabeli 2 w załączniku I oraz 
+wskaźnik nr 3 w tabeli 2 w załączniku I 
+-
+-
+-
+20
+ESRS E3-1 
+Woda i zasoby morskie 
+pkt 9 
+Wskaźnik nr 7 w tabeli 2 w załączniku I 
+-
+-
+-
+21
+ESRS E3-1  
+Specjalna polityka pkt 13 
+Wskaźnik nr 8 w tabeli 2 w załączniku I 
+-
+-
+-
+21
+ESRS E3-1 
+Zrównoważone praktyki 
+w dziedzinie mórz 
+i oceanów pkt 14 
+Wskaźnik nr 12 w tabeli 2 w załączniku I 
+-
+-
+-
+21
+ESRS E3-4 
+Całkowita ilość wody 
+poddanej recyklingowi 
+i ponownemu użyciu 
+pkt 28 lit. c
+Wskaźnik nr 6.2 w tabeli 2 w załączniku I 
+-
+-
+-
+22
+
+
+===== PAGE 54 =====
+54
+Raport ESG 2025 - Grupa IMPEL
+Grupa Impel
+impel. pl
