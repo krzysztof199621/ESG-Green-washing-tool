@@ -1,0 +1,34 @@
+---
+description: Obowiązkowa instrukcja raportu audytu greenwashingu. Stosuj przy każdym raporcie — EmpCo od 27.09.2027 w Polsce, wykładnia z baz orzeczeń, forma raportu.
+globs: "**/*"
+alwaysApply: true
+---
+
+# Raport audytu greenwashingu
+
+Gdy powstaje raport audytu greenwashingu (analiza materiału marketingowego, oferty, specyfikacji lub raportu ESG), przed napisaniem odczytaj i stosuj bez odstępstw `INSTRUKCJA_GENEROWANIA_RAPORTOW.md`. Ta instrukcja ma pierwszeństwo przed kalendarzem w `knowledge-base/` (stan 15.09.2026).
+
+Formę dokumentu bierz ze wzorca składu obowiązującego od 7 listopada 2026 r., nie kopiuj jego treści:
+
+- materiał wejściowy: `wzory/WZOR_material_Libra_Partners.docx`
+- raport: `wzory/WZOR_raport.docx` oraz `sklad_raportu.py`
+
+`wzory/WZOR_raport_Libra_Partners.docx` nie jest wzorem składu.
+
+Metodę oceny bierz z opracowań własnych, nie przenoś ich przykładów na inny podmiot:
+
+- `opracowania/Uwagi_prawne_do_audytu_greenwashingu.docx`
+- `opracowania/Orzecznictwo_TSUE_audyt_greenwashingu.docx`
+- `opracowania/Orzecznictwo_polskie_audyt_greenwashingu.docx`
+
+Raport DOCX: pas #08181F z logo po lewej i sygnaturą po prawej, stopka z poufnością, nazwą dokumentu, datą i numerem strony, tytuł, dwulinijkowy podtytuł, metryczka z lewą kolumną #F4F6F5, jedna cienka ramka werdyktu, analiza wstępna z reżimem prawnym, tabela zbiorcza naruszeń (ID / twierdzenie / podstawa / ryzyko burgundowym pogrubieniem / istota), przypadki z cytatem wypunktowanym, oceną, naprawą i szarym wcięciem wzoru po korekcie, porównanie tylko gdy jest w materiale, ryzyka jako numeracja wielopoziomowa, cztery etapy rekomendacji jako nagłówki, wniosek i blok podpisu. Bez znaku „■”, bez kodów angielskich w nagłówkach i bez pionowej kreski między podstawą a ryzykiem. Tekst główny wyjustowany. Forma bezosobowa.
+
+- Oceniaj wyłącznie przekazany dokument. Nie kończ na brzmieniu przepisu: szukaj wykładni dla podobnego stanu faktycznego lub tematu.
+- Tekst prawa: ISAP (ustawy krajowe), EUR-Lex (prawo UE). Orzecznictwo: EUR-Lex (TSUE), SAOS i baza SN, w sprawach administracyjnych także NSA. Nie wymyślaj artykułów, sygnatur ani tez. Baza `knowledge-base/knowledge/` jest mapą aktów i praktyki UOKiK, nie tekstem obowiązującym i nie zamkniętym zbiorem orzeczeń.
+- Dyrektywa (UE) 2024/825 (EmpCo): art. 4 ust. 1 wyznacza 27.09.2026 jako datę stosowania przepisów krajowych. Ustawa z 4.09.2026 r. (Dz.U. 2026 poz. 1353) wchodzi w życie 27.09.2027. Do tej daty werdykt opiera się na art. 5 i 6 UPNPR oraz na przepisach już obowiązujących. Czarna lista EmpCo jest przyszłym standardem, nie stwierdzonym naruszeniem krajowym. Samo utrzymywanie treści w internecie tej daty nie przyspiesza.
+- Wytyczne OECD (edycja 2023): etykieta NISKIE. To zalecenia. Złamanie może trafić do polskiego KPK i do postępowania z `knowledge-base/knowledge/12_social_washing.md`. To nie jest sprawa sądowa ani wyrok. Skutek: publiczna ocena, zalecenia, ryzyko wizerunkowe. Sam ten poziom nie daje werdyktu czerwonego ani żółtego.
+- Raport po polsku, stylem formalnego audytu prawnego. Werdykt red / amber / green z polskimi etykietami z instrukcji, bez kodów angielskich. Ustalenia tylko tam, gdzie przesłanki są spełnione; bez docelowej liczby przypadków.
+- Każde ustalenie ma: title, claim, dosłowny quote, legal_basis (przepis obowiązujący osobno od przyszłego standardu EmpCo), risk i risk_label, issue, assessment, remediation, allowed_claim (albo null, gdy claim jest nie do uratowania).
+- Pusty lub niemerytoryczny plik: werdykt green albo amber, pusta lista ustaleń, wyjaśnienie w podsumowaniu. Nie proś o doprecyzowanie.
+- Kalendarza i podstaw nie zmieniaj w trakcie raportu. Służy do tego komenda „Sprawdź nowe przepisy” i `INSTRUKCJA_AKTUALIZACJI_PRZEPISOW.md`.
+- Tej instrukcji nie stosuj do innych zadań w repozytorium.

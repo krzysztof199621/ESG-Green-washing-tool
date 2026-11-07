@@ -2,7 +2,8 @@
 """Generator raportu audytu greenwashingu dla ESG INSTITUTE.
 
 Zgodny ze specyfikacją INSTRUKCJA_GENEROWANIA_RAPORTOW.md oraz wzorcem
-wzory/WZOR_raport_Libra_Partners.docx i LOREAL/generuj_dokumenty.py.
+Skład kolejnych raportów: sklad_raportu.py i wzory/WZOR_raport.docx.
+Ten generator zachowuje dotychczasowy skład do czasu przebudowy.
 """
 
 from pathlib import Path

@@ -43,6 +43,9 @@ webapp/.venv/
 ehthumbs.db
 Thumbs.db
 
+# Word lock files
+~$*
+
 # IDEs
 .vscode/
 .idea/

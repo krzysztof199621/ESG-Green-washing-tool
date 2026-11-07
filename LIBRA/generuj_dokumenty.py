@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Materiał źródłowy i raport audytu greenwashingu: Libra Partners (wersja EN).
 
-Forma jak wzory/WZOR_raport_Libra_Partners.docx i jak generatory LOREAL/ESG.
+Skład kolejnych raportów: sklad_raportu.py i wzory/WZOR_raport.docx.
+Ten generator zachowuje dotychczasowy skład raportu Libra do czasu przebudowy.
 Werdykt według INSTRUKCJA_GENEROWANIA_RAPORTOW.md: do 27.09.2027 czarna lista
 EmpCo jest przyszłym standardem. Social washing: knowledge/12_social_washing.md.
 """

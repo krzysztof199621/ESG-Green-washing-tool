@@ -4,12 +4,12 @@ Ten plik jest wiążącą specyfikacją każdego raportu audytu w Green Washing 
 
 Kalendarz i podstawy prawne aktualizuje komenda „Sprawdź nowe przepisy” według `INSTRUKCJA_AKTUALIZACJI_PRZEPISOW.md`, po zgodzie użytkownika. Przy pisaniu raportu nie uruchamiaj tej komendy i nie zmieniaj dat w tym pliku.
 
-Układ, ton i forma dokumentu mają odpowiadać wzorcom w `wzory/`:
+Układ, ton i forma dokumentu mają odpowiadać wzorcowi składu obowiązującemu od 7 listopada 2026 r.:
 
 - materiał wejściowy: `wzory/WZOR_material_Libra_Partners.docx`
-- raport: `wzory/WZOR_raport_Libra_Partners.docx`
+- raport: `wzory/WZOR_raport.docx`, budowany przez `generuj_wzor_raportu.py` ze składu `sklad_raportu.py`
 
-Wzorzec jest przykładem formy, nie treścią do skopiowania. Nowy raport opisuje wyłącznie badany dokument.
+`wzory/WZOR_raport_Libra_Partners.docx` jest wcześniejszym przykładem treści i nie jest wzorem składu. Wzorzec jest przykładem formy, nie treścią do skopiowania. Nowy raport opisuje wyłącznie badany dokument. Kolejny generator raportu korzysta z klasy `ReportDoc` w `sklad_raportu.py`.
 
 Opracowania własne w `opracowania/` są metodą oceny, nie katalogiem tez do wklejenia i nie opisem audytowanego podmiotu:
 
@@ -135,16 +135,18 @@ Osobna etykieta, do 26 września 2027 r.: „PRZYSZŁY STANDARD EMPCO (od 27.09.
 
 Do 26 września 2027 r.:
 
-- red — „NIE PUBLIKOWAĆ W OBECNEJ FORMIE (KOD CZERWONY / REJECT & RE-NARROW)”: co najmniej jedno naruszenie critical albo high prawa już obowiązującego. Sam przyszły standard EmpCo nie wystarcza.
-- amber — „PUBLIKACJA WARUNKOWA PO KOREKCIE (KOD ŻÓŁTY)”: brak takiego naruszenia, ale są ustalenia medium albo twierdzenie dziś zgodne z art. 5 i 6, które od 27 września 2027 r. spełni zakaz EmpCo i przed tą datą wymaga zawężenia.
-- green — „DOPUSZCZONE DO PUBLIKACJI (KOD ZIELONY)”: brak istotnych naruszeń prawa obowiązującego. Krótka wzmianka o przyszłym standardzie, która nie wymaga wstrzymania publikacji, nie blokuje werdyktu zielonego; napisz ją we wniosku.
+- red — „Ryzyko wysokie – rekomendowane wstrzymanie publikacji i korekta treści”: co najmniej jedno naruszenie critical albo high prawa już obowiązującego. Sam przyszły standard EmpCo nie wystarcza.
+- amber — „Publikacja warunkowa – rekomendowana korekta przed publikacją”: brak takiego naruszenia, ale są ustalenia medium albo twierdzenie dziś zgodne z art. 5 i 6, które od 27 września 2027 r. spełni zakaz EmpCo i przed tą datą wymaga zawężenia.
+- green — „Dopuszczone do publikacji”: brak istotnych naruszeń prawa obowiązującego. Krótka wzmianka o przyszłym standardzie, która nie wymaga wstrzymania publikacji, nie blokuje werdyktu zielonego; napisz ją we wniosku.
+
+W dokumencie nie używa się kodów angielskich ani nawiasów w rodzaju „KOD CZERWONY / REJECT & RE-NARROW”. Poziom red, amber i green zostaje tylko jako wybór etykiety polskiej z tej listy.
 
 Od 27 września 2027 r. spełniony zakaz z ustawy może uzasadniać werdykt czerwony. Nadal tylko przy pełnych przesłankach.
 
 # ZAKRES RAPORTU (w języku polskim, styl formalny audytu prawnego)
 
-1. Nagłówek w identyfikacji ESG Institute (logo, pas #08181F): kicker „ESG INSTITUTE · RAPORT AUDYTU REGULACYJNEGO I ŚRODOWISKOWEGO”; tytuł „Audyt Ryzyk Greenwashingu: <NAZWA PODMIOTU WIELKIMI LITERAMI>”; podtytuł opisujący, co zweryfikowano i wobec jakich aktów, z rozdzieleniem prawa obowiązującego i — gdy data audytu jest wcześniejsza — standardu EmpCo od 27 września 2027 r. Pod nagłówkiem zrzut badanej strony, jeśli materiał pochodzi z witryny.
-2. Metryczka: Badany podmiot (nazwa, grupa, adres — jeśli są w dokumencie), Przedmiot audytu, Sektor działalności, Reżim prawny (akty faktycznie zastosowane oraz zdanie, czy czarna lista EmpCo jest już prawem polskim), Data audytu, Werdykt operacyjny.
+1. Nagłówek strony w identyfikacji ESG Institute: pas #08181F, logo po lewej, po prawej sygnatura „Sygn. ESG/RRRR/MM/DD” i linia „Raport audytu regulacyjnego i środowiskowego”. W treści nie ma kickera z kropką środkową. Tytuł „Audyt Ryzyk Greenwashingu: <NAZWA PODMIOTU WIELKIMI LITERAMI>”. Podtytuł to dwie linie zakresu: co zweryfikowano, z jakiego źródła i na jaki stan. Kalendarz ustaw i rozdzielenie prawa obowiązującego od standardu EmpCo idą do podrozdziału „Reżim prawny” w analizie wstępnej, nie do podtytułu.
+2. Metryczka: Badany podmiot (nazwa, grupa, adres — jeśli są w dokumencie), Przedmiot audytu, Sektor działalności, Reżim prawny (lista aktów faktycznie zastosowanych oraz jedno zdanie, czy czarna lista EmpCo jest już prawem polskim), Data audytu, Werdykt operacyjny. Lewa kolumna ma tło #F4F6F5 i ciemny tekst. Polemika o datach wejścia w życie nie wchodzi do metryczki.
 3. Werdykt: poziom, etykieta jak wyżej, 2–4 zdania. Wskaż przepis obowiązujący. Przyszłego standardu nie przedstawiaj jako naruszenia już stwierdzonego.
 4. Analiza wstępna: 2–3 akapity — czym zajmuje się podmiot, jaką narrację buduje, które twierdzenia spełniają przesłanki przepisu obowiązującego.
 5. Ustalenia: każde odrębne twierdzenie, które te przesłanki spełnia, jako osobny przypadek, od najwyższego ryzyka. Dla każdego:
@@ -173,27 +175,31 @@ Jedno orzeczenie, które niesie kwalifikację, wystarcza. Nie dołączaj katalog
 
 Mapa startowa wyszukania, do potwierdzenia w bazie, a nie do cytowania hurtem, jest w dwóch opracowaniach orzeczniczych. Obejmuje w szczególności: C-195/14 Teekanne, C-281/12 Trento Sviluppo, C-381/05 De Landtsheer, C-356/04 Lidl Belgium, C-562/15 Carrefour Hypermarchés, C-611/14 Canal Digital Danmark, C-363/19 Mezina, C-524/18 Schwabe, oraz pomocniczo C-465/98 Darbo, C-137/13 Herbaria, C-19/15 Innova Vital; z orzecznictwa polskiego IV CSK 56/14, III SK 34/13, I NSK 66/18, I NSKP 11/21 i X GC 1024/13. Szukaj dalej, jeżeli stan faktyczny dokumentu jest bliższy innemu wyrokowi.
 
-# FORMA RAPORTU (jak `wzory/WZOR_raport_Libra_Partners.docx`)
+# FORMA RAPORTU (jak `wzory/WZOR_raport.docx` i `sklad_raportu.py`)
+
+Skład buduje `ReportDoc`. Czcionka Arial, język pl-PL. Tekst główny wyjustowany, z dzieleniem wyrazów. Komórki tabel wyrównane do lewej. Akapit oceny ma cztery do sześciu zdań i odpowiada jednemu argumentowi. Czasowniki w pierwszej osobie liczby pojedynczej zamienia się na formę bezosobową. Na końcu jest blok podpisu: imię i nazwisko, stanowisko, ESG Institute, data, sygnatura. Nazwiska nie wymyśla się.
+
+Nie używa się znaku „■”, kropki środkowej w nadtytule, pionowej kreski między podstawą prawną a poziomem ryzyka ani kodów angielskich w nagłówkach. Ramki są dwie: cienkie obramowanie werdyktu oraz jasnoszare wcięcie #F4F6F5 dla wzoru po korekcie. Etapy rekomendacji nie dostają kolorowych ramek. Poziom ryzyka w tabeli jest pogrubiony: bardzo wysokie i wysokie w kolorze burgundowym.
 
 Raport zapisuj jako DOCX w tej kolejności:
 
-1. Kicker: „ESG INSTITUTE · RAPORT AUDYTU REGULACYJNEGO I ŚRODOWISKOWEGO”. W nagłówku strony logo ESG Institute.
+1. Nagłówek strony: logo ESG Institute na pasie #08181F po lewej, sygnatura po prawej. Stopka: „Poufne / Wyłącznie do użytku wewnętrznego”, nazwa dokumentu, data audytu, „Strona X z Y”.
 2. Tytuł: „Audyt Ryzyk Greenwashingu: <NAZWA PODMIOTU WIELKIMI LITERAMI>”.
-3. Podtytuł: co zweryfikowano, z jakiego źródła i na jaki stan, wobec jakich aktów, z rozdzieleniem prawa obowiązującego i standardu EmpCo.
-4. Metryczka — tabela 2 kolumny, 6 wierszy: Badany podmiot, Przedmiot audytu, Sektor działalności, Reżim prawny, Data audytu, Werdykt operacyjny.
-5. Callout werdyktu: „■ WERDYKT: …” z etykietą red / amber / green i 2–4 zdaniami uzasadnienia.
-6. „1. Analiza Wstępna” — 2–3 akapity.
-7. „2. Analiza szczegółowa - tabela zbiorcza naruszeń” — kolumny: ID, Analizowane twierdzenie, Podstawa prawna, Ryzyko, Istota naruszenia. Jeden wiersz na przypadek, od najwyższego ryzyka. W podstawie prawnej nie stawiaj samego numeru punktu EmpCo, jeżeli data audytu jest wcześniejsza niż 27 września 2027 r.
+3. Podtytuł: dwie linie zakresu. Bez kalendarza ustaw.
+4. Metryczka — tabela 2 kolumny, 6 wierszy: Badany podmiot, Przedmiot audytu, Sektor działalności, Reżim prawny, Data audytu, Werdykt operacyjny. Lewa kolumna #F4F6F5. W reżimie lista aktów i jedno zdanie o czarnej liście EmpCo.
+5. Ramka werdyktu: słowo „Werdykt”, polska etykieta red, amber albo green oraz 2–4 zdania.
+6. „1. Analiza wstępna”, z podrozdziałem „1.1. Reżim prawny”. Zrzut witryny, jeżeli materiał z niej pochodzi, stoi w analizie wstępnej albo w załączniku: szerokość około 8,2 cm, ramka 0,5 pt, podpis „Rys. N. … Źródło: opracowanie własne.” Nie stoi nad metryczką.
+7. „2. Analiza szczegółowa — tabela zbiorcza naruszeń” — kolumny: ID, Analizowane twierdzenie, Podstawa prawna, Ryzyko, Istota naruszenia. Nagłówek tabeli na pasie #08181F. Jeden wiersz na przypadek, od najwyższego ryzyka. W podstawie prawnej nie stawiaj samego numeru punktu EmpCo, jeżeli data audytu jest wcześniejsza niż 27 września 2027 r.
 8. „3. Szczegółowa analiza przypadków”. Każdy przypadek:
-   - nagłówek „PRZYPADEK NN: <title>”,
-   - linia „Podstawa prawna: … | Poziom ryzyka: …”,
-   - „Cytat źródłowy:” z dosłownymi cytatami w „…”,
-   - „Ocena prawna:” (assessment),
-   - „Kierunek naprawy:” (remediation),
-   - callout „■ DOZWOLONE SFORMUŁOWANIE (WZÓR PO KOREKCIE)” albo wyjaśnienie, że sformułowanie jest nie do uratowania.
-9. „4. Porównanie twierdzeń <PODMIOT> z rzeczywistym stanem prawno-środowiskowym” — tylko gdy dokument porównuje. Tabela: Twierdzenie podmiotu | Rzeczywisty stan prawno-środowiskowy. Kryterium porównawcze wpisz w treści twierdzenia, jeśli nie mieści się w osobnej kolumnie wzorca.
-10. „5. Ryzyka prawne i finansowe” — 2–4 pozycje, każda z nagłówkiem „• N. …” i akapitem.
-11. „6. Rekomendacje naprawcze” — cztery callouty etapów. Etap natychmiastowy tylko dla prawa już naruszonego. Jeden etap ustaw przed 27 września 2027 r., gdy w materiale są twierdzenia objęte przyszłym standardem EmpCo. Pozostałe: korekta materiałów oraz stałe sformułowania i szkolenie. Termin licz od daty audytu.
-12. „7. Wnioski” — 1–2 zdania.
+   - nagłówek „Przypadek NN. <title>”,
+   - tabela dwukolumnowa: podstawa prawna oraz poziom ryzyka,
+   - „Cytat źródłowy” jako wypunktowanie: etykieta miejsca pogrubiona, cytat w „…” kursywą,
+   - „Ocena prawna” w osobnych akapitach,
+   - „Kierunek naprawy”,
+   - wcięcie „Dozwolone sformułowanie (wzór po korekcie)” albo wyjaśnienie, że sformułowanie jest nie do uratowania.
+9. Porównanie — tylko gdy dokument porównuje. Nie zostawia się pustego numeru. Tabela: Twierdzenie podmiotu i rzeczywisty stan prawno-środowiskowy. Kryterium porównawcze wpisz w treści twierdzenia.
+10. Ryzyka prawne i finansowe — 2–4 pozycje, nagłówki „N.1.”, „N.2.”, bez równoczesnej kropki wypunktowania i cyfry.
+11. Rekomendacje naprawcze — cztery etapy jako nagłówki. Etap natychmiastowy tylko dla prawa już naruszonego. Jeden etap ustaw przed 27 września 2027 r., gdy w materiale są twierdzenia objęte przyszłym standardem EmpCo. Pozostałe: korekta materiałów oraz stałe sformułowania i szkolenie. Termin licz od daty audytu.
+12. Wnioski — 1–2 zdania. Potem blok zatwierdzenia.
 
 Materiał wejściowy, gdy jest składany do audytu, ma formę jak `wzory/WZOR_material_Libra_Partners.docx`: nagłówek zbioru, podmiot, adresy źródeł, data zebrania, potem sekcje z dosłownymi hasłami, parametrami, opiniami i liczbami — bez oceny prawnej.
