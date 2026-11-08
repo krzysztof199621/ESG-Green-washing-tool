@@ -36,7 +36,8 @@ WARNING = RGBColor(180, 83, 9)
 SUCCESS = RGBColor(4, 120, 87)
 GREEN_TXT = RGBColor(22, 101, 52)
 
-PAGE_W = 17.6
+# A4 21,0 cm. Marginesy lewy i prawy po 2,0 cm — szerokość kolumny treści.
+PAGE_W = 17.0
 
 
 def _shd(cell, hex_color):
@@ -204,16 +205,35 @@ def _field(paragraph, instruction, size=8, color=MUTED):
     _run(run, size, False, False, color)
 
 
-def _p_border_bottom(paragraph, color="E6EDF2", sz="8"):
+def _p_border_bottom(paragraph, color="E6EDF2", sz="8", space="6"):
     p_pr = paragraph._p.get_or_add_pPr()
     p_bdr = OxmlElement("w:pBdr")
     bottom = OxmlElement("w:bottom")
     bottom.set(qn("w:val"), "single")
     bottom.set(qn("w:sz"), sz)
-    bottom.set(qn("w:space"), "1")
+    bottom.set(qn("w:space"), space)
     bottom.set(qn("w:color"), color)
     p_bdr.append(bottom)
     p_pr.append(p_bdr)
+
+
+def _no_snap(paragraph):
+    p_pr = paragraph._p.get_or_add_pPr()
+    snap = p_pr.find(qn("w:snapToGrid"))
+    if snap is None:
+        snap = OxmlElement("w:snapToGrid")
+        p_pr.append(snap)
+    snap.set(qn("w:val"), "0")
+
+
+def _widow(paragraph, keep_next=False, keep_lines=False, page_break=False):
+    fmt = paragraph.paragraph_format
+    fmt.widow_control = True
+    fmt.keep_with_next = keep_next
+    fmt.keep_together = keep_lines
+    if page_break:
+        fmt.page_break_before = True
+    _no_snap(paragraph)
 
 
 def _clear_paragraph(paragraph):
@@ -229,6 +249,7 @@ def _clear_paragraph(paragraph):
     spacing.set(qn("w:after"), "0")
     spacing.set(qn("w:line"), "240")
     spacing.set(qn("w:lineRule"), "auto")
+    _no_snap(paragraph)
 
 
 def _banner():
@@ -431,23 +452,18 @@ def build(path: Path, specimen: bool):
     section = doc.sections[0]
     section.page_width = Mm(210)
     section.page_height = Mm(297)
-    section.top_margin = Cm(2.15)
-    section.bottom_margin = Cm(1.55)
-    section.left_margin = Cm(1.7)
-    section.right_margin = Cm(1.7)
-    section.header_distance = Cm(0.28)
-    section.footer_distance = Cm(0.32)
-
-    sect_pr = section._sectPr
-    pg_borders = OxmlElement("w:pgBorders")
-    pg_borders.set(qn("w:offsetFrom"), "page")
-    left_edge = OxmlElement("w:left")
-    left_edge.set(qn("w:val"), "single")
-    left_edge.set(qn("w:sz"), "24")
-    left_edge.set(qn("w:space"), "0")
-    left_edge.set(qn("w:color"), "3A61B3")
-    pg_borders.append(left_edge)
-    sect_pr.append(pg_borders)
+    section.top_margin = Cm(2.55)
+    section.bottom_margin = Cm(1.95)
+    section.left_margin = Cm(2.0)
+    section.right_margin = Cm(2.0)
+    section.header_distance = Cm(0.42)
+    section.footer_distance = Cm(0.45)
+    grid = section._sectPr.find(qn("w:docGrid"))
+    if grid is None:
+        grid = OxmlElement("w:docGrid")
+        section._sectPr.append(grid)
+    grid.set(qn("w:type"), "default")
+    grid.set(qn("w:linePitch"), "360")
 
     settings = doc.settings.element
     for el in settings.findall(".//" + qn("w:compatSetting")):
@@ -473,71 +489,151 @@ def build(path: Path, specimen: bool):
     )
     props.comments = "ESG Institute · esginstitute.eu · raport skrócony · 30 października 2026 r."
 
-    def para(text, size=10.5, bold=False, italic=False, color=DARK, before=0, after=6, align="left", keep_next=False, lang="pl-PL"):
+    def para(
+        text,
+        size=10.5,
+        bold=False,
+        italic=False,
+        color=DARK,
+        before=0,
+        after=8,
+        align="left",
+        keep_next=False,
+        keep_lines=False,
+        page_break=False,
+        left=0,
+        right=0,
+        first=0,
+        lang="pl-PL",
+        tracking=None,
+        space=1.15,
+    ):
         paragraph = doc.add_paragraph()
-        paragraph.paragraph_format.space_before = Pt(before)
-        paragraph.paragraph_format.space_after = Pt(after)
-        paragraph.paragraph_format.line_spacing = 1.08
-        paragraph.paragraph_format.keep_with_next = keep_next
+        fmt = paragraph.paragraph_format
+        fmt.space_before = Pt(before)
+        fmt.space_after = Pt(after)
+        fmt.line_spacing = space
+        if left:
+            fmt.left_indent = Cm(left)
+        if right:
+            fmt.right_indent = Cm(right)
+        if first:
+            fmt.first_line_indent = Cm(first)
         if align == "justify":
             paragraph.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
         elif align == "center":
             paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        _run(paragraph.add_run(text), size, bold, italic, color, lang=lang)
+        elif align == "right":
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+        _widow(paragraph, keep_next, keep_lines, page_break)
+        _run(paragraph.add_run(text), size, bold, italic, color, lang=lang, tracking=tracking)
         return paragraph
 
-    def rich(parts, size=10.5, before=0, after=6, align="left", keep_next=False):
+    def rich(
+        parts,
+        size=10.5,
+        before=0,
+        after=8,
+        align="left",
+        keep_next=False,
+        keep_lines=False,
+        page_break=False,
+        left=0,
+        first=0,
+        space=1.15,
+    ):
         paragraph = doc.add_paragraph()
-        paragraph.paragraph_format.space_before = Pt(before)
-        paragraph.paragraph_format.space_after = Pt(after)
-        paragraph.paragraph_format.line_spacing = 1.08
-        paragraph.paragraph_format.keep_with_next = keep_next
+        fmt = paragraph.paragraph_format
+        fmt.space_before = Pt(before)
+        fmt.space_after = Pt(after)
+        fmt.line_spacing = space
+        if left:
+            fmt.left_indent = Cm(left)
+        if first:
+            fmt.first_line_indent = Cm(first)
         if align == "justify":
             paragraph.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        elif align == "center":
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        _widow(paragraph, keep_next, keep_lines, page_break)
         for text, bold, italic, color, lang in parts:
             _run(paragraph.add_run(text), size, bold, italic, color, lang=lang)
         return paragraph
 
-    def heading(number, title):
+    def body(text, size=10.5, color=DARK, before=2, after=8, keep_next=False, keep_lines=True, first=0.75, lang="pl-PL"):
+        return para(
+            text,
+            size=size,
+            color=color,
+            before=before,
+            after=after,
+            align="justify",
+            keep_next=keep_next,
+            keep_lines=keep_lines,
+            first=first,
+            lang=lang,
+        )
+
+    def start_page():
         paragraph = doc.add_paragraph()
-        paragraph.paragraph_format.space_before = Pt(11)
-        paragraph.paragraph_format.space_after = Pt(4)
-        paragraph.paragraph_format.keep_with_next = True
-        paragraph.paragraph_format.line_spacing = 1.0
-        _run(paragraph.add_run(number), 13, True, False, BLUE, tracking=40)
-        _run(paragraph.add_run("   " + title), 13, True, False, NAVY)
-        _p_border_bottom(paragraph, "E6EDF2", "10")
+        _clear_paragraph(paragraph)
+        _widow(paragraph, page_break=True)
+        spacing = paragraph._p.get_or_add_pPr().find(qn("w:spacing"))
+        spacing.set(qn("w:before"), "0")
+        spacing.set(qn("w:after"), "0")
+        spacing.set(qn("w:line"), "40")
+        spacing.set(qn("w:lineRule"), "exact")
         return paragraph
 
-    def band(fill, left_color, paragraphs):
+    def heading(number, title, new_page=False):
+        paragraph = doc.add_paragraph()
+        fmt = paragraph.paragraph_format
+        fmt.space_before = Pt(0 if new_page else 18)
+        fmt.space_after = Pt(10)
+        fmt.line_spacing = 1.05
+        _widow(paragraph, keep_next=True, keep_lines=True, page_break=new_page)
+        _run(paragraph.add_run(number + ".  " + title), 14, True, False, NAVY)
+        _p_border_bottom(paragraph, "D5DDE3", "12", "8")
+        return paragraph
+
+    def label(text):
+        return para(text, size=9, bold=True, color=BLUE, before=14, after=5, keep_next=True, keep_lines=True, tracking=32)
+
+    def band(fill, left_color, paragraphs, gap_after=8, new_page=False):
         table = doc.add_table(rows=1, cols=2)
-        _lock(table, [0.16, PAGE_W - 0.16])
+        _lock(table, [0.18, PAGE_W - 0.18])
         _nil_table_borders(table)
-        rail, body = table.rows[0].cells
+        rail, body_cell = table.rows[0].cells
         _shd(rail, left_color)
-        _shd(body, fill)
+        _shd(body_cell, fill)
         _mar(rail, 0, 0, 0, 0)
-        _mar(body, 80, 80, 120, 120)
+        _mar(body_cell, 100, 100, 160, 150)
         _borders(rail, left_color, "2", "2", left_color)
-        _borders(body, fill, "2", "2", fill)
+        _borders(body_cell, fill, "2", "2", fill)
         _clear_paragraph(rail.paragraphs[0])
         first = True
         for text, size, bold, italic, color, lang in paragraphs:
             if first:
-                p = body.paragraphs[0]
+                p = body_cell.paragraphs[0]
                 _clear_paragraph(p)
                 first = False
             else:
-                p = body.add_paragraph()
-            p.paragraph_format.space_before = Pt(1)
-            p.paragraph_format.space_after = Pt(2)
-            p.paragraph_format.line_spacing = 1.08
-            p.alignment = WD_ALIGN_PARAGRAPH.LEFT if bold else WD_ALIGN_PARAGRAPH.JUSTIFY
+                p = body_cell.add_paragraph()
+                _no_snap(p)
+            p.paragraph_format.space_before = Pt(0)
+            p.paragraph_format.space_after = Pt(6)
+            p.paragraph_format.line_spacing = 1.15
+            p.alignment = WD_ALIGN_PARAGRAPH.LEFT if (bold or italic) else WD_ALIGN_PARAGRAPH.JUSTIFY
+            p.paragraph_format.widow_control = True
+            if new_page and p is body_cell.paragraphs[0]:
+                p.paragraph_format.page_break_before = True
             _run(p.add_run(text), size, bold, italic, color, lang=lang)
+        if body_cell.paragraphs:
+            body_cell.paragraphs[-1].paragraph_format.space_after = Pt(0)
         _cant_split(table.rows[0])
         gap = doc.add_paragraph()
         _clear_paragraph(gap)
-        gap.paragraph_format.space_after = Pt(4)
+        gap.paragraph_format.space_after = Pt(gap_after)
 
     # --- nagłówek i stopka ---
     header = section.header
@@ -550,7 +646,7 @@ def build(path: Path, specimen: bool):
     left, right = htable.rows[0].cells
     for cell in (left, right):
         _shd(cell, "08181F")
-        _mar(cell, 50, 50, 110, 110)
+        _mar(cell, 80, 70, 140, 140)
         _nil_cell_borders(cell)
         cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
     lp = _cell_p(left)
@@ -561,11 +657,11 @@ def build(path: Path, specimen: bool):
     rp = _cell_p(right)
     rp.alignment = WD_ALIGN_PARAGRAPH.RIGHT
     who = "WZÓR FORMY" if specimen else "LIBRA PARTNERS"
-    _run(rp.add_run("RAPORT SKRÓCONY"), 8, True, False, CYAN_SOFT, tracking=60)
+    _run(rp.add_run("Raport skrócony"), 8, True, False, CYAN_SOFT)
     rp2 = right.add_paragraph()
     _clear_paragraph(rp2)
     rp2.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-    _run(rp2.add_run(who), 8, True, False, WHITE, tracking=28)
+    _run(rp2.add_run(who), 8, True, False, WHITE)
     _run(rp2.add_run("   ·   esginstitute.eu"), 8, False, False, CYAN_SOFT)
 
     stripe_a, stripe_b = htable.rows[1].cells
@@ -586,14 +682,20 @@ def build(path: Path, specimen: bool):
     footer.is_linked_to_previous = False
     fp = footer.paragraphs[0]
     _clear_paragraph(fp)
-    fp.paragraph_format.space_before = Pt(3)
+    fp.paragraph_format.space_before = Pt(4)
     p_pr = fp._p.get_or_add_pPr()
+    tabs = OxmlElement("w:tabs")
+    tab = OxmlElement("w:tab")
+    tab.set(qn("w:val"), "right")
+    tab.set(qn("w:pos"), str(int(round(PAGE_W / 2.54 * 1440))))
+    tabs.append(tab)
+    p_pr.append(tabs)
     p_bdr = OxmlElement("w:pBdr")
     top = OxmlElement("w:top")
     top.set(qn("w:val"), "single")
     top.set(qn("w:sz"), "12")
-    top.set(qn("w:space"), "6")
-    top.set(qn("w:color"), "2F8DBC")
+    top.set(qn("w:space"), "8")
+    top.set(qn("w:color"), "D5DDE3")
     p_bdr.append(top)
     p_pr.append(p_bdr)
     edition = "wzór formy  ·  " if specimen else ""
@@ -604,7 +706,7 @@ def build(path: Path, specimen: bool):
         False,
         MUTED,
     )
-    _run(fp.add_run("          "), 8, False, False, MUTED)
+    _run(fp.add_run("\t"), 8, False, False, MUTED)
     _field(fp, "PAGE")
     _run(fp.add_run("  /  "), 8, False, False, MUTED)
     _field(fp, "NUMPAGES")
@@ -626,44 +728,44 @@ def build(path: Path, specimen: bool):
         size=8.5,
         bold=True,
         color=BLUE,
-        before=2,
-        after=2,
+        before=4,
+        after=4,
+        keep_next=True,
+        keep_lines=True,
+        tracking=18,
     )
-    title = para("Audyt Ryzyk Greenwashingu: LIBRA PARTNERS", size=20, bold=True, color=NAVY, before=0, after=2)
-    title.paragraph_format.keep_with_next = True
-
-    dash = doc.add_table(rows=1, cols=1)
-    _lock(dash, [2.35], align="left")
-    _nil_table_borders(dash)
-    dash_cell = dash.cell(0, 0)
-    _shd(dash_cell, "2F8DBC")
-    _mar(dash_cell, 0, 0, 0, 0)
-    _borders(dash_cell, "2F8DBC", "2")
-    _clear_paragraph(dash_cell.paragraphs[0])
-    _row_height(dash.rows[0], 68, "exact")
-    gap = doc.add_paragraph()
-    _clear_paragraph(gap)
-    gap.paragraph_format.space_after = Pt(6)
+    para(
+        "Audyt Ryzyk Greenwashingu: LIBRA PARTNERS",
+        size=20,
+        bold=True,
+        color=NAVY,
+        before=0,
+        after=8,
+        keep_next=True,
+        keep_lines=True,
+        space=1.05,
+    )
 
     para(
         "Raport skrócony. Weryfikacja angielskiej witryny https://libra-partners.pl/en/ oraz podstron zrównoważonego rozwoju, "
         "„o nas”, palety MW01 i palety antybakteryjnej MW01-MED, stan na 30 października 2026 r. "
         "Werdykt opiera się na ustawie o zwalczaniu nieuczciwej konkurencji. "
         "Czarna lista dyrektywy (UE) 2024/825 (EmpCo) jest przyszłym standardem od 27 września 2027 r.",
-        size=10,
+        size=10.5,
         italic=True,
         color=MUTED,
         before=2,
-        after=8,
+        after=12,
+        space=1.2,
     )
 
     frame = doc.add_table(rows=1, cols=1)
     _lock(frame, [PAGE_W])
     _nil_table_borders(frame)
     fcell = frame.cell(0, 0)
-    _shd(fcell, "F7F9FC")
-    _mar(fcell, 70, 50, 80, 80)
-    _borders(fcell, "D5DEE8", "6", "16", "08181F")
+    _shd(fcell, "FFFFFF")
+    _mar(fcell, 60, 40, 70, 70)
+    _borders(fcell, "E4E8EC", "6")
     fpict = _cell_p(fcell)
     fpict.alignment = WD_ALIGN_PARAGRAPH.CENTER
     fpict.add_run().add_picture(_banner(), width=Cm(PAGE_W - 0.7))
@@ -684,7 +786,7 @@ def build(path: Path, specimen: bool):
     )
     after_frame = doc.add_paragraph()
     _clear_paragraph(after_frame)
-    after_frame.paragraph_format.space_after = Pt(8)
+    after_frame.paragraph_format.space_after = Pt(12)
 
     meta = [
         (
@@ -704,299 +806,198 @@ def build(path: Path, specimen: bool):
             "Prawo obowiązujące: ustawa o zwalczaniu nieuczciwej konkurencji, Dz.U. 2026 poz. 85, art. 16 i art. 18. Gdy odbiorcą jest konsument: ustawa o przeciwdziałaniu nieuczciwym praktykom rynkowym, Dz.U. 2023 poz. 845, art. 5 i 6. Ustawa o ochronie konkurencji i konsumentów, Dz.U. 2025 poz. 1714, art. 24 i art. 106 ust. 1 pkt 4. Ustawa z 4 września 2026 r. (Dz.U. 2026 poz. 1353) wchodzi w życie 27 września 2027 r. W dniu audytu czarna lista EmpCo nie jest prawem polskim.",
         ),
         ("Data audytu", "30 października 2026 r."),
-        ("Werdykt operacyjny", "NIE PUBLIKOWAĆ W OBECNEJ FORMIE (KOD CZERWONY / REJECT & RE-NARROW)"),
+        ("Werdykt operacyjny", "Nie publikować w obecnej formie"),
     ]
     meta_table = doc.add_table(rows=len(meta), cols=2)
-    meta_w = [4.15, PAGE_W - 4.15]
+    meta_w = [3.9, PAGE_W - 3.9]
     _lock(meta_table, meta_w)
     _nil_table_borders(meta_table)
-    for i, (label, value) in enumerate(meta):
+    for i, (field, value) in enumerate(meta):
         ck, cv = meta_table.rows[i].cells
         last = i == len(meta) - 1
-        _shd(ck, "E8F0FA")
-        _shd(cv, "FFF1F2" if last else "FFFFFF")
-        _mar(ck, 46, 46, 80, 70)
-        _mar(cv, 46, 46, 90, 80)
-        _borders(ck, "E3EAF2", "4", "12", "3A61B3")
-        _borders(cv, "E3EAF2", "4")
+        _shd(ck, "F4F7F8")
+        _shd(cv, "FFFFFF")
+        _mar(ck, 70, 70, 120, 80)
+        _mar(cv, 70, 70, 120, 120)
+        _borders(ck, "E4E8EC", "4")
+        _borders(cv, "E4E8EC", "4")
         ck.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
         pk, pv = _cell_p(ck), _cell_p(cv)
         pk.paragraph_format.space_after = Pt(0)
         pv.paragraph_format.space_after = Pt(0)
-        pv.paragraph_format.line_spacing = 1.05
-        _run(pk.add_run(label), 8, True, False, NAVY)
-        _run(pv.add_run(value), 8.5, last, False, DANGER if last else DARK)
+        pv.paragraph_format.line_spacing = 1.12
+        pv.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        _run(pk.add_run(field), 8, True, False, NAVY)
+        _run(pv.add_run(value), 9, last, False, DARK)
         _cant_split(meta_table.rows[i])
-    spacer = doc.add_paragraph()
-    _clear_paragraph(spacer)
-    spacer.paragraph_format.space_after = Pt(8)
 
+    start_page()
     band(
-        "FFF1F2",
+        "FDF2F4",
         "BE123C",
         [
-            ("WERDYKT OPERACYJNY", 8, True, False, DANGER, "pl-PL"),
-            ("NIE PUBLIKOWAĆ W OBECNEJ FORMIE  ·  KOD CZERWONY", 11.5, True, False, DANGER, "pl-PL"),
+            ("Werdykt. Nie publikować w obecnej formie.", 12, True, False, NAVY, "pl-PL"),
             (
                 "Strona sprzedaje paletę firmie i w tym samym miejscu podaje ilość emisji oraz obietnicę zgodności z polityką ESG. "
                 "Art. 16 ust. 1 pkt 2 i ust. 2 ustawy o zwalczaniu nieuczciwej konkurencji obejmują reklamę, która wprowadza klienta w błąd co do ilości i może wpłynąć na decyzję o nabyciu. "
                 "Zapis „6,060 TONS” przy podstawie „400 kg” dla 33 palet spełnia tę przesłankę. Do tego dochodzą zdania o braku odpadów i o zgodności z Agendą 2030 oraz rozszerzenie wyniku badania dwóch szczepów na cały cykl życia palety.",
-                10,
+                10.5,
                 False,
                 False,
                 DARK,
                 "pl-PL",
             ),
             (
-                "Ustawa wdrażająca dyrektywę (UE) 2024/825 wchodzi w życie 27 września 2027 r. Do tej daty ogólne „eco-friendly”, „key player in sustainability” i pieczęć ESG są przyszłym standardem pkt 2a i 4a, a claim o całym produkcie oparty na masie albo na odbiorze własnych palet — przyszłym standardem pkt 4b. Przekaz nie opiera redukcji na kompensacji, więc pkt 4c go nie opisuje.",
-                10,
+                "Ustawa wdrażająca dyrektywę (UE) 2024/825 wchodzi w życie 27 września 2027 r. Do tej daty ogólne „eco-friendly”, „key player in sustainability” i pieczęć ESG są przyszłym standardem pkt 2a i 4a, a claim o całym produkcie oparty na masie albo na odbiorze własnych palet jest przyszłym standardem pkt 4b. Przekaz nie opiera redukcji na kompensacji, więc pkt 4c go nie opisuje.",
+                10.5,
                 False,
                 False,
                 DARK,
                 "pl-PL",
             ),
         ],
+        gap_after=6,
     )
 
     heading("1", "Analiza wstępna")
-    para(
+    body(
         "LIBRA PARTNERS przedstawia się jako producent palet z HDPE w grupie SZARPOL i kieruje ofertę do firm logistycznych, spożywczych, farmaceutycznych i medycznych. "
         "Wersja angielska otwiera się porównaniem śladu węglowego z paletą drewnianą, hasłem gospodarki o obiegu zamkniętym oraz opiniami nazwanymi „Consumer feedback”. "
         "Odbiorcą zdania „your company” jest klient biznesowy, więc podstawą już dziś jest ustawa o zwalczaniu nieuczciwej konkurencji. "
-        "Trzy twierdzenia spełniają jej przesłanki i rozstrzygają werdykt. Hasła ogólne i pieczęć ESG zbliżają się do zakazów, które w Polsce zaczną obowiązywać 27 września 2027 r. Same nie dają werdyktu czerwonego.",
-        align="justify",
-        after=4,
+        "Trzy twierdzenia spełniają jej przesłanki i rozstrzygają werdykt. Hasła ogólne i pieczęć ESG zbliżają się do zakazów, które w Polsce zaczną obowiązywać 27 września 2027 r. Same nie dają werdyktu czerwonego."
     )
 
     heading("2", "Ustalenia")
     headers = ["ID", "Analizowane twierdzenie", "Podstawa prawna", "Ryzyko", "Istota"]
-    col_w = [1.05, 4.85, 3.85, 2.55, 5.3]
+    col_w = [1.05, 4.35, 3.55, 2.95, 5.1]
     sum_table = doc.add_table(rows=1 + len(FINDINGS), cols=5)
     _lock(sum_table, col_w)
     _nil_table_borders(sum_table)
-    for c, label in enumerate(headers):
+    for c, head in enumerate(headers):
         cell = sum_table.rows[0].cells[c]
         _shd(cell, "08181F")
-        _mar(cell, 42, 42, 50, 50)
+        _mar(cell, 70, 70, 70, 70)
         _borders(cell, "08181F", "4", "4", "08181F")
         p = _cell_p(cell)
-        _run(p.add_run(label), 7.5, True, False, WHITE)
-    risk_fill = {"BARDZO WYSOKIE": "FFF1F2", "WYSOKIE": "FFF1F2"}
+        if c in (0, 3):
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        _run(p.add_run(head), 8, True, False, WHITE)
+    risk_color = {"BARDZO WYSOKIE": DANGER, "WYSOKIE": WARNING}
     for r, row in enumerate(FINDINGS):
         bg = "FFFFFF" if r % 2 == 0 else "F7F9FC"
         for c, val in enumerate(row):
             cell = sum_table.rows[r + 1].cells[c]
-            is_risk = c == 3
-            _shd(cell, risk_fill.get(val, bg) if is_risk else bg)
-            _mar(cell, 40, 40, 50, 50)
-            edge = "BE123C" if is_risk else "E6EDF2"
-            _borders(cell, "E6EDF2", "4", "14" if is_risk else "4", edge)
+            _shd(cell, bg)
+            _mar(cell, 70, 70, 70, 70)
+            _borders(cell, "E4E8EC", "4")
             cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
             p = _cell_p(cell)
-            p.paragraph_format.line_spacing = 1.02
+            p.paragraph_format.line_spacing = 1.12
+            if c in (0, 3):
+                p.alignment = WD_ALIGN_PARAGRAPH.CENTER
             if c == 0:
-                _run(p.add_run(val), 8, True, False, BLUE)
-            elif is_risk:
-                _run(p.add_run(val), 7.5, True, False, DANGER)
+                _run(p.add_run(val), 8.5, True, False, NAVY)
+            elif c == 3:
+                _run(p.add_run(val), 8, True, False, risk_color.get(val, DARK))
             else:
-                _run(p.add_run(val), 7.5, False, False, DARK)
+                _run(p.add_run(val), 8, False, False, DARK)
         _cant_split(sum_table.rows[r + 1])
     _cant_split(sum_table.rows[0])
+    sum_table.rows[0]._tr.get_or_add_trPr().append(OxmlElement("w:tblHeader"))
 
     para(
-        "Raport skrócony rozwija trzy ustalenia, które rozstrzygają werdykt. "
-        "Audyt pełny odnotowuje ponadto dwa ustalenia o ryzyku średnim: trwałość „10 razy” wraz ze zdaniami o wycince oraz sekcję „Consumer feedback” z pięcioma gwiazdkami. Nie są tu omawiane.",
-        size=9,
-        italic=True,
-        color=MUTED,
-        before=6,
-        after=2,
-    )
-
-    heading("3", "Przypadki")
-    for case in CASES:
-        card = doc.add_table(rows=1, cols=3)
-        _lock(card, [0.16, PAGE_W - 0.16 - 3.35, 3.35])
-        _nil_table_borders(card)
-        rail, mid, risk = card.rows[0].cells
-        _shd(rail, "BE123C")
-        _shd(mid, "F4F7FB")
-        _shd(risk, "FFF1F2")
-        _mar(rail, 0, 0, 0, 0)
-        _mar(mid, 60, 60, 100, 80)
-        _mar(risk, 60, 50, 60, 80)
-        for cell, color in ((rail, "BE123C"), (mid, "F4F7FB"), (risk, "FFF1F2")):
-            _borders(cell, color, "2", "2", color)
-        _clear_paragraph(rail.paragraphs[0])
-        mid.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
-        risk.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
-        mp = _cell_p(mid)
-        _run(mp.add_run("PRZYPADEK " + case["no"]), 8, True, False, BLUE, tracking=36)
-        mp2 = mid.add_paragraph()
-        mp2.paragraph_format.space_before = Pt(1)
-        mp2.paragraph_format.space_after = Pt(0)
-        mp2.paragraph_format.line_spacing = 1.05
-        _run(mp2.add_run(case["title"]), 11.5, True, False, NAVY)
-        rp = _cell_p(risk)
-        rp.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-        _run(rp.add_run("POZIOM RYZYKA"), 7, True, False, MUTED, tracking=20)
-        rp2 = risk.add_paragraph()
-        rp2.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-        rp2.paragraph_format.space_before = Pt(1)
-        rp2.paragraph_format.space_after = Pt(0)
-        _run(rp2.add_run(case["risk"]), 9, True, False, DANGER)
-        _cant_split(card.rows[0])
-
-        para(case["basis"], size=8.5, color=CYAN, before=4, after=3)
-
-        qbox = doc.add_table(rows=1, cols=1)
-        _lock(qbox, [PAGE_W])
-        _nil_table_borders(qbox)
-        qc = qbox.cell(0, 0)
-        _shd(qc, "F4F8FB")
-        _mar(qc, 60, 50, 110, 100)
-        _borders(qc, "E3EEF5", "4", "16", "2F8DBC")
-        qp = _cell_p(qc)
-        _run(qp.add_run("CYTAT ŹRÓDŁOWY"), 7.5, True, False, CYAN, tracking=28)
-        for quote in case["quotes"]:
-            _add_body(qc, quote, size=9.5, italic=True, color=DARK, before=1, after=1, lang="en-US")
-        _cant_split(qbox.rows[0])
-
-        para("Ocena prawna", size=10, bold=True, color=NAVY, before=6, after=2, keep_next=True)
-        for block in case["assessment"].split("\n"):
-            para(block, align="justify", after=3)
-        para("Kierunek naprawy", size=10, bold=True, color=NAVY, before=2, after=2, keep_next=True)
-        para(case["remediation"], align="justify", after=4)
-
-        band(
-            "F0FDF4",
-            "059669",
-            [
-                ("DOZWOLONE SFORMUŁOWANIE  ·  WZÓR PO KOREKCIE", 8, True, False, GREEN_TXT, "pl-PL"),
-                (case["claim"], 9.5, False, False, DARK, "en-US"),
-            ],
-        )
-
-    heading("4", "Ryzyka prawne i finansowe")
-    risks = [
-        (
-            "01",
-            "Roszczenia konkurenta",
-            "Reklama porównawcza wobec palety drewnianej oraz zdania o ilości emisji, o braku odpadów i o całym cyklu życia właściwości antybakteryjnej spełniają art. 16. "
-            "Przedsiębiorca, którego interes został zagrożony albo naruszony, może według art. 18 ust. 1 żądać zaniechania, usunięcia skutków, oświadczenia, naprawienia szkody i wydania korzyści, a przy zawinieniu także świadczenia na cel społeczny.",
-        ),
-        (
-            "02",
-            "Postępowanie Prezesa UOKiK",
-            "Art. 24 ust. 2 pkt 2 i 3 ustawy o ochronie konkurencji i konsumentów obejmuje naruszenie obowiązku rzetelnej informacji oraz czyn nieuczciwej konkurencji wobec zbiorowych interesów konsumentów. "
-            "Art. 106 ust. 1 pkt 4 pozwala nałożyć karę do 10% obrotu, także przy naruszeniu nieumyślnym. Oferta palety jest skierowana do firmy, więc kara nie jest automatyczna. Ścieżka zostaje otwarta, bo witryna jest publiczna.",
-        ),
-        (
-            "03",
-            "Standard EmpCo od 27 września 2027 r. i ścieżka KPK",
-            "Od tej daty, zgodnie z art. 3 ustawy z 4 września 2026 r., wejdą pkt 2a, 4a i 4b. Pieczęć ESG, ogólne „eco-friendly” i claim o całej firmie oparty na masie, recyklacie albo odbiorze własnych palet będą wtedy wymagały zawężenia. "
-            "Pkt 4c tego materiału nie opisuje. Osobno: hasło firmy odpowiedzialnej społecznie może być przedmiotem zawiadomienia do polskiego KPK OECD. To postępowanie nie kończy się wyrokiem. Poziom jest NISKIE i nie przesądza werdyktu.",
-        ),
-    ]
-    for number, title, body in risks:
-        row = doc.add_table(rows=1, cols=2)
-        _lock(row, [1.15, PAGE_W - 1.15])
-        _nil_table_borders(row)
-        num, text = row.rows[0].cells
-        _shd(num, "08181F")
-        _shd(text, "FFFFFF")
-        _mar(num, 36, 36, 30, 30)
-        _mar(text, 28, 32, 90, 50)
-        _borders(num, "08181F", "4", "4", "08181F")
-        _borders(text, "E6EDF2", "4", "4", "E6EDF2")
-        num.vertical_alignment = WD_ALIGN_VERTICAL.CENTER
-        np = _cell_p(num)
-        np.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        _run(np.add_run(number), 9, True, False, WHITE)
-        tp = _cell_p(text)
-        _run(tp.add_run(title), 10.5, True, False, NAVY)
-        _add_body(text, body, size=9.5, before=1, after=0, align="justify")
-        _cant_split(row.rows[0])
-        g = doc.add_paragraph()
-        _clear_paragraph(g)
-        g.paragraph_format.space_after = Pt(3)
-
-    heading("5", "Rekomendacje naprawcze")
-    para(
-        "Etap natychmiastowy obejmuje tylko prawo już naruszone. Twierdzenia, które wejdą w czarną listę 27 września 2027 r., są w etapie drugim.",
+        "Jest to przykład 3 ryzyk spośród 5 zidentyfikowanych na stronie.",
         size=10,
         italic=True,
         color=MUTED,
+        before=12,
+        after=2,
+    )
+
+    heading("3", "Szczegóły przypadków", new_page=True)
+    case = CASES[0]
+    para(
+        "Przypadek " + case["no"] + ".  " + case["title"],
+        size=13,
+        bold=True,
+        color=NAVY,
+        before=12,
+        after=4,
+        keep_next=True,
+        keep_lines=True,
+        space=1.08,
+    )
+    risk_rgb = DANGER if "BARDZO" in case["risk"] else WARNING
+    rich(
+        [
+            ("Ryzyko: ", False, False, MUTED, "pl-PL"),
+            (case["risk"].lower() + ".", True, False, risk_rgb, "pl-PL"),
+        ],
+        size=10.5,
         before=0,
         after=6,
+        keep_next=True,
+        keep_lines=True,
     )
-    stages = [
-        ("1", "Do 13 listopada 2026 r.", "BE123C", "FFF1F2",
-         "Zdjąć kalkulator „TONS LESS CO2”, liczbę 400 kg bez trasy oraz zdanie, że zmiana palet daje zgodność z polityką ESG i przygotowuje do raportowania niefinansowego. "
-         "Zdjąć „there is no waste”, „ZERO WASTE”, „100% CIRCULAR ECONOMY”, „never end up in a landfill”, „highest standards” i „confirming the compliance” z Agendą 2030. "
-         "Na stronie MW01-MED zdjąć „entire life cycle”, „99%” jako cechę całej palety, „world’s first” i „you are ESG Friendly”. Zostawić wynik dwóch szczepów z nazwą normy."),
-        ("2", "Przed 27 września 2027 r.", "D97706", "FFFBEB",
-         "Hasła „Eco-friendly”, „technology with ecology in mind”, „key player in sustainability” i „ecological” opatrzyć na tym samym slajdzie jasnym opisem albo zastąpić opisem czynności. "
-         "Pieczęć ESG usunąć albo powiązać z nazwanym systemem certyfikacji lub organem publicznym. Claim o całej palecie i o całej firmie zawęzić do aspektu, którego dotyczy dowód."),
-        ("3", "Do 29 stycznia 2027 r.", "2F8DBC", "F0F9FF",
-         "Jeżeli porównanie transportowe wraca, oprzeć je na metodzie aktualnej dla usługi transportowej, z trasą albo tonokilometrem, ładunkiem, masą palety odniesienia i granicami. "
-         "Wynik Envirly podać z jednostką funkcjonalną albo nie przywoływać „almost twice”. Warunki badania ISO 22196 podać zgodnie z raportem laboratorium. Sprawdzić, czy te same zdania są na wersji polskiej."),
-        ("4", "Do 27 lutego 2027 r., potem na stałe", "059669", "F0FDF4",
-         "Wprowadzić wzory sformułowań z przypadków 01–03, w wersji angielskiej i polskiej w tym samym zakresie. "
-         "Przeszkolić osoby prowadzące stronę: ilość bez granic, „compliance”, „zero waste” i „ESG Friendly” nie wracają do publikacji. "
-         "Po 27 września 2027 r. przegląd strony obejmuje także pkt 2a, 4a i 4b."),
-    ]
-    rec = doc.add_table(rows=1 + len(stages), cols=3)
-    rec_w = [1.15, 4.15, PAGE_W - 5.3]
-    _lock(rec, rec_w)
-    _nil_table_borders(rec)
-    for c, label in enumerate(["Etap", "Horyzont", "Działanie"]):
-        cell = rec.rows[0].cells[c]
-        _shd(cell, "08181F")
-        _mar(cell, 42, 42, 60, 60)
-        _borders(cell, "08181F", "4")
-        p = _cell_p(cell)
-        _run(p.add_run(label), 8, True, False, WHITE)
-    _cant_split(rec.rows[0])
-    for i, (num, when, accent, fill, action) in enumerate(stages):
-        vals = (num, when, action)
-        for c, val in enumerate(vals):
-            cell = rec.rows[i + 1].cells[c]
-            _shd(cell, fill if c < 2 else "FFFFFF")
-            _mar(cell, 32, 32, 56, 56)
-            _borders(cell, "E6EDF2", "4", "14" if c == 0 else "4", accent if c == 0 else "E6EDF2")
-            cell.vertical_alignment = WD_ALIGN_VERTICAL.CENTER if c < 2 else WD_ALIGN_VERTICAL.TOP
-            p = _cell_p(cell)
-            p.paragraph_format.line_spacing = 1.02
-            if c == 2:
-                p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-            stage_color = {"1": DANGER, "2": WARNING, "3": CYAN, "4": SUCCESS}[num]
-            if c == 0:
-                _run(p.add_run(val), 11, True, False, stage_color)
-            elif c == 1:
-                _run(p.add_run(val), 8, True, False, NAVY)
-            else:
-                _run(p.add_run(val), 8, False, False, DARK)
-        _cant_split(rec.rows[i + 1])
+    body(case["basis"], size=9.5, before=0, after=4, first=0, keep_lines=True)
 
-    heading("6", "Wniosek")
+    label("Cytat źródłowy")
+    for quote in case["quotes"]:
+        band("F4F7FB", "2F8DBC", [(quote, 10, False, True, DARK, "en-US")], gap_after=6)
+
+    label("Ocena prawna")
+    for block in case["assessment"].split("\n"):
+        body(block, before=1, after=8, keep_lines=True, first=0.75)
+
+    naprawa = para(
+        "Kierunek naprawy",
+        size=14,
+        bold=True,
+        color=NAVY,
+        before=0,
+        after=8,
+        keep_next=True,
+        keep_lines=True,
+        page_break=True,
+        space=1.05,
+    )
+    _p_border_bottom(naprawa, "D5DDE3", "12", "8")
+    body(case["remediation"], before=4, after=6, keep_lines=True, first=0.75)
+
+    label("Dozwolone sformułowanie")
+    band("E8F0FA", "3A61B3", [(case["claim"], 10, False, True, DARK, "en-US")], gap_after=4)
+
+    pozostale = para(
+        "Pozostałe przypadki",
+        size=14,
+        bold=True,
+        color=NAVY,
+        before=0,
+        after=10,
+        keep_next=True,
+        keep_lines=True,
+        page_break=True,
+        space=1.05,
+    )
+    _p_border_bottom(pozostale, "D5DDE3", "12", "8")
+    for other in CASES[1:]:
+        other_risk = DANGER if "BARDZO" in other["risk"] else WARNING
+        band(
+            "F7F9FC",
+            "08181F",
+            [
+                (other["no"] + "     " + other["title"], 11, True, False, NAVY, "pl-PL"),
+                ("Ryzyko: " + other["risk"].lower() + ".", 10, True, False, other_risk, "pl-PL"),
+            ],
+            gap_after=8,
+        )
     band(
-        "E8F0FA",
+        "F4F7FB",
         "3A61B3",
         [
+            ("Reszta po zakupie pełnej wersji.", 11, True, False, NAVY, "pl-PL"),
             (
-                "W dniu 30 października 2026 r. angielska witryna LIBRA PARTNERS nie powinna zostać w obecnej formie. "
-                "Art. 16 ustawy o zwalczaniu nieuczciwej konkurencji obejmuje kalkulator emisji zapisany jako „TONS”, obietnicę zgodności z polityką ESG, "
-                "zdania o braku odpadów i o zgodności z Agendą 2030 oraz rozszerzenie wyniku dwóch szczepów na cały cykl życia palety.",
-                10.5,
-                False,
-                False,
-                DARK,
-                "pl-PL",
-            ),
-            (
-                "Od 27 września 2027 r. dojdzie do tego standard pkt 2a, 4a i 4b ustawy z 4 września 2026 r. "
-                "Do tej daty nie jest to naruszenie polskiej czarnej listy. Pkt 4c tego przekazu nie dotyczy.",
+                "Pełna analiza wszystkich przypadków naruszeń wraz z rekomendacjami naprawczymi dostępna w pełnym raporcie.",
                 10.5,
                 False,
                 False,
@@ -1004,6 +1005,7 @@ def build(path: Path, specimen: bool):
                 "pl-PL",
             ),
         ],
+        gap_after=0,
     )
 
     path.parent.mkdir(parents=True, exist_ok=True)
