@@ -1,0 +1,16 @@
+---
+description: Forma wrażenia czytelnika w ocenie prawnej raportów audytu greenwashingu
+alwaysApply: true
+---
+
+# Wrażenie czytelnika
+
+W ocenie prawnej raportu audytu otwieraj skutek komunikatu zdaniem: „czytelnik odnosi wrażenie, że”.
+
+Nie pisz „czytelnik wynosi, że”, „czytelnik dowiaduje się, że” ani „czytelnik wyciąga, że”.
+
+„Wynosi” zostaw tylko przy liczbie, na przykład „udział wynosi 90,5%”.
+
+Ta forma obowiązuje w każdym raporcie, także gdy kanałem jest raport, polityka albo grafika. Szczegóły: `INSTRUKCJA_GENEROWANIA_RAPORTOW.md`, rozdział „Ocena prawna”.
+
+W nagłówkach rekomendacji naprawczych nie wpisuj daty kalendarzowej. Kategorie, w tej kolejności: „natychmiast”, „W ciągu 7 dni od audytu”, „W ciągu 30 dni od audytu”, „po zamknięciu etapu 3”.
