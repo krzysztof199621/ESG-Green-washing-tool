@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kalkulator wyceny audytu greenwashingu — ESG Institute</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="topbar"></div>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand-block">
+        <div class="brand-logo" aria-label="ESG Institute">
+          <svg width="42" height="38" viewBox="0 0 64 58" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <polygon points="14,4 50,4 61,19 32,54 3,19" fill="#E6F2FA" stroke="#1E6B9E" stroke-width="2.5" stroke-linejoin="round"/>
+            <polygon points="14,4 32,4 22,19 3,19" fill="#9BC8E4"/>
+            <polygon points="32,4 50,4 61,19 42,19" fill="#4B97C7"/>
+            <polygon points="22,19 42,19 32,4" fill="#6FB1DA"/>
+            <polygon points="3,19 22,19 32,54" fill="#2A79AD"/>
+            <polygon points="22,19 42,19 32,54" fill="#1E6B9E"/>
+            <polygon points="42,19 61,19 32,54" fill="#12395B"/>
+          </svg>
+          <div class="brand-wordmark">
+            <strong>ESG</strong>
+            <span>INSTITUTE</span>
+          </div>
+        </div>
+        <div class="header-title">
+          <h1>Kalkulator wyceny audytu greenwashingu</h1>
+          <p>Narzędzie do wyceny raportów i obsługi komunikacji na podstawie oferty handlowej ESG Institute</p>
+        </div>
+      </div>
+
+      <div class="offer-meta-badges">
+        <span class="badge">Oferta z 16.11.2026 r.</span>
+        <span class="badge highlight">Ważna do 15.01.2027 r.</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Client metadata bar -->
+    <section class="client-bar no-print" aria-label="Dane wyceny i stawka VAT">
+      <div class="client-bar-grid">
+        <div class="field">
+          <label for="clientName">Klient / Firma (opcjonalnie)</label>
+          <input id="clientName" type="text" placeholder="np. Zielona Energia S.A." />
+        </div>
+        <div class="field">
+          <label for="projectName">Zakres / Nazwa projektu</label>
+          <input id="projectName" type="text" placeholder="np. Kampania Eko-2026 / strona www" />
+        </div>
+        <div class="field">
+          <label for="contactPerson">Osoba kontaktowa po stronie klienta</label>
+          <input id="contactPerson" type="text" placeholder="np. Anna Kowalska" />
+        </div>
+        <div class="field">
+          <label for="vatRateSelect">Stawka VAT</label>
+          <select id="vatRateSelect">
+            <option value="0.23" selected>23% VAT (PL)</option>
+            <option value="0">0% / NP (eksport usług)</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <!-- Navigation tabs -->
+    <nav class="tabs-nav no-print" role="tablist" aria-label="Tryb wyceny">
+      <button type="button" class="tab-btn active" role="tab" aria-selected="true" data-tab="one-off">
+        Audyt jednorazowy
+      </button>
+      <button type="button" class="tab-btn" role="tab" aria-selected="false" data-tab="subscription">
+        Abonament i kalkulator jednostek
+      </button>
+      <button type="button" class="tab-btn" role="tab" aria-selected="false" data-tab="reference">
+        Cennik i zasady z oferty
+      </button>
+    </nav>
+
+    <div id="workspaceLayout" class="workspace">
+      <!-- Left Column: Inputs -->
+      <div class="inputs-col no-print">
+
+        <!-- TAB 1: ONE-OFF AUDIT -->
+        <section id="tab-one-off" class="tab-panel active">
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>Szybkie scenariusze wyceny</h2>
+                <p class="card-subtitle">Wczytaj przykładowy zakres, aby od razu zobaczyć kalkulację</p>
+              </div>
+            </div>
+            <div class="presets-row">
+              <button type="button" class="preset-btn" data-preset="single-material">1 opakowanie / do 6 haseł</button>
+              <button type="button" class="preset-btn" data-preset="campaign-en">Kampania (15 kreacji) + EN</button>
+              <button type="button" class="preset-btn" data-preset="web-standard-dict">Strona www Standard + Słownik</button>
+              <button type="button" class="preset-btn" data-preset="web-enterprise-express">Enterprise (2 serwisy) Ekspres</button>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>1. Zakres audytu jednorazowego</h2>
+                <p class="card-subtitle">Dobierz najtańszy pakiet automatycznie na podstawie zakresu lub wskaż go ręcznie</p>
+              </div>
+              <div class="segmented" role="group" aria-label="Sposób doboru pakietu">
+                <button type="button" id="modeScopeBtn" class="active">Dobierz z zakresu</button>
+                <button type="button" id="modeManualBtn">Wybierz pakiet ręcznie</button>
+              </div>
+            </div>
+
+            <!-- Automatic scope mode -->
+            <div id="scopeModeSection">
+              <div style="margin-bottom: 14px;">
+                <div class="segmented" role="group" aria-label="Typ materiału">
+                  <button type="button" id="scopeMaterialBtn" class="active">Materiały / kampania / opakowania</button>
+                  <button type="button" id="scopeWebsiteBtn">Strona internetowa (WWW)</button>
+                </div>
+              </div>
+
+              <div id="scopeMaterialInputs">
+                <label class="check-item" style="margin-bottom: 12px;">
+                  <input type="checkbox" id="hasCampaignPage" />
+                  <div class="check-body">
+                    <div class="check-title">
+                      <span>Strona kampanii (landing page kampanii)</span>
+                    </div>
+                    <div class="check-desc">W pakiecie Przegląd obejmuje 1 materiał; w pakiecie Kampania zawiera stronę kampanii + do 5 kreacji.</div>
+                  </div>
+                </label>
+
+                <div class="inputs-grid">
+                  <div class="stepper-field">
+                    <span class="stepper-label">Liczba haseł lub kreacji</span>
+                    <span class="stepper-hint">Przegląd: do 6 | Kampania: do 15 (lub 5 ze stroną)</span>
+                    <div class="stepper-control">
+                      <button type="button" class="stepper-btn" data-target="creativesCount" data-delta="-1">−</button>
+                      <input type="number" id="creativesCount" min="0" step="1" value="6" />
+                      <button type="button" class="stepper-btn" data-target="creativesCount" data-delta="1">+</button>
+                    </div>
+                  </div>
+
+                  <div class="stepper-field">
+                    <span class="stepper-label">Liczba opakowań / etykiet</span>
+                    <span class="stepper-hint">Przegląd: 1 | Kampania: do 4 | dopłata 2 400 zł/szt.</span>
+                    <div class="stepper-control">
+                      <button type="button" class="stepper-btn" data-target="packagingsCount" data-delta="-1">−</button>
+                      <input type="number" id="packagingsCount" min="0" step="1" value="0" />
+                      <button type="button" class="stepper-btn" data-target="packagingsCount" data-delta="1">+</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div id="scopeWebsiteInputs" class="hidden">
+                <div class="inputs-grid">
+                  <div class="stepper-field">
+                    <span class="stepper-label">Liczba serwisów WWW</span>
+                    <span class="stepper-hint">Compact/Standard: 1 serwis | Enterprise: do 2 serwisów</span>
+                    <div class="stepper-control">
+                      <button type="button" class="stepper-btn" data-target="sitesCount" data-delta="-1">−</button>
+                      <input type="number" id="sitesCount" min="1" step="1" value="1" />
+                      <button type="button" class="stepper-btn" data-target="sitesCount" data-delta="1">+</button>
+                    </div>
+                  </div>
+
+                  <div class="stepper-field">
+                    <span class="stepper-label">Liczba podstron do audytu</span>
+                    <span class="stepper-hint">Compact: do 8 | Standard: do 15 | Enterprise: do 30</span>
+                    <div class="stepper-control">
+                      <button type="button" class="stepper-btn" data-target="subpagesCount" data-delta="-1">−</button>
+                      <input type="number" id="subpagesCount" min="1" step="1" value="8" />
+                      <button type="button" class="stepper-btn" data-target="subpagesCount" data-delta="1">+</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Manual package mode -->
+            <div id="manualModeSection" class="hidden">
+              <div class="field" style="margin-bottom: 12px;">
+                <label for="manualPackageSelect">Wybierz pakiet z oferty</label>
+                <select id="manualPackageSelect">
+                  <option value="przeglad">Audyt materiału przed publikacją — 6 900 zł netto (5 dni rob.)</option>
+                  <option value="kampania">Audyt kampanii lub opakowania — 12 500 zł netto (7 dni rob.)</option>
+                  <option value="compact">Audyt strony www Compact — 16 500 zł netto (do 8 podstron, 7 dni rob.)</option>
+                  <option value="standard">Audyt strony www Standard — 23 000 zł netto (do 15 podstron, 10 dni rob.)</option>
+                  <option value="enterprise">Audyt strony www Enterprise — 39 000 zł netto (do 2 serwisów / 30 podstron, 15 dni rob.)</option>
+                </select>
+              </div>
+
+              <div class="inputs-grid">
+                <div class="stepper-field">
+                  <span class="stepper-label">Dodatkowe kreacje (+700 zł)</span>
+                  <span class="stepper-hint">Ponad limit wybranego pakietu</span>
+                  <div class="stepper-control">
+                    <button type="button" class="stepper-btn" data-target="manualExtraCreatives" data-delta="-1">−</button>
+                    <input type="number" id="manualExtraCreatives" min="0" step="1" value="0" />
+                    <button type="button" class="stepper-btn" data-target="manualExtraCreatives" data-delta="1">+</button>
+                  </div>
+                </div>
+
+                <div class="stepper-field">
+                  <span class="stepper-label">Dodatkowe opakowania (+2 400 zł)</span>
+                  <span class="stepper-hint">Kolejne opakowanie ponad pakiet</span>
+                  <div class="stepper-control">
+                    <button type="button" class="stepper-btn" data-target="manualExtraPackagings" data-delta="-1">−</button>
+                    <input type="number" id="manualExtraPackagings" min="0" step="1" value="0" />
+                    <button type="button" class="stepper-btn" data-target="manualExtraPackagings" data-delta="1">+</button>
+                  </div>
+                </div>
+
+                <div class="stepper-field">
+                  <span class="stepper-label">Dodatkowe serwisy (+14 000 zł)</span>
+                  <span class="stepper-hint">Kolejny serwis WWW ponad pakiet</span>
+                  <div class="stepper-control">
+                    <button type="button" class="stepper-btn" data-target="manualExtraSites" data-delta="-1">−</button>
+                    <input type="number" id="manualExtraSites" min="0" step="1" value="0" />
+                    <button type="button" class="stepper-btn" data-target="manualExtraSites" data-delta="1">+</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>2. Dokumentacja dowodowa i weryfikacja</h2>
+                <p class="card-subtitle">Certyfikaty, badania, fragmenty raportu ESG wskazane przez Zamawiającego</p>
+              </div>
+            </div>
+
+            <div class="stepper-field">
+              <span class="stepper-label">Szacowana liczba stron dokumentacji dowodowej</span>
+              <span class="stepper-hint">Limit bazowy: 40 stron (Przegląd/Kampania) lub 80 stron (Audyt strony WWW)</span>
+              <div class="stepper-control">
+                <button type="button" class="stepper-btn" data-target="evidencePages" data-delta="-5">−</button>
+                <input type="number" id="evidencePages" min="0" step="1" value="25" />
+                <button type="button" class="stepper-btn" data-target="evidencePages" data-delta="5">+</button>
+              </div>
+              <div class="meter-wrap">
+                <div class="meter-label">
+                  <span id="evidenceMeterLabel">25 stron</span>
+                  <span id="evidenceLimitLabel">Limit pakietu: 40 stron</span>
+                </div>
+                <div class="meter-bar">
+                  <div id="evidenceMeterFill" class="meter-fill ok" style="width: 62%;"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>3. Dopłaty, tryb realizacji i opcje dodatkowe</h2>
+                <p class="card-subtitle">Dopłaty procentowe (+25% / +40%) naliczane są od wartości zakresu audytu</p>
+              </div>
+            </div>
+
+            <div class="check-list" style="margin-bottom: 14px;">
+              <label class="check-item">
+                <input type="checkbox" id="optEnglish" />
+                <div class="check-body">
+                  <div class="check-title">
+                    <span>Werdykt i propozycje zdań po angielsku</span>
+                    <span class="check-price">+25%</span>
+                  </div>
+                  <div class="check-desc">Przygotowanie ocen oraz bezpiecznych sformułowań zastępczych w języku angielskim.</div>
+                </div>
+              </label>
+
+              <label class="check-item">
+                <input type="checkbox" id="optExpress" />
+                <div class="check-body">
+                  <div class="check-title">
+                    <span>Tryb Ekspres — połowa czasu realizacji z oferty</span>
+                    <span class="check-price">+40%</span>
+                  </div>
+                  <div class="check-desc">Realizacja w połowie standardowych dni roboczych, po potwierdzeniu terminu.</div>
+                </div>
+              </label>
+
+              <label class="check-item">
+                <input type="checkbox" id="optDictionary" />
+                <div class="check-body">
+                  <div class="check-title">
+                    <span>Słownik dozwolonych twierdzeń komunikacyjnych (do 40 haseł)</span>
+                    <span class="check-price">+8 000 zł</span>
+                  </div>
+                  <div class="check-desc">Budowany z dowodów zebranych w audycie po pakiecie Compact lub Standard.</div>
+                </div>
+              </label>
+            </div>
+
+            <div class="inputs-grid">
+              <div class="stepper-field">
+                <span class="stepper-label">Dodatkowe godziny warsztatu</span>
+                <span class="stepper-hint">600 zł netto / godz. ponad limit pakietu</span>
+                <div class="stepper-control">
+                  <button type="button" class="stepper-btn" data-target="extraWorkshopHours" data-delta="-1">−</button>
+                  <input type="number" id="extraWorkshopHours" min="0" step="0.5" value="0" />
+                  <button type="button" class="stepper-btn" data-target="extraWorkshopHours" data-delta="1">+</button>
+                </div>
+              </div>
+
+              <div class="stepper-field">
+                <span class="stepper-label">Dodatkowe konsultacje / poprawki</span>
+                <span class="stepper-hint">500 zł netto / godz. (1 runda uwag w 5 dni rob. w cenie)</span>
+                <div class="stepper-control">
+                  <button type="button" class="stepper-btn" data-target="extraRevisionHours" data-delta="-1">−</button>
+                  <input type="number" id="extraRevisionHours" min="0" step="0.5" value="0" />
+                  <button type="button" class="stepper-btn" data-target="extraRevisionHours" data-delta="1">+</button>
+                </div>
+              </div>
+
+              <div class="field">
+                <label for="subDiscountSelect">Rabat z tytułu abonamentu (tylko audyt WWW)</label>
+                <select id="subDiscountSelect">
+                  <option value="0" selected>Brak rabatu (klient jednorazowy)</option>
+                  <option value="0.30">Plan Starter — umowa roczna (-30%)</option>
+                  <option value="0.40">Plan Pro — umowa roczna (-40%)</option>
+                  <option value="0.25">Plan Agency — audyt strony klienta (-25%)</option>
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <div id="oneOffAlternativesCard" class="card">
+            <div class="card-header">
+              <div>
+                <h2>Porównanie kwalifikujących się pakietów</h2>
+                <p class="card-subtitle">Kliknij wariant, jeśli chcesz przełączyć się na ręczny wybór danego pakietu</p>
+              </div>
+            </div>
+            <div id="oneOffAlternativesGrid" class="alt-grid"></div>
+          </div>
+        </section>
+
+        <!-- TAB 2: SUBSCRIPTION -->
+        <section id="tab-subscription" class="tab-panel">
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>1. Wariant umowy i plan abonamentowy</h2>
+                <p class="card-subtitle">Stała obsługa bieżącej komunikacji przed publikacją dla firm i agencji</p>
+              </div>
+            </div>
+
+            <div style="margin-bottom: 14px;">
+              <label style="display:block; font-size:12px; font-weight:600; color:var(--muted); margin-bottom:6px;">Wariant rozliczenia i okres umowy</label>
+              <div id="contractTypeGroup" class="segmented" role="group" aria-label="Wariant umowy">
+                <button type="button" class="active" data-contract="annual_monthly">Roczna (miesięcznie)</button>
+                <button type="button" data-contract="annual_upfront">Roczna z góry (-8%)</button>
+                <button type="button" data-contract="pilot_3m">Pilotaż 3 mies. (+20%)</button>
+              </div>
+            </div>
+
+            <div class="inputs-grid" style="margin-bottom: 14px;">
+              <div class="field">
+                <label for="subPlanSelect">Wybór planu</label>
+                <select id="subPlanSelect">
+                  <option value="auto" selected>Auto-dobór najkorzystniejszego planu</option>
+                  <option value="starter">Starter — 4 900 zł/mies. (8 jedn., 1 marka)</option>
+                  <option value="pro">Pro — 11 900 zł/mies. (20 jedn., do 2–3 marek)</option>
+                  <option value="agency">Agency — 17 900 zł/mies. (40 jedn., do 8 marek)</option>
+                </select>
+              </div>
+
+              <div class="stepper-field">
+                <span class="stepper-label">Liczba obsługiwanych marek / spółek</span>
+                <span class="stepper-hint">Starter: 1 | Pro: 2 (3. marka +3 000 zł) | Agency: do 8</span>
+                <div class="stepper-control">
+                  <button type="button" class="stepper-btn" data-target="brandsCount" data-delta="-1">−</button>
+                  <input type="number" id="brandsCount" min="1" step="1" value="1" />
+                  <button type="button" class="stepper-btn" data-target="brandsCount" data-delta="1">+</button>
+                </div>
+              </div>
+            </div>
+
+            <div id="urgent6hWrap">
+              <label class="check-item">
+                <input type="checkbox" id="optUrgent6h" />
+                <div class="check-body">
+                  <div class="check-title">
+                    <span>Tryb pilny 6 godzin (tylko plan Agency)</span>
+                    <span class="check-price">+6 000 zł / mies.</span>
+                  </div>
+                  <div class="check-desc">Priorytetowa weryfikacja w ciągu 6 godzin, do 6 materiałów miesięcznie.</div>
+                </div>
+              </label>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>2. Kalkulator jednostek miesięcznych</h2>
+                <p class="card-subtitle">Przelicz miesięczny wolumen materiałów na jednostki abonamentowe (niewykorzystane do 30% przechodzą na kolejny miesiąc)</p>
+              </div>
+            </div>
+
+            <div class="unit-row">
+              <div>
+                <strong>Post, baner, newsletter lub hasła</strong>
+                <div class="check-desc">Post, baner, newsletter do 2 000 znaków albo do dwóch haseł</div>
+              </div>
+              <span class="unit-weight-pill">1 jedn. / szt.</span>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <div class="stepper-control">
+                  <button type="button" class="stepper-btn" data-target="unitPostBanner" data-delta="-1">−</button>
+                  <input type="number" id="unitPostBanner" min="0" step="1" value="4" />
+                  <button type="button" class="stepper-btn" data-target="unitPostBanner" data-delta="1">+</button>
+                </div>
+                <span id="subTotalPostBanner" class="unit-subtotal">4 jedn.</span>
+              </div>
+            </div>
+
+            <div class="unit-row">
+              <div>
+                <strong>Kolejny wymiar tej samej kreacji</strong>
+                <div class="check-desc">Bez zmiany tekstu (np. kolejne formaty display / social)</div>
+              </div>
+              <span class="unit-weight-pill">0,25 jedn. / szt.</span>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <div class="stepper-control">
+                  <button type="button" class="stepper-btn" data-target="unitResizeVariant" data-delta="-1">−</button>
+                  <input type="number" id="unitResizeVariant" min="0" step="1" value="4" />
+                  <button type="button" class="stepper-btn" data-target="unitResizeVariant" data-delta="1">+</button>
+                </div>
+                <span id="subTotalResizeVariant" class="unit-subtotal">1 jedn.</span>
+              </div>
+            </div>
+
+            <div class="unit-row">
+              <div>
+                <strong>Etykieta, opakowanie, ulotka, artykuł, wideo</strong>
+                <div class="check-desc">Etykieta/opakowanie produktu, ulotka, artykuł do 6 000 znaków, scenariusz do 60 s</div>
+              </div>
+              <span class="unit-weight-pill">3 jedn. / szt.</span>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <div class="stepper-control">
+                  <button type="button" class="stepper-btn" data-target="unitPackagingArticle" data-delta="-1">−</button>
+                  <input type="number" id="unitPackagingArticle" min="0" step="1" value="1" />
+                  <button type="button" class="stepper-btn" data-target="unitPackagingArticle" data-delta="1">+</button>
+                </div>
+                <span id="subTotalPackagingArticle" class="unit-subtotal">3 jedn.</span>
+              </div>
+            </div>
+
+            <div class="unit-row">
+              <div>
+                <strong>Strona kampanii, spot, prezentacja / broszura</strong>
+                <div class="check-desc">Strona kampanii z podlinkowanymi certyfikatami, scenariusz spotu, prezentacja/broszura do 10 str.</div>
+              </div>
+              <span class="unit-weight-pill">6 jedn. / szt.</span>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <div class="stepper-control">
+                  <button type="button" class="stepper-btn" data-target="unitCampaignPresentation" data-delta="-1">−</button>
+                  <input type="number" id="unitCampaignPresentation" min="0" step="1" value="0" />
+                  <button type="button" class="stepper-btn" data-target="unitCampaignPresentation" data-delta="1">+</button>
+                </div>
+                <span id="subTotalCampaignPresentation" class="unit-subtotal">0 jedn.</span>
+              </div>
+            </div>
+
+            <div class="meter-wrap" style="margin-top: 14px;">
+              <div class="meter-label">
+                <strong id="unitsPoolSummary">Zapotrzebowanie: 8 jedn. / pula planu: 8 jedn.</strong>
+                <span id="unitsPoolHint">Przeniesienie do 30% niewykorzystanych</span>
+              </div>
+              <div class="meter-bar">
+                <div id="unitsMeterFill" class="meter-fill ok" style="width: 100%;"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>3. Audyt strony WWW i publikacje poza pulą</h2>
+                <p class="card-subtitle">Sekcje > 3 podstron, katalogi, ebooki i raporty > 10 stron wyceniane są odrębnie</p>
+              </div>
+            </div>
+
+            <div class="inputs-grid">
+              <div class="field">
+                <label for="subWebsitePackage">Audyt strony WWW (z rabatem planu)</label>
+                <select id="subWebsitePackage">
+                  <option value="" selected>Brak audytu strony WWW</option>
+                  <option value="compact">Audyt strony www Compact (16 500 zł bazowo)</option>
+                  <option value="standard">Audyt strony www Standard (23 000 zł bazowo)</option>
+                  <option value="enterprise">Audyt strony www Enterprise (39 000 zł bazowo)</option>
+                </select>
+              </div>
+
+              <div id="subDiffScansWrap" class="stepper-field">
+                <span class="stepper-label">Dodatkowe skany różnicowe (Pro)</span>
+                <span class="stepper-hint">2 w roku w cenie po audycie WWW; kolejny: 5 500 zł</span>
+                <div class="stepper-control">
+                  <button type="button" class="stepper-btn" data-target="subExtraDiffScans" data-delta="-1">−</button>
+                  <input type="number" id="subExtraDiffScans" min="0" step="1" value="0" />
+                  <button type="button" class="stepper-btn" data-target="subExtraDiffScans" data-delta="1">+</button>
+                </div>
+              </div>
+
+              <div class="stepper-field">
+                <span class="stepper-label">Poza pulą — poziom Compact (16 500 zł)</span>
+                <span class="stepper-hint">Sekcja >3 podstron, katalog, ebook / raport >10 str.</span>
+                <div class="stepper-control">
+                  <button type="button" class="stepper-btn" data-target="outOfPoolCompact" data-delta="-1">−</button>
+                  <input type="number" id="outOfPoolCompact" min="0" step="1" value="0" />
+                  <button type="button" class="stepper-btn" data-target="outOfPoolCompact" data-delta="1">+</button>
+                </div>
+              </div>
+
+              <div class="stepper-field">
+                <span class="stepper-label">Poza pulą — poziom Standard (23 000 zł)</span>
+                <span class="stepper-hint">Rozbudowany katalog, ebook lub raport >10 stron</span>
+                <div class="stepper-control">
+                  <button type="button" class="stepper-btn" data-target="outOfPoolStandard" data-delta="-1">−</button>
+                  <input type="number" id="outOfPoolStandard" min="0" step="1" value="0" />
+                  <button type="button" class="stepper-btn" data-target="outOfPoolStandard" data-delta="1">+</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>Porównanie planów dla Twojego wolumenu</h2>
+                <p class="card-subtitle">Zestawienie miesięcznego kosztu bazowego, szacowanej nadwyżki i rabatu na WWW</p>
+              </div>
+            </div>
+            <div style="overflow-x:auto;">
+              <table class="ref-table">
+                <thead>
+                  <tr>
+                    <th>Plan</th>
+                    <th class="num">Pula</th>
+                    <th class="num">Nadwyżka</th>
+                    <th class="num">Abonament</th>
+                    <th class="num">Szac. mies.</th>
+                    <th>Czas reakcji / Status</th>
+                  </tr>
+                </thead>
+                <tbody id="subComparisonBody"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <!-- TAB 3: REFERENCE -->
+        <section id="tab-reference" class="tab-panel">
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>Audyty jednorazowe i dopłaty (ceny netto)</h2>
+                <p class="card-subtitle">Rozliczenie 50% zaliczki przed startem i 50% po dostarczeniu raportu</p>
+              </div>
+            </div>
+            <div style="overflow-x:auto; margin-bottom:16px;">
+              <table class="ref-table">
+                <thead>
+                  <tr>
+                    <th>Pakiet</th>
+                    <th>Co jest w cenie</th>
+                    <th class="num">Limit dowodów</th>
+                    <th class="num">Termin</th>
+                    <th class="num">Netto</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><strong>Audyt materiału przed publikacją</strong></td>
+                    <td>Jeden materiał: strona kampanii, do 6 haseł lub kreacji, albo jedno opakowanie. Lista ryzyk i zdanie zastępcze. 1 runda uwag.</td>
+                    <td class="num">40 stron</td>
+                    <td class="num">5 dni rob.</td>
+                    <td class="num"><strong>6 900 zł</strong></td>
+                  </tr>
+                  <tr>
+                    <td><strong>Audyt kampanii lub opakowania</strong></td>
+                    <td>Do 15 kreacji albo do 4 opakowań, albo strona kampanii i 5 kreacji.</td>
+                    <td class="num">40 stron</td>
+                    <td class="num">7 dni rob.</td>
+                    <td class="num"><strong>12 500 zł</strong></td>
+                  </tr>
+                  <tr>
+                    <td><strong>Audyt strony www Compact</strong></td>
+                    <td>Do 8 podstron. Warsztat z ekspertem 60 minut.</td>
+                    <td class="num">80 stron</td>
+                    <td class="num">7 dni rob.</td>
+                    <td class="num"><strong>16 500 zł</strong></td>
+                  </tr>
+                  <tr>
+                    <td><strong>Audyt strony www Standard</strong></td>
+                    <td>Do 15 podstron. Warsztat z ekspertem 90 minut.</td>
+                    <td class="num">80 stron</td>
+                    <td class="num">10 dni rob.</td>
+                    <td class="num"><strong>23 000 zł</strong></td>
+                  </tr>
+                  <tr>
+                    <td><strong>Audyt strony www Enterprise</strong></td>
+                    <td>Do 2 serwisów albo 30 podstron. Warsztat z ekspertem 3 godziny.</td>
+                    <td class="num">80 stron</td>
+                    <td class="num">15 dni rob.</td>
+                    <td class="num"><strong>39 000 zł</strong></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div style="overflow-x:auto;">
+              <table class="ref-table">
+                <thead>
+                  <tr>
+                    <th>Pozycja dopłaty do audytu jednorazowego</th>
+                    <th class="num">Stawka netto</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Kolejna kreacja ponad limit pakietu</td><td class="num"><strong>700 zł</strong></td></tr>
+                  <tr><td>Kolejne opakowanie</td><td class="num"><strong>2 400 zł</strong></td></tr>
+                  <tr><td>Kolejny serwis</td><td class="num"><strong>14 000 zł</strong></td></tr>
+                  <tr><td>Słownik dozwolonych twierdzeń komunikacyjnych po Compact lub Standard, do 40 haseł</td><td class="num"><strong>8 000 zł</strong></td></tr>
+                  <tr><td>Werdykt i propozycje zdań po angielsku</td><td class="num"><strong>+25%</strong></td></tr>
+                  <tr><td>Ekspres: połowa czasu z oferty, po potwierdzeniu terminu</td><td class="num"><strong>+40%</strong></td></tr>
+                  <tr><td>Dodatkowa godzina warsztatu</td><td class="num"><strong>600 zł</strong></td></tr>
+                  <tr><td>Dodatkowa runda konsultacji lub poprawek (poza 1 rundą uwag w ciągu 5 dni rob.)</td><td class="num"><strong>500 zł / godz.</strong></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>Pakiety abonamentowe i tabela jednostek</h2>
+                <p class="card-subtitle">Umowa 12 mies. (płatność z góry -8%) lub pilotaż 3 mies. (+20% z zaliczeniem nadpłaty)</p>
+              </div>
+            </div>
+            <div style="overflow-x:auto; margin-bottom:16px;">
+              <table class="ref-table">
+                <thead>
+                  <tr>
+                    <th>Parametr</th>
+                    <th>Starter</th>
+                    <th>Pro</th>
+                    <th>Agency</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td><strong>Abonament netto / mies.</strong></td><td><strong>4 900 zł</strong></td><td><strong>11 900 zł</strong></td><td><strong>17 900 zł</strong></td></tr>
+                  <tr><td>Dla kogo</td><td>1 marka albo 1 spółka</td><td>Do 2 marek (3. marka: +3 000 zł/mies.)</td><td>Agencja reklamowa/PR (do 8 marek/mies.)</td></tr>
+                  <tr><td>Pula jednostek</td><td>8 jednostek</td><td>20 jednostek</td><td>40 jednostek</td></tr>
+                  <tr><td>Przeniesienie niewykorzystanych</td><td>Do 30% (2,4 jedn.)</td><td>Do 30% (6 jedn.)</td><td>Do 30% (12 jedn.)</td></tr>
+                  <tr><td>Nadwyżka prac</td><td>480 zł / jednostka</td><td>450 zł / jednostka</td><td>400 zł / jednostka</td></tr>
+                  <tr><td>Czas reakcji</td><td>3 dni robocze</td><td>2 dni robocze</td><td>1 dzień rob. (pilny 6h: +6 000 zł/mies., do 6 mat.)</td></tr>
+                  <tr><td>Strona WWW</td><td>Rabat 30% przy umowie rocznej</td><td>Rabat 40% + 2 skany różnicowe/rok (kolejny 5 500 zł)</td><td>Audyty stron klientów z rabatem 25%</td></tr>
+                  <tr><td>Dodatkowe korzyści</td><td>—</td><td>—</td><td>Raport z logo agencji, szkolenie zespołu (pół dnia)</td></tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div style="overflow-x:auto;">
+              <table class="ref-table">
+                <thead>
+                  <tr>
+                    <th class="num">Jednostki</th>
+                    <th>Rodzaj materiału komunikacyjnego</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td class="num"><strong>1</strong></td><td>Post, baner, newsletter do 2 000 znaków albo do dwóch haseł.</td></tr>
+                  <tr><td class="num"><strong>0,25</strong></td><td>Kolejny wymiar tej samej kreacji, bez zmiany tekstu.</td></tr>
+                  <tr><td class="num"><strong>3</strong></td><td>Etykieta lub opakowanie jednego produktu, ulotka, artykuł do 6 000 znaków, scenariusz nagrania do 60 sekund.</td></tr>
+                  <tr><td class="num"><strong>6</strong></td><td>Strona kampanii razem z podlinkowanymi certyfikatami, scenariusz spotu, prezentacja lub broszura do 10 stron.</td></tr>
+                  <tr><td class="num"><strong>Poza pulą</strong></td><td>Sekcja serwisu powyżej 3 podstron, katalog, ebook albo raport ponad 10 stron. Cena jak Compact albo Standard.</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header">
+              <div>
+                <h2>Metodyka raportu i wyłączenia odpowiedzialności</h2>
+                <p class="card-subtitle">Statusy ryzyk w raporcie oraz zakres wyłączony z usługi</p>
+              </div>
+            </div>
+            <table class="ref-table" style="margin-bottom: 14px;">
+              <thead>
+                <tr>
+                  <th>Status</th>
+                  <th>Znaczenie</th>
+                  <th>Kiedy i co robimy</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><span class="status-pill red">Czerwony</span></td>
+                  <td>Do usunięcia / zastąpienia</td>
+                  <td>Twierdzenie wprowadza w błąd (UPNPR / UoZNK; od 27.09.2027 r. także EmpCo UE 2024/825). Zdjąć materiał; zdanie zastępcze tylko gdy jest dowód.</td>
+                </tr>
+                <tr>
+                  <td><span class="status-pill amber">Pomarańczowy</span></td>
+                  <td>Do zawężenia</td>
+                  <td>Twierdzenie ma oparcie w dokumentach, ale jest szersze niż dowód. Wstawić zdanie ograniczone do właściwego podmiotu, zakresu i okresu.</td>
+                </tr>
+              </tbody>
+            </table>
+            <strong style="display:block; font-size:13px; color:var(--brand-navy); margin-bottom:6px;">Czego audyt nie obejmuje:</strong>
+            <ul class="exclusions-list">
+              <li>Atestacji raportów ESG oraz badania sprawozdań finansowych.</li>
+              <li>Odtwarzania analizy cyklu życia (LCA) ani obliczania śladu węglowego.</li>
+              <li>Przygotowywania pism do UOKiK oraz opinii na potrzeby postępowań spornych.</li>
+              <li>Gwarancji braku zakwestionowania komunikacji przez organy regulacyjne.</li>
+            </ul>
+          </div>
+        </section>
+      </div>
+
+      <!-- Right Column: Sticky Summary -->
+      <aside id="summaryAside" class="summary-panel" aria-live="polite">
+        <div class="summary-hero">
+          <div id="summaryKicker" class="summary-kicker">Audyt jednorazowy — wycena netto</div>
+          <div id="summaryPackageName" class="summary-package-name">Audyt materiału przed publikacją</div>
+          <div class="price-hero-grid">
+            <div class="price-main">
+              <span id="summaryMainPrice">6 900 zł</span> <small id="summaryMainUnit">netto</small>
+            </div>
+            <div id="summaryBruttoPrice" class="price-brutto">8 487 zł brutto (VAT 23%)</div>
+          </div>
+          <div id="summarySubNote" style="font-size:12px; opacity:0.86; margin-top:6px;"></div>
+        </div>
+
+        <div class="summary-body">
+          <!-- Print-only client summary -->
+          <div id="printClientBox" class="print-only print-client-box"></div>
+
+          <div id="summaryStats" class="summary-stats"></div>
+
+          <table class="lines-table">
+            <tbody id="summaryLinesBody"></tbody>
+          </table>
+
+          <div id="summaryTotalsBox" class="totals-box"></div>
+
+          <div id="summaryScheduleBox" class="schedule-box"></div>
+
+          <div id="summaryAlerts" class="alerts-stack"></div>
+
+          <div class="summary-actions no-print">
+            <button type="button" id="copyQuoteBtn" class="btn btn-primary">Kopiuj wycenę</button>
+            <button type="button" id="printQuoteBtn" class="btn btn-secondary">Drukuj / PDF</button>
+            <button type="button" id="resetBtn" class="btn btn-ghost">Resetuj parametry</button>
+          </div>
+          <div id="copyFeedback" class="no-print" style="font-size:12px; color:var(--green); font-weight:600; margin-top:8px; min-height:16px;"></div>
+
+          <!-- Print-only exclusions & contact -->
+          <div class="print-only print-exclusions">
+            <strong>Zasady i wyłączenia oferty (z 16 listopada 2026 r., ważna do 15 stycznia 2027 r.):</strong>
+            <ul id="printExclusionsList" style="margin:6px 0 0; padding-left:18px;"></ul>
+          </div>
+          <div class="print-only print-contact">
+            <strong>Kontakt:</strong> ESG Institute sp. z o.o. · Rondo ONZ 1 p.10, 00-124 Warszawa · Agnieszka Orłowska · orlowska@esginstitute.eu · +48 722 230 101
+          </div>
+        </div>
+      </aside>
+    </div>
+
+    <footer class="footer-note no-print">
+      <div>ESG Institute sp. z o.o. · Rondo ONZ 1 p.10, 00-124 Warszawa · esginstitute.eu</div>
+      <div>Kontakt handlowy: Agnieszka Orłowska · orlowska@esginstitute.eu · +48 722 230 101</div>
+    </footer>
+  </main>
+
+  <script src="pricing.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
